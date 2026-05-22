@@ -1,0 +1,71 @@
+max_items: 10
+timezone: Asia/Shanghai
+priority_journals:
+  - Nature
+  - Science
+  - Cell
+  - Nature Medicine
+  - Nature Neuroscience
+  - Neuron
+  - Brain
+  - The Lancet Neurology
+  - JAMA Neurology
+  - Science Translational Medicine
+  - Acta Neuropathologica
+  - Journal of Neuroinflammation
+  - Journal of Nanobiotechnology
+  - Stem Cell Research & Therapy
+topics:
+  traumatic_brain_injury:
+    label_cn: 创伤性脑损伤
+    keywords:
+      - traumatic brain injury
+      - TBI
+      - brain trauma
+      - neuroinflammation
+      - blood-brain barrier
+      - glymphatic
+  hydrocephalus:
+    label_cn: 脑积水与脑脊液循环
+    keywords:
+      - hydrocephalus
+      - normal pressure hydrocephalus
+      - iNPH
+      - cerebrospinal fluid
+      - CSF
+      - meningeal lymphatic
+  stem_cell_exosome:
+    label_cn: 干细胞与外泌体
+    keywords:
+      - stem cell
+      - mesenchymal stem cell
+      - MSC
+      - exosome
+      - extracellular vesicles
+      - intranasal
+      - hADMSC
+  microglia_trem2:
+    label_cn: 小胶质细胞与 TREM2
+    keywords:
+      - microglia
+      - TREM2
+      - Cystatin C
+      - CST3
+      - phagocytosis
+      - neuroimmune
+  glioma_spinal:
+    label_cn: 胶质瘤与脊髓肿瘤
+    keywords:
+      - glioma
+      - glioblastoma
+      - spinal cord tumor
+      - astrocytoma
+      - tumor microenvironment
+  neurosurgery_general:
+    label_cn: 神经外科综合
+    keywords:
+      - neurosurgery
+      - neurosurgical
+      - brain injury
+      - spinal cord
+      - neurocritical care
