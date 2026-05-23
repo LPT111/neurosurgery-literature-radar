@@ -1,6 +1,6 @@
 # 神外文献日报 V1
 
-生成时间：2026-05-23 10:38:29
+生成时间：2026-05-24 00:08:01
 核心神外文献数量：10
 全部条目数量：36
 
@@ -41,252 +41,77 @@
 
 参考信息：Proceedings of the National Academy of Sciences of the United States of America｜IF 待核实｜待核实｜2026-05-26｜https://pubmed.ncbi.nlm.nih.gov/42166242/
 
-## 2. 论文标题：HAMA microneedles patch loaded with Three-Dimensional exosome and Mupirocin promote diabetic wound healing.
+## 2. 论文标题：hUCMSC-exosomes attenuate acute lung injury by inhibiting ferroptosis in pulmonary microvascular endothelial cells through ribosomal protein RPS11 upregulation.
 
-- 英文题目：HAMA microneedles patch loaded with Three-Dimensional exosome and Mupirocin promote diabetic wound healing.
+- 英文题目：hUCMSC-exosomes attenuate acute lung injury by inhibiting ferroptosis in pulmonary microvascular endothelial cells through ribosomal protein RPS11 upregulation.
 - 主题：干细胞与外泌体
 - 来源：PubMed
-- 期刊/平台：Stem cell research & therapy
-- 影响因子：5+
-- 分区：JCR Q1/Q2
-- 指标来源：内置示例
-- 日期：2026-05-21
-- 分数：75
-- PMID：42169069
-- DOI：10.1186/s13287-026-04992-9
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42169069/
-
-摘要：Diabetic wound healing impairment poses significant clinical challenges due to infection risks, poor angiogenesis, and chronic inflammation, often leading to amputation or death. Recently, mesenchymal stem cell-derived exosomes (Exos) exhibit potential in enhancing angiogenesis and suppressing inflammation, yet clinical application is limited by short half-life, low bioavailability, and high costs. Three-dimensional (3D) culture technology improves exosome yield and therapeutic efficacy, demonstrating superior performance in tissue regeneration. Concurrently, microneedle (MN) systems enable efficient transdermal drug delivery with minimal invasiveness. This study integrates 3d-Exo with Mupirocin into a hyaluronic acid methacrylate (HAMA)-based MN patch (3d-Exo MN) to enhance diabetic wound healing. The HAMA matrix ensures exosome stability and controlled release, while Mupirocin targets infection. In vitro and in vivo evaluations reveal that 3d-Exo MN significantly promotes cell proliferation, migration, and neovascularization, addressing key limitations of conventional therapies. By synergizing 3d-Exo advantages with MN-mediated delivery, this innovative platform offers a targeted, biocompatible strategy for diabetic wound management, bridging gaps in current treatment paradigms through enhanced drug efficacy and localized action.
-
-中文总结：这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。Diabetic wound healing impairment poses significant clinical challenges due to infection risks, poor angiogenesis, and chronic inflammation, often leading to amputation or death. Recently, mesenchymal stem cell-derived exosomes (Exos) exhibit potential in enha...
-
-临床/科研意义：对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】HAMA microneedles patch loaded with Three-Dimensional exosome and Mupirocin promote diabetic wound healing.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：Diabetic wound healing impairment poses significant clinical challenges due to infection risks, poor angiogenesis, and chronic inflammation, often leading to amputation or death. Recently, mesenchymal stem cell-derived exosomes (Exos) exhibit potential in enha...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Stem cell research & therapy｜IF 5+｜JCR Q1/Q2｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42169069/
-
-## 3. 论文标题：Chronic bisphenol A exposure activates the cGAS-STING-NLRP3 axis driving persistent hippocampal neuroinflammation and cognitive impairment.
-
-- 英文题目：Chronic bisphenol A exposure activates the cGAS-STING-NLRP3 axis driving persistent hippocampal neuroinflammation and cognitive impairment.
-- 主题：小胶质细胞与 TREM2
-- 来源：PubMed
-- 期刊/平台：Molecular and cellular biochemistry
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：2026-05-21
-- 分数：75
-- PMID：42166000
-- DOI：10.1007/s11010-026-05580-4
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42166000/
-
-摘要：Bisphenol A (BPA), a main component of polycarbonate plastics and epoxy resins, has been reported to cause chronic neuroinflammation and cognitive impairment in animal models. However, the precise molecular mechanisms of BPA-induced chronic neuroinflammation remain unknown. In this study, male C57BL/6 mice were administered BPA at different doses for one month, followed by a one-month washout period. We then conducted behavioral tests, oxidative stress assays, and immunohistochemistry to quantify neuronal density and the activation of microglia and astrocytes in the central nervous system. We also carried out RT-qPCR gene expression analysis of the hippocampus for the cGAS-STING-NLRP3 pathway, cytokine assays, and microglial markers to decipher the immune responses in the hippocampus following BPA exposure. BPA induced dose-dependent behavioral deficits, which were most pronounced at 50 mg/kg. These findings suggest that cGAS-STING signaling acts as a key upstream mediator of BPA-induced hippocampal neuroinflammation and cognitive dysfunction.
-
-中文总结：这条内容归入“小胶质细胞与 TREM2”，聚焦小胶质细胞与 TREM2。主要信息来自题名、期刊/来源和摘要。Bisphenol A (BPA), a main component of polycarbonate plastics and epoxy resins, has been reported to cause chronic neuroinflammation and cognitive impairment in animal models. However, the precise molecular mechanisms of BPA-induced chronic neuroinflammation r...
-
-临床/科研意义：对小胶质细胞与 TREM2方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】Chronic bisphenol A exposure activates the cGAS-STING-NLRP3 axis driving persistent hippocampal neuroinflammation and cognitive impairment.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：Bisphenol A (BPA), a main component of polycarbonate plastics and epoxy resins, has been reported to cause chronic neuroinflammation and cognitive impairment in animal models. However, the precise molecular mechanisms of BPA-induced chronic neuroinflammation r...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Molecular and cellular biochemistry｜IF 待核实｜待核实｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42166000/
-
-## 4. 论文标题：O-GlcNAcylation reprograms microglial inflammatory states and attenuates Alzheimer's disease pathology.
-
-- 英文题目：O-GlcNAcylation reprograms microglial inflammatory states and attenuates Alzheimer's disease pathology.
-- 主题：小胶质细胞与 TREM2
-- 来源：PubMed
-- 期刊/平台：Cell death & disease
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：2026-05-21
-- 分数：75
-- PMID：42161925
-- DOI：10.1038/s41419-026-08862-3
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42161925/
-
-摘要：Chronic neuroinflammation, primarily driven by microglia, is a hallmark and key contributor to Alzheimer's disease (AD) progression. O-GlcNAcylation, a nutrient-sensitive post-translational modification, has emerged as a key regulator of cellular stress and inflammation, yet its role in microglial activation in AD remains unclear. We observed that hippocampal tissue from AD patients exhibits a marked reduction in O-GlcNAcylation, accompanied by enhanced pro-inflammatory M1 microglial polarization, elevated NF-κB signaling, and NLRP3 inflammasome activation. In an LPS-induced neuroinflammation model exhibiting AD-relevant inflammatory and cognitive features, as well as in in vitro microglial cultures, LPS exposure led to a pronounced decrease in O-GlcNAcylation, particularly within Iba1-positive microglia. Systemic or in vitro treatment with glucosamine (GlcN) effectively restored O-GlcNAc levels, suppressed M1-associated inflammatory pathways, and promoted an anti-inflammatory M2 phenotype. Mechanistically, GlcN enhanced O-GlcNAcylation of NF-κB subunits p65 and c-Rel, limiting their nuclear translocation and downstream pro-inflammatory gene expression. Notably, GlcN treatment ameliorated LPS-induced memory deficits and neuronal loss in mice. Collectively, these findings suggest that O-GlcNAcylation acts as a modulatory regulator of microglial activation and neuroinflammation in AD, and that enhancing O-GlcNAcylation may represent a potential therapeutic strategy to preserve immune homeostasis and neuronal integrity.
-
-中文总结：这条内容归入“小胶质细胞与 TREM2”，聚焦小胶质细胞与 TREM2。主要信息来自题名、期刊/来源和摘要。Chronic neuroinflammation, primarily driven by microglia, is a hallmark and key contributor to Alzheimer's disease (AD) progression. O-GlcNAcylation, a nutrient-sensitive post-translational modification, has emerged as a key regulator of cellular stress and in...
-
-临床/科研意义：对小胶质细胞与 TREM2方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】O-GlcNAcylation reprograms microglial inflammatory states and attenuates Alzheimer's disease pathology.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：Chronic neuroinflammation, primarily driven by microglia, is a hallmark and key contributor to Alzheimer's disease (AD) progression. O-GlcNAcylation, a nutrient-sensitive post-translational modification, has emerged as a key regulator of cellular stress and in...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Cell death & disease｜IF 待核实｜待核实｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42161925/
-
-## 5. 论文标题：Inhibition of C5aR1 alleviates early brain injury after subarachnoid hemorrhage by reducing STAT3 phosphorylation and attenuating neuroinflammation.
-
-- 英文题目：Inhibition of C5aR1 alleviates early brain injury after subarachnoid hemorrhage by reducing STAT3 phosphorylation and attenuating neuroinflammation.
-- 主题：脑积水与脑脊液循环
-- 来源：PubMed
-- 期刊/平台：Brain research bulletin
+- 期刊/平台：Journal of nanobiotechnology
 - 影响因子：10+
 - 分区：JCR Q1 / CAS 1区
-- 指标来源：内置参考表
-- 日期：2026-05-20
+- 指标来源：内置示例
+- 日期：2026-05-22
 - 分数：75
-- PMID：42167499
-- DOI：10.1016/j.brainresbull.2026.111941
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42167499/
+- PMID：42174606
+- DOI：10.1186/s12951-026-04565-1
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42174606/
 
-摘要：Subarachnoid hemorrhage is a severe type of cerebral hemorrhage, with neuroinflammation being the main driving factor. The C5a-C5aR1 axis can mediate the inflammatory response, but its mechanism of action in SAH remains unclear. We established in vivo and in vitro models of SAH and treated them with the C5aR1 inhibitor PMX53 or the STAT3 inhibitor STAT3-IN-13. We detected C5aR1 expression, levels of inflammatory factors, microglial polarization, and neuronal apoptosis using Western blotting, ELISA, TUNEL, and immunofluorescence. The expression of C5aR1 in the brains of SAH mice (peaking at 24hours) and in the cerebrospinal fluid (CSF) of patients was upregulated, which was associated with poor prognosis. PMX53 can improve neurological function, reduce edema and neuronal apoptosis, and transform microglia from the pro-inflammatory M1 type to the anti-inflammatory M2 type. PMX53 and STAT3-IN-13 inhibit JAK/STAT3-p65 phosphorylation, reduce TNF-α/IL-1β, and increase TGF-β/IL-10. C5a promotes STAT3 phosphorylation through C5aR1, thereby exacerbating neuroinflammation, making C5aR1 a potential therapeutic target.
+摘要：BACKGROUND: Human umbilical cord mesenchymal stem cell-derived exosomes (hUCMSC-Exos) are a promising treatment for acute lung injury (ALI)/acute respiratory distress syndrome (ARDS), but traditional delivery methods have limitations. Therefore, this study presents a noninvasive therapeutic approach for ALI/ARDS, offering new mechanistic insights and identifying potential therapeutic targets. RESULTS: We established a nebulized LPS-induced ALI model that was characterized by diffuse lung injury and high homogeneity. Following inhalation, hUCMSC-Exos were observed to be internalized by pulmonary microvascular endothelial cells. Analysis revealed that hUCMSC-Exos alleviated ALI by reducing the severity of histological damage, pulmonary oedema, lung inflammation and ferroptosis. Additionally, hUCMSC-Exos improved the mitochondrial function of human pulmonary microvascular endothelial cells (HPMECs) via the transfer of mitochondrial components. Subsequent proteomic sequencing of mitochondria isolated from HPMECs receiving different treatments revealed the significant differential expression of ribosomal proteins among the groups. The most significantly upregulated protein, RPS11, was identified as a key mediator; its knockdown blocked the ability of hUCMSC-Exos to suppress ferroptosis and restore mitochondrial function in HPMECs. Mechanistically, hUCMSC-Exos exert their effects by enhancing mitochondria-encoded protein translation. CONCLUSIONS: We report a mechanism whereby hUCMSC-Exos upregulate RPS11 to promote mitochondria-encoded protein translation, rescuing mitochondrial function, inhibiting ferroptosis in HPMECs, and ultimately alleviating ALI. Validated across multiple models and supported by multi-omics analyses, our findings collectively establish nebulized hUCMSC-Exos as a promising cell-free therapy targeting mitochondrial homeostasis in HPMECs for the treatment of ALI.
 
-中文总结：这条内容归入“脑积水与脑脊液循环”，聚焦脑积水与脑脊液循环。主要信息来自题名、期刊/来源和摘要。Subarachnoid hemorrhage is a severe type of cerebral hemorrhage, with neuroinflammation being the main driving factor. The C5a-C5aR1 axis can mediate the inflammatory response, but its mechanism of action in SAH remains unclear. We established in vivo and in v...
-
-临床/科研意义：对脑积水与脑脊液循环方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】Inhibition of C5aR1 alleviates early brain injury after subarachnoid hemorrhage by reducing STAT3 phosphorylation and attenuating neuroinflammation.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：Subarachnoid hemorrhage is a severe type of cerebral hemorrhage, with neuroinflammation being the main driving factor. The C5a-C5aR1 axis can mediate the inflammatory response, but its mechanism of action in SAH remains unclear. We established in vivo and in v...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Brain research bulletin｜IF 10+｜JCR Q1 / CAS 1区｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/42167499/
-
-## 6. 论文标题：Exosome and biotherapeutic strategies for dermatological and oncological skin complications.
-
-- 英文题目：Exosome and biotherapeutic strategies for dermatological and oncological skin complications.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Annals of medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：2026-12-01
-- 分数：73
-- PMID：42139022
-- DOI：10.1080/07853890.2026.2673184
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42139022/
-
-摘要：BACKGROUND: Exosomes are nanosized extracellular vesicles (30-150 nm) that mediate intercellular communication by transferring bioactive molecules, including proteins, lipids, and nucleic acids. Their ability to regulate inflammation, immune responses, angiogenesis, and tissue regeneration has positioned them as promising candidates for the management of dermatological diseases and oncologic skin complications. METHODS: A comprehensive literature review was conducted using PubMed and Web of Science databases (2020-2025). Relevant preclinical studies, clinical trials, and mechanistic investigations evaluating exosome biology, therapeutic applications, and biotherapeutic strategies in dermatological and oncologic skin conditions were included and analysed. RESULTS: Exosome-based therapies, particularly those derived from mesenchymal and adipose-derived stem cells, demonstrate significant regenerative and immunomodulatory effects. These include enhanced wound healing, reduced inflammation, improved extracellular matrix remodelling, and modulation of immune pathways. Therapeutic benefits have been reported in chronic wounds, inflammatory dermatoses, pigmentary disorders, skin ageing, acne scarring, and treatment-related skin toxicities. In oncologic contexts, exosomes exhibit dual roles, contributing to both tissue repair and tumour progression depending on their origin. Despite strong preclinical evidence, clinical translation remains limited due to challenges in standardisation, scalability, and safety evaluation. CONCLUSIONS: Exosome-based biotherapeutics represent a promising, cell-free strategy for managing complex dermatological and oncologic skin conditions. Future progress will depend on standardised manufacturing protocols, rigorous clinical trials, and long-term safety validation to enable effective clinical application.
-
-中文总结：这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。BACKGROUND: Exosomes are nanosized extracellular vesicles (30-150 nm) that mediate intercellular communication by transferring bioactive molecules, including proteins, lipids, and nucleic acids. Their ability to regulate inflammation, immune responses, angioge...
+中文总结：这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。BACKGROUND: Human umbilical cord mesenchymal stem cell-derived exosomes (hUCMSC-Exos) are a promising treatment for acute lung injury (ALI)/acute respiratory distress syndrome (ARDS), but traditional delivery methods have limitations. Therefore, this study pre...
 
 临床/科研意义：对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
 推文草稿：
 
-【文献速递】Exosome and biotherapeutic strategies for dermatological and oncological skin complications.
+【文献速递】hUCMSC-exosomes attenuate acute lung injury by inhibiting ferroptosis in pulmonary microvascular endothelial cells through ribosomal protein RPS11 upregulation.
 
 研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
 
-核心发现：BACKGROUND: Exosomes are nanosized extracellular vesicles (30-150 nm) that mediate intercellular communication by transferring bioactive molecules, including proteins, lipids, and nucleic acids. Their ability to regulate inflammation, immune responses, angioge...
+核心发现：BACKGROUND: Human umbilical cord mesenchymal stem cell-derived exosomes (hUCMSC-Exos) are a promising treatment for acute lung injury (ALI)/acute respiratory distress syndrome (ARDS), but traditional delivery methods have limitations. Therefore, this study pre...
 
 临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
 
 小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
 
-参考信息：Annals of medicine｜IF 待核实｜待核实｜2026-12-01｜https://pubmed.ncbi.nlm.nih.gov/42139022/
+参考信息：Journal of nanobiotechnology｜IF 10+｜JCR Q1 / CAS 1区｜2026-05-22｜https://pubmed.ncbi.nlm.nih.gov/42174606/
 
-## 7. 论文标题：A 3-Week Intensive Outpatient Program for Patients With Persistent Neuropsychiatric Symptoms After Remote TBI.
+## 3. 论文标题：Hypertension exacerbates neuroinflammation and neuronal injury following cerebral ischemia-reperfusion in rats.
 
-- 英文题目：A 3-Week Intensive Outpatient Program for Patients With Persistent Neuropsychiatric Symptoms After Remote TBI.
-- 主题：创伤性脑损伤
+- 英文题目：Hypertension exacerbates neuroinflammation and neuronal injury following cerebral ischemia-reperfusion in rats.
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
-- 期刊/平台：The Journal of neuropsychiatry and clinical neurosciences
+- 期刊/平台：Neuroscience
 - 影响因子：待核实
 - 分区：待核实
 - 指标来源：未匹配
-- 日期：2026-05-22
-- 分数：73
-- PMID：42168808
-- DOI：10.1176/appi.neuropsych.20250116
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42168808/
+- 日期：2026-05-21
+- 分数：75
+- PMID：42173305
+- DOI：10.1016/j.neuroscience.2026.05.023
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42173305/
 
-摘要：OBJECTIVE: The authors evaluated changes associated with a 3-week interdisciplinary intensive outpatient program that delivers integrated neuropsychiatric rehabilitation for veterans and first responders with persistent postconcussive and co-occurring symptoms after remote traumatic brain injury. METHODS: In this retrospective cohort study, 128 patients completed patient-reported measures, including the Neurobehavioral Symptom Inventory (NSI), PTSD Checklist for DSM-5 (PCL-5), and Life Satisfaction Questionnaire-11 (LiSat-11), and objective assessments, comprising Addenbrooke's Cognitive Examination-III (ACE-III), gait speed, computerized dynamic posturography (for conducting the Sensory Organization Test [SOT]), and Modified Clinical Test of Sensory Interaction in Balance (mCTSIB). Paired t tests were used to compare intake with discharge measures, and a linear mixed-effects model was used to examine NSI scores over time with covariate adjustment. RESULTS: The NSI total score decreased by 15.6 points (41%, Cohen's d=1.11); ACE-III scores improved by 6.8 points (Cohen's d=1.41); and forward and backward gait speeds, SOT composite scores, and mCTSIB condition 4 scores showed significant improvements (Cohen's d=0.68-0.87). The proportion of patients screening at or above a common PTSD threshold on the PCL-5 declined from 51% at intake to 20% at discharge, and higher baseline PCL-5 scores were associated with higher NSI scores across time points (p<0.001). CONCLUSIONS: These findings are consistent with multidomain benefits of intensive, interdisciplinary neuropsychiatric rehabilitation in this population. These results support the potential of integrated care models to reduce symptom burden and improve cognitive, mobility, vestibular, and life satisfaction outcomes over 3 weeks, while underscoring the close linkage between posttraumatic stress severity and neurobehavioral symptom burden.
+摘要：Hypertension is the leading modifiable risk factor for ischemic stroke and worsens clinical outcomes, yet mechanisms remain unclear. This study investigated whether hypertension exacerbates cerebral ischemia-reperfusion (I/R) injury through neuroinflammatory modulation in rats. For this purpose, male spontaneously hypertensive rats (SHR) and normotensive Wistar-Kyoto rats (WKY) (14-week-old) underwent 90-minute transient middle cerebral artery occlusion (tMCAo) followed by 24-hour reperfusion. Physiological parameters, neurological function, infarct volume, cerebral swelling, hemorrhagic transformation, neuronal survival index, and macrophage/microglia infiltration and inflammatory cytokine were evaluated. We found that SHR exhibited significantly elevated blood pressure. While pre-ischemic neurological function was similar between groups, SHR rats demonstrated significantly higher mortality following tMCAo (25.0% vs. 5.9% in WKY rats). Infarct volume was markedly increased in SHR rats, with a trend toward greater cerebral swelling. Hemorrhagic transformation incidence was not significant, but distribution differed, with fewer non-cortical hemorrhages in SHR. Neuronal survival index significantly decreased in the cortical core and striatum peri-infarct regions. Crucially, SHR showed prominent RM-4 positive macrophage/microglia accumulation and higher levels of TNF-α and IL-1βin peri-infarct regions of cortex and striatum. These findings reveal that chronic hypertension aggravates cerebral I/R injury by amplifying neuroinflammation and worsening neuronal degeneration in specific ischemic territories. Selective macrophage/microglia infiltration suggests hypertension primes the neuroimmune environment, representing a potential therapeutic target.
 
-中文总结：这条内容归入“创伤性脑损伤”，聚焦创伤性脑损伤。主要信息来自题名、期刊/来源和摘要。OBJECTIVE: The authors evaluated changes associated with a 3-week interdisciplinary intensive outpatient program that delivers integrated neuropsychiatric rehabilitation for veterans and first responders with persistent postconcussive and co-occurring symptoms...
+中文总结：这条内容归入“小胶质细胞与 TREM2”，聚焦小胶质细胞与 TREM2。主要信息来自题名、期刊/来源和摘要。Hypertension is the leading modifiable risk factor for ischemic stroke and worsens clinical outcomes, yet mechanisms remain unclear. This study investigated whether hypertension exacerbates cerebral ischemia-reperfusion (I/R) injury through neuroinflammatory m...
 
-临床/科研意义：对创伤性脑损伤方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+临床/科研意义：对小胶质细胞与 TREM2方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
 推文草稿：
 
-【文献速递】A 3-Week Intensive Outpatient Program for Patients With Persistent Neuropsychiatric Symptoms After Remote TBI.
+【文献速递】Hypertension exacerbates neuroinflammation and neuronal injury following cerebral ischemia-reperfusion in rats.
 
 研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
 
-核心发现：OBJECTIVE: The authors evaluated changes associated with a 3-week interdisciplinary intensive outpatient program that delivers integrated neuropsychiatric rehabilitation for veterans and first responders with persistent postconcussive and co-occurring symptoms...
+核心发现：Hypertension is the leading modifiable risk factor for ischemic stroke and worsens clinical outcomes, yet mechanisms remain unclear. This study investigated whether hypertension exacerbates cerebral ischemia-reperfusion (I/R) injury through neuroinflammatory m...
 
 临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
 
 小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
 
-参考信息：The Journal of neuropsychiatry and clinical neurosciences｜IF 待核实｜待核实｜2026-05-22｜https://pubmed.ncbi.nlm.nih.gov/42168808/
+参考信息：Neuroscience｜IF 待核实｜待核实｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42173305/
 
-## 8. 论文标题：The Two-Step Allogeneic Stem Cell Transplant Is Associated with Excellent Engraftment, Improved Survival and Low Nonrelapse Mortality in Patients with Myelofibrosis.
-
-- 英文题目：The Two-Step Allogeneic Stem Cell Transplant Is Associated with Excellent Engraftment, Improved Survival and Low Nonrelapse Mortality in Patients with Myelofibrosis.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Hematology/oncology and stem cell therapy
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：2026-05-22
-- 分数：73
-- PMID：42170684
-- DOI：10.4103/hemoncstem.hemoncstem-D-25-00039
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42170684/
-
-摘要：Myelofibrosis is a chronic myeloproliferative disorder primarily affecting older adults, and allogeneic hematopoietic stem cell transplantation (HSCT) remains the only curative treatment option. However, HSCT for myelofibrosis presents significant challenges, including high nonrelapse mortality (NRM) and an increased risk of graft failure. In this 20-year retrospective study, we evaluated outcomes for 32 myelofibrosis patients who underwent HSCT at our institution, with particular focus on a two-step transplant approach designed to optimize T-cell dosing by separating the lymphoid and myeloid graft components, with cyclophosphamide administered after the lymphoid infusion and before infusion of CD34-selected stem cells. Eighteen patients underwent transplantation using the two-step approach and demonstrated favorable outcomes, with 1-year and 5-year overall survival (OS) rates of 83% and 68%, respectively. NRM was reduced, with rates of 17% at 1 year and 23% at 5 years. Engraftment was robust, with median neutrophil and platelet recovery at 12 and 19 days, respectively, and a low graft failure rate of 5.9% despite the predominant use of reduced-intensity conditioning and haploidentical donors, compared with 17.5% graft failure among patients receiving a traditional one-step transplant. Across the entire cohort, OS was 66% at 1 year and 54% at 5 years, respectively, with NRM rates of 34% and 42% at 5 years, respectively. The cumulative incidence of grade 2-4 acute graft-versus-host disease (GVHD) and chronic GVHD was 17% each. These findings suggest that the two-step transplant platform is a viable and effective strategy for improving HSCT outcomes in myelofibrosis, providing lower NRM and favorable engraftment profiles. Further studies are warranted to validate these results and refine HSCT protocols to reduce transplant-related mortality and improve long-term survival in patients with myelofibrosis.
-
-中文总结：这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。Myelofibrosis is a chronic myeloproliferative disorder primarily affecting older adults, and allogeneic hematopoietic stem cell transplantation (HSCT) remains the only curative treatment option. However, HSCT for myelofibrosis presents significant challenges,...
-
-临床/科研意义：对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】The Two-Step Allogeneic Stem Cell Transplant Is Associated with Excellent Engraftment, Improved Survival and Low Nonrelapse Mortality in Patients with Myelofibrosis.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：Myelofibrosis is a chronic myeloproliferative disorder primarily affecting older adults, and allogeneic hematopoietic stem cell transplantation (HSCT) remains the only curative treatment option. However, HSCT for myelofibrosis presents significant challenges,...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Hematology/oncology and stem cell therapy｜IF 待核实｜待核实｜2026-05-22｜https://pubmed.ncbi.nlm.nih.gov/42170684/
-
-## 9. 论文标题：Pneumococcal membrane particles promote serotype-independent cellular and humoral immunity and protect against pneumococcal colonization.
+## 4. 论文标题：Pneumococcal membrane particles promote serotype-independent cellular and humoral immunity and protect against pneumococcal colonization.
 
 - 英文题目：Pneumococcal membrane particles promote serotype-independent cellular and humoral immunity and protect against pneumococcal colonization.
 - 主题：干细胞与外泌体
@@ -321,7 +146,77 @@
 
 参考信息：Proceedings of the National Academy of Sciences of the United States of America｜IF 待核实｜待核实｜2026-05-26｜https://pubmed.ncbi.nlm.nih.gov/42154558/
 
-## 10. 论文标题：A human cardiomyocyte screen identifies optimized lipid nanoparticles for in vivo cardiac gene editing.
+## 5. 论文标题：Exposure to Polystyrene Microplastics Exacerbates Hippocampal Inflammation and Ferroptosis in Mice Following Chronic Sleep Deprivation.
+
+- 英文题目：Exposure to Polystyrene Microplastics Exacerbates Hippocampal Inflammation and Ferroptosis in Mice Following Chronic Sleep Deprivation.
+- 主题：小胶质细胞与 TREM2
+- 来源：PubMed
+- 期刊/平台：Brain research bulletin
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
+- 日期：2026-05-21
+- 分数：69
+- PMID：42173449
+- DOI：10.1016/j.brainresbull.2026.111960
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42173449/
+
+摘要：Chronic sleep deprivation (CSD) is closely associated with impairments in learning and memory, neuroinflammation, and ferroptosis, potentially increasing vulnerability to harmful environmental exposures. Polystyrene microplastics (PS-MPs) can induce oxidative stress and inflammation, yet their impact on hippocampal pathology and cognition under CSD remains unclear. Here, we established a mouse model combining oral PS-MPs exposure with CSD and assessed cognition using the novel object recognition (NOR) test, open-field test (OFT), Y-maze, and nest-building. CSD markedly promoted PS-MPs deposition in the hippocampus, and PS-MPs further aggravated CSD-induced cognitive deficits, accompanied by more severe neuronal structural damage and loss. PS-MPs also amplified CSD-induced neuroinflammation, increasing IL-6 and TNF-α, decreasing IL-4 and IL-10, and enhancing microglial activation. In BV2 cells, PS-MPs induced dose-dependent inflammatory responses with SOCS3 downregulation and increased p-STAT3. In addition, PS-MPs further elevated hippocampal ROS, MDA, and Fe²⁺ levels, reduced GSH, and aggravated mitochondrial shrinkage and membrane densification. In BV2 cells, PS-MPs also induced ferroptosis in a dose-dependent manner and suppressed SLC7A11/GPX4 expression. In summary, under CSD conditions, PS-MPs accumulate in the hippocampus and promote microglia-mediated neuroinflammation and ferroptosis through SOCS3/STAT3 and SLC7A11/GPX4 signaling, thereby worsening hippocampal injury and cognitive decline.
+
+中文总结：这条内容归入“小胶质细胞与 TREM2”，聚焦小胶质细胞与 TREM2。主要信息来自题名、期刊/来源和摘要。Chronic sleep deprivation (CSD) is closely associated with impairments in learning and memory, neuroinflammation, and ferroptosis, potentially increasing vulnerability to harmful environmental exposures. Polystyrene microplastics (PS-MPs) can induce oxidative...
+
+临床/科研意义：对小胶质细胞与 TREM2方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Exposure to Polystyrene Microplastics Exacerbates Hippocampal Inflammation and Ferroptosis in Mice Following Chronic Sleep Deprivation.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Chronic sleep deprivation (CSD) is closely associated with impairments in learning and memory, neuroinflammation, and ferroptosis, potentially increasing vulnerability to harmful environmental exposures. Polystyrene microplastics (PS-MPs) can induce oxidative...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Brain research bulletin｜IF 10+｜JCR Q1 / CAS 1区｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42173449/
+
+## 6. 论文标题：Stress granules restrain ferroptosis by sequestering ferritin.
+
+- 英文题目：Stress granules restrain ferroptosis by sequestering ferritin.
+- 主题：胶质瘤与脊髓肿瘤
+- 来源：PubMed
+- 期刊/平台：Nature cell biology
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-05-22
+- 分数：67
+- PMID：42174134
+- DOI：10.1038/s41556-026-01953-5
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42174134/
+
+摘要：Glioblastoma stem cells (GSCs) are refractory to first-line treatment in the clinic, which includes irradiation (IR) and temozolomide (TMZ). Here we find that disrupting stress granules (SGs) sensitizes GSCs to IR/TMZ through ferroptosis. The profiling of SG proteins reveals the recruitment of iron-related proteins including ferritin. Mechanistically, G3BP1, an SG core protein, directly interacts with ferritin light chain in an IR/TMZ-induced G3BP1 methionine-333 oxidation-dependent manner. This interaction facilitates recruiting and sequestering ferritin into SGs, thereby restricting ferroptosis by limiting Fe2+ content in the labile iron pool and preventing ferritinophagy. Disrupting G3BP1 and ferritin light chain binding using a screened small molecule, ciwujianoside C3, mitigates the restriction of SGs on ferroptosis, and resensitizes GSCs to IR/TMZ in both in vitro and animal models. These findings unveil a negative regulation of SGs on ferroptosis, and reveal a promising strategy to disrupt the SG-ferroptosis axis for treating glioblastomas and probably other types of cancer.
+
+中文总结：这条内容归入“胶质瘤与脊髓肿瘤”，聚焦胶质瘤与脊髓肿瘤。主要信息来自题名、期刊/来源和摘要。Glioblastoma stem cells (GSCs) are refractory to first-line treatment in the clinic, which includes irradiation (IR) and temozolomide (TMZ). Here we find that disrupting stress granules (SGs) sensitizes GSCs to IR/TMZ through ferroptosis. The profiling of SG p...
+
+临床/科研意义：对胶质瘤与脊髓肿瘤方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Stress granules restrain ferroptosis by sequestering ferritin.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Glioblastoma stem cells (GSCs) are refractory to first-line treatment in the clinic, which includes irradiation (IR) and temozolomide (TMZ). Here we find that disrupting stress granules (SGs) sensitizes GSCs to IR/TMZ through ferroptosis. The profiling of SG p...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Nature cell biology｜IF 待核实｜待核实｜2026-05-22｜https://pubmed.ncbi.nlm.nih.gov/42174134/
+
+## 7. 论文标题：A human cardiomyocyte screen identifies optimized lipid nanoparticles for in vivo cardiac gene editing.
 
 - 英文题目：A human cardiomyocyte screen identifies optimized lipid nanoparticles for in vivo cardiac gene editing.
 - 主题：干细胞与外泌体
@@ -355,6 +250,111 @@
 小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
 
 参考信息：Proceedings of the National Academy of Sciences of the United States of America｜IF 待核实｜待核实｜2026-05-26｜https://pubmed.ncbi.nlm.nih.gov/42150080/
+
+## 8. 论文标题：Revisiting cirrhosis-related parkinsonism: a comprehensive review.
+
+- 英文题目：Revisiting cirrhosis-related parkinsonism: a comprehensive review.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Metabolic brain disease
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
+- 日期：2026-05-23
+- 分数：65
+- PMID：42174344
+- DOI：10.1007/s11011-026-01875-z
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42174344/
+
+摘要：Cirrhosis-related Parkinsonism is a frequent but often overlooked neurological complication of chronic liver disease, primarily driven by manganese (Mn) accumulation in the basal ganglia resulting from portosystemic shunting. Clinically, it presents as an atypical Parkinsonian syndrome characterized by bilateral and symmetrical motor features, early postural instability, and poor responsiveness to dopaminergic therapy, which distinguishes it from idiopathic Parkinson's disease. The underlying pathophysiology involves a complex cascade of Mn-induced neuroinflammation, mitochondrial dysfunction, and 𝛂-synuclein misfolding, particularly affecting the globus pallidus. While T1-weighted MRI typically reveals characteristic bilateral hyperintensities in the globus pallidus, its low specificity remains a significant diagnostic challenge, as these findings can occur in asymptomatic cirrhotic patients. Orthotopic liver transplantation stands as the only definitive treatment, offering potential for reversal of neurological deficits by restoring hepatic detoxification. Alternative strategies include interventional radiological shunt obliteration and symptomatic pharmacological therapies, though evidence for the latter remains inconsistent. This review synthesizes current knowledge on the epidemiology, pathogenesis, and management of this neurohepatic syndrome, highlighting the urgent need for standardized diagnostic criteria and validated biomarkers to improve clinical recognition and patient outcomes.
+
+中文总结：这条内容归入“创伤性脑损伤”，聚焦创伤性脑损伤。主要信息来自题名、期刊/来源和摘要。Cirrhosis-related Parkinsonism is a frequent but often overlooked neurological complication of chronic liver disease, primarily driven by manganese (Mn) accumulation in the basal ganglia resulting from portosystemic shunting. Clinically, it presents as an atyp...
+
+临床/科研意义：对创伤性脑损伤方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Revisiting cirrhosis-related parkinsonism: a comprehensive review.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Cirrhosis-related Parkinsonism is a frequent but often overlooked neurological complication of chronic liver disease, primarily driven by manganese (Mn) accumulation in the basal ganglia resulting from portosystemic shunting. Clinically, it presents as an atyp...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Metabolic brain disease｜IF 10+｜JCR Q1 / CAS 1区｜2026-05-23｜https://pubmed.ncbi.nlm.nih.gov/42174344/
+
+## 9. 论文标题：Faecalibacterium prausnitzii-derived extracellular vesicles ameliorate experimental colitis through regulating barrier immunity and gut microbiota.
+
+- 英文题目：Faecalibacterium prausnitzii-derived extracellular vesicles ameliorate experimental colitis through regulating barrier immunity and gut microbiota.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：NPJ science of food
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-05-23
+- 分数：65
+- PMID：42173875
+- DOI：10.1038/s41538-026-00897-2
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42173875/
+
+摘要：Ulcerative colitis (UC) is closely linked to intestinal barrier dysfunction and gut dysbiosis. Bacterial extracellular vesicles (bEVs) act as key mediators of bacteria-host crosstalk, with great potential in regulating host health. Recent studies have shown that EVs derived from gut commensal bacteria offer therapeutic advantages in treating UC. Herein, we explored the therapeutic effect of Faecalibacterium prausnitzii-derived EVs (PEVs) in DSS-induced colitis mice. Results showed PEVs significantly improved intestinal barrier damage, restored Th17/Treg balance and alleviated gut dysbiosis. Further fecal microbiota transplantation (FMT) confirmed that feces from PEVs-treated mice transferred beneficial effects to recipient colitis mice. Collectively, our findings indicate that commensal gut microbiota-derived nanovesicles have the potential to serve as candidates for UC treatment.
+
+中文总结：这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。Ulcerative colitis (UC) is closely linked to intestinal barrier dysfunction and gut dysbiosis. Bacterial extracellular vesicles (bEVs) act as key mediators of bacteria-host crosstalk, with great potential in regulating host health. Recent studies have shown th...
+
+临床/科研意义：对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Faecalibacterium prausnitzii-derived extracellular vesicles ameliorate experimental colitis through regulating barrier immunity and gut microbiota.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Ulcerative colitis (UC) is closely linked to intestinal barrier dysfunction and gut dysbiosis. Bacterial extracellular vesicles (bEVs) act as key mediators of bacteria-host crosstalk, with great potential in regulating host health. Recent studies have shown th...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：NPJ science of food｜IF 待核实｜待核实｜2026-05-23｜https://pubmed.ncbi.nlm.nih.gov/42173875/
+
+## 10. 论文标题：Hotspots and trends of microglia in ischemic stroke: A bibliometric analysis from 1998 to 2024.
+
+- 英文题目：Hotspots and trends of microglia in ischemic stroke: A bibliometric analysis from 1998 to 2024.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-05-22
+- 分数：65
+- PMID：42175444
+- DOI：10.1097/MD.0000000000048993
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42175444/
+
+摘要：BACKGROUND: Ischemic stroke (IS) represents a predominant cause of disability globally, characterized by significant neuroinflammatory responses facilitated by microglia, the resident immune cells of the central nervous system. A comprehensive understanding the current research landscape in this field is essential for guiding future inquiries. However, a systematic, quantitative panorama analysis of this intersecting field is lacking. This study aims to address this knowledge gap by conducting a bibliometric analysis of publications retrieved from the Web of Science Core Collection database, elucidating historical developments, collaboration networks, and emerging frontiers. OBJECTIVE: This study endeavors to perform a comprehensive bibliometric analysis of microglia research in IS, with the aim of elucidating historical developments, identifying current research frontiers, and proposing future directions through a quantitative assessment of publication trends, collaboration networks, and the evolution of conceptual frameworks. METHODS: Utilizing controlled vocabulary terms for IS and microglia, we conducted a systematic search of the Web of Science Core Collection database. After applying exclusion criteria, our analysis included 5709 publications (4859 articles; 850 reviews). We employed Bibliometrix R, VOSviewer, and CiteSpace for advanced bibliometric analysis. RESULTS: The annual publication count showed exponential growth, with a compound annual growth rate of 14.6% over the past 5 years (2020-2024), indicating robust research momentum. Systematic reviews and meta-analyses accounted for 14.9% of the total, highlighting the growing importance of integrative evidence. China (n = 1852) and the United States (n = 1723) leading in research contributions. Capital Medical University emerged as the most prolific institution (n = 217). Journal of Neuroinflammation was the primary publication venue (n = 142), while Stroke had the highest citation count (8742 citations). Moo-Ho Won was the most productive author (n = 68), and Iadecola C. was the most co-cited researcher (n = 1024). Keyword analysis identified "microglia polarization" (burst strength = 36.5), "NLR family pyrin domain containing 3 inflammasome" (burst strength = 32.1), and "extracellular vesicles" (burst strength = 28.7) as emerging research frontiers. CONCLUSION: Our analysis outlines 3 key research trajectories, molecular mechanisms of microglia activation, particularly NLR family pyrin domain containing 3-mediated pathways; phenotypic modulation of microglia during stroke recovery; and novel roles in angiogenesis and immunomodulation. The emergence of "gut-microbiota-brain axis" and "mitochondrial transfer" as new research themes offers promising directions for investigation. These findings provide a strategic framework for prioritizing research on neuroinflammation and neurorepair after stroke.
+
+中文总结：这条内容归入“创伤性脑损伤”，聚焦创伤性脑损伤。主要信息来自题名、期刊/来源和摘要。BACKGROUND: Ischemic stroke (IS) represents a predominant cause of disability globally, characterized by significant neuroinflammatory responses facilitated by microglia, the resident immune cells of the central nervous system. A comprehensive understanding th...
+
+临床/科研意义：对创伤性脑损伤方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Hotspots and trends of microglia in ischemic stroke: A bibliometric analysis from 1998 to 2024.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：BACKGROUND: Ischemic stroke (IS) represents a predominant cause of disability globally, characterized by significant neuroinflammatory responses facilitated by microglia, the resident immune cells of the central nervous system. A comprehensive understanding th...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Medicine｜IF 待核实｜待核实｜2026-05-22｜https://pubmed.ncbi.nlm.nih.gov/42175444/
 
 # 顶刊神经科学
 
@@ -745,7 +745,42 @@
 
 参考信息：International journal of molecular medicine｜IF 待核实｜待核实｜2026-07-01｜https://pubmed.ncbi.nlm.nih.gov/42138198/
 
-## 4. 论文标题：Perceptions of young people living with HIV and caregivers in Botswana on analytical treatment interruption studies: a qualitative approach.
+## 4. 论文标题：Recombinant humanized type III collagen attenuates recurrent spontaneous abortion by regulating stromal cell decidualization and reinforcing protective immune microenvironment at the maternal-fetal interface.
+
+- 英文题目：Recombinant humanized type III collagen attenuates recurrent spontaneous abortion by regulating stromal cell decidualization and reinforcing protective immune microenvironment at the maternal-fetal interface.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：International immunopharmacology
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-08-01
+- 分数：47
+- PMID：42143931
+- DOI：10.1016/j.intimp.2026.116836
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42143931/
+
+摘要：BACKGROUND: Recurrent spontaneous abortion (RSA), the common early pregnancy complication, remains elusive in its pathogenesis and treatment. Recombinant humanized type III collagen (rhCOLIII), a novel biomaterial, has demonstrated efficacy in treating various diseases. However, the role of rhCOLIII in RSA is unclear. This study aimed to explore the therapeutic potential and underlying mechanisms of rhCOLIII in RSA at single-cell resolution. METHODS: Human endometrium/decidua samples derived from healthy donors/normal pregnant and RSA patients were obtained to detect type III collagen (COLIII) expression via immunohistochemistry (IHC) and Western blot. A murine RSA model (CBA/J ♀ × DBA/2 ♂) was established, followed by intrauterine perfusion of rhCOLIII to evaluate its therapeutic efficacy. Uterine tissues from RSA and rhCOLIII-treated mice were collected on gestation day 8 for single-cell RNA sequencing, with findings validated by IHC, multiplex IHC (mIHC), and flow cytometry (FCM). RESULTS: COLIII expression was significantly reduced in RSA endometrial/decidual tissues. Intrauterine rhCOLIII treatment in a murine RSA model significantly decreased the embryo resorption rate from 31.62% to 3.82% (P < 0.001). Single-cell analysis identified 19 cell clusters, with stromal cells as the predominant population, further classified into seven functional subtypes and their differential composition between the RSA and rhCOLIII groups was confirmed by mIHC. Furthermore, rhCOLIII reprogrammed stromal cell function by activating oxidative-stress response pathways and regulating decidualization. Concurrently, our results showed that rhCOLIII could enhance anti-inflammatory macrophage activity and increase CD16+ NK cell abundance. Cell-cell communication analysis uncovered that APOE-TREM2 signaling between decidual stromal cells and macrophages, as well as BSG-PPIA signaling in decidual stromal cell-NK cell interactions, was augmented following rhCOLIII treatment. FCM analysis demonstrated that rhCOLIII increased TREM2+ macrophages associated with M2 polarization. CONCLUSIONS: Our study demonstrates that rhCOLIII exerts therapeutic effects in RSA mice potentially by modulating stromal cell decidualization and promoting a protective immune microenvironment, highlighting a promising therapeutic strategy for RSA.
+
+中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。BACKGROUND: Recurrent spontaneous abortion (RSA), the common early pregnancy complication, remains elusive in its pathogenesis and treatment. Recombinant humanized type III collagen (rhCOLIII), a novel biomaterial, has demonstrated efficacy in treating various...
+
+临床/科研意义：对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Recombinant humanized type III collagen attenuates recurrent spontaneous abortion by regulating stromal cell decidualization and reinforcing protective immune microenvironment at the maternal-fetal interface.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：BACKGROUND: Recurrent spontaneous abortion (RSA), the common early pregnancy complication, remains elusive in its pathogenesis and treatment. Recombinant humanized type III collagen (rhCOLIII), a novel biomaterial, has demonstrated efficacy in treating various...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：International immunopharmacology｜IF 待核实｜待核实｜2026-08-01｜https://pubmed.ncbi.nlm.nih.gov/42143931/
+
+## 5. 论文标题：Perceptions of young people living with HIV and caregivers in Botswana on analytical treatment interruption studies: a qualitative approach.
 
 - 英文题目：Perceptions of young people living with HIV and caregivers in Botswana on analytical treatment interruption studies: a qualitative approach.
 - 主题：全球学术热点
@@ -780,7 +815,7 @@
 
 参考信息：HIV research & clinical practice｜IF 待核实｜待核实｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42163437/
 
-## 5. 论文标题：Frailty as a mediator of the association between hyperuricemia and stroke risk: A prospective cohort study.
+## 6. 论文标题：Frailty as a mediator of the association between hyperuricemia and stroke risk: A prospective cohort study.
 
 - 英文题目：Frailty as a mediator of the association between hyperuricemia and stroke risk: A prospective cohort study.
 - 主题：全球学术热点
@@ -815,7 +850,7 @@
 
 参考信息：Clinical and experimental hypertension (New York, N.Y. : 1993)｜IF 待核实｜待核实｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42154033/
 
-## 6. 论文标题：Acute beetroot juice ingestion fails to improve sprint performance and neuromuscular function in trained male sprinters: a randomized, double-blind, placebo-controlled study.
+## 7. 论文标题：Acute beetroot juice ingestion fails to improve sprint performance and neuromuscular function in trained male sprinters: a randomized, double-blind, placebo-controlled study.
 
 - 英文题目：Acute beetroot juice ingestion fails to improve sprint performance and neuromuscular function in trained male sprinters: a randomized, double-blind, placebo-controlled study.
 - 主题：全球学术热点
@@ -850,7 +885,7 @@
 
 参考信息：Journal of the International Society of Sports Nutrition｜IF 待核实｜待核实｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42148901/
 
-## 7. 论文标题：Creatine monohydrate for lean mass, strength, and bone density in postmenopausal women: a systematic review and meta-analysis.
+## 8. 论文标题：Creatine monohydrate for lean mass, strength, and bone density in postmenopausal women: a systematic review and meta-analysis.
 
 - 英文题目：Creatine monohydrate for lean mass, strength, and bone density in postmenopausal women: a systematic review and meta-analysis.
 - 主题：全球学术热点
@@ -884,41 +919,6 @@
 小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
 
 参考信息：Journal of the International Society of Sports Nutrition｜IF 待核实｜待核实｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42141930/
-
-## 8. 论文标题：Reshaping immunotherapy sequencing strategy: equivalent survival with induction plus consolidation vs. consolidation-only strategy in unresectable stage III NSCLC.
-
-- 英文题目：Reshaping immunotherapy sequencing strategy: equivalent survival with induction plus consolidation vs. consolidation-only strategy in unresectable stage III NSCLC.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：Oncoimmunology
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：2026-12-31
-- 分数：45
-- PMID：42141789
-- DOI：10.1080/2162402X.2026.2670221
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42141789/
-
-摘要：OBJECTIVE: To compare the efficacy and safety of a sequential combination of chemoradiotherapy (CRT) with immune checkpoint inhibitors (ICIs) administered as induction plus consolidation versus consolidation-only in patients with unresectable stage III non-small cell lung cancer (NSCLC). METHODS: This retrospective study enrolled 265 patients treated at two centers between March 2019 and August 2023. Patients were categorized into a consolidation-only group (n = 153) and an induction plus consolidation group (n = 112). Propensity score matching (PSM, 1:1 ratio) was used to balance baseline characteristics. Progression-free survival (PFS) and overall survival (OS) were assessed using Kaplan-Meier analysis and log-rank tests. Adverse events (AEs) were evaluated according to CTCAE v5.0. RESULTS: Before PSM, no significant survival differences were observed between groups (2-y PFS: 52.6% vs. 63.5%, p = 0.085; 2-y OS: 91.7% vs. 81.2%, p = 0.822). After PSM, outcomes remained comparable (2-y PFS: 56.8% vs. 62.2%, p = 0.179; 2-y OS: 94.9% vs. 87.9%, p = 0.514). Before PSM, the most common AE was pneumonitis (60.7% vs. 55.1%, p = 0.442). The induction plus consolidation group showed a lower incidence of anemia (p = 0.004) but a higher incidence of ALT/AST elevation (14.3% vs. 5.1%, p = 0.022). The incidence of all other AEs was comparable (p > 0.05). After PSM, only anemia was significantly higher in the consolidation-only group (52.8% vs. 27.8%, p = 0.004). CONCLUSION: In treatment-tolerant patients, induction plus consolidation therapy demonstrated comparable efficacy and safety to consolidation-only therapy in unresectable stage III NSCLC.
-
-中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。OBJECTIVE: To compare the efficacy and safety of a sequential combination of chemoradiotherapy (CRT) with immune checkpoint inhibitors (ICIs) administered as induction plus consolidation versus consolidation-only in patients with unresectable stage III non-sma...
-
-临床/科研意义：对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】Reshaping immunotherapy sequencing strategy: equivalent survival with induction plus consolidation vs. consolidation-only strategy in unresectable stage III NSCLC.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：OBJECTIVE: To compare the efficacy and safety of a sequential combination of chemoradiotherapy (CRT) with immune checkpoint inhibitors (ICIs) administered as induction plus consolidation versus consolidation-only in patients with unresectable stage III non-sma...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Oncoimmunology｜IF 待核实｜待核实｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42141789/
 
 # 国内外医学与医药新闻
 

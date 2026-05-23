@@ -1,12 +1,14 @@
 from __future__ import annotations
 
 import argparse
+import os
 import traceback
 from pathlib import Path
 
 import yaml
 
 from src.email_sender import send_email
+from src.feishu import send_feishu
 from src.fetchers import fetch_all, fetch_global_hot_topics, fetch_medical_news, fetch_top_journal_neuroscience
 from src.journal_metrics import enrich_metrics_many
 from src.render import write_outputs
@@ -44,6 +46,27 @@ def fallback_items(config: dict, reason: str) -> list[dict]:
 def prepare_items(raw_items: list[dict], config: dict, limit: int) -> list[dict]:
     ranked = rank_items(raw_items, config)
     return enrich_items(enrich_metrics_many(ranked[:limit]))
+
+
+def push_feishu_briefing(payload: dict) -> bool:
+    briefing_path = BASE_DIR / "output/briefing.txt"
+    if briefing_path.exists():
+        text = briefing_path.read_text(encoding="utf-8")
+    else:
+        text = "【神外文献日报】本次已生成，但未找到 output/briefing.txt。"
+
+    dashboard_url = os.environ.get("PUBLIC_DASHBOARD_URL", "").strip()
+    if dashboard_url:
+        text = f"{text}\n\n网页链接：{dashboard_url}"
+
+    count = len(payload.get("items", []))
+    sections = payload.get("sections", {}) or {}
+    section_count = sum(len(v) for v in sections.values() if isinstance(v, list))
+    prefix = f"【神外文献雷达 V1】本次筛选 {count + section_count} 条文献/资讯\n\n"
+    full_text = prefix + text
+    if len(full_text) > 3800:
+        full_text = full_text[:3800] + "\n\n内容较长，已截断；请打开网页查看完整版本。"
+    return send_feishu(full_text)
 
 
 def run(preview: bool = False, no_email: bool = False, email_test: bool = False) -> dict:
@@ -96,6 +119,7 @@ def run(preview: bool = False, no_email: bool = False, email_test: bool = False)
 
     if not no_email:
         send_email(payload)
+        push_feishu_briefing(payload)
     return payload
 
 
