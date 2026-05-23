@@ -63,8 +63,16 @@ def score_item(item: dict[str, Any], priority_journals: list[str]) -> int:
         score += 5
     if item.get("source") in {"biorxiv", "medrxiv"}:
         score += 2
+    if item.get("section") == "top_journal_neuroscience":
+        score += 24
+    if item.get("section") == "global_hot_topics":
+        score += 10
+    if item.get("section") == "medical_news":
+        score += 6
     if re.search(r"clinical|trial|patient|cohort|therapy|treatment|mechanism|single-cell|spatial|omics", text):
         score += 6
+    if re.search(r"randomized|clinical trial|cohort|case-control|prospective|retrospective", text):
+        score += 8
     return score
 
 

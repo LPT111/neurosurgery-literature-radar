@@ -1,4 +1,7 @@
 max_items: 10
+top_journal_max_items: 8
+global_hot_max_items: 8
+medical_news_max_items: 10
 timezone: Asia/Shanghai
 priority_journals:
   - Nature
@@ -69,3 +72,58 @@ topics:
       - brain injury
       - spinal cord
       - neurocritical care
+top_journal_neuroscience:
+  label_cn: 顶刊神经科学
+  journals:
+    - Nature
+    - Science
+    - Cell
+    - Nature Medicine
+    - Nature Neuroscience
+    - Neuron
+    - Brain
+    - The Lancet Neurology
+    - JAMA Neurology
+    - Science Translational Medicine
+    - Acta Neuropathologica
+    - Annals of Neurology
+    - Neurology
+  keywords:
+    - neuroscience
+    - neurology
+    - neurosurgery
+    - brain
+    - spinal cord
+    - neuroinflammation
+    - microglia
+    - glia
+    - glioma
+    - traumatic brain injury
+    - hydrocephalus
+    - clinical trial
+    - cohort
+global_hot_topics:
+  label_cn: 全球学术热点
+  keywords:
+    - spatial transcriptomics
+    - single-cell
+    - organoid
+    - brain-computer interface
+    - gene therapy
+    - immunotherapy
+    - artificial intelligence medicine
+    - foundation model
+    - Alzheimer's disease
+    - Parkinson's disease
+    - neurodegeneration
+medical_news_feeds:
+  - name: Medical Xpress
+    url: https://medicalxpress.com/rss-feed/
+  - name: ScienceDaily Health Medicine
+    url: https://www.sciencedaily.com/rss/health_medicine.xml
+  - name: ScienceDaily Mind Brain
+    url: https://www.sciencedaily.com/rss/mind_brain.xml
+  - name: Neuroscience News
+    url: https://neurosciencenews.com/feed/
+  - name: WHO News
+    url: https://www.who.int/rss-feeds/news-english.xml

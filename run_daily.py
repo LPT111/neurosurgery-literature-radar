@@ -7,7 +7,8 @@ from pathlib import Path
 import yaml
 
 from src.email_sender import send_email
-from src.fetchers import fetch_all
+from src.fetchers import fetch_all, fetch_global_hot_topics, fetch_medical_news, fetch_top_journal_neuroscience
+from src.journal_metrics import enrich_metrics_many
 from src.render import write_outputs
 from src.scoring import rank_items
 from src.summary import enrich_items
@@ -40,6 +41,11 @@ def fallback_items(config: dict, reason: str) -> list[dict]:
     ]
 
 
+def prepare_items(raw_items: list[dict], config: dict, limit: int) -> list[dict]:
+    ranked = rank_items(raw_items, config)
+    return enrich_items(enrich_metrics_many(ranked[:limit]))
+
+
 def run(preview: bool = False, no_email: bool = False, email_test: bool = False) -> dict:
     config = load_config()
     errors: list[str] = []
@@ -58,19 +64,35 @@ def run(preview: bool = False, no_email: bool = False, email_test: bool = False)
         payload = write_outputs(items, ["Preview mode: sample data only."], config)
     else:
         try:
-            raw_items, errors = fetch_all(config)
-            ranked = rank_items(raw_items, config)
+            raw_items, base_errors = fetch_all(config)
+            top_raw, top_errors = fetch_top_journal_neuroscience(config)
+            hot_raw, hot_errors = fetch_global_hot_topics(config)
+            news_raw, news_errors = fetch_medical_news(config)
+            errors = base_errors + top_errors + hot_errors + news_errors
+
             max_items = int(config.get("max_items", 10))
-            selected = ranked[:max_items]
-            if not selected:
+            items = prepare_items(raw_items, config, max_items)
+            top_items = prepare_items(top_raw, config, int(config.get("top_journal_max_items", 8)))
+            hot_items = prepare_items(hot_raw, config, int(config.get("global_hot_max_items", 8)))
+            news_items = prepare_items(news_raw, config, int(config.get("medical_news_max_items", 10)))
+
+            if not items and not top_items and not hot_items and not news_items:
                 errors.append("No matching items selected from live sources.")
-            items = enrich_items(selected)
-            payload = write_outputs(items, errors, config)
+            payload = write_outputs(
+                items,
+                errors,
+                config,
+                sections={
+                    "top_journal_neuroscience": top_items,
+                    "global_hot_topics": hot_items,
+                    "medical_news": news_items,
+                },
+            )
         except Exception as exc:
             errors.append(f"Fatal pipeline fallback: {exc}")
             errors.append(traceback.format_exc())
-            fallback = enrich_items(fallback_items(config, str(exc)))
-            payload = write_outputs(fallback, errors, config)
+            fallback = enrich_items(enrich_metrics_many(fallback_items(config, str(exc))))
+            payload = write_outputs(fallback, errors, config, sections={})
 
     if not no_email:
         send_email(payload)

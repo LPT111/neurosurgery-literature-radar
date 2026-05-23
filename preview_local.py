@@ -4,6 +4,7 @@ from pathlib import Path
 
 import yaml
 
+from src.journal_metrics import enrich_metrics_many
 from src.render import write_outputs
 from src.summary import enrich_items
 
@@ -76,9 +77,92 @@ def sample_items() -> list[dict]:
     ]
 
 
+def sample_sections() -> dict[str, list[dict]]:
+    return {
+        "top_journal_neuroscience": [
+            {
+                "source": "PubMed",
+                "section": "top_journal_neuroscience",
+                "section_cn": "顶刊神经科学",
+                "topic": "top_journal_neuroscience",
+                "topic_cn": "顶刊神经科学",
+                "id": "sample:nature-neuro",
+                "pmid": "00000011",
+                "doi": "10.0000/sample.nature.neuro",
+                "title": "A spatial atlas of human neuroinflammation identifies disease-associated microglial states",
+                "journal": "Nature Neuroscience",
+                "published": "2026-05-22",
+                "authors": "Sample I; Sample J",
+                "abstract": "This sample top-journal neuroscience paper integrates spatial transcriptomics and single-cell profiling to define microglial states across neuroinflammatory lesions.",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/00000011/",
+                "score": 96,
+            },
+            {
+                "source": "PubMed",
+                "section": "top_journal_neuroscience",
+                "section_cn": "顶刊神经科学",
+                "topic": "top_journal_neuroscience",
+                "topic_cn": "顶刊神经科学",
+                "id": "sample:lancet-neuro",
+                "pmid": "00000012",
+                "doi": "10.0000/sample.lancet.neuro",
+                "title": "Shunt timing and cognitive outcomes in idiopathic normal pressure hydrocephalus: a multicentre cohort study",
+                "journal": "The Lancet Neurology",
+                "published": "2026-05-21",
+                "authors": "Sample K; Sample L",
+                "abstract": "This sample clinical cohort evaluates shunt timing, gait outcomes and cognitive trajectories in idiopathic normal pressure hydrocephalus.",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/00000012/",
+                "score": 94,
+            },
+        ],
+        "global_hot_topics": [
+            {
+                "source": "PubMed",
+                "section": "global_hot_topics",
+                "section_cn": "全球学术热点",
+                "topic": "global_hot_topics",
+                "topic_cn": "全球学术热点",
+                "id": "sample:bci",
+                "pmid": "00000021",
+                "doi": "10.0000/sample.bci",
+                "title": "Brain-computer interface foundation models for decoding speech and movement intention",
+                "journal": "Nature",
+                "published": "2026-05-20",
+                "authors": "Sample M; Sample N",
+                "abstract": "This sample hot-topic paper describes foundation-model methods for neural decoding and discusses translational issues in brain-computer interfaces.",
+                "url": "https://pubmed.ncbi.nlm.nih.gov/00000021/",
+                "score": 90,
+            }
+        ],
+        "medical_news": [
+            {
+                "source": "NIH News Releases",
+                "section": "medical_news",
+                "section_cn": "国内外医学与医药新闻",
+                "topic": "medical_news",
+                "topic_cn": "国内外医学与医药新闻",
+                "id": "sample:nih-news",
+                "pmid": "",
+                "doi": "",
+                "title": "NIH launches a new initiative to accelerate neurological disease biomarker discovery",
+                "journal": "NIH News Releases",
+                "published": "2026-05-22",
+                "authors": "",
+                "abstract": "This sample news item summarizes a new biomedical funding and translational research initiative related to neurological biomarkers.",
+                "url": "https://www.nih.gov/news-events/news-releases",
+                "score": 70,
+            }
+        ],
+    }
+
+
 def main() -> None:
     config = yaml.safe_load((BASE_DIR / "config/topics.yaml").read_text(encoding="utf-8"))
-    write_outputs(enrich_items(sample_items()), ["Preview mode: sample data only."], config)
+    sections = {
+        key: enrich_items(enrich_metrics_many(items))
+        for key, items in sample_sections().items()
+    }
+    write_outputs(enrich_items(enrich_metrics_many(sample_items())), ["Preview mode: sample data only."], config, sections=sections)
     print("Preview generated: index.html, data/latest.json, output/briefing.md, output/briefing.txt")
 
 

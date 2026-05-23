@@ -1,53 +1,31 @@
 # 神外文献日报 V1
 
-生成时间：2026-05-22 12:09:25
-筛选文献数量：10
+生成时间：2026-05-23 10:38:29
+核心神外文献数量：10
+全部条目数量：36
 
 > 人工审核前推文草稿；请在引用、转发或公众号发布前核对原文。
 
-## 1. The insulin receptor inhibitor BMS-754807 alleviates neuroinflammation and Alzheimer's disease pathologies across human cellular and mouse models.
+## 1. 论文标题：Illuminating proinflammatory myeloid cells with PET tracers targeting GPR84.
 
-- 主题：创伤性脑损伤
-- 来源：PubMed
-- 期刊/平台：Journal of neuroinflammation
-- 日期：2026-05-20
-- 分数：85
-- PMID：42163277
-- DOI：10.1186/s12974-026-03855-7
-- 链接：https://pubmed.ncbi.nlm.nih.gov/42163277/
-
-中文总结：这篇文献聚焦创伤性脑损伤，主要信息来自题名、期刊和摘要。BACKGROUND: BMS-754807 is a dual inhibitor of insulin-like growth factor 1 receptor (IGF-1R) and insulin receptor (IR) that is in phase II clinical trials for the treatment of HR-positive and HER2-negative breast cancer. Because IGF-1R signaling regulates infl...
-
-临床/科研意义：对创伤性脑损伤方向有参考价值，适合用于判断机制线索、模型选择、治疗递送策略或临床转化背景；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】The insulin receptor inhibitor BMS-754807 alleviates neuroinflammation and Alzheimer's disease pathologies across human cellular and mouse models.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：BACKGROUND: BMS-754807 is a dual inhibitor of insulin-like growth factor 1 receptor (IGF-1R) and insulin receptor (IR) that is in phase II clinical trials for the treatment of HR-positive and HER2-negative breast cancer. Because IGF-1R signaling regulates infl...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Journal of neuroinflammation｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/42163277/
-
-## 2. Illuminating proinflammatory myeloid cells with PET tracers targeting GPR84.
-
+- 英文题目：Illuminating proinflammatory myeloid cells with PET tracers targeting GPR84.
 - 主题：创伤性脑损伤
 - 来源：PubMed
 - 期刊/平台：Proceedings of the National Academy of Sciences of the United States of America
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
 - 日期：2026-05-26
 - 分数：75
 - PMID：42166242
 - DOI：10.1073/pnas.2536372123
-- 链接：https://pubmed.ncbi.nlm.nih.gov/42166242/
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42166242/
 
-中文总结：这篇文献聚焦创伤性脑损伤，主要信息来自题名、期刊和摘要。Innate immunity mediated by myeloid cells defends against infection and injury, but when chronically activated, it drives tissue damage and neurodegeneration. Molecular imaging with positron emission tomography (PET) enables noninvasive, real-time monitoring o...
+摘要：Innate immunity mediated by myeloid cells defends against infection and injury, but when chronically activated, it drives tissue damage and neurodegeneration. Molecular imaging with positron emission tomography (PET) enables noninvasive, real-time monitoring of such processes in vivo. However, most current neuroinflammation PET tracers lack specificity for activated myeloid cells. G protein-coupled receptor 84 (GPR84) is a promising biomarker that is selectively upregulated on activated microglia and macrophages. Here, we report the development and validation of two fluorine-18-labeled GPR84 tracers, [18F]MGX-110S and [18F]MGX-111S. Both exhibit specific binding to human GPR84-expressing cells, with [18F]MGX-110S demonstrating superior affinity, selectivity, and signal-to-background ratio. [18F]MGX-110S enables sensitive detection of systemic- and neuro-inflammation in LPS-treated mice and outperforms PET images obtained using a radiotracer specific for translocator protein 18 kDa in 5xFAD mice-revealing pathology-correlated activation across cortical, hippocampal, and thalamic regions. Taken together, our data indicate that [18F]MGX-110S is a highly sensitive and specific tool for visualizing maladaptive myeloid cell activation; its clinical translation could enable more precise detection and staging of inflammation in addition to improved therapeutic monitoring in neurodegenerative disorders and more broadly in inflammatory diseases.
 
-临床/科研意义：对创伤性脑损伤方向有参考价值，适合用于判断机制线索、模型选择、治疗递送策略或临床转化背景；正式引用前需核对全文。
+中文总结：这条内容归入“创伤性脑损伤”，聚焦创伤性脑损伤。主要信息来自题名、期刊/来源和摘要。Innate immunity mediated by myeloid cells defends against infection and injury, but when chronically activated, it drives tissue damage and neurodegeneration. Molecular imaging with positron emission tomography (PET) enables noninvasive, real-time monitoring o...
+
+临床/科研意义：对创伤性脑损伤方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
 推文草稿：
 
@@ -61,22 +39,63 @@
 
 小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
 
-参考信息：Proceedings of the National Academy of Sciences of the United States of America｜2026-05-26｜https://pubmed.ncbi.nlm.nih.gov/42166242/
+参考信息：Proceedings of the National Academy of Sciences of the United States of America｜IF 待核实｜待核实｜2026-05-26｜https://pubmed.ncbi.nlm.nih.gov/42166242/
 
-## 3. Chronic bisphenol A exposure activates the cGAS-STING-NLRP3 axis driving persistent hippocampal neuroinflammation and cognitive impairment.
+## 2. 论文标题：HAMA microneedles patch loaded with Three-Dimensional exosome and Mupirocin promote diabetic wound healing.
 
-- 主题：创伤性脑损伤
+- 英文题目：HAMA microneedles patch loaded with Three-Dimensional exosome and Mupirocin promote diabetic wound healing.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Stem cell research & therapy
+- 影响因子：5+
+- 分区：JCR Q1/Q2
+- 指标来源：内置示例
+- 日期：2026-05-21
+- 分数：75
+- PMID：42169069
+- DOI：10.1186/s13287-026-04992-9
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42169069/
+
+摘要：Diabetic wound healing impairment poses significant clinical challenges due to infection risks, poor angiogenesis, and chronic inflammation, often leading to amputation or death. Recently, mesenchymal stem cell-derived exosomes (Exos) exhibit potential in enhancing angiogenesis and suppressing inflammation, yet clinical application is limited by short half-life, low bioavailability, and high costs. Three-dimensional (3D) culture technology improves exosome yield and therapeutic efficacy, demonstrating superior performance in tissue regeneration. Concurrently, microneedle (MN) systems enable efficient transdermal drug delivery with minimal invasiveness. This study integrates 3d-Exo with Mupirocin into a hyaluronic acid methacrylate (HAMA)-based MN patch (3d-Exo MN) to enhance diabetic wound healing. The HAMA matrix ensures exosome stability and controlled release, while Mupirocin targets infection. In vitro and in vivo evaluations reveal that 3d-Exo MN significantly promotes cell proliferation, migration, and neovascularization, addressing key limitations of conventional therapies. By synergizing 3d-Exo advantages with MN-mediated delivery, this innovative platform offers a targeted, biocompatible strategy for diabetic wound management, bridging gaps in current treatment paradigms through enhanced drug efficacy and localized action.
+
+中文总结：这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。Diabetic wound healing impairment poses significant clinical challenges due to infection risks, poor angiogenesis, and chronic inflammation, often leading to amputation or death. Recently, mesenchymal stem cell-derived exosomes (Exos) exhibit potential in enha...
+
+临床/科研意义：对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】HAMA microneedles patch loaded with Three-Dimensional exosome and Mupirocin promote diabetic wound healing.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Diabetic wound healing impairment poses significant clinical challenges due to infection risks, poor angiogenesis, and chronic inflammation, often leading to amputation or death. Recently, mesenchymal stem cell-derived exosomes (Exos) exhibit potential in enha...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Stem cell research & therapy｜IF 5+｜JCR Q1/Q2｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42169069/
+
+## 3. 论文标题：Chronic bisphenol A exposure activates the cGAS-STING-NLRP3 axis driving persistent hippocampal neuroinflammation and cognitive impairment.
+
+- 英文题目：Chronic bisphenol A exposure activates the cGAS-STING-NLRP3 axis driving persistent hippocampal neuroinflammation and cognitive impairment.
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
 - 期刊/平台：Molecular and cellular biochemistry
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
 - 日期：2026-05-21
 - 分数：75
 - PMID：42166000
 - DOI：10.1007/s11010-026-05580-4
-- 链接：https://pubmed.ncbi.nlm.nih.gov/42166000/
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42166000/
 
-中文总结：这篇文献聚焦创伤性脑损伤，主要信息来自题名、期刊和摘要。Bisphenol A (BPA), a main component of polycarbonate plastics and epoxy resins, has been reported to cause chronic neuroinflammation and cognitive impairment in animal models. However, the precise molecular mechanisms of BPA-induced chronic neuroinflammation r...
+摘要：Bisphenol A (BPA), a main component of polycarbonate plastics and epoxy resins, has been reported to cause chronic neuroinflammation and cognitive impairment in animal models. However, the precise molecular mechanisms of BPA-induced chronic neuroinflammation remain unknown. In this study, male C57BL/6 mice were administered BPA at different doses for one month, followed by a one-month washout period. We then conducted behavioral tests, oxidative stress assays, and immunohistochemistry to quantify neuronal density and the activation of microglia and astrocytes in the central nervous system. We also carried out RT-qPCR gene expression analysis of the hippocampus for the cGAS-STING-NLRP3 pathway, cytokine assays, and microglial markers to decipher the immune responses in the hippocampus following BPA exposure. BPA induced dose-dependent behavioral deficits, which were most pronounced at 50 mg/kg. These findings suggest that cGAS-STING signaling acts as a key upstream mediator of BPA-induced hippocampal neuroinflammation and cognitive dysfunction.
 
-临床/科研意义：对创伤性脑损伤方向有参考价值，适合用于判断机制线索、模型选择、治疗递送策略或临床转化背景；正式引用前需核对全文。
+中文总结：这条内容归入“小胶质细胞与 TREM2”，聚焦小胶质细胞与 TREM2。主要信息来自题名、期刊/来源和摘要。Bisphenol A (BPA), a main component of polycarbonate plastics and epoxy resins, has been reported to cause chronic neuroinflammation and cognitive impairment in animal models. However, the precise molecular mechanisms of BPA-induced chronic neuroinflammation r...
+
+临床/科研意义：对小胶质细胞与 TREM2方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
 推文草稿：
 
@@ -90,22 +109,28 @@
 
 小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
 
-参考信息：Molecular and cellular biochemistry｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42166000/
+参考信息：Molecular and cellular biochemistry｜IF 待核实｜待核实｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42166000/
 
-## 4. O-GlcNAcylation reprograms microglial inflammatory states and attenuates Alzheimer's disease pathology.
+## 4. 论文标题：O-GlcNAcylation reprograms microglial inflammatory states and attenuates Alzheimer's disease pathology.
 
-- 主题：创伤性脑损伤
+- 英文题目：O-GlcNAcylation reprograms microglial inflammatory states and attenuates Alzheimer's disease pathology.
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
 - 期刊/平台：Cell death & disease
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
 - 日期：2026-05-21
 - 分数：75
 - PMID：42161925
 - DOI：10.1038/s41419-026-08862-3
-- 链接：https://pubmed.ncbi.nlm.nih.gov/42161925/
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42161925/
 
-中文总结：这篇文献聚焦创伤性脑损伤，主要信息来自题名、期刊和摘要。Chronic neuroinflammation, primarily driven by microglia, is a hallmark and key contributor to Alzheimer's disease (AD) progression. O-GlcNAcylation, a nutrient-sensitive post-translational modification, has emerged as a key regulator of cellular stress and in...
+摘要：Chronic neuroinflammation, primarily driven by microglia, is a hallmark and key contributor to Alzheimer's disease (AD) progression. O-GlcNAcylation, a nutrient-sensitive post-translational modification, has emerged as a key regulator of cellular stress and inflammation, yet its role in microglial activation in AD remains unclear. We observed that hippocampal tissue from AD patients exhibits a marked reduction in O-GlcNAcylation, accompanied by enhanced pro-inflammatory M1 microglial polarization, elevated NF-κB signaling, and NLRP3 inflammasome activation. In an LPS-induced neuroinflammation model exhibiting AD-relevant inflammatory and cognitive features, as well as in in vitro microglial cultures, LPS exposure led to a pronounced decrease in O-GlcNAcylation, particularly within Iba1-positive microglia. Systemic or in vitro treatment with glucosamine (GlcN) effectively restored O-GlcNAc levels, suppressed M1-associated inflammatory pathways, and promoted an anti-inflammatory M2 phenotype. Mechanistically, GlcN enhanced O-GlcNAcylation of NF-κB subunits p65 and c-Rel, limiting their nuclear translocation and downstream pro-inflammatory gene expression. Notably, GlcN treatment ameliorated LPS-induced memory deficits and neuronal loss in mice. Collectively, these findings suggest that O-GlcNAcylation acts as a modulatory regulator of microglial activation and neuroinflammation in AD, and that enhancing O-GlcNAcylation may represent a potential therapeutic strategy to preserve immune homeostasis and neuronal integrity.
 
-临床/科研意义：对创伤性脑损伤方向有参考价值，适合用于判断机制线索、模型选择、治疗递送策略或临床转化背景；正式引用前需核对全文。
+中文总结：这条内容归入“小胶质细胞与 TREM2”，聚焦小胶质细胞与 TREM2。主要信息来自题名、期刊/来源和摘要。Chronic neuroinflammation, primarily driven by microglia, is a hallmark and key contributor to Alzheimer's disease (AD) progression. O-GlcNAcylation, a nutrient-sensitive post-translational modification, has emerged as a key regulator of cellular stress and in...
+
+临床/科研意义：对小胶质细胞与 TREM2方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
 推文草稿：
 
@@ -119,138 +144,63 @@
 
 小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
 
-参考信息：Cell death & disease｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42161925/
+参考信息：Cell death & disease｜IF 待核实｜待核实｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42161925/
 
-## 5. Theanine: a phytochemical candidate for neural protection.
+## 5. 论文标题：Inhibition of C5aR1 alleviates early brain injury after subarachnoid hemorrhage by reducing STAT3 phosphorylation and attenuating neuroinflammation.
 
-- 主题：创伤性脑损伤
+- 英文题目：Inhibition of C5aR1 alleviates early brain injury after subarachnoid hemorrhage by reducing STAT3 phosphorylation and attenuating neuroinflammation.
+- 主题：脑积水与脑脊液循环
 - 来源：PubMed
-- 期刊/平台：Journal of the science of food and agriculture
+- 期刊/平台：Brain research bulletin
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
 - 日期：2026-05-20
 - 分数：75
-- PMID：42163019
-- DOI：10.1002/jsfa.70740
-- 链接：https://pubmed.ncbi.nlm.nih.gov/42163019/
+- PMID：42167499
+- DOI：10.1016/j.brainresbull.2026.111941
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42167499/
 
-中文总结：这篇文献聚焦创伤性脑损伤，主要信息来自题名、期刊和摘要。Theanine, which accumulates in Camellia sinensis (L.) O. Kuntze, has demonstrated strong neuroprotective effects and other health benefits that have attracted attention. This paper reviews relevant literature published during the past 5 years, analyzing and su...
+摘要：Subarachnoid hemorrhage is a severe type of cerebral hemorrhage, with neuroinflammation being the main driving factor. The C5a-C5aR1 axis can mediate the inflammatory response, but its mechanism of action in SAH remains unclear. We established in vivo and in vitro models of SAH and treated them with the C5aR1 inhibitor PMX53 or the STAT3 inhibitor STAT3-IN-13. We detected C5aR1 expression, levels of inflammatory factors, microglial polarization, and neuronal apoptosis using Western blotting, ELISA, TUNEL, and immunofluorescence. The expression of C5aR1 in the brains of SAH mice (peaking at 24hours) and in the cerebrospinal fluid (CSF) of patients was upregulated, which was associated with poor prognosis. PMX53 can improve neurological function, reduce edema and neuronal apoptosis, and transform microglia from the pro-inflammatory M1 type to the anti-inflammatory M2 type. PMX53 and STAT3-IN-13 inhibit JAK/STAT3-p65 phosphorylation, reduce TNF-α/IL-1β, and increase TGF-β/IL-10. C5a promotes STAT3 phosphorylation through C5aR1, thereby exacerbating neuroinflammation, making C5aR1 a potential therapeutic target.
 
-临床/科研意义：对创伤性脑损伤方向有参考价值，适合用于判断机制线索、模型选择、治疗递送策略或临床转化背景；正式引用前需核对全文。
+中文总结：这条内容归入“脑积水与脑脊液循环”，聚焦脑积水与脑脊液循环。主要信息来自题名、期刊/来源和摘要。Subarachnoid hemorrhage is a severe type of cerebral hemorrhage, with neuroinflammation being the main driving factor. The C5a-C5aR1 axis can mediate the inflammatory response, but its mechanism of action in SAH remains unclear. We established in vivo and in v...
+
+临床/科研意义：对脑积水与脑脊液循环方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
 推文草稿：
 
-【文献速递】Theanine: a phytochemical candidate for neural protection.
+【文献速递】Inhibition of C5aR1 alleviates early brain injury after subarachnoid hemorrhage by reducing STAT3 phosphorylation and attenuating neuroinflammation.
 
 研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
 
-核心发现：Theanine, which accumulates in Camellia sinensis (L.) O. Kuntze, has demonstrated strong neuroprotective effects and other health benefits that have attracted attention. This paper reviews relevant literature published during the past 5 years, analyzing and su...
+核心发现：Subarachnoid hemorrhage is a severe type of cerebral hemorrhage, with neuroinflammation being the main driving factor. The C5a-C5aR1 axis can mediate the inflammatory response, but its mechanism of action in SAH remains unclear. We established in vivo and in v...
 
 临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
 
 小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
 
-参考信息：Journal of the science of food and agriculture｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/42163019/
+参考信息：Brain research bulletin｜IF 10+｜JCR Q1 / CAS 1区｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/42167499/
 
-## 6. Genistein-3'-sodium sulfonate improves neuroinflammation, blood-brain barrier function, and microglial activation after chronic cerebral hypoperfusion by regulating TGR5.
+## 6. 论文标题：Exosome and biotherapeutic strategies for dermatological and oncological skin complications.
 
-- 主题：小胶质细胞与 TREM2
-- 来源：PubMed
-- 期刊/平台：Metabolic brain disease
-- 日期：2026-05-20
-- 分数：75
-- PMID：42159788
-- DOI：10.1007/s11011-026-01867-z
-- 链接：https://pubmed.ncbi.nlm.nih.gov/42159788/
-
-中文总结：这篇文献聚焦小胶质细胞与 TREM2，主要信息来自题名、期刊和摘要。This study investigated the effects of genistein-3'-sodium sulfonate (GSS) on chronic cerebral hypoperfusion (CCH) and the involvement of Takeda G-protein-coupled receptor 5 (TGR5) (also known as GPBAR1 (G protein-coupled bile acid receptor 1)) in its mechanis...
-
-临床/科研意义：对小胶质细胞与 TREM2方向有参考价值，适合用于判断机制线索、模型选择、治疗递送策略或临床转化背景；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】Genistein-3'-sodium sulfonate improves neuroinflammation, blood-brain barrier function, and microglial activation after chronic cerebral hypoperfusion by regulating TGR5.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：This study investigated the effects of genistein-3'-sodium sulfonate (GSS) on chronic cerebral hypoperfusion (CCH) and the involvement of Takeda G-protein-coupled receptor 5 (TGR5) (also known as GPBAR1 (G protein-coupled bile acid receptor 1)) in its mechanis...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Metabolic brain disease｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/42159788/
-
-## 7. Pneumococcal membrane particles promote serotype-independent cellular and humoral immunity and protect against pneumococcal colonization.
-
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Proceedings of the National Academy of Sciences of the United States of America
-- 日期：2026-05-26
-- 分数：69
-- PMID：42154558
-- DOI：10.1073/pnas.2537226123
-- 链接：https://pubmed.ncbi.nlm.nih.gov/42154558/
-
-中文总结：这篇文献聚焦干细胞与外泌体，主要信息来自题名、期刊和摘要。Despite implementation of pneumococcal conjugated vaccines (PCVs) against Streptococcus pneumoniae infections, these diseases are still major contributors to global mortality and morbidity, highlighting the need for a novel immunization strategy. Pneumococci r...
-
-临床/科研意义：对干细胞与外泌体方向有参考价值，适合用于判断机制线索、模型选择、治疗递送策略或临床转化背景；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】Pneumococcal membrane particles promote serotype-independent cellular and humoral immunity and protect against pneumococcal colonization.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：Despite implementation of pneumococcal conjugated vaccines (PCVs) against Streptococcus pneumoniae infections, these diseases are still major contributors to global mortality and morbidity, highlighting the need for a novel immunization strategy. Pneumococci r...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Proceedings of the National Academy of Sciences of the United States of America｜2026-05-26｜https://pubmed.ncbi.nlm.nih.gov/42154558/
-
-## 8. Mild hypothermia inhibits the inflammatory response and microglial M1 polarization in ischemic stroke via the EFNB2/EphB4 pathway.
-
-- 主题：神经外科综合
-- 来源：PubMed
-- 期刊/平台：Metabolic brain disease
-- 日期：2026-05-20
-- 分数：67
-- PMID：42159828
-- DOI：10.1007/s11011-026-01833-9
-- 链接：https://pubmed.ncbi.nlm.nih.gov/42159828/
-
-中文总结：这篇文献聚焦神经外科综合，主要信息来自题名、期刊和摘要。BACKGROUND: Mild hypothermia (MH) has been reported to ameliorate cerebral damage and neurofunctional deficits in ischemic stroke, but its molecular mechanisms remain unclear. This study focuses on exploring the neuroprotective regulatory mechanisms mediated b...
-
-临床/科研意义：对神经外科综合方向有参考价值，适合用于判断机制线索、模型选择、治疗递送策略或临床转化背景；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】Mild hypothermia inhibits the inflammatory response and microglial M1 polarization in ischemic stroke via the EFNB2/EphB4 pathway.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：BACKGROUND: Mild hypothermia (MH) has been reported to ameliorate cerebral damage and neurofunctional deficits in ischemic stroke, but its molecular mechanisms remain unclear. This study focuses on exploring the neuroprotective regulatory mechanisms mediated b...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Metabolic brain disease｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/42159828/
-
-## 9. Exosome and biotherapeutic strategies for dermatological and oncological skin complications.
-
+- 英文题目：Exosome and biotherapeutic strategies for dermatological and oncological skin complications.
 - 主题：干细胞与外泌体
 - 来源：PubMed
 - 期刊/平台：Annals of medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
 - 日期：2026-12-01
-- 分数：65
+- 分数：73
 - PMID：42139022
 - DOI：10.1080/07853890.2026.2673184
-- 链接：https://pubmed.ncbi.nlm.nih.gov/42139022/
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42139022/
 
-中文总结：这篇文献聚焦干细胞与外泌体，主要信息来自题名、期刊和摘要。BACKGROUND: Exosomes are nanosized extracellular vesicles (30-150 nm) that mediate intercellular communication by transferring bioactive molecules, including proteins, lipids, and nucleic acids. Their ability to regulate inflammation, immune responses, angioge...
+摘要：BACKGROUND: Exosomes are nanosized extracellular vesicles (30-150 nm) that mediate intercellular communication by transferring bioactive molecules, including proteins, lipids, and nucleic acids. Their ability to regulate inflammation, immune responses, angiogenesis, and tissue regeneration has positioned them as promising candidates for the management of dermatological diseases and oncologic skin complications. METHODS: A comprehensive literature review was conducted using PubMed and Web of Science databases (2020-2025). Relevant preclinical studies, clinical trials, and mechanistic investigations evaluating exosome biology, therapeutic applications, and biotherapeutic strategies in dermatological and oncologic skin conditions were included and analysed. RESULTS: Exosome-based therapies, particularly those derived from mesenchymal and adipose-derived stem cells, demonstrate significant regenerative and immunomodulatory effects. These include enhanced wound healing, reduced inflammation, improved extracellular matrix remodelling, and modulation of immune pathways. Therapeutic benefits have been reported in chronic wounds, inflammatory dermatoses, pigmentary disorders, skin ageing, acne scarring, and treatment-related skin toxicities. In oncologic contexts, exosomes exhibit dual roles, contributing to both tissue repair and tumour progression depending on their origin. Despite strong preclinical evidence, clinical translation remains limited due to challenges in standardisation, scalability, and safety evaluation. CONCLUSIONS: Exosome-based biotherapeutics represent a promising, cell-free strategy for managing complex dermatological and oncologic skin conditions. Future progress will depend on standardised manufacturing protocols, rigorous clinical trials, and long-term safety validation to enable effective clinical application.
 
-临床/科研意义：对干细胞与外泌体方向有参考价值，适合用于判断机制线索、模型选择、治疗递送策略或临床转化背景；正式引用前需核对全文。
+中文总结：这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。BACKGROUND: Exosomes are nanosized extracellular vesicles (30-150 nm) that mediate intercellular communication by transferring bioactive molecules, including proteins, lipids, and nucleic acids. Their ability to regulate inflammation, immune responses, angioge...
+
+临床/科研意义：对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
 推文草稿：
 
@@ -264,22 +214,133 @@
 
 小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
 
-参考信息：Annals of medicine｜2026-12-01｜https://pubmed.ncbi.nlm.nih.gov/42139022/
+参考信息：Annals of medicine｜IF 待核实｜待核实｜2026-12-01｜https://pubmed.ncbi.nlm.nih.gov/42139022/
 
-## 10. A human cardiomyocyte screen identifies optimized lipid nanoparticles for in vivo cardiac gene editing.
+## 7. 论文标题：A 3-Week Intensive Outpatient Program for Patients With Persistent Neuropsychiatric Symptoms After Remote TBI.
 
+- 英文题目：A 3-Week Intensive Outpatient Program for Patients With Persistent Neuropsychiatric Symptoms After Remote TBI.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：The Journal of neuropsychiatry and clinical neurosciences
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-05-22
+- 分数：73
+- PMID：42168808
+- DOI：10.1176/appi.neuropsych.20250116
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42168808/
+
+摘要：OBJECTIVE: The authors evaluated changes associated with a 3-week interdisciplinary intensive outpatient program that delivers integrated neuropsychiatric rehabilitation for veterans and first responders with persistent postconcussive and co-occurring symptoms after remote traumatic brain injury. METHODS: In this retrospective cohort study, 128 patients completed patient-reported measures, including the Neurobehavioral Symptom Inventory (NSI), PTSD Checklist for DSM-5 (PCL-5), and Life Satisfaction Questionnaire-11 (LiSat-11), and objective assessments, comprising Addenbrooke's Cognitive Examination-III (ACE-III), gait speed, computerized dynamic posturography (for conducting the Sensory Organization Test [SOT]), and Modified Clinical Test of Sensory Interaction in Balance (mCTSIB). Paired t tests were used to compare intake with discharge measures, and a linear mixed-effects model was used to examine NSI scores over time with covariate adjustment. RESULTS: The NSI total score decreased by 15.6 points (41%, Cohen's d=1.11); ACE-III scores improved by 6.8 points (Cohen's d=1.41); and forward and backward gait speeds, SOT composite scores, and mCTSIB condition 4 scores showed significant improvements (Cohen's d=0.68-0.87). The proportion of patients screening at or above a common PTSD threshold on the PCL-5 declined from 51% at intake to 20% at discharge, and higher baseline PCL-5 scores were associated with higher NSI scores across time points (p<0.001). CONCLUSIONS: These findings are consistent with multidomain benefits of intensive, interdisciplinary neuropsychiatric rehabilitation in this population. These results support the potential of integrated care models to reduce symptom burden and improve cognitive, mobility, vestibular, and life satisfaction outcomes over 3 weeks, while underscoring the close linkage between posttraumatic stress severity and neurobehavioral symptom burden.
+
+中文总结：这条内容归入“创伤性脑损伤”，聚焦创伤性脑损伤。主要信息来自题名、期刊/来源和摘要。OBJECTIVE: The authors evaluated changes associated with a 3-week interdisciplinary intensive outpatient program that delivers integrated neuropsychiatric rehabilitation for veterans and first responders with persistent postconcussive and co-occurring symptoms...
+
+临床/科研意义：对创伤性脑损伤方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】A 3-Week Intensive Outpatient Program for Patients With Persistent Neuropsychiatric Symptoms After Remote TBI.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：OBJECTIVE: The authors evaluated changes associated with a 3-week interdisciplinary intensive outpatient program that delivers integrated neuropsychiatric rehabilitation for veterans and first responders with persistent postconcussive and co-occurring symptoms...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：The Journal of neuropsychiatry and clinical neurosciences｜IF 待核实｜待核实｜2026-05-22｜https://pubmed.ncbi.nlm.nih.gov/42168808/
+
+## 8. 论文标题：The Two-Step Allogeneic Stem Cell Transplant Is Associated with Excellent Engraftment, Improved Survival and Low Nonrelapse Mortality in Patients with Myelofibrosis.
+
+- 英文题目：The Two-Step Allogeneic Stem Cell Transplant Is Associated with Excellent Engraftment, Improved Survival and Low Nonrelapse Mortality in Patients with Myelofibrosis.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Hematology/oncology and stem cell therapy
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-05-22
+- 分数：73
+- PMID：42170684
+- DOI：10.4103/hemoncstem.hemoncstem-D-25-00039
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42170684/
+
+摘要：Myelofibrosis is a chronic myeloproliferative disorder primarily affecting older adults, and allogeneic hematopoietic stem cell transplantation (HSCT) remains the only curative treatment option. However, HSCT for myelofibrosis presents significant challenges, including high nonrelapse mortality (NRM) and an increased risk of graft failure. In this 20-year retrospective study, we evaluated outcomes for 32 myelofibrosis patients who underwent HSCT at our institution, with particular focus on a two-step transplant approach designed to optimize T-cell dosing by separating the lymphoid and myeloid graft components, with cyclophosphamide administered after the lymphoid infusion and before infusion of CD34-selected stem cells. Eighteen patients underwent transplantation using the two-step approach and demonstrated favorable outcomes, with 1-year and 5-year overall survival (OS) rates of 83% and 68%, respectively. NRM was reduced, with rates of 17% at 1 year and 23% at 5 years. Engraftment was robust, with median neutrophil and platelet recovery at 12 and 19 days, respectively, and a low graft failure rate of 5.9% despite the predominant use of reduced-intensity conditioning and haploidentical donors, compared with 17.5% graft failure among patients receiving a traditional one-step transplant. Across the entire cohort, OS was 66% at 1 year and 54% at 5 years, respectively, with NRM rates of 34% and 42% at 5 years, respectively. The cumulative incidence of grade 2-4 acute graft-versus-host disease (GVHD) and chronic GVHD was 17% each. These findings suggest that the two-step transplant platform is a viable and effective strategy for improving HSCT outcomes in myelofibrosis, providing lower NRM and favorable engraftment profiles. Further studies are warranted to validate these results and refine HSCT protocols to reduce transplant-related mortality and improve long-term survival in patients with myelofibrosis.
+
+中文总结：这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。Myelofibrosis is a chronic myeloproliferative disorder primarily affecting older adults, and allogeneic hematopoietic stem cell transplantation (HSCT) remains the only curative treatment option. However, HSCT for myelofibrosis presents significant challenges,...
+
+临床/科研意义：对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】The Two-Step Allogeneic Stem Cell Transplant Is Associated with Excellent Engraftment, Improved Survival and Low Nonrelapse Mortality in Patients with Myelofibrosis.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Myelofibrosis is a chronic myeloproliferative disorder primarily affecting older adults, and allogeneic hematopoietic stem cell transplantation (HSCT) remains the only curative treatment option. However, HSCT for myelofibrosis presents significant challenges,...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Hematology/oncology and stem cell therapy｜IF 待核实｜待核实｜2026-05-22｜https://pubmed.ncbi.nlm.nih.gov/42170684/
+
+## 9. 论文标题：Pneumococcal membrane particles promote serotype-independent cellular and humoral immunity and protect against pneumococcal colonization.
+
+- 英文题目：Pneumococcal membrane particles promote serotype-independent cellular and humoral immunity and protect against pneumococcal colonization.
 - 主题：干细胞与外泌体
 - 来源：PubMed
 - 期刊/平台：Proceedings of the National Academy of Sciences of the United States of America
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-05-26
+- 分数：69
+- PMID：42154558
+- DOI：10.1073/pnas.2537226123
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42154558/
+
+摘要：Despite implementation of pneumococcal conjugated vaccines (PCVs) against Streptococcus pneumoniae infections, these diseases are still major contributors to global mortality and morbidity, highlighting the need for a novel immunization strategy. Pneumococci release extracellular vesicles/membrane particles (MP) that are enriched in lipids, virulence factors, and surface proteins, and show great efficacy in protecting against invasive pneumococcal disease in mice. As such, MP present an alternative vaccine strategy. However, an in-depth understanding of how pneumococcal MP interact and modulate the immune system in vivo is currently lacking. In this study, we demonstrate that pneumococcal MP possess robust intrinsic adjuvant properties and conserved antigens, including MalX and PrsA, that support a strong serotype-independent effector and memory Th17 response in mice and humans. Mechanistically, vesicles are sensed through TLR2 and signaling through this receptor is required for the human IL-17 response. Moreover, intranasal immunization with MP expands the tissue resident macrophage populations in the lungs with enhanced functional capacities. Our study also demonstrates that MP immunization in the absence of adjuvant is sufficient to protect against colonization in mice.
+
+中文总结：这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。Despite implementation of pneumococcal conjugated vaccines (PCVs) against Streptococcus pneumoniae infections, these diseases are still major contributors to global mortality and morbidity, highlighting the need for a novel immunization strategy. Pneumococci r...
+
+临床/科研意义：对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Pneumococcal membrane particles promote serotype-independent cellular and humoral immunity and protect against pneumococcal colonization.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Despite implementation of pneumococcal conjugated vaccines (PCVs) against Streptococcus pneumoniae infections, these diseases are still major contributors to global mortality and morbidity, highlighting the need for a novel immunization strategy. Pneumococci r...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Proceedings of the National Academy of Sciences of the United States of America｜IF 待核实｜待核实｜2026-05-26｜https://pubmed.ncbi.nlm.nih.gov/42154558/
+
+## 10. 论文标题：A human cardiomyocyte screen identifies optimized lipid nanoparticles for in vivo cardiac gene editing.
+
+- 英文题目：A human cardiomyocyte screen identifies optimized lipid nanoparticles for in vivo cardiac gene editing.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Proceedings of the National Academy of Sciences of the United States of America
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
 - 日期：2026-05-26
 - 分数：65
 - PMID：42150080
 - DOI：10.1073/pnas.2528477123
-- 链接：https://pubmed.ncbi.nlm.nih.gov/42150080/
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42150080/
 
-中文总结：这篇文献聚焦干细胞与外泌体，主要信息来自题名、期刊和摘要。RNA therapeutics offer promising potential for treating heart disease; however, their clinical application has been limited by insufficient cardiac delivery. Here, we developed a screening platform using human induced pluripotent stem cell-derived cardiomyocyt...
+摘要：RNA therapeutics offer promising potential for treating heart disease; however, their clinical application has been limited by insufficient cardiac delivery. Here, we developed a screening platform using human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs) to identify human cardiotropic lipid nanoparticles (LNPs). By screening a chemically diverse LNP library, we identified a lead LNP, 18:1 TAP10, with potent human cardiac transfection capability. Using the Ai14 LoxP-Stop-LoxP-tdTomato reporter mouse model, we assessed 18:1 TAP10 LNP delivery of Cre mRNA in vivo via four administration routes (intravenous, intrathoracic, intracoronary, and intramyocardial (IM)) and found that each administration path enabled both the spatial distribution and cellular tropism in the heart to varying degrees. While all routes achieved robust transfection across non-CM populations (up to 40% in endothelial cells), IM injection notably enabled substantial CM transfection (36% at injection site, 13% distally). To demonstrate therapeutic potential, 18:1 TAP10 LNPs were used to deliver adenine base editor (ABE) components to Duchenne muscular dystrophy (DMD) patient-derived hiPSC-CMs, resulting in 80% on-target gene correction and restoration of dystrophin expression. In a humanized DMD mouse model, we observed dystrophin-positive cardiomyocytes in the injected left ventricle following IM administration of LNP-ABE. This work establishes a human cell-based platform for discovering organ-tropic delivery vehicles and highlights LNPs as a potential modality for therapeutic mRNA delivery and gene editing in the heart.
 
-临床/科研意义：对干细胞与外泌体方向有参考价值，适合用于判断机制线索、模型选择、治疗递送策略或临床转化背景；正式引用前需核对全文。
+中文总结：这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。RNA therapeutics offer promising potential for treating heart disease; however, their clinical application has been limited by insufficient cardiac delivery. Here, we developed a screening platform using human induced pluripotent stem cell-derived cardiomyocyt...
+
+临床/科研意义：对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
 推文草稿：
 
@@ -293,13 +354,920 @@
 
 小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
 
-参考信息：Proceedings of the National Academy of Sciences of the United States of America｜2026-05-26｜https://pubmed.ncbi.nlm.nih.gov/42150080/
+参考信息：Proceedings of the National Academy of Sciences of the United States of America｜IF 待核实｜待核实｜2026-05-26｜https://pubmed.ncbi.nlm.nih.gov/42150080/
 
-## 抓取提示
+# 顶刊神经科学
 
-- arXiv traumatic_brain_injury: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
-- arXiv hydrocephalus: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22hydrocephalus%22+OR+all%3A%22normal+pressure+hydrocephalus%22+OR+all%3A%22iNPH%22+OR+all%3A%22cerebrospinal+fluid%22+OR+all%3A%22CSF%22+OR+all%3A%22meningeal+lymphatic%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
-- arXiv stem_cell_exosome: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
-- arXiv microglia_trem2: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22microglia%22+OR+all%3A%22TREM2%22+OR+all%3A%22Cystatin+C%22+OR+all%3A%22CST3%22+OR+all%3A%22phagocytosis%22+OR+all%3A%22neuroimmune%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
-- arXiv glioma_spinal: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22glioma%22+OR+all%3A%22glioblastoma%22+OR+all%3A%22spinal+cord+tumor%22+OR+all%3A%22astrocytoma%22+OR+all%3A%22tumor+microenvironment%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
-- arXiv neurosurgery_general: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
+## 1. 论文标题：Endogenous retrovirus-derived RNA-DNA hybrids induce microglial synaptic pruning in autism models.
+
+- 英文题目：Endogenous retrovirus-derived RNA-DNA hybrids induce microglial synaptic pruning in autism models.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Neuron
+- 影响因子：15+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置示例
+- 日期：2026-05-20
+- 分数：91
+- PMID：41742408
+- DOI：10.1016/j.neuron.2026.01.011
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/41742408/
+
+摘要：Microglia-mediated neuroinflammation is increasingly recognized as a key pathological component in autism spectrum disorders (ASDs), though the mechanisms driving microglial activation remain largely elusive. Our study reveals that deficiency in the high-risk ASD gene SETDB1, as well as maternal immune activation (MIA), elevates complement protein C4b expression specifically in prefrontal cortex (PFC) neurons. This upregulation triggers excessive microglial synaptic pruning, leading to autistic-like behaviors. Furthermore, we found that microglia elimination improved synaptic density, while complete C4b knockout rescued all observed autistic-like phenotypes in mice. C4b expression is driven by RNA-DNA hybrids formed through the reactivation of endogenous retroviruses (ERVs). Notably, we identify that existing FDA-approved HIV medications, which inhibit retrotranscriptional activity, substantially reduce C4b levels and alleviate ASD symptoms. These findings underscore the crucial role of C4b in microglia-mediated synaptic pruning in ASD and highlight the therapeutic potential of targeting ERV reactivation with existing HIV medications.
+
+中文总结：这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。Microglia-mediated neuroinflammation is increasingly recognized as a key pathological component in autism spectrum disorders (ASDs), though the mechanisms driving microglial activation remain largely elusive. Our study reveals that deficiency in the high-risk...
+
+临床/科研意义：对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Endogenous retrovirus-derived RNA-DNA hybrids induce microglial synaptic pruning in autism models.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Microglia-mediated neuroinflammation is increasingly recognized as a key pathological component in autism spectrum disorders (ASDs), though the mechanisms driving microglial activation remain largely elusive. Our study reveals that deficiency in the high-risk...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Neuron｜IF 15+｜JCR Q1 / CAS 1区｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/41742408/
+
+## 2. 论文标题：MIF modulates impaired astrocyte distribution in schizophrenia cortical spheroids.
+
+- 英文题目：MIF modulates impaired astrocyte distribution in schizophrenia cortical spheroids.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Brain : a journal of neurology
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
+- 日期：2026-05-19
+- 分数：91
+- PMID：42153336
+- DOI：10.1093/brain/awag181
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42153336/
+
+摘要：Neuroinflammation and astrocyte dysfunction are associated with schizophrenia. To elucidate the molecular mechanisms involved, we generated induced pluripotent stem cells from 14 schizophrenia patients and 14 healthy controls and differentiated them to human cortical spheroids. Transcriptional profiling revealed overexpression of cilia-related genes in schizophrenia spheroids which was mainly driven by astrocytes. We identified baseline abnormal astrocyte distribution in schizophrenia and show that it is triggered by the pro-inflammatory cytokine macrophage migration inhibitory factor (MIF), primarily secreted by neurons. While treatment with the MIF antagonist ISO-1 attenuated abnormal astrocyte distribution in schizophrenia spheroids and reduced pro-inflammatory cytokines secretion, MIF gene knockout with CRISPR-Cas9 exacerbated astrocyte and cytokines dysregulation in schizophrenia cultures, suggesting that both extremes of elevated and absent MIF lead to impaired astrocyte distribution and that a minimum expression of MIF is required for optimal cell function. Taken together, our results point to a MIF-induced regulation of cortical astroglia in schizophrenia and highlight MIF antagonists as potential novel treatment strategies.
+
+中文总结：这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。Neuroinflammation and astrocyte dysfunction are associated with schizophrenia. To elucidate the molecular mechanisms involved, we generated induced pluripotent stem cells from 14 schizophrenia patients and 14 healthy controls and differentiated them to human c...
+
+临床/科研意义：对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】MIF modulates impaired astrocyte distribution in schizophrenia cortical spheroids.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Neuroinflammation and astrocyte dysfunction are associated with schizophrenia. To elucidate the molecular mechanisms involved, we generated induced pluripotent stem cells from 14 schizophrenia patients and 14 healthy controls and differentiated them to human c...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Brain : a journal of neurology｜IF 10+｜JCR Q1 / CAS 1区｜2026-05-19｜https://pubmed.ncbi.nlm.nih.gov/42153336/
+
+## 3. 论文标题：Parkinson's disease beyond the brain: erythrocyte α-synuclein transfer across the blood-brain barrier.
+
+- 英文题目：Parkinson's disease beyond the brain: erythrocyte α-synuclein transfer across the blood-brain barrier.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Brain : a journal of neurology
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
+- 日期：2026-05-19
+- 分数：91
+- PMID：42153334
+- DOI：10.1093/brain/awag179
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42153334/
+
+摘要：Parkinson's disease is characterized by the accumulation and propagation of α-synuclein pathology in the central nervous system, yet the contribution of peripheral α-synuclein sources remains unclear. Here, we identify erythrocytes as an important reservoir of α-synuclein and demonstrate that bone marrow-derived erythrocytic α-synuclein likely contributes to brain pathology and Parkinson's disease-related neurodegeneration. Using human tissues and mouse models, we show that erythrocytes harbour abundant α-synuclein species. Bone marrow transplantation revealed widespread distribution of bone marrow-derived α-synuclein in peripheral organs, with detectable but substantially lower levels in the brain. Within the central nervous system, bone marrow-derived α-synuclein preferentially accumulated in resident microglia, as confirmed by immunophenotyping and single-nucleus RNA sequencing, and was associated with microglial activation. Furthermore, erythrocyte-derived extracellular vesicles carrying α-synuclein can be readily taken up by microglia in vivo. Functionally, elevated levels of bone marrow-derived α-synuclein in the mouse brain resulted in dopaminergic dysfunction with a mild neurodegenerative phenotype under baseline conditions. Importantly, blood-brain barrier integrity critically regulated peripheral α-synuclein entry into the central nervous system. Disruption of the blood-brain barrier by endotoxin administration, mannitol treatment or focused ultrasound markedly increased the entry of peripheral α-synuclein into the brain, aggravating neurodegeneration and behavioural deficits. Collectively, these findings identify bone marrow-derived erythrocytic α-synuclein as a systemic contributor to the pathogenesis of Parkinson's disease and highlight blood-brain barrier integrity as a key permissive regulator of peripheral-to-central α-synuclein transmission.
+
+中文总结：这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。Parkinson's disease is characterized by the accumulation and propagation of α-synuclein pathology in the central nervous system, yet the contribution of peripheral α-synuclein sources remains unclear. Here, we identify erythrocytes as an important reservoir of...
+
+临床/科研意义：对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Parkinson's disease beyond the brain: erythrocyte α-synuclein transfer across the blood-brain barrier.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Parkinson's disease is characterized by the accumulation and propagation of α-synuclein pathology in the central nervous system, yet the contribution of peripheral α-synuclein sources remains unclear. Here, we identify erythrocytes as an important reservoir of...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Brain : a journal of neurology｜IF 10+｜JCR Q1 / CAS 1区｜2026-05-19｜https://pubmed.ncbi.nlm.nih.gov/42153334/
+
+## 4. 论文标题：Microglia Rank signaling regulates GnRH neuronal function and the hypothalamic-pituitary-gonadal axis.
+
+- 英文题目：Microglia Rank signaling regulates GnRH neuronal function and the hypothalamic-pituitary-gonadal axis.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Science (New York, N.Y.)
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-05-21
+- 分数：81
+- PMID：41818388
+- DOI：10.1126/science.aeb6999
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/41818388/
+
+摘要：The hypothalamic-pituitary-gonadal axis (HPG) controls pubertal development, sexual maturation, and fertility. We identified a role of hypothalamic microglia in controlling the HPG axis through receptor activator of nuclear factor κB (Rank) signaling. Whole-body and microglia Rank (mouse) depletion led to hypogonadotropic hypogonadism (HH) resulting from an alteration in gonadotropin-releasing hormone (GnRH) neuron function. In addition, we identified rare gene variants of RANK (human) in patients with HH. Transcriptional profiling upon Rank loss revealed defective microglia activation and morphological alterations in the median eminence, decreasing the contacts and engulfment of GnRH terminal projections and impairing GnRH neuronal responses to kisspeptin. Overall, our data uncover the microglia as regulator of GnRH neuronal function through Rank signaling, with potential implications for reproductive maturation and fertility.
+
+中文总结：这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。The hypothalamic-pituitary-gonadal axis (HPG) controls pubertal development, sexual maturation, and fertility. We identified a role of hypothalamic microglia in controlling the HPG axis through receptor activator of nuclear factor κB (Rank) signaling. Whole-bo...
+
+临床/科研意义：对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Microglia Rank signaling regulates GnRH neuronal function and the hypothalamic-pituitary-gonadal axis.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：The hypothalamic-pituitary-gonadal axis (HPG) controls pubertal development, sexual maturation, and fertility. We identified a role of hypothalamic microglia in controlling the HPG axis through receptor activator of nuclear factor κB (Rank) signaling. Whole-bo...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Science (New York, N.Y.)｜IF 待核实｜待核实｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/41818388/
+
+## 5. 论文标题：Spatial proteomic analysis in human Alzheimer's disease brains enables identification of microenvironment-dependent microglial cell states.
+
+- 英文题目：Spatial proteomic analysis in human Alzheimer's disease brains enables identification of microenvironment-dependent microglial cell states.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Nature neuroscience
+- 影响因子：20+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置示例
+- 日期：2026-05-18
+- 分数：81
+- PMID：42151483
+- DOI：10.1038/s41593-026-02267-3
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42151483/
+
+摘要：Disease-associated microglial states are thought to contribute to Alzheimer's disease (AD) progression, but characterizing them and their relationships to pathology remains challenging. Here we introduce CODEX-CNS-a multiplexed protein imaging technology with a custom data analysis pipeline for use in human brain samples. We profiled 704,706 cells in samples from the frontal cortex of 8 people with AD and 8 healthy controls and mapped features including blood-brain barrier, meningeal components and cell-cell interactions within the same tissue sections. Amongst the myeloid cell populations we identified, we found a border-associated macrophage-like microglial subset associated with aging. Further classifying myeloid cell subsets based on their spatial neighborhood, we identified a border-associated macrophage-like microglial subpopulation that was associated significantly with dense amyloid-β plaques, which we termed human plaque-associated microglia. This work offers insights into myeloid cell heterogeneity in AD and provides a new spatial approach to characterizing brain cells at the single-cell protein level.
+
+中文总结：这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。Disease-associated microglial states are thought to contribute to Alzheimer's disease (AD) progression, but characterizing them and their relationships to pathology remains challenging. Here we introduce CODEX-CNS-a multiplexed protein imaging technology with...
+
+临床/科研意义：对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Spatial proteomic analysis in human Alzheimer's disease brains enables identification of microenvironment-dependent microglial cell states.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Disease-associated microglial states are thought to contribute to Alzheimer's disease (AD) progression, but characterizing them and their relationships to pathology remains challenging. Here we introduce CODEX-CNS-a multiplexed protein imaging technology with...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Nature neuroscience｜IF 20+｜JCR Q1 / CAS 1区｜2026-05-18｜https://pubmed.ncbi.nlm.nih.gov/42151483/
+
+## 6. 论文标题：Scientists play catch-up to startling Ebola outbreak.
+
+- 英文题目：Scientists play catch-up to startling Ebola outbreak.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Science (New York, N.Y.)
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-05-21
+- 分数：79
+- PMID：42166572
+- DOI：10.1126/science.aej0202
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42166572/
+
+摘要：Testing, sequencing, and clinical trial efforts spring to life as Bundibugyo virus spreads.
+
+中文总结：这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。Testing, sequencing, and clinical trial efforts spring to life as Bundibugyo virus spreads.
+
+临床/科研意义：对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Scientists play catch-up to startling Ebola outbreak.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Testing, sequencing, and clinical trial efforts spring to life as Bundibugyo virus spreads.
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Science (New York, N.Y.)｜IF 待核实｜待核实｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42166572/
+
+## 7. 论文标题：A plasma protein signature for cerebral amyloid angiopathy.
+
+- 英文题目：A plasma protein signature for cerebral amyloid angiopathy.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Acta neuropathologica
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置示例
+- 日期：2026-05-20
+- 分数：79
+- PMID：42162487
+- DOI：10.1007/s00401-026-03030-5
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42162487/
+
+摘要：Cerebral amyloid angiopathy (CAA) is a cerebrovascular disorder characterized by the deposition of amyloid-β (Aβ) in the walls of leptomeningeal and cortical blood vessels that increases risk of intracerebral hemorrhages and progressive cognitive decline. More than 90% of individuals with Alzheimer's disease (AD) exhibit some level of CAA. Notably, in the new era of disease-modifying treatments for AD, CAA is a significant risk factor for amyloid-related imaging abnormalities (ARIA), an adverse event associated with anti-amyloid treatments. Therefore, there is great need for accessible, reliable and accurate in vivo biomarkers (e.g., blood-based) to improve antemortem identification of CAA that would improve risk stratification and reduce symptomatic ARIA. In this study, we employed the Nucleic Acid-Linked Immuno-Sandwich Assay (NULISA™) central nervous system panel for exploratory biomarker quantification in antemortem plasma of participants with neuropathological assessments for CAA from the Banner Sun Health Research Institute Brain and Body Donation Program (N = 251) and independently validated in the University of California Irvine Alzheimer Disease Research Center cohort (N = 110). We evaluated the differential protein expression in antemortem plasma sample taken < 5 years (mean 1.76 ± 1.3) from death using a logistic regression model. We further compared multi-biomarker models and found that a combination of CRP, IL4, CCL11, NPY and PDLIM5, plus demographic covariates showed an area under the curve (AUC) of 0.90 (95% CI 0.86-0.94) to identify neuropathologically confirmed CAA in the discovery cohort. In our independent replication, the antemortem plasma signature performed better than the basic demographics model showing a potential to predict CAA. The exploration and validation in antemortem plasma indicate that a multi-analyte panel, when combined with in vivo blood biomarkers for AD pathology, may be capable of identifying the presence of CAA and could have an meaningful impact on the clinical evaluation of patients under the investigation for cognitive decline. Further developments in biomarkers for this condition are crucial so that CAA identification could inform treatment decisions by highlighting ARIA risk.
+
+中文总结：这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。Cerebral amyloid angiopathy (CAA) is a cerebrovascular disorder characterized by the deposition of amyloid-β (Aβ) in the walls of leptomeningeal and cortical blood vessels that increases risk of intracerebral hemorrhages and progressive cognitive decline. More...
+
+临床/科研意义：对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】A plasma protein signature for cerebral amyloid angiopathy.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Cerebral amyloid angiopathy (CAA) is a cerebrovascular disorder characterized by the deposition of amyloid-β (Aβ) in the walls of leptomeningeal and cortical blood vessels that increases risk of intracerebral hemorrhages and progressive cognitive decline. More...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Acta neuropathologica｜IF 10+｜JCR Q1 / CAS 1区｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/42162487/
+
+## 8. 论文标题：Spinal neuromotor rehabilitation using a portable isokinetic training robot.
+
+- 英文题目：Spinal neuromotor rehabilitation using a portable isokinetic training robot.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Nature
+- 影响因子：50+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置示例
+- 日期：2026-05-20
+- 分数：79
+- PMID：42162434
+- DOI：10.1038/s41586-026-10642-0
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42162434/
+
+摘要：Most lower-extremity assistive robots are designed to actively assist gait1-7 without considering long-term neuromuscular adaptations8-11. In this study, we present a lightweight (0.96 kg) robot that administers isokinetic resistance training to sustain neuromuscular rehabilitation after removal. The device integrates a variable stiffness mechanism with a back-drivable damping motor to make available safe, portable, and customizable resistance training to juveniles with Spinal Muscular Atrophy (SMA) type II. In a study involving 6 such juvenile participants, significant improvements in lower-extremity motor ability were observed after 6 weeks of robot-assisted training in a clinical trial (NCT06648486). Participants gained the ability to perform sit-to-stand transitions with hands on knees but without external support from an average seated knee flexion angle of 111° to 104°, representing a 7° improvement from pre-intervention. This improvement was accompanied by significantly increased bilateral knee joint function (peak torque: +130%; range of motion: +51%; work: +97%). Significant physiological quadriceps muscle hypertrophy was observed (anatomical cross-sectional area: +12%; volume: +19%; physiological cross-sectional area: +21%) alongside enhanced femoral nerve conduction (compound muscle action potential: +19%), representing physiological changes consistent with the observed functional improvements. Importantly, participants were able to retain their gains after discontinuing isokinetic training and returning to their conventional physiotherapy routines. These results suggest that even temporary exposure to isokinetic resistance training through wearable robotics may facilitate enduring neuromuscular recovery.
+
+中文总结：这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。Most lower-extremity assistive robots are designed to actively assist gait1-7 without considering long-term neuromuscular adaptations8-11. In this study, we present a lightweight (0.96 kg) robot that administers isokinetic resistance training to sustain neurom...
+
+临床/科研意义：对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Spinal neuromotor rehabilitation using a portable isokinetic training robot.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Most lower-extremity assistive robots are designed to actively assist gait1-7 without considering long-term neuromuscular adaptations8-11. In this study, we present a lightweight (0.96 kg) robot that administers isokinetic resistance training to sustain neurom...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Nature｜IF 50+｜JCR Q1 / CAS 1区｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/42162434/
+
+# 全球热点话题｜学术界值得关注
+
+## 1. 论文标题：Comparisons of thalamocortical functional connectivity in transgender women and cisgender individuals: associations with cognition in a Chinese cohort.
+
+- 英文题目：Comparisons of thalamocortical functional connectivity in transgender women and cisgender individuals: associations with cognition in a Chinese cohort.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Dialogues in clinical neuroscience
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-12-01
+- 分数：65
+- PMID：42127800
+- DOI：10.1080/19585969.2026.2669514
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42127800/
+
+摘要：INTRODUCTION: Gender dysphoria (GD) causes distress from gender-sex incongruence with elevated suicide risk, yet its neuropathology remains unclear. The thalamic-cortical functional connectivity (FC) in transgender women (TW) is unexplored. We investigated thalamo-cortical FC and its mediating role in TW's symptom-cognition relationships. METHODS: We retrospectively analysed resting-state fMRI from 44 TW, 40 cisgender men (CM), and 42 cisgender women (CW), between October 2021 and January 2024. Clinical symptoms (GIDYQ-AA) and cognition (MCCB) were assessed. Seed-based thalamic subregion FC and mediation analyses were performed. RESULTS: Relative to CW, TW and CM exhibited increased FC in multiple thalamo-prefrontal circuits. Compared to CM, TW showed decreased left mPFtha-left DLPFC FC (p = 0.026), and right rTtha-left DLPFC FC (p = 0.025). Compared to CM, right PPtha-right MOG FC (p = 0.023; p < 0.001), and right cTtha-right SOG FC (p = 0.008; p < 0.001) were increased in TW and CW. In TW, left rTtha-bilateral MPFC FC correlated with GIDYQ-AA scores, attention/vigilance, and composite. This FC fully mediated relationships between GD symptoms and both attention/vigilance (bootstrapped 95% CI = 1.861-11.688) and composite (bootstrapped 95% CI = 1.025-12.283). CONCLUSIONS: TW exhibit thalamo-cortical FC abnormalities and cognitive dysfunction. Critically, thalamus-MPFC dysconnectivity mediates GD symptom-related cognitive dysfunction, revealing a novel neural pathway. Validation in larger, diverse samples is needed.
+
+中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。INTRODUCTION: Gender dysphoria (GD) causes distress from gender-sex incongruence with elevated suicide risk, yet its neuropathology remains unclear. The thalamic-cortical functional connectivity (FC) in transgender women (TW) is unexplored. We investigated tha...
+
+临床/科研意义：对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Comparisons of thalamocortical functional connectivity in transgender women and cisgender individuals: associations with cognition in a Chinese cohort.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：INTRODUCTION: Gender dysphoria (GD) causes distress from gender-sex incongruence with elevated suicide risk, yet its neuropathology remains unclear. The thalamic-cortical functional connectivity (FC) in transgender women (TW) is unexplored. We investigated tha...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Dialogues in clinical neuroscience｜IF 待核实｜待核实｜2026-12-01｜https://pubmed.ncbi.nlm.nih.gov/42127800/
+
+## 2. 论文标题：Circular RNAs in tumorigenesis: an insight into recent research in biogenesis and targeted tumor therapy.
+
+- 英文题目：Circular RNAs in tumorigenesis: an insight into recent research in biogenesis and targeted tumor therapy.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Cell cycle (Georgetown, Tex.)
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-12-01
+- 分数：57
+- PMID：42148803
+- DOI：10.1080/15384101.2026.2630878
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42148803/
+
+摘要：Circular RNAs (circRNAs) are eukaryotic RNA molecules that are covalently closed and have the characteristics of high stability, tissue-specific expression, and cell-specific expression. The majority of circRNAs are produced from pre-mRNAs that also result in linear RNA, and they have expression patterns that are similar to those of their host mRNAs. Despite their abundance, circRNAs are typically expressed at lower levels than mRNAs. These molecules are often dysregulated in Cancer and play important roles during the beginning and progression of tumors, according to mounting data. Dysregulated circRNAs unique to Cancer may be used as biomarkers for cancer diagnosis and prognosis since certain circRNAs from cancer tissues have been shown to go through the bloodstream and be persistently present in sera. It has been discovered that circRNAs not only influence tumor immunity and play a major role in tumor indicators, tumor development, and prognosis, but they may also be expressed improperly in various tumors.
+
+中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。Circular RNAs (circRNAs) are eukaryotic RNA molecules that are covalently closed and have the characteristics of high stability, tissue-specific expression, and cell-specific expression. The majority of circRNAs are produced from pre-mRNAs that also result in...
+
+临床/科研意义：对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Circular RNAs in tumorigenesis: an insight into recent research in biogenesis and targeted tumor therapy.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Circular RNAs (circRNAs) are eukaryotic RNA molecules that are covalently closed and have the characteristics of high stability, tissue-specific expression, and cell-specific expression. The majority of circRNAs are produced from pre-mRNAs that also result in...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Cell cycle (Georgetown, Tex.)｜IF 待核实｜待核实｜2026-12-01｜https://pubmed.ncbi.nlm.nih.gov/42148803/
+
+## 3. 论文标题：miR‑223‑3p promotes microglial lactylation and M1 polarization via the FBXW7/Notch1/Hes1/SIRT1 axis.
+
+- 英文题目：miR‑223‑3p promotes microglial lactylation and M1 polarization via the FBXW7/Notch1/Hes1/SIRT1 axis.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：International journal of molecular medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-07-01
+- 分数：57
+- PMID：42138198
+- DOI：10.3892/ijmm.2026.5849
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42138198/
+
+摘要：Neuroinflammation is a hallmark of Alzheimer's disease (AD) and is closely linked to microglial M1 polarization. In the present study, miR‑223‑3p was identified as a critical regulator of microglial metabolic reprogramming. Analyses of Gene Expression Omnibus and AD Neuroimaging Initiative datasets revealed significant upregulation of miR‑223‑3p in the brain, blood, and cerebrospinal fluid of patients with AD. The overexpression of miR‑223‑3p promoted M1 polarization and increased reactive oxygen species (ROS) levels. Transcriptomic, metabolomic and Seahorse analyses revealed increased glycolysis, lactate production and lactylation, whereas inhibition of lactylation reduced M1 polarization and ROS accumulation. Mechanistically, miR‑223‑3p suppressed SIRT1 expression and directly targeted FBXW7, leading to activation of the Notch1/Hes1 pathway and further suppression of SIRT1. In summary, these findings demonstrate that miR‑223‑3p drives microglial lactylation‑mediated M1 polarization through the FBXW7/Notch1/Hes1/SIRT1 signaling axis. The present study provides new insight into the role of lactylation in neuroinflammation and highlights miR‑223‑3p as a potential therapeutic target for AD.
+
+中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。Neuroinflammation is a hallmark of Alzheimer's disease (AD) and is closely linked to microglial M1 polarization. In the present study, miR‑223‑3p was identified as a critical regulator of microglial metabolic reprogramming. Analyses of Gene Expression Omnibus...
+
+临床/科研意义：对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】miR‑223‑3p promotes microglial lactylation and M1 polarization via the FBXW7/Notch1/Hes1/SIRT1 axis.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Neuroinflammation is a hallmark of Alzheimer's disease (AD) and is closely linked to microglial M1 polarization. In the present study, miR‑223‑3p was identified as a critical regulator of microglial metabolic reprogramming. Analyses of Gene Expression Omnibus...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：International journal of molecular medicine｜IF 待核实｜待核实｜2026-07-01｜https://pubmed.ncbi.nlm.nih.gov/42138198/
+
+## 4. 论文标题：Perceptions of young people living with HIV and caregivers in Botswana on analytical treatment interruption studies: a qualitative approach.
+
+- 英文题目：Perceptions of young people living with HIV and caregivers in Botswana on analytical treatment interruption studies: a qualitative approach.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：HIV research & clinical practice
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-12-31
+- 分数：45
+- PMID：42163437
+- DOI：10.1080/25787489.2026.2673739
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42163437/
+
+摘要：BACKGROUND: Current research suggests that post-treatment HIV control may be possible for some people following antiretroviral treatment (ART) interruption. Although closely monitored analytic treatment interruption (ATI) studies can be performed safely and are crucial to determine who may no longer require ART, currently it is unknown how acceptable these studies will be in Botswana. AIM: To determine the knowledge, attitudes and acceptability of ATI-inclusive studies in Botswana. METHODS: We employed a non-randomized purposive design to recruit study participants. We conducted face-to-face open-ended interviews with 12 young people living with HIV and 8 caregivers, 8 healthcare providers and 4 community advocates in Gaborone and Palapye. RESULTS: Thirty-two (32) participants consented to be interviewed. The median age of young people living with HIV was 29 years. All young people living with HIV indicated that they were on ART and acknowledged the benefits of being on ART. All young people living with HIV were unaware of ATIs, whereas 6 out of 8 caregivers, 6 out of 8 healthcare providers and 2 out of 4 community advocates had never heard of ATIs. Most participants found ATI research to be acceptable and believed that it would be beneficial provided there were adequate risk mitigations in place. CONCLUSIONS: ATI studies were acceptable to both young people living with HIV and their caregivers. There was limited knowledge about ATI, highlighting a need to inform communities and health care providers on the scientific aspects of ATI and HIV cure research.
+
+中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。BACKGROUND: Current research suggests that post-treatment HIV control may be possible for some people following antiretroviral treatment (ART) interruption. Although closely monitored analytic treatment interruption (ATI) studies can be performed safely and ar...
+
+临床/科研意义：对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Perceptions of young people living with HIV and caregivers in Botswana on analytical treatment interruption studies: a qualitative approach.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：BACKGROUND: Current research suggests that post-treatment HIV control may be possible for some people following antiretroviral treatment (ART) interruption. Although closely monitored analytic treatment interruption (ATI) studies can be performed safely and ar...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：HIV research & clinical practice｜IF 待核实｜待核实｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42163437/
+
+## 5. 论文标题：Frailty as a mediator of the association between hyperuricemia and stroke risk: A prospective cohort study.
+
+- 英文题目：Frailty as a mediator of the association between hyperuricemia and stroke risk: A prospective cohort study.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Clinical and experimental hypertension (New York, N.Y. : 1993)
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-12-31
+- 分数：45
+- PMID：42154033
+- DOI：10.1080/10641963.2026.2675538
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42154033/
+
+摘要：BACKGROUND: Existing evidence on the interrelationship among hyperuricemia, physical frailty, and stroke remains limited and unclear. This study aimed to examine the associations of hyperuricemia and frailty with the incidence of stroke, and to evaluate the potential mediating role of frailty. METHODS: We include Chinese adults aged 45 years and above from the China Health and Retirement Longitudinal Study (CHARLS). Serum urate concentrations were measured using an enzymatic colorimetric method, and hyperuricemia was defined as serum urate ≥420 μmol/L. The frailty index (FI) was constructed based on 28 baseline items. Stroke was ascertained based on self-reported, physician-diagnosed events. Multivariable logistic regression and mediation analyses were conducted to examine the associations among hyperuricemia, physical frailty, and stroke. RESULTS: A total of 7462 eligible participants were included in the analysis. Hyperuricemia was positively associated with frailty status (OR = 1.54, 95% CI: 1.02-5.84) and with the incidence of stroke (OR = 4.07, 95% CI: 1.25-13.19). Pri-frail and frail participants exhibited a substantially higher risk of incident stroke (OR = 1.55, 95% CI: 1.11-2.92 and OR = 2.87, 95% CI: 1.29-6.37, respectively). Mediation analysis further indicated that the FI partially mediated the relationship between hyperuricemia and incident stroke, accounting for 10.82% (95% CI: 6.51%-21.65%) of the total effect. CONCLUSIONS: Hyperuricemia is associated with an increased risk of stroke, and frailty may partially mediate this association. Early identification and management of frailty in individuals with hyperuricemia may represent a novel, integrative strategy to reduce stroke risk and promote healthy aging.
+
+中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。BACKGROUND: Existing evidence on the interrelationship among hyperuricemia, physical frailty, and stroke remains limited and unclear. This study aimed to examine the associations of hyperuricemia and frailty with the incidence of stroke, and to evaluate the po...
+
+临床/科研意义：对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Frailty as a mediator of the association between hyperuricemia and stroke risk: A prospective cohort study.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：BACKGROUND: Existing evidence on the interrelationship among hyperuricemia, physical frailty, and stroke remains limited and unclear. This study aimed to examine the associations of hyperuricemia and frailty with the incidence of stroke, and to evaluate the po...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Clinical and experimental hypertension (New York, N.Y. : 1993)｜IF 待核实｜待核实｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42154033/
+
+## 6. 论文标题：Acute beetroot juice ingestion fails to improve sprint performance and neuromuscular function in trained male sprinters: a randomized, double-blind, placebo-controlled study.
+
+- 英文题目：Acute beetroot juice ingestion fails to improve sprint performance and neuromuscular function in trained male sprinters: a randomized, double-blind, placebo-controlled study.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Journal of the International Society of Sports Nutrition
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-12-31
+- 分数：45
+- PMID：42148901
+- DOI：10.1080/15502783.2026.2674220
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42148901/
+
+摘要：INTRODUCTION: The aim of this study was to evaluate the acute effect of beetroot juice ingestion on sprint performance and neuromuscular properties of male trained sprinters. METHODS: Twelve male sprinters (24.3 ± 4.8 years) participated in a randomized, double-blind, and placebo-controlled study with two experimental trials after the ingestion of 70 mL beetroot juice (containing 6.4 mmol NO3-) or 70 mL placebo drink (containing 0.04 mmol NO3-). Participants performed a countermovement jump, a squat jump, and 60 and 100 m sprint tests at 150 minutes after ingestion. Before and after these performance tests, contractile properties of the rectus femoris, biceps femoris, gastrocnemius lateralis, and gastrocnemius medialis muscles were measured with tensiomyography. RESULTS: Salivary concentrations of NO3- and nitrite NO2- were also measured and in comparison to the placebo drink, the intake of beetroot juice increased salivary concentrations of NO3- (from 230 ± 435 vs 6164 ± 3370 μM; p = < 0.001, ES = 1.53) and NO2- (130 ± 131 vs 4509 ± 4895 μM; p = 0.018; ES = 1.63). Beetroot juice ingestion did not affect countermovement jump height (44.12 ± 6.14 vs 43.6 ± 6.29 cm; p = 0.400; ES = -0.25), squat jump height (42.02 ± 4.92 vs 41.91 cm; p = 0.911; ES = 0.04), 60 m sprint time (7.55 ± 0.32 vs 7.58 ± 0.32 seconds; p = 0.407; ES = -0.24), or 100 m sprint time (12.57 ± 0.65 vs 12.51 ± 0.62 seconds; p = 0.343; ES = 0.29). The tensiomyography analysis did not report any difference in the contractile properties of the muscles analyzed (p = 0.065-0.914), except for the biceps femoris in the relaxation time variable (p = 0.047). CONCLUSION: Acute ingestion of 70 mL beetroot juice containing 6.4 mmol of NO3- did not enhance sprint performance or the neuromuscular function of male trained sprinters.Trial registration: The study was retrospectively registered in ClinicalTrials.gov with the following ID: 5-56NCT06675682 by 1 November 2024.
+
+中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。INTRODUCTION: The aim of this study was to evaluate the acute effect of beetroot juice ingestion on sprint performance and neuromuscular properties of male trained sprinters. METHODS: Twelve male sprinters (24.3 ± 4.8 years) participated in a randomized, doubl...
+
+临床/科研意义：对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Acute beetroot juice ingestion fails to improve sprint performance and neuromuscular function in trained male sprinters: a randomized, double-blind, placebo-controlled study.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：INTRODUCTION: The aim of this study was to evaluate the acute effect of beetroot juice ingestion on sprint performance and neuromuscular properties of male trained sprinters. METHODS: Twelve male sprinters (24.3 ± 4.8 years) participated in a randomized, doubl...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Journal of the International Society of Sports Nutrition｜IF 待核实｜待核实｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42148901/
+
+## 7. 论文标题：Creatine monohydrate for lean mass, strength, and bone density in postmenopausal women: a systematic review and meta-analysis.
+
+- 英文题目：Creatine monohydrate for lean mass, strength, and bone density in postmenopausal women: a systematic review and meta-analysis.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Journal of the International Society of Sports Nutrition
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-12-31
+- 分数：45
+- PMID：42141930
+- DOI：10.1080/15502783.2026.2668435
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42141930/
+
+摘要：BACKGROUND: Menopause is accompanied by accelerated losses in muscle mass and strength and declining bone density. Whether creatine monohydrate benefits postmenopausal women are uncertain. METHODS: We systematically reviewed randomized, placebo-controlled trials examining creatine supplementation, with or without resistance training (RT), in postmenopausal women. MEDLINE, Embase, Scopus, Web of Science, SPORTDiscus, and Cochrane CENTRAL were searched from 2000 to August 2025, supplemented by trial registries and reference-list screening. Eligible studies included postmenopausal women aged ≥40-45 years, intervention durations ≥6 weeks for primary analyses, and outcomes including DXA-derived lean mass, one-repetition maximum (1RM) strength, bone mineral density, physical function, and safety. Dual screening, duplicate extraction, and Cochrane RoB 2 assessment were performed. Random-effects meta-analysis used the Paule-Mandel estimator for τ² with Hartung-Knapp-Sidik-Jonkman adjustment. Heterogeneity (τ², I²), 95% prediction intervals, subgroup analyses by RT status, exploratory dose/duration meta-regression, small-study effects, and GRADE certainty were assessed. RESULTS: Seven RCTs (n = 608 randomized; duration 12-104 weeks, median 38 weeks) enrolled postmenopausal women (mean age ≈ 62 y). Lean mass (k = 5; n = 338) favored creatine: mean difference (MD) + 0.37 kg (95% CI + 0.05 to + 0.69; I² = 25%; τ² = 0.01; 95% PI -0.10 to + 0.84). Leg-press 1RM (k = 3; n = 111) improved with creatine: MD + 7.5 kg (95% CI + 2.2 to + 12.8; I² = 0%). Benefits were evident when creatine ≥ 5 g·day⁻¹ was combined with RT; trials using ≤ 3 g·day⁻¹ without RT showed no measurable effect. Bone density was unchanged overall. Adverse events were mild and similar to placebo; renal indices were unchanged. Risk of bias was mostly "some concerns;" one large, preregistered, double-blind RCT was at low risk. CONCLUSIONS: In postmenopausal women, creatine, particularly ≥ 5 g·day⁻¹ with RT, yields small but meaningful gains in lean mass and strength without evidence of harm. Effects on bone density remain unclear.Registration: This review was not prospectively registered. De-identified data and supplementary materials were deposited on OSF after completion of the analysis (DOI: 10.17605/OSF.IO/BVTRZ).
+
+中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。BACKGROUND: Menopause is accompanied by accelerated losses in muscle mass and strength and declining bone density. Whether creatine monohydrate benefits postmenopausal women are uncertain. METHODS: We systematically reviewed randomized, placebo-controlled tria...
+
+临床/科研意义：对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Creatine monohydrate for lean mass, strength, and bone density in postmenopausal women: a systematic review and meta-analysis.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：BACKGROUND: Menopause is accompanied by accelerated losses in muscle mass and strength and declining bone density. Whether creatine monohydrate benefits postmenopausal women are uncertain. METHODS: We systematically reviewed randomized, placebo-controlled tria...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Journal of the International Society of Sports Nutrition｜IF 待核实｜待核实｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42141930/
+
+## 8. 论文标题：Reshaping immunotherapy sequencing strategy: equivalent survival with induction plus consolidation vs. consolidation-only strategy in unresectable stage III NSCLC.
+
+- 英文题目：Reshaping immunotherapy sequencing strategy: equivalent survival with induction plus consolidation vs. consolidation-only strategy in unresectable stage III NSCLC.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Oncoimmunology
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-12-31
+- 分数：45
+- PMID：42141789
+- DOI：10.1080/2162402X.2026.2670221
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42141789/
+
+摘要：OBJECTIVE: To compare the efficacy and safety of a sequential combination of chemoradiotherapy (CRT) with immune checkpoint inhibitors (ICIs) administered as induction plus consolidation versus consolidation-only in patients with unresectable stage III non-small cell lung cancer (NSCLC). METHODS: This retrospective study enrolled 265 patients treated at two centers between March 2019 and August 2023. Patients were categorized into a consolidation-only group (n = 153) and an induction plus consolidation group (n = 112). Propensity score matching (PSM, 1:1 ratio) was used to balance baseline characteristics. Progression-free survival (PFS) and overall survival (OS) were assessed using Kaplan-Meier analysis and log-rank tests. Adverse events (AEs) were evaluated according to CTCAE v5.0. RESULTS: Before PSM, no significant survival differences were observed between groups (2-y PFS: 52.6% vs. 63.5%, p = 0.085; 2-y OS: 91.7% vs. 81.2%, p = 0.822). After PSM, outcomes remained comparable (2-y PFS: 56.8% vs. 62.2%, p = 0.179; 2-y OS: 94.9% vs. 87.9%, p = 0.514). Before PSM, the most common AE was pneumonitis (60.7% vs. 55.1%, p = 0.442). The induction plus consolidation group showed a lower incidence of anemia (p = 0.004) but a higher incidence of ALT/AST elevation (14.3% vs. 5.1%, p = 0.022). The incidence of all other AEs was comparable (p > 0.05). After PSM, only anemia was significantly higher in the consolidation-only group (52.8% vs. 27.8%, p = 0.004). CONCLUSION: In treatment-tolerant patients, induction plus consolidation therapy demonstrated comparable efficacy and safety to consolidation-only therapy in unresectable stage III NSCLC.
+
+中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。OBJECTIVE: To compare the efficacy and safety of a sequential combination of chemoradiotherapy (CRT) with immune checkpoint inhibitors (ICIs) administered as induction plus consolidation versus consolidation-only in patients with unresectable stage III non-sma...
+
+临床/科研意义：对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Reshaping immunotherapy sequencing strategy: equivalent survival with induction plus consolidation vs. consolidation-only strategy in unresectable stage III NSCLC.
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：OBJECTIVE: To compare the efficacy and safety of a sequential combination of chemoradiotherapy (CRT) with immune checkpoint inhibitors (ICIs) administered as induction plus consolidation versus consolidation-only in patients with unresectable stage III non-sma...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Oncoimmunology｜IF 待核实｜待核实｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42141789/
+
+# 国内外医学与医药新闻
+
+## 1. 论文标题：Long COVID Brain Inflammation Decreases Over Time
+
+- 英文题目：Long COVID Brain Inflammation Decreases Over Time
+- 主题：国内外医学与医药新闻
+- 来源：Neuroscience News
+- 期刊/平台：Neuroscience News
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Fri, 22 Ma
+- 分数：58
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://neurosciencenews.com/long-covid-brain-inflammation-30745/
+
+摘要：<a href="https://neurosciencenews.com/long-covid-brain-inflammation-30745/" rel="nofollow" title="Long COVID Brain Inflammation Decreases Over Time"><img alt="This shows a brain." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/05/neuroinflammation-long-covid-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Does persistent brain inflammation explain the prolonged fatigue and cognitive decline of Long COVID? A neuroimaging clinical trial demonstrates that widespread brain inflammation is not the primary driver of long-term symptoms.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。<a href="https://neurosciencenews.com/long-covid-brain-inflammation-30745/" rel="nofollow" title="Long COVID Brain Inflammation Decreases Over Time"><img alt="This shows a brain." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neuroscie...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Long COVID Brain Inflammation Decreases Over Time
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：<a href="https://neurosciencenews.com/long-covid-brain-inflammation-30745/" rel="nofollow" title="Long COVID Brain Inflammation Decreases Over Time"><img alt="This shows a brain." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neuroscie...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Neuroscience News｜IF 待核实｜待核实｜Fri, 22 Ma｜https://neurosciencenews.com/long-covid-brain-inflammation-30745/
+
+## 2. 论文标题：MIT scientists discover amino acid that helps the gut heal itself
+
+- 英文题目：MIT scientists discover amino acid that helps the gut heal itself
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Thu, 21 Ma
+- 分数：50
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260520233223.htm
+
+摘要：MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild damaged intestinal tissue after radiation exposure. Researchers say the discovery could eventually lead to new dietary therapies for cancer patients suffering from treatment-related gut damage.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】MIT scientists discover amino acid that helps the gut heal itself
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Thu, 21 Ma｜https://www.sciencedaily.com/releases/2026/05/260520233223.htm
+
+## 3. 论文标题：Microglia Overloaded with Fat Linked to Rapid MS
+
+- 英文题目：Microglia Overloaded with Fat Linked to Rapid MS
+- 主题：国内外医学与医药新闻
+- 来源：Neuroscience News
+- 期刊/平台：Neuroscience News
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Fri, 22 Ma
+- 分数：50
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/
+
+摘要：<a href="https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/" rel="nofollow" title="Microglia Overloaded with Fat Linked to Rapid MS"><img alt="This shows neurons." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/05/fatty-microglia-ms-neurology-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Why do some multiple sclerosis patients deteriorate rapidly while others experience mild symptoms for decades? A post-mortem neuro-audit reveals that severe MS progression is linked to "foamy microglia", brain immune cells pathologically overloaded with fat droplets.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。<a href="https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/" rel="nofollow" title="Microglia Overloaded with Fat Linked to Rapid MS"><img alt="This shows neurons." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neuro...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Microglia Overloaded with Fat Linked to Rapid MS
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：<a href="https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/" rel="nofollow" title="Microglia Overloaded with Fat Linked to Rapid MS"><img alt="This shows neurons." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neuro...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Neuroscience News｜IF 待核实｜待核实｜Fri, 22 Ma｜https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/
+
+## 4. 论文标题：Machine Learning Doubles Depression Remission Rate
+
+- 英文题目：Machine Learning Doubles Depression Remission Rate
+- 主题：国内外医学与医药新闻
+- 来源：Neuroscience News
+- 期刊/平台：Neuroscience News
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Thu, 21 Ma
+- 分数：48
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://neurosciencenews.com/machine-learning-imap-depression-30744/
+
+摘要：<a href="https://neurosciencenews.com/machine-learning-imap-depression-30744/" rel="nofollow" title="Machine Learning Doubles Depression Remission Rate"><img alt="This shows a depressed person holding their head." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/05/depression-remission-ai-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Can an algorithmic approach to lifestyle tracking radically improve depression treatment? A milestone clinical trial demonstrates that personalizing behavioral care via machine learning can nearly double standard therapy benchmarks.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。<a href="https://neurosciencenews.com/machine-learning-imap-depression-30744/" rel="nofollow" title="Machine Learning Doubles Depression Remission Rate"><img alt="This shows a depressed person holding their head." class="webfeedsFeaturedVisual wp-post-image" h...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Machine Learning Doubles Depression Remission Rate
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：<a href="https://neurosciencenews.com/machine-learning-imap-depression-30744/" rel="nofollow" title="Machine Learning Doubles Depression Remission Rate"><img alt="This shows a depressed person holding their head." class="webfeedsFeaturedVisual wp-post-image" h...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Neuroscience News｜IF 待核实｜待核实｜Thu, 21 Ma｜https://neurosciencenews.com/machine-learning-imap-depression-30744/
+
+## 5. 论文标题：This 800-year-old Chinese exercise helps lower blood pressure naturally
+
+- 英文题目：This 800-year-old Chinese exercise helps lower blood pressure naturally
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Mind Brain
+- 期刊/平台：ScienceDaily Mind Brain
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
+- 日期：Sun, 10 Ma
+- 分数：48
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260510234724.htm
+
+摘要：An ancient Chinese exercise routine may be just as powerful as a daily brisk walk for lowering blood pressure — without equipment, gyms, or intense workouts. In a major clinical trial, adults with stage 1 hypertension who practiced baduanjin, a gentle mind-body exercise combining slow movements, breathing, and meditation, saw meaningful drops in blood pressure within three months that lasted for an entire year.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。An ancient Chinese exercise routine may be just as powerful as a daily brisk walk for lowering blood pressure — without equipment, gyms, or intense workouts. In a major clinical trial, adults with stage 1 hypertension who practiced baduanjin, a gentle mind-bod...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】This 800-year-old Chinese exercise helps lower blood pressure naturally
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：An ancient Chinese exercise routine may be just as powerful as a daily brisk walk for lowering blood pressure — without equipment, gyms, or intense workouts. In a major clinical trial, adults with stage 1 hypertension who practiced baduanjin, a gentle mind-bod...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：ScienceDaily Mind Brain｜IF 10+｜JCR Q1 / CAS 1区｜Sun, 10 Ma｜https://www.sciencedaily.com/releases/2026/05/260510234724.htm
+
+## 6. 论文标题：Scientists discover simple way to relieve arthritis pain without pills or surgery
+
+- 英文题目：Scientists discover simple way to relieve arthritis pain without pills or surgery
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Fri, 22 Ma
+- 分数：48
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260522031135.htm
+
+摘要：A surprisingly simple walking tweak may offer new hope for millions living with knee osteoarthritis. In a year-long clinical trial, researchers found that slightly changing the angle of a person’s foot while walking reduced knee pain as effectively as common medications — and even slowed cartilage damage inside the joint.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。A surprisingly simple walking tweak may offer new hope for millions living with knee osteoarthritis. In a year-long clinical trial, researchers found that slightly changing the angle of a person’s foot while walking reduced knee pain as effectively as common m...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Scientists discover simple way to relieve arthritis pain without pills or surgery
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：A surprisingly simple walking tweak may offer new hope for millions living with knee osteoarthritis. In a year-long clinical trial, researchers found that slightly changing the angle of a person’s foot while walking reduced knee pain as effectively as common m...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Fri, 22 Ma｜https://www.sciencedaily.com/releases/2026/05/260522031135.htm
+
+## 7. 论文标题：Surprising study finds beef doesn’t worsen blood sugar or diabetes risk
+
+- 英文题目：Surprising study finds beef doesn’t worsen blood sugar or diabetes risk
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Fri, 22 Ma
+- 分数：48
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260521072416.htm
+
+摘要：A new clinical trial suggests that eating beef every day may not be as risky for people with prediabetes as many assume. Researchers found that adults who ate 6–7 ounces of beef daily for a month showed no worsening in blood sugar control, insulin function, inflammation, or other key markers linked to type 2 diabetes when compared to people eating poultry instead.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。A new clinical trial suggests that eating beef every day may not be as risky for people with prediabetes as many assume. Researchers found that adults who ate 6–7 ounces of beef daily for a month showed no worsening in blood sugar control, insulin function, in...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Surprising study finds beef doesn’t worsen blood sugar or diabetes risk
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：A new clinical trial suggests that eating beef every day may not be as risky for people with prediabetes as many assume. Researchers found that adults who ate 6–7 ounces of beef daily for a month showed no worsening in blood sugar control, insulin function, in...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Fri, 22 Ma｜https://www.sciencedaily.com/releases/2026/05/260521072416.htm
+
+## 8. 论文标题：Scientists found a hidden Alzheimer’s trigger and shut it down
+
+- 英文题目：Scientists found a hidden Alzheimer’s trigger and shut it down
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Wed, 20 Ma
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260519224334.htm
+
+摘要：A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lead to future treatments that go beyond slowing Alzheimer’s — potentially helping protect the brain from further decline.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communicat...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Scientists found a hidden Alzheimer’s trigger and shut it down
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communicat...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Wed, 20 Ma｜https://www.sciencedaily.com/releases/2026/05/260519224334.htm
+
+## 9. 论文标题：New psychedelic-like drugs could treat depression without making you trip
+
+- 英文题目：New psychedelic-like drugs could treat depression without making you trip
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Mind Brain
+- 期刊/平台：ScienceDaily Mind Brain
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
+- 日期：Wed, 13 Ma
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260512202325.htm
+
+摘要：UC Davis researchers created brand-new psychedelic-like compounds by shining UV light on amino acid-based molecules. These compounds activated key serotonin receptors tied to brain plasticity and mental health benefits, but surprisingly did not cause hallucination-like behavior in animal tests. Scientists say the discovery could lead to future treatments for depression, PTSD, and addiction without the intense psychedelic experience.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。UC Davis researchers created brand-new psychedelic-like compounds by shining UV light on amino acid-based molecules. These compounds activated key serotonin receptors tied to brain plasticity and mental health benefits, but surprisingly did not cause hallucina...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】New psychedelic-like drugs could treat depression without making you trip
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：UC Davis researchers created brand-new psychedelic-like compounds by shining UV light on amino acid-based molecules. These compounds activated key serotonin receptors tied to brain plasticity and mental health benefits, but surprisingly did not cause hallucina...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：ScienceDaily Mind Brain｜IF 10+｜JCR Q1 / CAS 1区｜Wed, 13 Ma｜https://www.sciencedaily.com/releases/2026/05/260512202325.htm
+
+## 10. 论文标题：Scientists discover strange link between vitamin D and pain
+
+- 英文题目：Scientists discover strange link between vitamin D and pain
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Tue, 19 Ma
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260519224308.htm
+
+摘要：Low vitamin D levels could be quietly making breast cancer surgery recovery far more painful. In a new study, patients deficient in vitamin D were three times more likely to experience moderate to severe pain after mastectomy surgery and ended up using significantly more opioid medication to cope. Researchers say vitamin D may help regulate how the body processes pain through its effects on inflammation and the immune system.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。Low vitamin D levels could be quietly making breast cancer surgery recovery far more painful. In a new study, patients deficient in vitamin D were three times more likely to experience moderate to severe pain after mastectomy surgery and ended up using signifi...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Scientists discover strange link between vitamin D and pain
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：Low vitamin D levels could be quietly making breast cancer surgery recovery far more painful. In a new study, patients deficient in vitamin D were three times more likely to experience moderate to severe pain after mastectomy surgery and ended up using signifi...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Tue, 19 Ma｜https://www.sciencedaily.com/releases/2026/05/260519224308.htm
