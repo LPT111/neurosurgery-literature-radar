@@ -1,6 +1,6 @@
 # 神外文献日报 V1
 
-生成时间：2026-05-24 11:41:00
+生成时间：2026-05-24 11:45:04
 核心神外文献数量：10
 全部条目数量：36
 
@@ -138,11 +138,11 @@
 - DOI：10.1073/pnas.2537226123
 - PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42154558/
 
-中文摘要：尽管针对肺炎链球菌感染实施了肺炎球菌结合疫苗（PCV），但这些疾病仍然是全球死亡率和发病率的主要原因，凸显了对新型免疫策略的需求。肺炎球菌释放富含脂质、毒力因子和表面蛋白的细胞外囊泡/膜颗粒（MP），在预防小鼠侵袭性肺炎球菌疾病方面显示出强大的功效。因此，MP 提出了一种替代疫苗策略。然而，目前尚缺乏对肺炎球菌 MP 如何在体内相互作用和调节免疫系统的深入了解。在这项研究中，我们证明肺炎球菌 MP 具有强大的内在佐剂特性和保守抗原，包括 MalX 和 PrsA，支持小鼠和人类中强大的血清型无关效应和记忆 Th17 反应。从机制上讲，囊泡通过 TLR2 进行感知，并且人类 IL-17 反应需要通过该受体发出信号。此外，MP鼻内免疫可扩大肺部组织驻留巨噬细胞群，增强功能能力。我们的研究还表明，在没有佐剂的情况下，MP 免疫足以防止小鼠体内的定植。
+中文摘要：尽管针对肺炎链球菌感染实施了肺炎球菌结合疫苗（PCV），但这些疾病仍然是全球死亡率和发病率的主要原因，凸显了对新型免疫策略的需求。肺炎球菌释放富含脂质、毒力因子和表面蛋白的细胞外囊泡/膜颗粒（MP），在预防小鼠侵袭性肺炎球菌疾病方面显示出强大的功效。因此，MP 提出了一种替代疫苗策略。然而，目前尚缺乏对肺炎球菌 MP 如何在体内相互作用和调节免疫系统的深入了解。在这项研究中，我们证明肺炎球菌 MP 具有强大的内在佐剂特性和保守抗原，包括 MalX 和 PrsA，支持小鼠和人类中强大的血清型无关效应和记忆 Th17 反应。从机制上讲，囊泡通过 TLR2 进行感知，并且人类 IL-17 反应需要通过该受体发出信号。此外，MP鼻内免疫可扩大肺部组织驻留巨噬细胞群，增强功能能力。我们的研究还表明，在没有佐剂的情况下进行 MP 免疫足以防止小鼠体内的定植。
 
 英文摘要：Despite implementation of pneumococcal conjugated vaccines (PCVs) against Streptococcus pneumoniae infections, these diseases are still major contributors to global mortality and morbidity, highlighting the need for a novel immunization strategy. Pneumococci release extracellular vesicles/membrane particles (MP) that are enriched in lipids, virulence factors, and surface proteins, and show great efficacy in protecting against invasive pneumococcal disease in mice. As such, MP present an alternative vaccine strategy. However, an in-depth understanding of how pneumococcal MP interact and modulate the immune system in vivo is currently lacking. In this study, we demonstrate that pneumococcal MP possess robust intrinsic adjuvant properties and conserved antigens, including MalX and PrsA, that support a strong serotype-independent effector and memory Th17 response in mice and humans. Mechanistically, vesicles are sensed through TLR2 and signaling through this receptor is required for the human IL-17 response. Moreover, intranasal immunization with MP expands the tissue resident macrophage populations in the lungs with enhanced functional capacities. Our study also demonstrates that MP immunization in the absence of adjuvant is sufficient to protect against colonization in mice.
 
-中文总结：这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。尽管针对肺炎链球菌感染实施了肺炎球菌结合疫苗（PCV），但这些疾病仍然是全球死亡率和发病率的主要原因，凸显了对新型免疫策略的需求。肺炎球菌释放富含脂质、毒力因子和表面蛋白的细胞外囊泡/膜颗粒（MP），在预防小鼠侵袭性肺炎球菌疾病方面显示出强大的功效。因此，MP 提出了一种替代疫苗策略。然而，目前尚缺乏对肺炎球菌 MP 如何在体内相互作用和调节免疫系统的深入了解。在这项研究中，我们证明肺炎球菌 MP 具有强大的内在佐剂特性和保守抗原，包括 MalX 和 PrsA，支持小鼠和人类中强大的血清型无关效应和记忆 Th17 反应。从机制上讲，囊泡通过 TLR2 进行感知，并且人类 IL-17 反应需要通过该受体发出信号。此外，MP鼻内免疫可扩大肺部组织驻留巨噬细胞群，增强功能能力。我们的研究还表明，在没有佐剂的情况下，MP 免疫足以防止小鼠体内的定植。
+中文总结：这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。尽管针对肺炎链球菌感染实施了肺炎球菌结合疫苗（PCV），但这些疾病仍然是全球死亡率和发病率的主要原因，凸显了对新型免疫策略的需求。肺炎球菌释放富含脂质、毒力因子和表面蛋白的细胞外囊泡/膜颗粒（MP），在预防小鼠侵袭性肺炎球菌疾病方面显示出强大的功效。因此，MP 提出了一种替代疫苗策略。然而，目前尚缺乏对肺炎球菌 MP 如何在体内相互作用和调节免疫系统的深入了解。在这项研究中，我们证明肺炎球菌 MP 具有强大的内在佐剂特性和保守抗原，包括 MalX 和 PrsA，支持小鼠和人类中强大的血清型无关效应和记忆 Th17 反应。从机制上讲，囊泡通过 TLR2 进行感知，并且人类 IL-17 反应需要通过该受体发出信号。此外，MP鼻内免疫可扩大肺部组织驻留巨噬细胞群，增强功能能力。我们的研究还表明，在没有佐剂的情况下进行 MP 免疫足以防止小鼠体内的定植。
 
 临床/科研意义：对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
@@ -154,7 +154,7 @@
 
 研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
 
-核心发现：尽管针对肺炎链球菌感染实施了肺炎球菌结合疫苗（PCV），但这些疾病仍然是全球死亡率和发病率的主要原因，凸显了对新型免疫策略的需求。肺炎球菌释放富含脂质、毒力因子和表面蛋白的细胞外囊泡/膜颗粒（MP），在预防小鼠侵袭性肺炎球菌疾病方面显示出强大的功效。因此，MP 提出了一种替代疫苗策略。然而，目前尚缺乏对肺炎球菌 MP 如何在体内相互作用和调节免疫系统的深入了解。在这项研究中，我们证明肺炎球菌 MP 具有强大的内在佐剂特性和保守抗原，包括 MalX 和 PrsA，支持小鼠和人类中强大的血清型无关效应和记忆 Th17 反应。从机制上讲，囊泡通过 TLR2 进行感知，并且人类 IL-17 反应需要通过该受体发出信号。此外，MP鼻内免疫可扩大肺部组织驻留巨噬细胞群，增强功能能力。我们的研究还表明，在没有佐剂的情况下，MP 免疫足以防止小鼠体内的定植。
+核心发现：尽管针对肺炎链球菌感染实施了肺炎球菌结合疫苗（PCV），但这些疾病仍然是全球死亡率和发病率的主要原因，凸显了对新型免疫策略的需求。肺炎球菌释放富含脂质、毒力因子和表面蛋白的细胞外囊泡/膜颗粒（MP），在预防小鼠侵袭性肺炎球菌疾病方面显示出强大的功效。因此，MP 提出了一种替代疫苗策略。然而，目前尚缺乏对肺炎球菌 MP 如何在体内相互作用和调节免疫系统的深入了解。在这项研究中，我们证明肺炎球菌 MP 具有强大的内在佐剂特性和保守抗原，包括 MalX 和 PrsA，支持小鼠和人类中强大的血清型无关效应和记忆 Th17 反应。从机制上讲，囊泡通过 TLR2 进行感知，并且人类 IL-17 反应需要通过该受体发出信号。此外，MP鼻内免疫可扩大肺部组织驻留巨噬细胞群，增强功能能力。我们的研究还表明，在没有佐剂的情况下进行 MP 免疫足以防止小鼠体内的定植。
 
 临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
 
@@ -671,7 +671,7 @@
 
 参考信息：Acta neuropathologica｜IF 9.3｜JCR Q1 / CAS 1区｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/42162487/
 
-## 8. 论文标题：Spinal neuromotor rehabilitation using a portable isokinetic training robot.
+## 8. 使用便携式等速训练机器人进行脊髓神经运动康复。
 
 - 英文题目：Spinal neuromotor rehabilitation using a portable isokinetic training robot.
 - 主题：顶刊神经科学
@@ -696,7 +696,7 @@
 
 推文草稿：
 
-【文献速递】论文标题：Spinal neuromotor rehabilitation using a portable isokinetic training robot.
+【文献速递】使用便携式等速训练机器人进行脊髓神经运动康复。
 
 英文题目：Spinal neuromotor rehabilitation using a portable isokinetic training robot.
 
@@ -829,7 +829,7 @@
 
 参考信息：International journal of molecular medicine｜IF 5.8｜JCR Q1 / CAS 2区｜2026-07-01｜https://pubmed.ncbi.nlm.nih.gov/42138198/
 
-## 4. 重组人源化 III 型胶原通过调节基质细胞蜕膜化和增强母胎界面的保护性免疫微环境来减少复发性自然流产。
+## 4. 重组人源化 III 型胶原蛋白通过调节基质细胞蜕膜化和增强母胎界面的保护性免疫微环境来减轻复发性自然流产。
 
 - 英文题目：Recombinant humanized type III collagen attenuates recurrent spontaneous abortion by regulating stromal cell decidualization and reinforcing protective immune microenvironment at the maternal-fetal interface.
 - 主题：全球学术热点
@@ -854,7 +854,7 @@
 
 推文草稿：
 
-【文献速递】重组人源化 III 型胶原通过调节基质细胞蜕膜化和增强母胎界面的保护性免疫微环境来减少复发性自然流产。
+【文献速递】重组人源化 III 型胶原蛋白通过调节基质细胞蜕膜化和增强母胎界面的保护性免疫微环境来减轻复发性自然流产。
 
 英文题目：Recombinant humanized type III collagen attenuates recurrent spontaneous abortion by regulating stromal cell decidualization and reinforcing protective immune microenvironment at the maternal-fetal interface.
 
@@ -961,11 +961,11 @@
 - DOI：10.1080/15502783.2026.2674220
 - PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42148901/
 
-中文摘要：简介：本研究的目的是评估摄入甜菜根汁对受过训练的男性短跑运动员的短跑表现和神经肌肉特性的急性影响。方法：12 名男性短跑运动员（24.3 ± 4.8 岁）在摄入 70 mL 甜菜根汁（含 6.4 mmol NO3-）或 70 mL 安慰剂饮料（含 0.04 mmol NO3-）后参加了一项随机、双盲、安慰剂对照研究，其中包括两项实验试验。参与者在摄入后 150 分钟进行反向运动跳跃、深蹲跳跃以及 60 和 100 m 冲刺测试。在这些性能测试之前和之后，用张力肌描记法测量股直肌、股二头肌、腓肠肌外侧肌和腓肠肌内侧肌的收缩特性。结果：还测量了唾液中 NO3- 和亚硝酸盐 NO2- 的浓度，与安慰剂饮料相比，摄入甜菜根汁增加了唾液中 NO3- 的浓度（230 ± 435 vs 6164 ± 3370 μM；p = < 0.001，ES = 1.53）和 NO2-（130 ± 131 vs 4509 ± 4895） μM；p = 0.018；ES = 1.63）。摄入甜菜根汁不会影响反向运动跳跃高度（44.12 ± 6.14 vs 43.6 ± 6.29 cm；p = 0.400；ES = -0.25）、深蹲跳跃高度（42.02 ± 4.92 vs 41.91 cm；p = 0.911；ES = 0.04）、60 m 冲刺时间（7.55 ± 0.32 vs 7.58 ± 0.32 秒；p = 0.407；ES = -0.24），或 100 m 冲刺时间（12.57 ± 0.65 vs 12.51 ± 0.62 秒；p = 0.343；ES = 0.29）。除了股二头肌的松弛时间变量 (p = 0.047) 之外，肌张力描记分析未报告所分析肌肉的收缩特性有任何差异 (p = 0.065-0.914)。结论：急性摄入含有 6.4 mmol NO3- 的 70 mL 甜菜根汁并不会增强男性训练有素的短跑运动员的短跑成绩或神经肌肉功能。 试验注册：该研究于 2024 年 11 月 1 日在 ClinicalTrials.gov 上进行回顾性注册，ID 为：5-56NCT06675682。
+中文摘要：简介：本研究的目的是评估摄入甜菜根汁对受过训练的男性短跑运动员的短跑表现和神经肌肉特性的急性影响。方法：12 名男性短跑运动员（24.3 ± 4.8 岁）参加了一项随机、双盲、安慰剂对照研究，其中有两项试验是在摄入 70 mL 甜菜根汁（含 6.4 mmol NO3-）或 70 mL 安慰剂饮料（含 0.04 mmol NO3-）后进行的。参与者在摄入后 150 分钟进行反向运动跳跃、深蹲跳跃以及 60 和 100 m 冲刺测试。在这些性能测试之前和之后，用张力肌描记法测量股直肌、股二头肌、腓肠肌外侧肌和腓肠肌内侧肌的收缩特性。结果：还测量了唾液中 NO3- 和亚硝酸盐 NO2- 的浓度，与安慰剂饮料相比，摄入甜菜根汁增加了唾液中 NO3- 的浓度（230 ± 435 vs 6164 ± 3370 μM；p = < 0.001，ES = 1.53）和 NO2-（130 ± 131 vs 4509 ± 4895） μM；p = 0.018；ES = 1.63）。摄入甜菜根汁不会影响反向运动跳跃高度（44.12 ± 6.14 vs 43.6 ± 6.29 cm；p = 0.400；ES = -0.25）、深蹲跳跃高度（42.02 ± 4.92 vs 41.91 cm；p = 0.911；ES = 0.04）、60 m 冲刺时间（7.55 ± 0.32 vs 7.58 ± 0.32 秒；p = 0.407；ES = -0.24），或 100 m 冲刺时间（12.57 ± 0.65 vs 12.51 ± 0.62 秒；p = 0.343；ES = 0.29）。除了股二头肌的松弛时间变量 (p = 0.047) 之外，肌张力描记分析未报告所分析肌肉的收缩特性有任何差异 (p = 0.065-0.914)。结论：急性摄入含有 6.4 mmol NO3- 的 70 mL 甜菜根汁并不会增强男性训练有素的短跑运动员的短跑成绩或神经肌肉功能。 试验注册：该研究于 2024 年 11 月 1 日在 ClinicalTrials.gov 上进行回顾性注册，ID 为：5-56NCT06675682。
 
 英文摘要：INTRODUCTION: The aim of this study was to evaluate the acute effect of beetroot juice ingestion on sprint performance and neuromuscular properties of male trained sprinters. METHODS: Twelve male sprinters (24.3 ± 4.8 years) participated in a randomized, double-blind, and placebo-controlled study with two experimental trials after the ingestion of 70 mL beetroot juice (containing 6.4 mmol NO3-) or 70 mL placebo drink (containing 0.04 mmol NO3-). Participants performed a countermovement jump, a squat jump, and 60 and 100 m sprint tests at 150 minutes after ingestion. Before and after these performance tests, contractile properties of the rectus femoris, biceps femoris, gastrocnemius lateralis, and gastrocnemius medialis muscles were measured with tensiomyography. RESULTS: Salivary concentrations of NO3- and nitrite NO2- were also measured and in comparison to the placebo drink, the intake of beetroot juice increased salivary concentrations of NO3- (from 230 ± 435 vs 6164 ± 3370 μM; p = < 0.001, ES = 1.53) and NO2- (130 ± 131 vs 4509 ± 4895 μM; p = 0.018; ES = 1.63). Beetroot juice ingestion did not affect countermovement jump height (44.12 ± 6.14 vs 43.6 ± 6.29 cm; p = 0.400; ES = -0.25), squat jump height (42.02 ± 4.92 vs 41.91 cm; p = 0.911; ES = 0.04), 60 m sprint time (7.55 ± 0.32 vs 7.58 ± 0.32 seconds; p = 0.407; ES = -0.24), or 100 m sprint time (12.57 ± 0.65 vs 12.51 ± 0.62 seconds; p = 0.343; ES = 0.29). The tensiomyography analysis did not report any difference in the contractile properties of the muscles analyzed (p = 0.065-0.914), except for the biceps femoris in the relaxation time variable (p = 0.047). CONCLUSION: Acute ingestion of 70 mL beetroot juice containing 6.4 mmol of NO3- did not enhance sprint performance or the neuromuscular function of male trained sprinters.Trial registration: The study was retrospectively registered in ClinicalTrials.gov with the following ID: 5-56NCT06675682 by 1 November 2024.
 
-中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。简介：本研究的目的是评估摄入甜菜根汁对受过训练的男性短跑运动员的短跑表现和神经肌肉特性的急性影响。方法：12 名男性短跑运动员（24.3 ± 4.8 岁）在摄入 70 mL 甜菜根汁（含 6.4 mmol NO3-）或 70 mL 安慰剂饮料（含 0.04 mmol NO3-）后参加了一项随机、双盲、安慰剂对照研究，其中包括两项实验试验。参与者在摄入后 150 分钟进行反向运动跳跃、深蹲跳跃以及 60 和 100 m 冲刺测试。在这些性能测试之前和之后，用张力肌描记法测量股直肌、股二头肌、腓肠肌外侧肌和腓肠肌内侧肌的收缩特性。结果：还测量了唾液中 NO3- 和亚硝酸盐 NO2- 的浓度，与安慰剂饮料相比，摄入甜菜根汁增加了唾液中 NO3- 的浓度（230 ± 435 vs 6164 ± 3370 μM；p = < 0.001，ES = 1.53）和 NO2-（130 ± 131 vs 4509 ± 4895） μM；p = 0.
+中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。简介：本研究的目的是评估摄入甜菜根汁对受过训练的男性短跑运动员的短跑表现和神经肌肉特性的急性影响。方法：12 名男性短跑运动员（24.3 ± 4.8 岁）参加了一项随机、双盲、安慰剂对照研究，其中有两项试验是在摄入 70 mL 甜菜根汁（含 6.4 mmol NO3-）或 70 mL 安慰剂饮料（含 0.04 mmol NO3-）后进行的。参与者在摄入后 150 分钟进行反向运动跳跃、深蹲跳跃以及 60 和 100 m 冲刺测试。在这些性能测试之前和之后，用张力肌描记法测量股直肌、股二头肌、腓肠肌外侧肌和腓肠肌内侧肌的收缩特性。结果：还测量了唾液中 NO3- 和亚硝酸盐 NO2- 的浓度，与安慰剂饮料相比，摄入甜菜根汁增加了唾液中 NO3- 的浓度（230 ± 435 vs 6164 ± 3370 μM；p = < 0.001，ES = 1.53）和 NO2-（130 ± 131 vs 4509 ± 4895） μM；p = 0
 
 临床/科研意义：对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
@@ -977,7 +977,7 @@
 
 研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
 
-核心发现：简介：本研究的目的是评估摄入甜菜根汁对受过训练的男性短跑运动员的短跑表现和神经肌肉特性的急性影响。方法：12 名男性短跑运动员（24.3 ± 4.8 岁）在摄入 70 mL 甜菜根汁（含 6.4 mmol NO3-）或 70 mL 安慰剂饮料（含 0.04 mmol NO3-）后参加了一项随机、双盲、安慰剂对照研究，其中包括两项实验试验。参与者在摄入后 150 分钟进行反向运动跳跃、深蹲跳跃以及 60 和 100 m 冲刺测试。在这些性能测试之前和之后，用张力肌描记法测量股直肌、股二头肌、腓肠肌外侧肌和腓肠肌内侧肌的收缩特性。结果：还测量了唾液中 NO3- 和亚硝酸盐 NO2- 的浓度，与安慰剂饮料相比，摄入甜菜根汁增加了唾液中 NO3- 的浓度（230 ± 435 vs 6164 ± 3370 μM；p = < 0.001，ES = 1.53）和 NO2-（130 ± 131 vs 4509 ± 4895） μM；p = 0.018；ES = 1.63）。摄入甜菜根汁不会影响反向运动跳跃高度（44.12 ± 6.14 vs 43.6 ± 6.29 cm；p = 0.400；ES = -0.25）、深蹲跳跃高度（42.02 ± 4.92 vs 41.91 cm；p = 0.911；ES = 0.04）、60 m 冲刺时间（7.55 ± 0.32 vs 7.58 ± 0.32 秒；p = 0.407；ES = -0.24），或 100 m 冲刺时间（12.57 ± 0.65 vs 12.51 ± 0.62 秒；p = 0.343；ES = 0.29）。除了股二头肌的松弛时间变量 (p = 0.047) 之外，肌张力描记分析未报告所分析肌肉的收缩特性有任何差异 (p = 0.065-0.914)。结论：急性摄入含有 6.4 mmol NO3- 的 70 mL 甜菜根汁并不会增强男性训练有素的短跑运动员的短跑成绩或神经肌肉功能。 试验注册：该研究于 2024 年 11 月 1 日在 ClinicalTrials.gov 上进行回顾性注册，ID 为：5-56NCT06675682。
+核心发现：简介：本研究的目的是评估摄入甜菜根汁对受过训练的男性短跑运动员的短跑表现和神经肌肉特性的急性影响。方法：12 名男性短跑运动员（24.3 ± 4.8 岁）参加了一项随机、双盲、安慰剂对照研究，其中有两项试验是在摄入 70 mL 甜菜根汁（含 6.4 mmol NO3-）或 70 mL 安慰剂饮料（含 0.04 mmol NO3-）后进行的。参与者在摄入后 150 分钟进行反向运动跳跃、深蹲跳跃以及 60 和 100 m 冲刺测试。在这些性能测试之前和之后，用张力肌描记法测量股直肌、股二头肌、腓肠肌外侧肌和腓肠肌内侧肌的收缩特性。结果：还测量了唾液中 NO3- 和亚硝酸盐 NO2- 的浓度，与安慰剂饮料相比，摄入甜菜根汁增加了唾液中 NO3- 的浓度（230 ± 435 vs 6164 ± 3370 μM；p = < 0.001，ES = 1.53）和 NO2-（130 ± 131 vs 4509 ± 4895） μM；p = 0.018；ES = 1.63）。摄入甜菜根汁不会影响反向运动跳跃高度（44.12 ± 6.14 vs 43.6 ± 6.29 cm；p = 0.400；ES = -0.25）、深蹲跳跃高度（42.02 ± 4.92 vs 41.91 cm；p = 0.911；ES = 0.04）、60 m 冲刺时间（7.55 ± 0.32 vs 7.58 ± 0.32 秒；p = 0.407；ES = -0.24），或 100 m 冲刺时间（12.57 ± 0.65 vs 12.51 ± 0.62 秒；p = 0.343；ES = 0.29）。除了股二头肌的松弛时间变量 (p = 0.047) 之外，肌张力描记分析未报告所分析肌肉的收缩特性有任何差异 (p = 0.065-0.914)。结论：急性摄入含有 6.4 mmol NO3- 的 70 mL 甜菜根汁并不会增强男性训练有素的短跑运动员的短跑成绩或神经肌肉功能。 试验注册：该研究于 2024 年 11 月 1 日在 ClinicalTrials.gov 上进行回顾性注册，ID 为：5-56NCT06675682。
 
 临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
 
@@ -1000,11 +1000,11 @@
 - DOI：10.1080/15502783.2026.2668435
 - PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42141930/
 
-中文摘要：背景：更年期伴随着肌肉质量和力量的加速损失以及骨密度的下降。一水肌酸是否对绝经后妇女有益尚不确定。方法：我们系统地回顾了随机、安慰剂对照试验，这些试验检查了绝经后妇女在有或没有阻力训练 (RT) 的情况下补充肌酸的情况。 MEDLINE、Embase、Scopus、Web of Science、SPORTDiscus 和 Cochrane CENTRAL 的检索时间为 2000 年至 2025 年 8 月，并辅以试验注册和参考文献列表筛选。符合条件的研究包括年龄≥40-45岁的绝经后女性，主要分析的干预持续时间≥6周，结果包括DXA衍生的瘦体重、单次重复最大（1RM）力量、骨矿物质密度、身体功能和安全性。进行了双重筛选、重复提取和 Cochrane RoB 2 评估。随机效应荟萃分析使用带有 Hartung-Knapp-Sidik-Jonkman 调整的 Paule-Mandel 估计量 τ2。评估了异质性（τ²、I²）、95% 预测区间、按 RT 状态进行的亚组分析、探索性剂量/持续时间元回归、小型研究效果和 GRADE 确定性。结果：7 项随机对照试验（n = 608 例随机；持续时间 12-104 周，中位 38 周）纳入了绝经后妇女（平均年龄 ≈ 62 岁）。瘦体重 (k = 5; n = 338) 有利于肌酸：平均差 (MD) + 0.37 kg（95% CI + 0.05 至 + 0.69；I² = 25%；τ² = 0.01；95% PI -0.10 至 + 0.84）。肌酸改善腿举 1RM（k = 3；n = 111）：MD + 7.5 kg（95% CI + 2.2 至 + 12.8；I² = 0%）。当肌酸 ≥ 5 g·day⁻1 与 RT 相结合时，益处是显而易见的；使用 ≤ 3 g·day⁻1 且不进行 RT 的试验显示没有可测量的效果。骨密度总体上没有变化。不良事件轻微且与安慰剂相似；肾指数无变化。偏见风险主要是“一些担忧”；一项大型、预先注册的双盲随机对照试验风险较低。结论：对于绝经后女性，肌酸，尤其是 ≥ 5 g·day⁻1 的 RT 肌酸，可以在去脂体重和力量方面产生小但有意义的增益，且无损害证据。对骨密度的影响仍不清楚。注册：本综述并未前瞻性注册。去识别化数据和……
+中文摘要：背景：更年期伴随着肌肉质量和力量的加速损失以及骨密度的下降。一水肌酸是否对绝经后妇女有益尚不确定。方法：我们系统地回顾了随机、安慰剂对照试验，检查绝经后妇女是否补充肌酸，有或没有阻力训练 (RT)。 MEDLINE、Embase、Scopus、Web of Science、SPORTDiscus 和 Cochrane CENTRAL 的检索时间为 2000 年至 2025 年 8 月，并辅以试验注册和参考文献列表筛选。符合条件的研究包括年龄≥40-45岁的绝经后女性，主要分析的干预持续时间≥6周，结果包括DXA衍生的瘦体重、单次重复最大（1RM）力量、骨矿物质密度、身体功能和安全性。进行了双重筛选、重复提取和 Cochrane RoB 2 评估。随机效应荟萃分析使用带有 Hartung-Knapp-Sidik-Jonkman 调整的 Paule-Mandel 估计量 τ2。评估了异质性（τ²、I²）、95% 预测区间、按 RT 状态进行的亚组分析、探索性剂量/持续时间元回归、小型研究效果和 GRADE 确定性。结果：7 项随机对照试验（n = 608 例随机；持续时间 12-104 周，中位 38 周）纳入了绝经后妇女（平均年龄 ≈ 62 岁）。瘦体重 (k = 5; n = 338) 有利于肌酸：平均差 (MD) + 0.37 kg（95% CI + 0.05 至 + 0.69；I² = 25%；τ² = 0.01；95% PI -0.10 至 + 0.84）。肌酸改善腿举 1RM（k = 3；n = 111）：MD + 7.5 kg（95% CI + 2.2 至 + 12.8；I² = 0%）。当肌酸 ≥ 5 g·day⁻1 与 RT 相结合时，益处是显而易见的；使用 ≤ 3 g·day⁻1 且不进行 RT 的试验显示没有可测量的效果。骨密度总体上没有变化。不良事件轻微且与安慰剂相似；肾指数无变化。偏见风险主要是“一些担忧”；一项大型、预先注册的双盲随机对照试验风险较低。结论：对于绝经后女性，肌酸，尤其是 ≥ 5 g·day⁻1 的 RT 肌酸，可以在去脂体重和力量方面产生小但有意义的增益，且无损害证据。对骨密度的影响仍不清楚。注册：本综述并未前瞻性注册。去识别化数据和……
 
 英文摘要：BACKGROUND: Menopause is accompanied by accelerated losses in muscle mass and strength and declining bone density. Whether creatine monohydrate benefits postmenopausal women are uncertain. METHODS: We systematically reviewed randomized, placebo-controlled trials examining creatine supplementation, with or without resistance training (RT), in postmenopausal women. MEDLINE, Embase, Scopus, Web of Science, SPORTDiscus, and Cochrane CENTRAL were searched from 2000 to August 2025, supplemented by trial registries and reference-list screening. Eligible studies included postmenopausal women aged ≥40-45 years, intervention durations ≥6 weeks for primary analyses, and outcomes including DXA-derived lean mass, one-repetition maximum (1RM) strength, bone mineral density, physical function, and safety. Dual screening, duplicate extraction, and Cochrane RoB 2 assessment were performed. Random-effects meta-analysis used the Paule-Mandel estimator for τ² with Hartung-Knapp-Sidik-Jonkman adjustment. Heterogeneity (τ², I²), 95% prediction intervals, subgroup analyses by RT status, exploratory dose/duration meta-regression, small-study effects, and GRADE certainty were assessed. RESULTS: Seven RCTs (n = 608 randomized; duration 12-104 weeks, median 38 weeks) enrolled postmenopausal women (mean age ≈ 62 y). Lean mass (k = 5; n = 338) favored creatine: mean difference (MD) + 0.37 kg (95% CI + 0.05 to + 0.69; I² = 25%; τ² = 0.01; 95% PI -0.10 to + 0.84). Leg-press 1RM (k = 3; n = 111) improved with creatine: MD + 7.5 kg (95% CI + 2.2 to + 12.8; I² = 0%). Benefits were evident when creatine ≥ 5 g·day⁻¹ was combined with RT; trials using ≤ 3 g·day⁻¹ without RT showed no measurable effect. Bone density was unchanged overall. Adverse events were mild and similar to placebo; renal indices were unchanged. Risk of bias was mostly "some concerns;" one large, preregistered, double-blind RCT was at low risk. CONCLUSIONS: In postmenopausal women, creatine, particularly ≥ 5 g·day⁻¹ with RT, yields small but meaningful gains in lean mass and strength without evidence of harm. Effects on bone density remain unclear.Registration: This review was not prospectively registered. De-identified data and supplementary materials were deposited on OSF after completion of the analysis (DOI: 10.17605/OSF.IO/BVTRZ).
 
-中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。背景：更年期伴随着肌肉质量和力量的加速损失以及骨密度的下降。一水肌酸是否对绝经后妇女有益尚不确定。方法：我们系统地回顾了随机、安慰剂对照试验，这些试验检查了绝经后妇女在有或没有阻力训练 (RT) 的情况下补充肌酸的情况。 MEDLINE、Embase、Scopus、Web of Science、SPORTDiscus 和 Cochrane CENTRAL 的检索时间为 2000 年至 2025 年 8 月，并辅以试验注册和参考文献列表筛选。符合条件的研究包括年龄≥40-45岁的绝经后女性，主要分析的干预持续时间≥6周，结果包括DXA衍生的瘦体重、单次重复最大（1RM）力量、骨矿物质密度、身体功能和安全性。进行了双重筛选、重复提取和 Cochrane RoB 2 评估。随机效应荟萃分析使用带有 Hartung-Knapp-Sidik-Jonkman 调整的 Paule-Mandel 估计量 τ2。评估了异质性（τ²、I²）、95%
+中文总结：这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。背景：更年期伴随着肌肉质量和力量的加速损失以及骨密度的下降。一水肌酸是否对绝经后妇女有益尚不确定。方法：我们系统地回顾了随机、安慰剂对照试验，检查绝经后妇女是否补充肌酸，有或没有阻力训练 (RT)。 MEDLINE、Embase、Scopus、Web of Science、SPORTDiscus 和 Cochrane CENTRAL 的检索时间为 2000 年至 2025 年 8 月，并辅以试验注册和参考文献列表筛选。符合条件的研究包括年龄≥40-45岁的绝经后女性，主要分析的干预持续时间≥6周，结果包括DXA衍生的瘦体重、单次重复最大（1RM）力量、骨矿物质密度、身体功能和安全性。进行了双重筛选、重复提取和 Cochrane RoB 2 评估。随机效应荟萃分析使用带有 Hartung-Knapp-Sidik-Jonkman 调整的 Paule-Mandel 估计量 τ2。评估了异质性（τ²、I²）、95% 预测区间、按 RT 
 
 临床/科研意义：对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
@@ -1016,7 +1016,7 @@
 
 研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
 
-核心发现：背景：更年期伴随着肌肉质量和力量的加速损失以及骨密度的下降。一水肌酸是否对绝经后妇女有益尚不确定。方法：我们系统地回顾了随机、安慰剂对照试验，这些试验检查了绝经后妇女在有或没有阻力训练 (RT) 的情况下补充肌酸的情况。 MEDLINE、Embase、Scopus、Web of Science、SPORTDiscus 和 Cochrane CENTRAL 的检索时间为 2000 年至 2025 年 8 月，并辅以试验注册和参考文献列表筛选。符合条件的研究包括年龄≥40-45岁的绝经后女性，主要分析的干预持续时间≥6周，结果包括DXA衍生的瘦体重、单次重复最大（1RM）力量、骨矿物质密度、身体功能和安全性。进行了双重筛选、重复提取和 Cochrane RoB 2 评估。随机效应荟萃分析使用带有 Hartung-Knapp-Sidik-Jonkman 调整的 Paule-Mandel 估计量 τ2。评估了异质性（τ²、I²）、95% 预测区间、按 RT 状态进行的亚组分析、探索性剂量/持续时间元回归、小型研究效果和 GRADE 确定性。结果：7 项随机对照试验（n = 608 例随机；持续时间 12-104 周，中位 38 周）纳入了绝经后妇女（平均年龄 ≈ 62 岁）。瘦体重 (k = 5; n = 338) 有利于肌酸：平均差 (MD) + 0.37 kg（95% CI + 0.05 至 + 0.69；I² = 25%；τ² = 0.01；95% PI -0.10 至 + 0.84）。肌酸改善腿举 1RM（k = 3；n = 111）：MD + 7.5 kg（95% CI + 2.2 至 + 12.8；I² = 0%）。当肌酸 ≥ 5 g·day⁻1 与 RT 相结合时，益处是显而易见的；使用 ≤ 3 g·day⁻1 且不进行 RT 的试验显示没有可测量的效果。骨密度总体上没有变化。不良事件轻微且与安慰剂相似；肾指数无变化。偏见风险主要是“一些担忧”；一项大型、预先注册的双盲随机对照试验风险较低。结论：对于绝经后女性，肌酸，尤其是 ≥ 5 g·day⁻1 的 RT 肌酸，可以在去脂体重和力量方面产生小但有意义的增益，且无损害证据。对骨密度的影响仍不清楚。注册：本综述并未前瞻性注册。去识别化数据和……
+核心发现：背景：更年期伴随着肌肉质量和力量的加速损失以及骨密度的下降。一水肌酸是否对绝经后妇女有益尚不确定。方法：我们系统地回顾了随机、安慰剂对照试验，检查绝经后妇女是否补充肌酸，有或没有阻力训练 (RT)。 MEDLINE、Embase、Scopus、Web of Science、SPORTDiscus 和 Cochrane CENTRAL 的检索时间为 2000 年至 2025 年 8 月，并辅以试验注册和参考文献列表筛选。符合条件的研究包括年龄≥40-45岁的绝经后女性，主要分析的干预持续时间≥6周，结果包括DXA衍生的瘦体重、单次重复最大（1RM）力量、骨矿物质密度、身体功能和安全性。进行了双重筛选、重复提取和 Cochrane RoB 2 评估。随机效应荟萃分析使用带有 Hartung-Knapp-Sidik-Jonkman 调整的 Paule-Mandel 估计量 τ2。评估了异质性（τ²、I²）、95% 预测区间、按 RT 状态进行的亚组分析、探索性剂量/持续时间元回归、小型研究效果和 GRADE 确定性。结果：7 项随机对照试验（n = 608 例随机；持续时间 12-104 周，中位 38 周）纳入了绝经后妇女（平均年龄 ≈ 62 岁）。瘦体重 (k = 5; n = 338) 有利于肌酸：平均差 (MD) + 0.37 kg（95% CI + 0.05 至 + 0.69；I² = 25%；τ² = 0.01；95% PI -0.10 至 + 0.84）。肌酸改善腿举 1RM（k = 3；n = 111）：MD + 7.5 kg（95% CI + 2.2 至 + 12.8；I² = 0%）。当肌酸 ≥ 5 g·day⁻1 与 RT 相结合时，益处是显而易见的；使用 ≤ 3 g·day⁻1 且不进行 RT 的试验显示没有可测量的效果。骨密度总体上没有变化。不良事件轻微且与安慰剂相似；肾指数无变化。偏见风险主要是“一些担忧”；一项大型、预先注册的双盲随机对照试验风险较低。结论：对于绝经后女性，肌酸，尤其是 ≥ 5 g·day⁻1 的 RT 肌酸，可以在去脂体重和力量方面产生小但有意义的增益，且无损害证据。对骨密度的影响仍不清楚。注册：本综述并未前瞻性注册。去识别化数据和……
 
 临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
 
@@ -1182,7 +1182,7 @@
 
 参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Fri, 22 Ma｜https://www.sciencedaily.com/releases/2026/05/260521072416.htm
 
-## 5. 科学家发现了一个隐藏的阿尔茨海默病触发因素并将其关闭
+## 5. 科学家发现了阿尔茨海默病的一个隐藏诱因并将其关闭
 
 - 英文题目：Scientists found a hidden Alzheimer’s trigger and shut it down
 - 主题：国内外医学与医药新闻
@@ -1197,23 +1197,23 @@
 - DOI：N/A
 - PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260519224334.htm
 
-中文摘要：一种新发现的名为 IDOL 的酶可能成为对抗阿尔茨海默病的一个主要新靶点。研究人员发现，将其从神经元中去除可以大幅减少淀粉样蛋白斑块，并改善与细胞之间的弹性和沟通相关的关键大脑过程。这一发现可能会带来未来的治疗方法，而不仅仅是减缓阿尔茨海默病——可能有助于保护大脑免于进一步衰退。
+中文摘要：一种新发现的名为 IDOL 的酶可能成为对抗阿尔茨海默病的一个主要新靶点。研究人员发现，从神经元中去除淀粉样蛋白斑块，可以显着减少淀粉样蛋白斑块，并改善与细胞之间的弹性和沟通相关的关键大脑过程。这一发现可能会带来未来的治疗方法，而不仅仅是减缓阿尔茨海默病——可能有助于保护大脑免于进一步衰退。
 
 英文摘要：A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lead to future treatments that go beyond slowing Alzheimer’s — potentially helping protect the brain from further decline.
 
-中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。一种新发现的名为 IDOL 的酶可能成为对抗阿尔茨海默病的一个主要新靶点。研究人员发现，将其从神经元中去除可以大幅减少淀粉样蛋白斑块，并改善与细胞之间的弹性和沟通相关的关键大脑过程。这一发现可能会带来未来的治疗方法，而不仅仅是减缓阿尔茨海默病——可能有助于保护大脑免于进一步衰退。
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。一种新发现的名为 IDOL 的酶可能成为对抗阿尔茨海默病的一个主要新靶点。研究人员发现，从神经元中去除淀粉样蛋白斑块，可以显着减少淀粉样蛋白斑块，并改善与细胞之间的弹性和沟通相关的关键大脑过程。这一发现可能会带来未来的治疗方法，而不仅仅是减缓阿尔茨海默病——可能有助于保护大脑免于进一步衰退。
 
 临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
 推文草稿：
 
-【文献速递】科学家发现了一个隐藏的阿尔茨海默病触发因素并将其关闭
+【文献速递】科学家发现了阿尔茨海默病的一个隐藏诱因并将其关闭
 
 英文题目：Scientists found a hidden Alzheimer’s trigger and shut it down
 
 研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
 
-核心发现：一种新发现的名为 IDOL 的酶可能成为对抗阿尔茨海默病的一个主要新靶点。研究人员发现，将其从神经元中去除可以大幅减少淀粉样蛋白斑块，并改善与细胞之间的弹性和沟通相关的关键大脑过程。这一发现可能会带来未来的治疗方法，而不仅仅是减缓阿尔茨海默病——可能有助于保护大脑免于进一步衰退。
+核心发现：一种新发现的名为 IDOL 的酶可能成为对抗阿尔茨海默病的一个主要新靶点。研究人员发现，从神经元中去除淀粉样蛋白斑块，可以显着减少淀粉样蛋白斑块，并改善与细胞之间的弹性和沟通相关的关键大脑过程。这一发现可能会带来未来的治疗方法，而不仅仅是减缓阿尔茨海默病——可能有助于保护大脑免于进一步衰退。
 
 临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
 
@@ -1275,11 +1275,11 @@
 - DOI：N/A
 - PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260519224308.htm
 
-中文摘要：维生素 D 水平低可能会悄然让乳腺癌手术恢复过程更加痛苦。在一项新的研究中，缺乏维生素 D 的患者在乳房切除术后出现中度至重度疼痛的可能性增加了三倍，并最终使用更多的阿片类药物来应对。研究人员表示，维生素 D 可能通过其对炎症和免疫系统的影响来帮助调节身体处理疼痛的方式。
+中文摘要：维生素 D 水平低可能会悄然使乳腺癌手术恢复过程更加痛苦。在一项新的研究中，缺乏维生素 D 的患者在乳房切除术后出现中度至重度疼痛的可能性增加了三倍，并最终使用更多的阿片类药物来应对。研究人员表示，维生素 D 可能通过影响炎症和免疫系统来帮助调节身体处理疼痛的方式。
 
 英文摘要：Low vitamin D levels could be quietly making breast cancer surgery recovery far more painful. In a new study, patients deficient in vitamin D were three times more likely to experience moderate to severe pain after mastectomy surgery and ended up using significantly more opioid medication to cope. Researchers say vitamin D may help regulate how the body processes pain through its effects on inflammation and the immune system.
 
-中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。维生素 D 水平低可能会悄然让乳腺癌手术恢复过程更加痛苦。在一项新的研究中，缺乏维生素 D 的患者在乳房切除术后出现中度至重度疼痛的可能性增加了三倍，并最终使用更多的阿片类药物来应对。研究人员表示，维生素 D 可能通过其对炎症和免疫系统的影响来帮助调节身体处理疼痛的方式。
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。维生素 D 水平低可能会悄然使乳腺癌手术恢复过程更加痛苦。在一项新的研究中，缺乏维生素 D 的患者在乳房切除术后出现中度至重度疼痛的可能性增加了三倍，并最终使用更多的阿片类药物来应对。研究人员表示，维生素 D 可能通过影响炎症和免疫系统来帮助调节身体处理疼痛的方式。
 
 临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
@@ -1291,7 +1291,7 @@
 
 研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
 
-核心发现：维生素 D 水平低可能会悄然让乳腺癌手术恢复过程更加痛苦。在一项新的研究中，缺乏维生素 D 的患者在乳房切除术后出现中度至重度疼痛的可能性增加了三倍，并最终使用更多的阿片类药物来应对。研究人员表示，维生素 D 可能通过其对炎症和免疫系统的影响来帮助调节身体处理疼痛的方式。
+核心发现：维生素 D 水平低可能会悄然使乳腺癌手术恢复过程更加痛苦。在一项新的研究中，缺乏维生素 D 的患者在乳房切除术后出现中度至重度疼痛的可能性增加了三倍，并最终使用更多的阿片类药物来应对。研究人员表示，维生素 D 可能通过影响炎症和免疫系统来帮助调节身体处理疼痛的方式。
 
 临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
 
@@ -1314,11 +1314,11 @@
 - DOI：N/A
 - PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260520233221.htm
 
-中文摘要：研究人员发现，亮氨酸是富含蛋白质的食物中的一种营养物质，可以通过保护细胞内关键的能量产生蛋白质来增强线粒体。这一突破揭示了饮食和细胞能量之间强大的新联系，可能对癌症和代谢疾病的治疗产生影响。
+中文摘要：研究人员发现，富含蛋白质的食物中含有的一种营养素亮氨酸可以通过保护细胞内重要的能量产生蛋白质来增强线粒体。这一突破揭示了饮食和细胞能量之间强大的新联系，可能对癌症和代谢疾病的治疗产生影响。
 
 英文摘要：Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.
 
-中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。研究人员发现，亮氨酸是富含蛋白质的食物中的一种营养物质，可以通过保护细胞内关键的能量产生蛋白质来增强线粒体。这一突破揭示了饮食和细胞能量之间强大的新联系，可能对癌症和代谢疾病的治疗产生影响。
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。研究人员发现，富含蛋白质的食物中含有的一种营养素亮氨酸可以通过保护细胞内重要的能量产生蛋白质来增强线粒体。这一突破揭示了饮食和细胞能量之间强大的新联系，可能对癌症和代谢疾病的治疗产生影响。
 
 临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
@@ -1330,7 +1330,7 @@
 
 研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
 
-核心发现：研究人员发现，亮氨酸是富含蛋白质的食物中的一种营养物质，可以通过保护细胞内关键的能量产生蛋白质来增强线粒体。这一突破揭示了饮食和细胞能量之间强大的新联系，可能对癌症和代谢疾病的治疗产生影响。
+核心发现：研究人员发现，富含蛋白质的食物中含有的一种营养素亮氨酸可以通过保护细胞内重要的能量产生蛋白质来增强线粒体。这一突破揭示了饮食和细胞能量之间强大的新联系，可能对癌症和代谢疾病的治疗产生影响。
 
 临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
 
@@ -1418,10 +1418,10 @@
 
 ## 抓取提示
 
-- arXiv traumatic_brain_injury: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
-- arXiv hydrocephalus: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22hydrocephalus%22+OR+all%3A%22normal+pressure+hydrocephalus%22+OR+all%3A%22iNPH%22+OR+all%3A%22cerebrospinal+fluid%22+OR+all%3A%22CSF%22+OR+all%3A%22meningeal+lymphatic%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
-- arXiv stem_cell_exosome: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
+- arXiv traumatic_brain_injury: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22traumatic+brain+injury%22+OR+all%3A%22TBI%22+OR+all%3A%22brain+trauma%22+OR+all%3A%22neuroinflammation%22+OR+all%3A%22blood-brain+barrier%22+OR+all%3A%22glymphatic%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
+- arXiv hydrocephalus: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
+- arXiv stem_cell_exosome: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22stem+cell%22+OR+all%3A%22mesenchymal+stem+cell%22+OR+all%3A%22MSC%22+OR+all%3A%22exosome%22+OR+all%3A%22extracellular+vesicles%22+OR+all%3A%22intranasal%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
 - arXiv microglia_trem2: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22microglia%22+OR+all%3A%22TREM2%22+OR+all%3A%22Cystatin+C%22+OR+all%3A%22CST3%22+OR+all%3A%22phagocytosis%22+OR+all%3A%22neuroimmune%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
-- arXiv glioma_spinal: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22glioma%22+OR+all%3A%22glioblastoma%22+OR+all%3A%22spinal+cord+tumor%22+OR+all%3A%22astrocytoma%22+OR+all%3A%22tumor+microenvironment%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
+- arXiv glioma_spinal: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
 - arXiv neurosurgery_general: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22neurosurgery%22+OR+all%3A%22neurosurgical%22+OR+all%3A%22brain+injury%22+OR+all%3A%22spinal+cord%22+OR+all%3A%22neurocritical+care%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
 - Medical news Neuroscience News: feed parse failed
