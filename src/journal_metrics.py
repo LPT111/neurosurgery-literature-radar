@@ -33,10 +33,25 @@ JOURNAL_METRICS: dict[str, dict[str, Any]] = {
 
 
 BASE_DIR = Path(__file__).resolve().parents[1]
+_EXTERNAL_METRICS_CACHE: dict[str, dict[str, str]] | None = None
 
 
 def normalize_journal_name(journal: str) -> str:
     return "".join(ch for ch in (journal or "").strip().lower() if ch.isalnum())
+
+
+def journal_alias_keys(journal: str) -> list[str]:
+    raw = (journal or "").strip()
+    keys = [normalize_journal_name(raw)]
+    for sep in [":", "("]:
+        if sep in raw:
+            keys.append(normalize_journal_name(raw.split(sep, 1)[0]))
+    lowered = raw.lower()
+    if lowered.startswith("the "):
+        keys.append(normalize_journal_name(raw[4:]))
+    else:
+        keys.append(normalize_journal_name(f"the {raw}"))
+    return [key for idx, key in enumerate(keys) if key and key not in keys[:idx]]
 
 
 def load_external_metrics() -> dict[str, dict[str, str]]:
@@ -48,8 +63,12 @@ def load_external_metrics() -> dict[str, dict[str, str]]:
     Optional columns are allowed and ignored. This lets the project use a
     user-provided JCR/CAS export without scraping licensed databases.
     """
+    global _EXTERNAL_METRICS_CACHE
+    if _EXTERNAL_METRICS_CACHE is not None:
+        return _EXTERNAL_METRICS_CACHE
     path = BASE_DIR / "config" / "journal_metrics.csv"
     if not path.exists():
+        _EXTERNAL_METRICS_CACHE = {}
         return {}
     metrics: dict[str, dict[str, str]] = {}
     with path.open("r", encoding="utf-8-sig", newline="") as handle:
@@ -58,12 +77,18 @@ def load_external_metrics() -> dict[str, dict[str, str]]:
             journal = (row.get("journal") or row.get("Journal") or "").strip()
             if not journal:
                 continue
-            key = normalize_journal_name(journal)
-            metrics[key] = {
+            value = {
                 "impact_factor": (row.get("impact_factor") or row.get("Impact Factor") or row.get("if") or "待核实").strip(),
                 "quartile": (row.get("quartile") or row.get("Quartile") or row.get("partition") or "待核实").strip(),
                 "metric_source": (row.get("source") or row.get("Source") or "config/journal_metrics.csv").strip(),
+                "jcr_quartile": (row.get("jcr_quartile") or "").strip(),
+                "cas_quartile": (row.get("cas_quartile") or "").strip(),
+                "jif_rank": (row.get("jif_rank") or "").strip(),
+                "category": (row.get("category") or "").strip(),
             }
+            for key in journal_alias_keys(journal):
+                metrics.setdefault(key, value)
+    _EXTERNAL_METRICS_CACHE = metrics
     return metrics
 
 
@@ -71,8 +96,9 @@ def journal_metric(journal: str) -> dict[str, str]:
     name = (journal or "").strip().lower()
     compact = normalize_journal_name(name)
     external = load_external_metrics()
-    if compact in external:
-        return external[compact]
+    for alias in journal_alias_keys(name):
+        if alias in external:
+            return external[alias]
     for key, metric in JOURNAL_METRICS.items():
         key_compact = normalize_journal_name(key)
         is_single_flagship = key in {"nature", "science", "cell", "jama", "bmj"}

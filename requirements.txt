@@ -3,3 +3,4 @@ PyYAML
 python-dateutil
 feedparser
 urllib3<2
+openpyxl

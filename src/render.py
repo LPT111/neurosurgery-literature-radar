@@ -69,7 +69,9 @@ def render_markdown(payload: dict[str, Any]) -> str:
                 f"- DOI：{item.get('doi', '') or 'N/A'}",
                 f"- PubMed/原文链接：{item.get('pubmed_url') or item.get('url', '')}",
                 "",
-                f"摘要：{item.get('abstract', '') or '暂无摘要'}",
+                f"中文摘要：{item.get('abstract_cn', '') or '暂无中文摘要'}",
+                "",
+                f"英文摘要：{item.get('abstract', '') or '暂无摘要'}",
                 "",
                 f"中文总结：{item.get('ai_summary_cn', '')}",
                 "",
@@ -125,7 +127,8 @@ def render_text(payload: dict[str, Any]) -> str:
                     f"   期刊：{item.get('journal', '')}｜IF：{item.get('impact_factor', '待核实')}｜分区：{item.get('quartile', '待核实')}｜指标：{item.get('metric_source', '未匹配')}",
                     f"   日期：{item.get('published', '')}｜PMID：{item.get('pmid', '') or 'N/A'}｜DOI：{item.get('doi', '') or 'N/A'}",
                     f"   链接：{item.get('pubmed_url') or item.get('url', '')}",
-                    f"   摘要：{item.get('abstract', '') or '暂无摘要'}",
+                    f"   中文摘要：{item.get('abstract_cn', '') or '暂无中文摘要'}",
+                    f"   英文摘要：{item.get('abstract', '') or '暂无摘要'}",
                     f"   总结：{item.get('ai_summary_cn', '')}",
                     f"   意义：{item.get('clinical_relevance_cn', '')}",
                     "",
@@ -139,6 +142,53 @@ def render_text(payload: dict[str, Any]) -> str:
     return "\n".join(lines).strip() + "\n"
 
 
+def render_feishu_text(payload: dict[str, Any], dashboard_url: str = "") -> str:
+    generated = payload.get("generated_at", "")
+    total = payload.get("total_count", payload.get("count", 0))
+    lines = [
+        f"【神外文献雷达 V1】{generated}",
+        f"本次筛选：{total} 条文献/资讯",
+    ]
+    if dashboard_url:
+        lines.append(f"完整网页：{dashboard_url}")
+    lines.extend(
+        [
+            "说明：飞书为短版推送；完整题目、中文摘要、英文摘要、PMID/DOI 请打开网页查看。",
+            "",
+        ]
+    )
+
+    def add_short_section(title: str, items: list[dict[str, Any]], limit: int) -> None:
+        if not items:
+            return
+        lines.extend([f"【{title}】", ""])
+        for idx, item in enumerate(items[:limit], 1):
+            link = item.get("pubmed_url") or item.get("url", "")
+            summary = item.get("ai_summary_cn") or item.get("abstract_cn") or ""
+            summary = " ".join(str(summary).split())
+            if len(summary) > 110:
+                summary = summary[:110] + "……"
+            lines.extend(
+                [
+                    f"{idx}. {item.get('title_cn') or item.get('title', '')}",
+                    f"   英文：{item.get('title_en') or item.get('title', '')}",
+                    f"   期刊：{item.get('journal', '')}｜{item.get('published', '')}",
+                    f"   IF：{item.get('impact_factor', '待核实')}｜分区：{item.get('quartile', '待核实')}",
+                    f"   链接：{link}",
+                    f"   要点：{summary}",
+                    "",
+                ]
+            )
+
+    add_short_section("神外/脑损伤/脑积水核心文献", payload.get("items", []), 3)
+    sections = payload.get("sections", {}) or {}
+    add_short_section("顶刊神经科学", sections.get("top_journal_neuroscience", []), 2)
+    add_short_section("全球热点话题", sections.get("global_hot_topics", []), 1)
+    add_short_section("医学与医药新闻", sections.get("medical_news", []), 1)
+    lines.append("发稿前核验：研究类型、样本量、主要终点、全文结论、期刊指标和利益冲突。")
+    return "\n".join(lines).strip() + "\n"
+
+
 def render_html(payload: dict[str, Any]) -> str:
     def render_card(item: dict[str, Any]) -> str:
         return f"""
@@ -149,7 +199,8 @@ def render_html(payload: dict[str, Any]) -> str:
         <p class="journal">{_esc(item.get('journal'))}｜{_esc(item.get('published'))}</p>
         <p class="ids">PMID: {_esc(item.get('pmid') or 'N/A')} ｜ DOI: {_esc(item.get('doi') or 'N/A')}</p>
         <p><a href="{_esc(item.get('pubmed_url') or item.get('url'))}" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>摘要</h3><p>{_esc(item.get('abstract') or '暂无摘要')}</p></section>
+        <section><h3>中文摘要</h3><p>{_esc(item.get('abstract_cn') or '暂无中文摘要')}</p></section>
+        <details><summary>英文摘要</summary><p>{_esc(item.get('abstract') or '暂无摘要')}</p></details>
         <section><h3>AI 中文总结</h3><p>{_esc(item.get('ai_summary_cn'))}</p></section>
         <section><h3>临床/科研意义</h3><p>{_esc(item.get('clinical_relevance_cn'))}</p></section>
         <details><summary>人工审核前推文草稿</summary><pre>{_esc(item.get('wechat_draft_cn'))}</pre></details>

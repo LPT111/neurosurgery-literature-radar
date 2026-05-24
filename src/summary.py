@@ -6,28 +6,34 @@ from typing import Any
 
 import requests
 
+from src.translation import translate_item_fields
+
 
 def _fallback_title_cn(title: str) -> str:
-    return f"论文标题：{title}"
+    return title
 
 
 def _rule_summary(item: dict[str, Any]) -> dict[str, str]:
     title = item.get("title", "")
+    translated = translate_item_fields(item)
     section_cn = item.get("section_cn") or item.get("topic_cn", "神经外科相关方向")
     topic_cn = item.get("topic_cn", "神经外科相关方向")
     abstract = item.get("abstract", "")
+    abstract_cn = translated.get("abstract_cn", "")
     short_abs = abstract[:260].strip()
     if short_abs and len(abstract) > 260:
         short_abs += "..."
-    finding = short_abs or "该条目暂无摘要，建议人工打开原文核对研究设计、样本量和主要结果。"
+    finding = abstract_cn or short_abs or "该条目暂无摘要，建议人工打开原文核对研究设计、样本量和主要结果。"
     return {
         "title_en": title,
-        "title_cn": item.get("title_cn") or _fallback_title_cn(title),
-        "tweet_title_cn": f"【文献速递】{title}",
-        "ai_summary_cn": f"这条内容归入“{section_cn}”，聚焦{topic_cn}。主要信息来自题名、期刊/来源和摘要。{finding}",
+        "title_cn": translated.get("title_cn") or _fallback_title_cn(title),
+        "abstract_cn": abstract_cn,
+        "tweet_title_cn": f"【文献速递】{translated.get('title_cn') or title}",
+        "ai_summary_cn": f"这条内容归入“{section_cn}”，聚焦{topic_cn}。主要信息来自题名、期刊/来源和摘要。{finding[:420]}",
         "clinical_relevance_cn": f"对{topic_cn}方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。",
         "wechat_draft_cn": (
-            f"【文献速递】{title}\n\n"
+            f"【文献速递】{translated.get('title_cn') or title}\n\n"
+            f"英文题目：{title}\n\n"
             "研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。\n\n"
             f"核心发现：{finding}\n\n"
             "临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。\n\n"
@@ -47,7 +53,7 @@ def _openai_summary(item: dict[str, Any], model: str) -> dict[str, str] | None:
         "published": item.get("published", ""),
         "topic_cn": item.get("topic_cn", ""),
         "abstract": item.get("abstract", ""),
-        "task": "请把英文论文题目准确翻译为简体中文，并用克制、准确的中文为医学科研人员生成文献日报字段。不要夸大，不要编造摘要外信息。输出 JSON，字段为 title_cn, title_en, tweet_title_cn, ai_summary_cn, clinical_relevance_cn, wechat_draft_cn。title_cn 必须是自然的简体中文论文题目，不要出现“待校对”。",
+        "task": "请把英文论文题目和摘要准确翻译为简体中文，并用克制、准确的中文为医学科研人员生成文献日报字段。不要夸大，不要编造摘要外信息。输出 JSON，字段为 title_cn, title_en, abstract_cn, tweet_title_cn, ai_summary_cn, clinical_relevance_cn, wechat_draft_cn。title_cn 必须是自然的简体中文论文题目，不要出现“待校对”。abstract_cn 是摘要的简体中文翻译或忠实压缩翻译。",
     }
     try:
         response = requests.post(
@@ -70,6 +76,8 @@ def _openai_summary(item: dict[str, Any], model: str) -> dict[str, str] | None:
         required = ["title_cn", "title_en", "tweet_title_cn", "ai_summary_cn", "clinical_relevance_cn", "wechat_draft_cn"]
         if all(data.get(k) for k in required):
             result = {k: str(data[k]) for k in required}
+            if data.get("abstract_cn"):
+                result["abstract_cn"] = str(data["abstract_cn"])
             result["title_en"] = result.get("title_en") or item.get("title", "")
             return result
     except Exception as exc:
@@ -83,6 +91,9 @@ def enrich_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     for item in items:
         summary = _openai_summary(item, model) or _rule_summary(item)
         copy = dict(item)
+        translations = translate_item_fields(copy)
+        summary.setdefault("title_cn", translations.get("title_cn", ""))
+        summary.setdefault("abstract_cn", translations.get("abstract_cn", ""))
         copy.update(summary)
         enriched.append(copy)
     return enriched
