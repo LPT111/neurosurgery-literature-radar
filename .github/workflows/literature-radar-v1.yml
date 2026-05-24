@@ -1,4 +1,4 @@
-name: Neurosurgery Literature Radar V1
+name: Neurosurgery Literature Radar V2
 
 on:
   workflow_dispatch:
