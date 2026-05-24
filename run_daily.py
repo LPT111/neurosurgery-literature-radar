@@ -8,7 +8,7 @@ from pathlib import Path
 import yaml
 
 from src.email_sender import send_email
-from src.feishu import send_feishu
+from src.feishu import send_feishu_card
 from src.fetchers import fetch_all, fetch_global_hot_topics, fetch_medical_news, fetch_top_journal_neuroscience
 from src.journal_metrics import enrich_metrics_many
 from src.render import render_feishu_text, write_outputs
@@ -55,7 +55,7 @@ def push_feishu_briefing(payload: dict) -> bool:
     if len(full_text) > 3800:
         link_line = f"\n\n完整网页：{dashboard_url}" if dashboard_url else ""
         full_text = full_text[:3600] + link_line + "\n\n内容较长，已截断；请打开网页查看完整版本。"
-    return send_feishu(full_text)
+    return send_feishu_card(f"神外文献雷达 V2｜{payload.get('generated_at', '')}", full_text, dashboard_url)
 
 
 def push_wechat_briefing(payload: dict) -> bool:
@@ -63,7 +63,7 @@ def push_wechat_briefing(payload: dict) -> bool:
     text = render_feishu_text(payload, dashboard_url)
     if len(text) > 3200:
         text = text[:3200] + "\n\n内容较长，请打开网页查看完整版本。"
-    return send_wechat(f"神外文献雷达 V1｜{payload.get('generated_at', '')}", text)
+    return send_wechat(f"神外文献雷达 V2｜{payload.get('generated_at', '')}", text)
 
 
 def run(preview: bool = False, no_email: bool = False, email_test: bool = False) -> dict:
@@ -122,7 +122,7 @@ def run(preview: bool = False, no_email: bool = False, email_test: bool = False)
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Neurosurgery Literature Radar V1")
+    parser = argparse.ArgumentParser(description="Neurosurgery Literature Radar V2")
     parser.add_argument("--no-email", action="store_true")
     parser.add_argument("--email-test", action="store_true")
     parser.add_argument("--preview", action="store_true")

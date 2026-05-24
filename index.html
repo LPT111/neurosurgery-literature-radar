@@ -3,16 +3,22 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Neurosurgery Literature Radar V1</title>
+  <title>Neurosurgery Literature Radar V2</title>
   <style>
-    :root { --green:#064e3b; --line:#d8e3dc; --soft:#f4faf7; --ink:#17211d; --muted:#63736b; }
+    html { scroll-behavior:smooth; }
+    :root { --green:#064e3b; --line:#d8e3dc; --soft:#f4faf7; --ink:#17211d; --muted:#63736b; --paper:#ffffff; }
     * { box-sizing:border-box; }
     body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",sans-serif; color:var(--ink); background:#fff; }
     header { padding:34px min(5vw,64px); background:linear-gradient(180deg,#f7fbf9,#fff); border-bottom:1px solid var(--line); }
     .brand { color:var(--green); font-weight:900; letter-spacing:.08em; text-transform:uppercase; font-size:13px; }
     h1 { margin:10px 0 8px; font-size:clamp(32px,5vw,58px); letter-spacing:-.06em; color:var(--green); }
-    .sub { color:var(--muted); font-size:16px; line-height:1.7; max-width:900px; }
-    main { width:min(1120px,calc(100% - 32px)); margin:22px auto 56px; }
+    .page { width:min(1420px,calc(100% - 32px)); margin:22px auto 56px; display:grid; grid-template-columns:240px minmax(0,1fr); gap:22px; align-items:start; }
+    .toc { position:sticky; top:18px; border:1px solid var(--line); border-radius:18px; background:rgba(255,255,255,.94); padding:14px; box-shadow:0 14px 36px rgba(6,78,59,.05); }
+    .toc-title { color:var(--green); font-weight:900; font-size:13px; letter-spacing:.1em; text-transform:uppercase; margin:2px 0 10px; }
+    .toc a { display:flex; justify-content:space-between; gap:10px; align-items:center; padding:10px 11px; border-radius:12px; color:#244238; text-decoration:none; font-weight:800; font-size:13px; }
+    .toc a:hover { background:var(--soft); text-decoration:none; }
+    .toc small { color:var(--muted); font-weight:800; }
+    main { min-width:0; }
     .stats { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; margin-bottom:18px; }
     .stat { border:1px solid var(--line); background:var(--soft); border-radius:14px; padding:14px; }
     .stat small { color:var(--muted); display:block; margin-bottom:6px; }
@@ -31,35 +37,44 @@
     .title-en { color:#29433a; font-weight:700; line-height:1.55; }
     .journal,.ids { color:var(--muted); margin:6px 0; }
     a { color:#075985; font-weight:800; }
+    .open-link { display:inline-flex; align-items:center; justify-content:center; min-height:36px; padding:8px 13px; border-radius:999px; background:var(--green); color:white; text-decoration:none; }
+    .open-link:hover { color:white; text-decoration:none; filter:brightness(1.05); }
     details { margin-top:14px; background:#fbfdfc; border:1px solid var(--line); border-radius:12px; padding:12px; }
     summary { cursor:pointer; color:var(--green); font-weight:900; }
     pre { white-space:pre-wrap; line-height:1.7; font-family:inherit; }
     .errors { color:#7c2d12; }
-    .metric-note { color:var(--muted); font-size:12px; line-height:1.6; margin-top:10px; }
+    @media (max-width:980px) { .page { grid-template-columns:1fr; } .toc { position:relative; top:auto; } }
     @media (max-width:760px) { .stats { grid-template-columns:1fr; } .section-head { display:block; } }
   </style>
 </head>
 <body>
   <header>
-    <div class="brand">Neurosurgery Literature Radar V1</div>
+    <div class="brand">Neurosurgery Literature Radar V2</div>
     <h1>神外文献日报</h1>
-    <p class="sub">每日自动检索 PubMed、bioRxiv、medRxiv、arXiv，聚焦脑损伤、脑积水、干细胞/外泌体、小胶质细胞/TREM2、胶质瘤与脊髓肿瘤。当前页面为人工审核前推文草稿。</p>
   </header>
-  <main>
-    <section class="stats">
-      <div class="stat"><small>生成时间</small><strong>2026-05-24 11:45:04</strong></div>
-      <div class="stat"><small>核心文献</small><strong>10</strong></div>
-      <div class="stat"><small>全部条目</small><strong>36</strong></div>
-      <div class="stat"><small>版本</small><strong>v1.1-preview</strong></div>
-    </section>
-    <p class="metric-note">影响因子与分区优先读取 <code>config/journal_metrics.csv</code>；未匹配时使用内置参考表或显示“待核实”。正式引用、投稿和基金申请前请以最新版 JCR / CAS 分区为准。</p>
-    
+  <div class="page">
+    <nav class="toc" aria-label="页面目录">
+      <div class="toc-title">目录</div>
+      <a href="#overview">顶部总览 <small>Top</small></a>
+      <a href="#core_neurosurgery">核心文献 <small>10</small></a>
+      <a href="#top_journal_neuroscience">顶刊神经科学 <small>8</small></a>
+      <a href="#global_hot_topics">全球热点话题 <small>8</small></a>
+      <a href="#medical_news">医学与医药新闻 <small>10</small></a>
+      <a href="#fetch-notes">抓取提示 <small>Log</small></a>
+    </nav>
+    <main>
+      <section class="stats" id="overview">
+        <div class="stat"><small>生成时间</small><strong>2026-05-24 13:05:59</strong></div>
+        <div class="stat"><small>核心文献</small><strong>10</strong></div>
+        <div class="stat"><small>全部条目</small><strong>36</strong></div>
+        <div class="stat"><small>版本</small><strong>v2.0.0</strong></div>
+      </section>
+      
     <section class="section-block" id="core_neurosurgery">
       <div class="section-head">
         <div>
           <div class="eyebrow">core_neurosurgery</div>
           <h2>神外/脑损伤/脑积水核心文献</h2>
-          <p>围绕 TBI、脑积水、干细胞外泌体、小胶质细胞/TREM2、胶质瘤与脊髓肿瘤的每日候选文献。</p>
         </div>
         <strong>10 条</strong>
       </div>
@@ -70,24 +85,9 @@
         <p class="title-en">Illuminating proinflammatory myeloid cells with PET tracers targeting GPR84.</p>
         <p class="journal">Proceedings of the National Academy of Sciences of the United States of America｜2026-05-26</p>
         <p class="ids">PMID: 42166242 ｜ DOI: 10.1073/pnas.2536372123</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42166242/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>由骨髓细胞介导的先天免疫可以防御感染和损伤，但当长期激活时，它会导致组织损伤和神经退行性变。正电子发射断层扫描 (PET) 的分子成像能够对体内此类过程进行无创实时监测。然而，目前大多数神经炎症 PET 示踪剂缺乏对活化骨髓细胞的特异性。 G 蛋白偶联受体 84 (GPR84) 是一种有前途的生物标志物，在激活的小胶质细胞和巨噬细胞上选择性上调。在这里，我们报告了两种氟 18 标记的 GPR84 示踪剂 [18F]MGX-110S 和 [18F]MGX-111S 的开发和验证。两者均表现出与人 GPR84 表达细胞的特异性结合，其中 [18F]MGX-110S 表现出卓越的亲和力、选择性和信号背景比。 [18F]MGX-110S 能够灵敏地检测 LPS 处理的小鼠的全身和神经炎症，并且优于使用 5xFAD 小鼠中易位蛋白 18 kDa 特异性放射性示踪剂获得的 PET 图像，揭示了皮质、海马和丘脑区域的病理相关激活。综上所述，我们的数据表明 [18F]MGX-110S 是一种高度敏感且特异的工具，可用于可视化适应不良的骨髓细胞激活；除了改善神经退行性疾病和更广泛的炎症性疾病的治疗监测之外，其临床转化还可以实现更精确的炎症检测和分期。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42166242/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>由骨髓细胞介导的先天免疫可以防御感染和损伤，但当长期激活时，它会导致组织损伤和神经退行性变。正电子发射断层扫描 (PET) 的分子成像能够对体内此类过程进行无创实时监测。然而，目前大多数神经炎症 PET 示踪剂缺乏对活化骨髓细胞的特异性。 G 蛋白偶联受体 84 (GPR84) 是一种有前途的生物标志物，在激活的小胶质细胞和巨噬细胞上选择性上调。在这里，我们报告了两种氟 18 标记的 GPR84 示踪剂 [18F]MGX-110S 和 [18F]MGX-111S 的开发和验证。两者均表现出与人 GPR84 表达细胞的特异性结合，其中 [18F]MGX-110S 表现出卓越的亲和力、选择性和信号背景比。 [18F]MGX-110S 能够灵敏地检测 LPS 处理的小鼠的全身和神经炎症，并且优于使用 5xFAD 小鼠中易位蛋白 18 kDa 特异性放射性示踪剂获得的 PET 图像，揭示了皮质、海马和丘脑区域的病理相关激活。综上所述，我们的数据表明 [18F]MGX-110S 是一种高度敏感且特异的工具，可用于可视化适应不良的骨髓细胞激活；除了改善神经退行性疾病和更广泛的炎症性疾病的治疗监测之外，其临床转化还可以实现更精确的炎症检测和分期。</p></details>
         <details><summary>英文摘要</summary><p>Innate immunity mediated by myeloid cells defends against infection and injury, but when chronically activated, it drives tissue damage and neurodegeneration. Molecular imaging with positron emission tomography (PET) enables noninvasive, real-time monitoring of such processes in vivo. However, most current neuroinflammation PET tracers lack specificity for activated myeloid cells. G protein-coupled receptor 84 (GPR84) is a promising biomarker that is selectively upregulated on activated microglia and macrophages. Here, we report the development and validation of two fluorine-18-labeled GPR84 tracers, [18F]MGX-110S and [18F]MGX-111S. Both exhibit specific binding to human GPR84-expressing cells, with [18F]MGX-110S demonstrating superior affinity, selectivity, and signal-to-background ratio. [18F]MGX-110S enables sensitive detection of systemic- and neuro-inflammation in LPS-treated mice and outperforms PET images obtained using a radiotracer specific for translocator protein 18 kDa in 5xFAD mice-revealing pathology-correlated activation across cortical, hippocampal, and thalamic regions. Taken together, our data indicate that [18F]MGX-110S is a highly sensitive and specific tool for visualizing maladaptive myeloid cell activation; its clinical translation could enable more precise detection and staging of inflammation in addition to improved therapeutic monitoring in neurodegenerative disorders and more broadly in inflammatory diseases.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“创伤性脑损伤”，聚焦创伤性脑损伤。主要信息来自题名、期刊/来源和摘要。由骨髓细胞介导的先天免疫可以防御感染和损伤，但当长期激活时，它会导致组织损伤和神经退行性变。正电子发射断层扫描 (PET) 的分子成像能够对体内此类过程进行无创实时监测。然而，目前大多数神经炎症 PET 示踪剂缺乏对活化骨髓细胞的特异性。 G 蛋白偶联受体 84 (GPR84) 是一种有前途的生物标志物，在激活的小胶质细胞和巨噬细胞上选择性上调。在这里，我们报告了两种氟 18 标记的 GPR84 示踪剂 [18F]MGX-110S 和 [18F]MGX-111S 的开发和验证。两者均表现出与人 GPR84 表达细胞的特异性结合，其中 [18F]MGX-110S 表现出卓越的亲和力、选择性和信号背景比。 [18F]MGX-110S 能够灵敏地检测 LPS 处理的小鼠的全身和神经炎症，并且优于使用 5xFAD 小鼠中易位蛋白 18 kDa 特异性放射性示踪剂获得的 PET 图像，揭示了皮质、海马和丘脑区域的病理相关激活。综上所述，我</p></section>
-        <section><h3>临床/科研意义</h3><p>对创伤性脑损伤方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】使用针对 GPR84 的 PET 示踪剂照亮促炎性骨髓细胞。
-
-英文题目：Illuminating proinflammatory myeloid cells with PET tracers targeting GPR84.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：由骨髓细胞介导的先天免疫可以防御感染和损伤，但当长期激活时，它会导致组织损伤和神经退行性变。正电子发射断层扫描 (PET) 的分子成像能够对体内此类过程进行无创实时监测。然而，目前大多数神经炎症 PET 示踪剂缺乏对活化骨髓细胞的特异性。 G 蛋白偶联受体 84 (GPR84) 是一种有前途的生物标志物，在激活的小胶质细胞和巨噬细胞上选择性上调。在这里，我们报告了两种氟 18 标记的 GPR84 示踪剂 [18F]MGX-110S 和 [18F]MGX-111S 的开发和验证。两者均表现出与人 GPR84 表达细胞的特异性结合，其中 [18F]MGX-110S 表现出卓越的亲和力、选择性和信号背景比。 [18F]MGX-110S 能够灵敏地检测 LPS 处理的小鼠的全身和神经炎症，并且优于使用 5xFAD 小鼠中易位蛋白 18 kDa 特异性放射性示踪剂获得的 PET 图像，揭示了皮质、海马和丘脑区域的病理相关激活。综上所述，我们的数据表明 [18F]MGX-110S 是一种高度敏感且特异的工具，可用于可视化适应不良的骨髓细胞激活；除了改善神经退行性疾病和更广泛的炎症性疾病的治疗监测之外，其临床转化还可以实现更精确的炎症检测和分期。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Proceedings of the National Academy of Sciences of the United States of America｜IF 9.1｜JCR Q1 / CAS 1区｜2026-05-26｜https://pubmed.ncbi.nlm.nih.gov/42166242/</pre></details>
       </article>
 
       <article class="card">
@@ -96,24 +96,9 @@
         <p class="title-en">hUCMSC-exosomes attenuate acute lung injury by inhibiting ferroptosis in pulmonary microvascular endothelial cells through ribosomal protein RPS11 upregulation.</p>
         <p class="journal">Journal of nanobiotechnology｜2026-05-22</p>
         <p class="ids">PMID: 42174606 ｜ DOI: 10.1186/s12951-026-04565-1</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42174606/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>背景：人脐带间充质干细胞衍生的外泌体（hUCMSC-Exos）是治疗急性肺损伤（ALI）/急性呼吸窘迫综合征（ARDS）的一种有前途的治疗方法，但传统的递送方法具有局限性。因此，本研究提出了一种针对 ALI/ARDS 的无创治疗方法，提供了新的机制见解并确定了潜在的治疗靶点。结果：我们建立了雾化 LPS 诱导的 ALI 模型，其特点是弥漫性肺损伤和高度同质性。吸入后，观察到 hUCMSC-Exos 被肺微血管内皮细胞内化。分析显示，hUCMSC-Exos 通过降低组织学损伤、肺水肿、肺部炎症和铁死亡的严重程度来缓解 ALI。此外，hUCMSC-Exos 通过线粒体成分的转移改善了人肺微血管内皮细胞 (HPMEC) 的线粒体功能。随后对接受不同处理的 HPMEC 中分离的线粒体进行蛋白质组测序，揭示了各组之间核糖体蛋白表达的显着差异。最显着上调的蛋白质 RPS11 被确定为关键介质；它的敲除阻断了 hUCMSC-Exos 抑制铁死亡和恢复 HPMEC 线粒体功能的能力。从机制上讲，hUCMSC-Exos 通过增强线粒体编码的蛋白质翻译来发挥作用。结论：我们报告了一种机制，hUCMSC-Exos 上调 RPS11 以促进线粒体编码蛋白翻译，挽救线粒体功能，抑制 HPMEC 中的铁死亡，并最终减轻 ALI。经过多个模型的验证并得到多组学分析的支持，我们的研究结果共同确立了雾化 hUCMSC-Exos 作为一种有前途的无细胞疗法，针对 HPMEC 中的线粒体稳态，用于治疗 ALI。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42174606/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>背景：人脐带间充质干细胞衍生的外泌体（hUCMSC-Exos）是治疗急性肺损伤（ALI）/急性呼吸窘迫综合征（ARDS）的一种有前途的治疗方法，但传统的递送方法具有局限性。因此，本研究提出了一种针对 ALI/ARDS 的无创治疗方法，提供了新的机制见解并确定了潜在的治疗靶点。结果：我们建立了雾化 LPS 诱导的 ALI 模型，其特点是弥漫性肺损伤和高度同质性。吸入后，观察到 hUCMSC-Exos 被肺微血管内皮细胞内化。分析显示，hUCMSC-Exos 通过降低组织学损伤、肺水肿、肺部炎症和铁死亡的严重程度来缓解 ALI。此外，hUCMSC-Exos 通过线粒体成分的转移改善了人肺微血管内皮细胞 (HPMEC) 的线粒体功能。随后对接受不同处理的 HPMEC 中分离的线粒体进行蛋白质组测序，揭示了各组之间核糖体蛋白表达的显着差异。最显着上调的蛋白质 RPS11 被确定为关键介质；它的敲除阻断了 hUCMSC-Exos 抑制铁死亡和恢复 HPMEC 线粒体功能的能力。从机制上讲，hUCMSC-Exos 通过增强线粒体编码的蛋白质翻译来发挥作用。结论：我们报告了一种机制，hUCMSC-Exos 上调 RPS11 以促进线粒体编码蛋白翻译，挽救线粒体功能，抑制 HPMEC 中的铁死亡，并最终减轻 ALI。经过多个模型的验证并得到多组学分析的支持，我们的研究结果共同确立了雾化 hUCMSC-Exos 作为一种有前途的无细胞疗法，针对 HPMEC 中的线粒体稳态，用于治疗 ALI。</p></details>
         <details><summary>英文摘要</summary><p>BACKGROUND: Human umbilical cord mesenchymal stem cell-derived exosomes (hUCMSC-Exos) are a promising treatment for acute lung injury (ALI)/acute respiratory distress syndrome (ARDS), but traditional delivery methods have limitations. Therefore, this study presents a noninvasive therapeutic approach for ALI/ARDS, offering new mechanistic insights and identifying potential therapeutic targets. RESULTS: We established a nebulized LPS-induced ALI model that was characterized by diffuse lung injury and high homogeneity. Following inhalation, hUCMSC-Exos were observed to be internalized by pulmonary microvascular endothelial cells. Analysis revealed that hUCMSC-Exos alleviated ALI by reducing the severity of histological damage, pulmonary oedema, lung inflammation and ferroptosis. Additionally, hUCMSC-Exos improved the mitochondrial function of human pulmonary microvascular endothelial cells (HPMECs) via the transfer of mitochondrial components. Subsequent proteomic sequencing of mitochondria isolated from HPMECs receiving different treatments revealed the significant differential expression of ribosomal proteins among the groups. The most significantly upregulated protein, RPS11, was identified as a key mediator; its knockdown blocked the ability of hUCMSC-Exos to suppress ferroptosis and restore mitochondrial function in HPMECs. Mechanistically, hUCMSC-Exos exert their effects by enhancing mitochondria-encoded protein translation. CONCLUSIONS: We report a mechanism whereby hUCMSC-Exos upregulate RPS11 to promote mitochondria-encoded protein translation, rescuing mitochondrial function, inhibiting ferroptosis in HPMECs, and ultimately alleviating ALI. Validated across multiple models and supported by multi-omics analyses, our findings collectively establish nebulized hUCMSC-Exos as a promising cell-free therapy targeting mitochondrial homeostasis in HPMECs for the treatment of ALI.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。背景：人脐带间充质干细胞衍生的外泌体（hUCMSC-Exos）是治疗急性肺损伤（ALI）/急性呼吸窘迫综合征（ARDS）的一种有前途的治疗方法，但传统的递送方法具有局限性。因此，本研究提出了一种针对 ALI/ARDS 的无创治疗方法，提供了新的机制见解并确定了潜在的治疗靶点。结果：我们建立了雾化 LPS 诱导的 ALI 模型，其特点是弥漫性肺损伤和高度同质性。吸入后，观察到 hUCMSC-Exos 被肺微血管内皮细胞内化。分析显示，hUCMSC-Exos 通过降低组织学损伤、肺水肿、肺部炎症和铁死亡的严重程度来缓解 ALI。此外，hUCMSC-Exos 通过线粒体成分的转移改善了人肺微血管内皮细胞 (HPMEC) 的线粒体功能。随后对接受不同处理的 HPMEC 中分离的线粒体进行蛋白质组测序，揭示了各组之间核糖体蛋白表达的显着差异。最显着上调的蛋白质 RPS11 被确定为关键介质；它的敲除阻断了 hUCMSC-Exos 抑制铁死</p></section>
-        <section><h3>临床/科研意义</h3><p>对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】hUCMSC-外泌体通过核糖体蛋白 RPS11 上调抑制肺微血管内皮细胞的铁死亡，从而减轻急性肺损伤。
-
-英文题目：hUCMSC-exosomes attenuate acute lung injury by inhibiting ferroptosis in pulmonary microvascular endothelial cells through ribosomal protein RPS11 upregulation.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：背景：人脐带间充质干细胞衍生的外泌体（hUCMSC-Exos）是治疗急性肺损伤（ALI）/急性呼吸窘迫综合征（ARDS）的一种有前途的治疗方法，但传统的递送方法具有局限性。因此，本研究提出了一种针对 ALI/ARDS 的无创治疗方法，提供了新的机制见解并确定了潜在的治疗靶点。结果：我们建立了雾化 LPS 诱导的 ALI 模型，其特点是弥漫性肺损伤和高度同质性。吸入后，观察到 hUCMSC-Exos 被肺微血管内皮细胞内化。分析显示，hUCMSC-Exos 通过降低组织学损伤、肺水肿、肺部炎症和铁死亡的严重程度来缓解 ALI。此外，hUCMSC-Exos 通过线粒体成分的转移改善了人肺微血管内皮细胞 (HPMEC) 的线粒体功能。随后对接受不同处理的 HPMEC 中分离的线粒体进行蛋白质组测序，揭示了各组之间核糖体蛋白表达的显着差异。最显着上调的蛋白质 RPS11 被确定为关键介质；它的敲除阻断了 hUCMSC-Exos 抑制铁死亡和恢复 HPMEC 线粒体功能的能力。从机制上讲，hUCMSC-Exos 通过增强线粒体编码的蛋白质翻译来发挥作用。结论：我们报告了一种机制，hUCMSC-Exos 上调 RPS11 以促进线粒体编码蛋白翻译，挽救线粒体功能，抑制 HPMEC 中的铁死亡，并最终减轻 ALI。经过多个模型的验证并得到多组学分析的支持，我们的研究结果共同确立了雾化 hUCMSC-Exos 作为一种有前途的无细胞疗法，针对 HPMEC 中的线粒体稳态，用于治疗 ALI。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Journal of nanobiotechnology｜IF 12.6｜JCR Q1 / CAS 1区｜2026-05-22｜https://pubmed.ncbi.nlm.nih.gov/42174606/</pre></details>
       </article>
 
       <article class="card">
@@ -122,24 +107,9 @@
         <p class="title-en">Hypertension exacerbates neuroinflammation and neuronal injury following cerebral ischemia-reperfusion in rats.</p>
         <p class="journal">Neuroscience｜2026-05-21</p>
         <p class="ids">PMID: 42173305 ｜ DOI: 10.1016/j.neuroscience.2026.05.023</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42173305/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>高血压是缺血性中风的主要可改变危险因素，会恶化临床结果，但机制仍不清楚。本研究调查高血压是否通过大鼠神经炎症调节加剧脑缺血再灌注（I/R）损伤。为此，雄性自发性高血压大鼠 (SHR) 和正常血压 Wistar-Kyoto 大鼠 (WKY)（14 周龄）接受 90 分钟短暂大脑中动脉闭塞 (tMCAo)，然后进行 24 小时再灌注。评估生理参数、神经功能、梗塞体积、脑肿胀、出血转化、神经元存活指数、巨噬细胞/小胶质细胞浸润和炎症细胞因子。我们发现 SHR 表现出显着升高的血压。虽然各组间缺血前神经功能相似，但 SHR 大鼠在 tMCAo 后表现出显着更高的死亡率（WKY 大鼠为 25.0%，WKY 大鼠为 5.9%）。 SHR 大鼠的梗塞体积显着增加，并有脑肿胀加剧的趋势。出血性转化发生率不显着，但分布不同，SHR 中非皮质出血较少。梗死周围区域的皮质核心和纹状体的神经元存活指数显着下降。至关重要的是，SHR 显示​​出显着的 RM-4 阳性巨噬细胞/小胶质细胞积聚，以及皮质和纹状体梗死周围区域中较高水平的 TNF-α 和 IL-1β。这些发现表明，慢性高血压通过放大特定缺血区域的神经炎症和恶化神经元变性来加重脑缺血再灌注损伤。选择性巨噬细胞/小胶质细胞浸润表明高血压启动了神经免疫环境，代表了潜在的治疗靶点。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42173305/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>高血压是缺血性中风的主要可改变危险因素，会恶化临床结果，但机制仍不清楚。本研究调查高血压是否通过大鼠神经炎症调节加剧脑缺血再灌注（I/R）损伤。为此，雄性自发性高血压大鼠 (SHR) 和正常血压 Wistar-Kyoto 大鼠 (WKY)（14 周龄）接受 90 分钟短暂大脑中动脉闭塞 (tMCAo)，然后进行 24 小时再灌注。评估生理参数、神经功能、梗塞体积、脑肿胀、出血转化、神经元存活指数、巨噬细胞/小胶质细胞浸润和炎症细胞因子。我们发现 SHR 表现出显着升高的血压。虽然各组间缺血前神经功能相似，但 SHR 大鼠在 tMCAo 后表现出显着更高的死亡率（WKY 大鼠为 25.0%，WKY 大鼠为 5.9%）。 SHR 大鼠的梗塞体积显着增加，并有脑肿胀加剧的趋势。出血性转化发生率不显着，但分布不同，SHR 中非皮质出血较少。梗死周围区域的皮质核心和纹状体的神经元存活指数显着下降。至关重要的是，SHR 显示​​出显着的 RM-4 阳性巨噬细胞/小胶质细胞积聚，以及皮质和纹状体梗死周围区域中较高水平的 TNF-α 和 IL-1β。这些发现表明，慢性高血压通过放大特定缺血区域的神经炎症和恶化神经元变性来加重脑缺血再灌注损伤。选择性巨噬细胞/小胶质细胞浸润表明高血压启动了神经免疫环境，代表了潜在的治疗靶点。</p></details>
         <details><summary>英文摘要</summary><p>Hypertension is the leading modifiable risk factor for ischemic stroke and worsens clinical outcomes, yet mechanisms remain unclear. This study investigated whether hypertension exacerbates cerebral ischemia-reperfusion (I/R) injury through neuroinflammatory modulation in rats. For this purpose, male spontaneously hypertensive rats (SHR) and normotensive Wistar-Kyoto rats (WKY) (14-week-old) underwent 90-minute transient middle cerebral artery occlusion (tMCAo) followed by 24-hour reperfusion. Physiological parameters, neurological function, infarct volume, cerebral swelling, hemorrhagic transformation, neuronal survival index, and macrophage/microglia infiltration and inflammatory cytokine were evaluated. We found that SHR exhibited significantly elevated blood pressure. While pre-ischemic neurological function was similar between groups, SHR rats demonstrated significantly higher mortality following tMCAo (25.0% vs. 5.9% in WKY rats). Infarct volume was markedly increased in SHR rats, with a trend toward greater cerebral swelling. Hemorrhagic transformation incidence was not significant, but distribution differed, with fewer non-cortical hemorrhages in SHR. Neuronal survival index significantly decreased in the cortical core and striatum peri-infarct regions. Crucially, SHR showed prominent RM-4 positive macrophage/microglia accumulation and higher levels of TNF-α and IL-1βin peri-infarct regions of cortex and striatum. These findings reveal that chronic hypertension aggravates cerebral I/R injury by amplifying neuroinflammation and worsening neuronal degeneration in specific ischemic territories. Selective macrophage/microglia infiltration suggests hypertension primes the neuroimmune environment, representing a potential therapeutic target.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“小胶质细胞与 TREM2”，聚焦小胶质细胞与 TREM2。主要信息来自题名、期刊/来源和摘要。高血压是缺血性中风的主要可改变危险因素，会恶化临床结果，但机制仍不清楚。本研究调查高血压是否通过大鼠神经炎症调节加剧脑缺血再灌注（I/R）损伤。为此，雄性自发性高血压大鼠 (SHR) 和正常血压 Wistar-Kyoto 大鼠 (WKY)（14 周龄）接受 90 分钟短暂大脑中动脉闭塞 (tMCAo)，然后进行 24 小时再灌注。评估生理参数、神经功能、梗塞体积、脑肿胀、出血转化、神经元存活指数、巨噬细胞/小胶质细胞浸润和炎症细胞因子。我们发现 SHR 表现出显着升高的血压。虽然各组间缺血前神经功能相似，但 SHR 大鼠在 tMCAo 后表现出显着更高的死亡率（WKY 大鼠为 25.0%，WKY 大鼠为 5.9%）。 SHR 大鼠的梗塞体积显着增加，并有脑肿胀加剧的趋势。出血性转化发生率不显着，但分布不同，SHR 中非皮质出血较少。梗死周围区域的皮质核心和纹状体的神经元存活指数显着下降。至关重要的是，SHR 显示​​出显着的 R</p></section>
-        <section><h3>临床/科研意义</h3><p>对小胶质细胞与 TREM2方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】高血压会加剧大鼠脑缺血再灌注后的神经炎症和神经元损伤。
-
-英文题目：Hypertension exacerbates neuroinflammation and neuronal injury following cerebral ischemia-reperfusion in rats.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：高血压是缺血性中风的主要可改变危险因素，会恶化临床结果，但机制仍不清楚。本研究调查高血压是否通过大鼠神经炎症调节加剧脑缺血再灌注（I/R）损伤。为此，雄性自发性高血压大鼠 (SHR) 和正常血压 Wistar-Kyoto 大鼠 (WKY)（14 周龄）接受 90 分钟短暂大脑中动脉闭塞 (tMCAo)，然后进行 24 小时再灌注。评估生理参数、神经功能、梗塞体积、脑肿胀、出血转化、神经元存活指数、巨噬细胞/小胶质细胞浸润和炎症细胞因子。我们发现 SHR 表现出显着升高的血压。虽然各组间缺血前神经功能相似，但 SHR 大鼠在 tMCAo 后表现出显着更高的死亡率（WKY 大鼠为 25.0%，WKY 大鼠为 5.9%）。 SHR 大鼠的梗塞体积显着增加，并有脑肿胀加剧的趋势。出血性转化发生率不显着，但分布不同，SHR 中非皮质出血较少。梗死周围区域的皮质核心和纹状体的神经元存活指数显着下降。至关重要的是，SHR 显示​​出显着的 RM-4 阳性巨噬细胞/小胶质细胞积聚，以及皮质和纹状体梗死周围区域中较高水平的 TNF-α 和 IL-1β。这些发现表明，慢性高血压通过放大特定缺血区域的神经炎症和恶化神经元变性来加重脑缺血再灌注损伤。选择性巨噬细胞/小胶质细胞浸润表明高血压启动了神经免疫环境，代表了潜在的治疗靶点。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Neuroscience｜IF 2.8｜JCR Q3 / CAS 4区｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42173305/</pre></details>
       </article>
 
       <article class="card">
@@ -148,24 +118,9 @@
         <p class="title-en">Pneumococcal membrane particles promote serotype-independent cellular and humoral immunity and protect against pneumococcal colonization.</p>
         <p class="journal">Proceedings of the National Academy of Sciences of the United States of America｜2026-05-26</p>
         <p class="ids">PMID: 42154558 ｜ DOI: 10.1073/pnas.2537226123</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42154558/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>尽管针对肺炎链球菌感染实施了肺炎球菌结合疫苗（PCV），但这些疾病仍然是全球死亡率和发病率的主要原因，凸显了对新型免疫策略的需求。肺炎球菌释放富含脂质、毒力因子和表面蛋白的细胞外囊泡/膜颗粒（MP），在预防小鼠侵袭性肺炎球菌疾病方面显示出强大的功效。因此，MP 提出了一种替代疫苗策略。然而，目前尚缺乏对肺炎球菌 MP 如何在体内相互作用和调节免疫系统的深入了解。在这项研究中，我们证明肺炎球菌 MP 具有强大的内在佐剂特性和保守抗原，包括 MalX 和 PrsA，支持小鼠和人类中强大的血清型无关效应和记忆 Th17 反应。从机制上讲，囊泡通过 TLR2 进行感知，并且人类 IL-17 反应需要通过该受体发出信号。此外，MP鼻内免疫可扩大肺部组织驻留巨噬细胞群，增强功能能力。我们的研究还表明，在没有佐剂的情况下进行 MP 免疫足以防止小鼠体内的定植。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42154558/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>尽管针对肺炎链球菌感染实施了肺炎球菌结合疫苗（PCV），但这些疾病仍然是全球死亡率和发病率的主要原因，凸显了对新型免疫策略的需求。肺炎球菌释放富含脂质、毒力因子和表面蛋白的细胞外囊泡/膜颗粒（MP），在预防小鼠侵袭性肺炎球菌疾病方面显示出强大的功效。因此，MP 提出了一种替代疫苗策略。然而，目前尚缺乏对肺炎球菌 MP 如何在体内相互作用和调节免疫系统的深入了解。在这项研究中，我们证明肺炎球菌 MP 具有强大的内在佐剂特性和保守抗原，包括 MalX 和 PrsA，支持小鼠和人类中强大的血清型无关效应和记忆 Th17 反应。从机制上讲，囊泡通过 TLR2 进行感知，并且人类 IL-17 反应需要通过该受体发出信号。此外，MP鼻内免疫可扩大肺部组织驻留巨噬细胞群，增强功能能力。我们的研究还表明，在没有佐剂的情况下进行 MP 免疫足以防止小鼠体内的定植。</p></details>
         <details><summary>英文摘要</summary><p>Despite implementation of pneumococcal conjugated vaccines (PCVs) against Streptococcus pneumoniae infections, these diseases are still major contributors to global mortality and morbidity, highlighting the need for a novel immunization strategy. Pneumococci release extracellular vesicles/membrane particles (MP) that are enriched in lipids, virulence factors, and surface proteins, and show great efficacy in protecting against invasive pneumococcal disease in mice. As such, MP present an alternative vaccine strategy. However, an in-depth understanding of how pneumococcal MP interact and modulate the immune system in vivo is currently lacking. In this study, we demonstrate that pneumococcal MP possess robust intrinsic adjuvant properties and conserved antigens, including MalX and PrsA, that support a strong serotype-independent effector and memory Th17 response in mice and humans. Mechanistically, vesicles are sensed through TLR2 and signaling through this receptor is required for the human IL-17 response. Moreover, intranasal immunization with MP expands the tissue resident macrophage populations in the lungs with enhanced functional capacities. Our study also demonstrates that MP immunization in the absence of adjuvant is sufficient to protect against colonization in mice.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。尽管针对肺炎链球菌感染实施了肺炎球菌结合疫苗（PCV），但这些疾病仍然是全球死亡率和发病率的主要原因，凸显了对新型免疫策略的需求。肺炎球菌释放富含脂质、毒力因子和表面蛋白的细胞外囊泡/膜颗粒（MP），在预防小鼠侵袭性肺炎球菌疾病方面显示出强大的功效。因此，MP 提出了一种替代疫苗策略。然而，目前尚缺乏对肺炎球菌 MP 如何在体内相互作用和调节免疫系统的深入了解。在这项研究中，我们证明肺炎球菌 MP 具有强大的内在佐剂特性和保守抗原，包括 MalX 和 PrsA，支持小鼠和人类中强大的血清型无关效应和记忆 Th17 反应。从机制上讲，囊泡通过 TLR2 进行感知，并且人类 IL-17 反应需要通过该受体发出信号。此外，MP鼻内免疫可扩大肺部组织驻留巨噬细胞群，增强功能能力。我们的研究还表明，在没有佐剂的情况下进行 MP 免疫足以防止小鼠体内的定植。</p></section>
-        <section><h3>临床/科研意义</h3><p>对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】肺炎球菌膜颗粒可促进血清型无关的细胞和体液免疫，并防止肺炎球菌定植。
-
-英文题目：Pneumococcal membrane particles promote serotype-independent cellular and humoral immunity and protect against pneumococcal colonization.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：尽管针对肺炎链球菌感染实施了肺炎球菌结合疫苗（PCV），但这些疾病仍然是全球死亡率和发病率的主要原因，凸显了对新型免疫策略的需求。肺炎球菌释放富含脂质、毒力因子和表面蛋白的细胞外囊泡/膜颗粒（MP），在预防小鼠侵袭性肺炎球菌疾病方面显示出强大的功效。因此，MP 提出了一种替代疫苗策略。然而，目前尚缺乏对肺炎球菌 MP 如何在体内相互作用和调节免疫系统的深入了解。在这项研究中，我们证明肺炎球菌 MP 具有强大的内在佐剂特性和保守抗原，包括 MalX 和 PrsA，支持小鼠和人类中强大的血清型无关效应和记忆 Th17 反应。从机制上讲，囊泡通过 TLR2 进行感知，并且人类 IL-17 反应需要通过该受体发出信号。此外，MP鼻内免疫可扩大肺部组织驻留巨噬细胞群，增强功能能力。我们的研究还表明，在没有佐剂的情况下进行 MP 免疫足以防止小鼠体内的定植。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Proceedings of the National Academy of Sciences of the United States of America｜IF 9.1｜JCR Q1 / CAS 1区｜2026-05-26｜https://pubmed.ncbi.nlm.nih.gov/42154558/</pre></details>
       </article>
 
       <article class="card">
@@ -174,24 +129,9 @@
         <p class="title-en">Exposure to Polystyrene Microplastics Exacerbates Hippocampal Inflammation and Ferroptosis in Mice Following Chronic Sleep Deprivation.</p>
         <p class="journal">Brain research bulletin｜2026-05-21</p>
         <p class="ids">PMID: 42173449 ｜ DOI: 10.1016/j.brainresbull.2026.111960</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42173449/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>慢性睡眠剥夺 (CSD) 与学习和记忆障碍、神经炎症和铁死亡密切相关，可能会增加暴露于有害环境的脆弱性。聚苯乙烯微塑料 (PS-MP) 可诱导氧化应激和炎症，但其对 CSD 下海马病理和认知的影响仍不清楚。在这里，我们建立了一个将口服 PS-MP 暴露与 CSD 相结合的小鼠模型，并使用新物体识别 (NOR) 测试、旷场测试 (OFT)、Y 迷宫和筑巢来评估认知。 CSD显着促进PS-MPs在海马沉积，PS-MPs进一步加剧CSD引起的认知缺陷，并伴有更严重的神经元结构损伤和丧失。 PS-MP 还会放大 CSD 诱导的神经炎症，增加 IL-6 和 TNF-α，减少 IL-4 和 IL-10，并增强小胶质细胞活化。在 BV2 细胞中，PS-MP 通过 SOCS3 下调和 p-STAT3 增加诱导剂量依赖性炎症反应。此外，PS-MPs进一步升高海马ROS、MDA和Fe2+水平，降低GSH，并加剧线粒体收缩和膜致密化。在 BV2 细胞中，PS-MP 还以剂量依赖性方式诱导铁死亡并抑制 SLC7A11/GPX4 表达。综上所述，在 CSD 条件下，PS-MP 在海马积聚，通过 SOCS3/STAT3 和 SLC7A11/GPX4 信号传导促进小胶质细胞介导的神经炎症和铁死亡，从而加剧海马损伤和认知能力下降。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42173449/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>慢性睡眠剥夺 (CSD) 与学习和记忆障碍、神经炎症和铁死亡密切相关，可能会增加暴露于有害环境的脆弱性。聚苯乙烯微塑料 (PS-MP) 可诱导氧化应激和炎症，但其对 CSD 下海马病理和认知的影响仍不清楚。在这里，我们建立了一个将口服 PS-MP 暴露与 CSD 相结合的小鼠模型，并使用新物体识别 (NOR) 测试、旷场测试 (OFT)、Y 迷宫和筑巢来评估认知。 CSD显着促进PS-MPs在海马沉积，PS-MPs进一步加剧CSD引起的认知缺陷，并伴有更严重的神经元结构损伤和丧失。 PS-MP 还会放大 CSD 诱导的神经炎症，增加 IL-6 和 TNF-α，减少 IL-4 和 IL-10，并增强小胶质细胞活化。在 BV2 细胞中，PS-MP 通过 SOCS3 下调和 p-STAT3 增加诱导剂量依赖性炎症反应。此外，PS-MPs进一步升高海马ROS、MDA和Fe2+水平，降低GSH，并加剧线粒体收缩和膜致密化。在 BV2 细胞中，PS-MP 还以剂量依赖性方式诱导铁死亡并抑制 SLC7A11/GPX4 表达。综上所述，在 CSD 条件下，PS-MP 在海马积聚，通过 SOCS3/STAT3 和 SLC7A11/GPX4 信号传导促进小胶质细胞介导的神经炎症和铁死亡，从而加剧海马损伤和认知能力下降。</p></details>
         <details><summary>英文摘要</summary><p>Chronic sleep deprivation (CSD) is closely associated with impairments in learning and memory, neuroinflammation, and ferroptosis, potentially increasing vulnerability to harmful environmental exposures. Polystyrene microplastics (PS-MPs) can induce oxidative stress and inflammation, yet their impact on hippocampal pathology and cognition under CSD remains unclear. Here, we established a mouse model combining oral PS-MPs exposure with CSD and assessed cognition using the novel object recognition (NOR) test, open-field test (OFT), Y-maze, and nest-building. CSD markedly promoted PS-MPs deposition in the hippocampus, and PS-MPs further aggravated CSD-induced cognitive deficits, accompanied by more severe neuronal structural damage and loss. PS-MPs also amplified CSD-induced neuroinflammation, increasing IL-6 and TNF-α, decreasing IL-4 and IL-10, and enhancing microglial activation. In BV2 cells, PS-MPs induced dose-dependent inflammatory responses with SOCS3 downregulation and increased p-STAT3. In addition, PS-MPs further elevated hippocampal ROS, MDA, and Fe²⁺ levels, reduced GSH, and aggravated mitochondrial shrinkage and membrane densification. In BV2 cells, PS-MPs also induced ferroptosis in a dose-dependent manner and suppressed SLC7A11/GPX4 expression. In summary, under CSD conditions, PS-MPs accumulate in the hippocampus and promote microglia-mediated neuroinflammation and ferroptosis through SOCS3/STAT3 and SLC7A11/GPX4 signaling, thereby worsening hippocampal injury and cognitive decline.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“小胶质细胞与 TREM2”，聚焦小胶质细胞与 TREM2。主要信息来自题名、期刊/来源和摘要。慢性睡眠剥夺 (CSD) 与学习和记忆障碍、神经炎症和铁死亡密切相关，可能会增加暴露于有害环境的脆弱性。聚苯乙烯微塑料 (PS-MP) 可诱导氧化应激和炎症，但其对 CSD 下海马病理和认知的影响仍不清楚。在这里，我们建立了一个将口服 PS-MP 暴露与 CSD 相结合的小鼠模型，并使用新物体识别 (NOR) 测试、旷场测试 (OFT)、Y 迷宫和筑巢来评估认知。 CSD显着促进PS-MPs在海马沉积，PS-MPs进一步加剧CSD引起的认知缺陷，并伴有更严重的神经元结构损伤和丧失。 PS-MP 还会放大 CSD 诱导的神经炎症，增加 IL-6 和 TNF-α，减少 IL-4 和 IL-10，并增强小胶质细胞活化。在 BV2 细胞中，PS-MP 通过 SOCS3 下调和 p-STAT3 增加诱导剂量依赖性炎症反应。此外，PS-MPs进一步升高海马ROS、MDA和Fe2+水平，降低GSH，并加剧线粒体收缩和膜致密化。在 BV2 细胞</p></section>
-        <section><h3>临床/科研意义</h3><p>对小胶质细胞与 TREM2方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】长期睡眠剥夺后，暴露于聚苯乙烯微塑料会加剧小鼠海马炎症和铁死亡。
-
-英文题目：Exposure to Polystyrene Microplastics Exacerbates Hippocampal Inflammation and Ferroptosis in Mice Following Chronic Sleep Deprivation.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：慢性睡眠剥夺 (CSD) 与学习和记忆障碍、神经炎症和铁死亡密切相关，可能会增加暴露于有害环境的脆弱性。聚苯乙烯微塑料 (PS-MP) 可诱导氧化应激和炎症，但其对 CSD 下海马病理和认知的影响仍不清楚。在这里，我们建立了一个将口服 PS-MP 暴露与 CSD 相结合的小鼠模型，并使用新物体识别 (NOR) 测试、旷场测试 (OFT)、Y 迷宫和筑巢来评估认知。 CSD显着促进PS-MPs在海马沉积，PS-MPs进一步加剧CSD引起的认知缺陷，并伴有更严重的神经元结构损伤和丧失。 PS-MP 还会放大 CSD 诱导的神经炎症，增加 IL-6 和 TNF-α，减少 IL-4 和 IL-10，并增强小胶质细胞活化。在 BV2 细胞中，PS-MP 通过 SOCS3 下调和 p-STAT3 增加诱导剂量依赖性炎症反应。此外，PS-MPs进一步升高海马ROS、MDA和Fe2+水平，降低GSH，并加剧线粒体收缩和膜致密化。在 BV2 细胞中，PS-MP 还以剂量依赖性方式诱导铁死亡并抑制 SLC7A11/GPX4 表达。综上所述，在 CSD 条件下，PS-MP 在海马积聚，通过 SOCS3/STAT3 和 SLC7A11/GPX4 信号传导促进小胶质细胞介导的神经炎症和铁死亡，从而加剧海马损伤和认知能力下降。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Brain research bulletin｜IF 3.7｜JCR Q2 / CAS 3区｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42173449/</pre></details>
       </article>
 
       <article class="card">
@@ -200,24 +140,9 @@
         <p class="title-en">Stress granules restrain ferroptosis by sequestering ferritin.</p>
         <p class="journal">Nature cell biology｜2026-05-22</p>
         <p class="ids">PMID: 42174134 ｜ DOI: 10.1038/s41556-026-01953-5</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42174134/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>胶质母细胞瘤干细胞 (GSC) 对临床一线治疗（包括放射 (IR) 和替莫唑胺 (TMZ)）难以治疗。在这里，我们发现破坏应激颗粒 (SG) 通过铁死亡使 GSC 对 IR/TMZ 敏感。 SG 蛋白的分析揭示了铁相关蛋白（包括铁蛋白）的募集。从机制上讲，SG 核心蛋白 G3BP1 以 IR/TMZ 诱导的 G3BP1 蛋氨酸 333 氧化依赖性方式直接与铁蛋白轻链相互作用。这种相互作用促进铁蛋白募集和隔离到 SG 中，从而通过限制不稳定铁池中的 Fe2+ 含量并防止铁蛋白自噬来限制铁死亡。使用筛选的小分子刺五加诺苷 C3 破坏 G3BP1 和铁蛋白轻链结合，可减轻 SG 对铁死亡的限制，并在体外和动物模型中使 GSC 对 IR/TMZ 重新敏感。这些发现揭示了 SG 对铁死亡的负调控，并揭示了一种破坏 SG-铁死亡轴以治疗胶质母细胞瘤和可能其他类型癌症的有前途的策略。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42174134/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>胶质母细胞瘤干细胞 (GSC) 对临床一线治疗（包括放射 (IR) 和替莫唑胺 (TMZ)）难以治疗。在这里，我们发现破坏应激颗粒 (SG) 通过铁死亡使 GSC 对 IR/TMZ 敏感。 SG 蛋白的分析揭示了铁相关蛋白（包括铁蛋白）的募集。从机制上讲，SG 核心蛋白 G3BP1 以 IR/TMZ 诱导的 G3BP1 蛋氨酸 333 氧化依赖性方式直接与铁蛋白轻链相互作用。这种相互作用促进铁蛋白募集和隔离到 SG 中，从而通过限制不稳定铁池中的 Fe2+ 含量并防止铁蛋白自噬来限制铁死亡。使用筛选的小分子刺五加诺苷 C3 破坏 G3BP1 和铁蛋白轻链结合，可减轻 SG 对铁死亡的限制，并在体外和动物模型中使 GSC 对 IR/TMZ 重新敏感。这些发现揭示了 SG 对铁死亡的负调控，并揭示了一种破坏 SG-铁死亡轴以治疗胶质母细胞瘤和可能其他类型癌症的有前途的策略。</p></details>
         <details><summary>英文摘要</summary><p>Glioblastoma stem cells (GSCs) are refractory to first-line treatment in the clinic, which includes irradiation (IR) and temozolomide (TMZ). Here we find that disrupting stress granules (SGs) sensitizes GSCs to IR/TMZ through ferroptosis. The profiling of SG proteins reveals the recruitment of iron-related proteins including ferritin. Mechanistically, G3BP1, an SG core protein, directly interacts with ferritin light chain in an IR/TMZ-induced G3BP1 methionine-333 oxidation-dependent manner. This interaction facilitates recruiting and sequestering ferritin into SGs, thereby restricting ferroptosis by limiting Fe2+ content in the labile iron pool and preventing ferritinophagy. Disrupting G3BP1 and ferritin light chain binding using a screened small molecule, ciwujianoside C3, mitigates the restriction of SGs on ferroptosis, and resensitizes GSCs to IR/TMZ in both in vitro and animal models. These findings unveil a negative regulation of SGs on ferroptosis, and reveal a promising strategy to disrupt the SG-ferroptosis axis for treating glioblastomas and probably other types of cancer.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“胶质瘤与脊髓肿瘤”，聚焦胶质瘤与脊髓肿瘤。主要信息来自题名、期刊/来源和摘要。胶质母细胞瘤干细胞 (GSC) 对临床一线治疗（包括放射 (IR) 和替莫唑胺 (TMZ)）难以治疗。在这里，我们发现破坏应激颗粒 (SG) 通过铁死亡使 GSC 对 IR/TMZ 敏感。 SG 蛋白的分析揭示了铁相关蛋白（包括铁蛋白）的募集。从机制上讲，SG 核心蛋白 G3BP1 以 IR/TMZ 诱导的 G3BP1 蛋氨酸 333 氧化依赖性方式直接与铁蛋白轻链相互作用。这种相互作用促进铁蛋白募集和隔离到 SG 中，从而通过限制不稳定铁池中的 Fe2+ 含量并防止铁蛋白自噬来限制铁死亡。使用筛选的小分子刺五加诺苷 C3 破坏 G3BP1 和铁蛋白轻链结合，可减轻 SG 对铁死亡的限制，并在体外和动物模型中使 GSC 对 IR/TMZ 重新敏感。这些发现揭示了 SG 对铁死亡的负调控，并揭示了一种破坏 SG-铁死亡轴以治疗胶质母细胞瘤和可能其他类型癌症的有前途的策略。</p></section>
-        <section><h3>临床/科研意义</h3><p>对胶质瘤与脊髓肿瘤方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】应激颗粒通过隔离铁蛋白来抑制铁死亡。
-
-英文题目：Stress granules restrain ferroptosis by sequestering ferritin.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：胶质母细胞瘤干细胞 (GSC) 对临床一线治疗（包括放射 (IR) 和替莫唑胺 (TMZ)）难以治疗。在这里，我们发现破坏应激颗粒 (SG) 通过铁死亡使 GSC 对 IR/TMZ 敏感。 SG 蛋白的分析揭示了铁相关蛋白（包括铁蛋白）的募集。从机制上讲，SG 核心蛋白 G3BP1 以 IR/TMZ 诱导的 G3BP1 蛋氨酸 333 氧化依赖性方式直接与铁蛋白轻链相互作用。这种相互作用促进铁蛋白募集和隔离到 SG 中，从而通过限制不稳定铁池中的 Fe2+ 含量并防止铁蛋白自噬来限制铁死亡。使用筛选的小分子刺五加诺苷 C3 破坏 G3BP1 和铁蛋白轻链结合，可减轻 SG 对铁死亡的限制，并在体外和动物模型中使 GSC 对 IR/TMZ 重新敏感。这些发现揭示了 SG 对铁死亡的负调控，并揭示了一种破坏 SG-铁死亡轴以治疗胶质母细胞瘤和可能其他类型癌症的有前途的策略。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Nature cell biology｜IF 19.1｜JCR Q1 / CAS 1区｜2026-05-22｜https://pubmed.ncbi.nlm.nih.gov/42174134/</pre></details>
       </article>
 
       <article class="card">
@@ -226,24 +151,9 @@
         <p class="title-en">A human cardiomyocyte screen identifies optimized lipid nanoparticles for in vivo cardiac gene editing.</p>
         <p class="journal">Proceedings of the National Academy of Sciences of the United States of America｜2026-05-26</p>
         <p class="ids">PMID: 42150080 ｜ DOI: 10.1073/pnas.2528477123</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42150080/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>RNA疗法为治疗心脏病提供了广阔的前景；然而，它们的临床应用因心脏输送不足而受到限制。在这里，我们开发了一个筛选平台，使用人类诱导多能干细胞衍生的心肌细胞（hiPSC-CM）来鉴定人类心肌脂质纳米颗粒（LNP）。通过筛选化学多样化的 LNP 文库，我们确定了一个领先的 LNP，18:1 TAP10，具有有效的人类心脏转染能力。使用 Ai14 LoxP-Stop-LoxP-tdTomato 报告小鼠模型，我们通过四种给药途径（静脉内、胸腔内、冠状动脉内和心肌内 (IM)）评估了 Cre mRNA 在体内的 18:1 TAP10 LNP 递送，发现每种给药途径都不同程度地实现了心脏中的空间分布和细胞向性。虽然所有途径均在非 CM 群体中实现了稳健的转染（内皮细胞高达 40%），但 IM 注射显着实现了大量 CM 转染（注射部位 36%，远端 13%）。为了证明治疗潜力，使用 18:1 TAP10 LNP 将腺嘌呤碱基编辑器 (ABE) 成分递送至杜氏肌营养不良症 (DMD) 患者来源的 hiPSC-CM，从而实现 80% 的目标基因校正并恢复肌营养不良蛋白表达。在人源化 DMD 小鼠模型中，我们在肌注 LNP-ABE 后在注射的左心室中观察到肌营养不良蛋白阳性心肌细胞。这项工作建立了一个基于人类细胞的平台，用于发现面向器官的递送载体，并强调 LNP 作为心脏治疗性 mRNA 递送和基因编辑的潜在方式。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42150080/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>RNA疗法为治疗心脏病提供了广阔的前景；然而，它们的临床应用因心脏输送不足而受到限制。在这里，我们开发了一个筛选平台，使用人类诱导多能干细胞衍生的心肌细胞（hiPSC-CM）来鉴定人类心肌脂质纳米颗粒（LNP）。通过筛选化学多样化的 LNP 文库，我们确定了一个领先的 LNP，18:1 TAP10，具有有效的人类心脏转染能力。使用 Ai14 LoxP-Stop-LoxP-tdTomato 报告小鼠模型，我们通过四种给药途径（静脉内、胸腔内、冠状动脉内和心肌内 (IM)）评估了 Cre mRNA 在体内的 18:1 TAP10 LNP 递送，发现每种给药途径都不同程度地实现了心脏中的空间分布和细胞向性。虽然所有途径均在非 CM 群体中实现了稳健的转染（内皮细胞高达 40%），但 IM 注射显着实现了大量 CM 转染（注射部位 36%，远端 13%）。为了证明治疗潜力，使用 18:1 TAP10 LNP 将腺嘌呤碱基编辑器 (ABE) 成分递送至杜氏肌营养不良症 (DMD) 患者来源的 hiPSC-CM，从而实现 80% 的目标基因校正并恢复肌营养不良蛋白表达。在人源化 DMD 小鼠模型中，我们在肌注 LNP-ABE 后在注射的左心室中观察到肌营养不良蛋白阳性心肌细胞。这项工作建立了一个基于人类细胞的平台，用于发现面向器官的递送载体，并强调 LNP 作为心脏治疗性 mRNA 递送和基因编辑的潜在方式。</p></details>
         <details><summary>英文摘要</summary><p>RNA therapeutics offer promising potential for treating heart disease; however, their clinical application has been limited by insufficient cardiac delivery. Here, we developed a screening platform using human induced pluripotent stem cell-derived cardiomyocytes (hiPSC-CMs) to identify human cardiotropic lipid nanoparticles (LNPs). By screening a chemically diverse LNP library, we identified a lead LNP, 18:1 TAP10, with potent human cardiac transfection capability. Using the Ai14 LoxP-Stop-LoxP-tdTomato reporter mouse model, we assessed 18:1 TAP10 LNP delivery of Cre mRNA in vivo via four administration routes (intravenous, intrathoracic, intracoronary, and intramyocardial (IM)) and found that each administration path enabled both the spatial distribution and cellular tropism in the heart to varying degrees. While all routes achieved robust transfection across non-CM populations (up to 40% in endothelial cells), IM injection notably enabled substantial CM transfection (36% at injection site, 13% distally). To demonstrate therapeutic potential, 18:1 TAP10 LNPs were used to deliver adenine base editor (ABE) components to Duchenne muscular dystrophy (DMD) patient-derived hiPSC-CMs, resulting in 80% on-target gene correction and restoration of dystrophin expression. In a humanized DMD mouse model, we observed dystrophin-positive cardiomyocytes in the injected left ventricle following IM administration of LNP-ABE. This work establishes a human cell-based platform for discovering organ-tropic delivery vehicles and highlights LNPs as a potential modality for therapeutic mRNA delivery and gene editing in the heart.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。RNA疗法为治疗心脏病提供了广阔的前景；然而，它们的临床应用因心脏输送不足而受到限制。在这里，我们开发了一个筛选平台，使用人类诱导多能干细胞衍生的心肌细胞（hiPSC-CM）来鉴定人类心肌脂质纳米颗粒（LNP）。通过筛选化学多样化的 LNP 文库，我们确定了一个领先的 LNP，18:1 TAP10，具有有效的人类心脏转染能力。使用 Ai14 LoxP-Stop-LoxP-tdTomato 报告小鼠模型，我们通过四种给药途径（静脉内、胸腔内、冠状动脉内和心肌内 (IM)）评估了 Cre mRNA 在体内的 18:1 TAP10 LNP 递送，发现每种给药途径都不同程度地实现了心脏中的空间分布和细胞向性。虽然所有途径均在非 CM 群体中实现了稳健的转染（内皮细胞高达 40%），但 IM 注射显着实现了大量 CM 转染（注射部位 36%，远端 13%）。为了证明治疗潜力，使用 18:1 TAP10 LNP 将腺嘌呤碱基编辑器 (ABE</p></section>
-        <section><h3>临床/科研意义</h3><p>对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】人类心肌细胞筛选确定了用于体内心脏基因编辑的优化脂质纳米颗粒。
-
-英文题目：A human cardiomyocyte screen identifies optimized lipid nanoparticles for in vivo cardiac gene editing.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：RNA疗法为治疗心脏病提供了广阔的前景；然而，它们的临床应用因心脏输送不足而受到限制。在这里，我们开发了一个筛选平台，使用人类诱导多能干细胞衍生的心肌细胞（hiPSC-CM）来鉴定人类心肌脂质纳米颗粒（LNP）。通过筛选化学多样化的 LNP 文库，我们确定了一个领先的 LNP，18:1 TAP10，具有有效的人类心脏转染能力。使用 Ai14 LoxP-Stop-LoxP-tdTomato 报告小鼠模型，我们通过四种给药途径（静脉内、胸腔内、冠状动脉内和心肌内 (IM)）评估了 Cre mRNA 在体内的 18:1 TAP10 LNP 递送，发现每种给药途径都不同程度地实现了心脏中的空间分布和细胞向性。虽然所有途径均在非 CM 群体中实现了稳健的转染（内皮细胞高达 40%），但 IM 注射显着实现了大量 CM 转染（注射部位 36%，远端 13%）。为了证明治疗潜力，使用 18:1 TAP10 LNP 将腺嘌呤碱基编辑器 (ABE) 成分递送至杜氏肌营养不良症 (DMD) 患者来源的 hiPSC-CM，从而实现 80% 的目标基因校正并恢复肌营养不良蛋白表达。在人源化 DMD 小鼠模型中，我们在肌注 LNP-ABE 后在注射的左心室中观察到肌营养不良蛋白阳性心肌细胞。这项工作建立了一个基于人类细胞的平台，用于发现面向器官的递送载体，并强调 LNP 作为心脏治疗性 mRNA 递送和基因编辑的潜在方式。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Proceedings of the National Academy of Sciences of the United States of America｜IF 9.1｜JCR Q1 / CAS 1区｜2026-05-26｜https://pubmed.ncbi.nlm.nih.gov/42150080/</pre></details>
       </article>
 
       <article class="card">
@@ -252,24 +162,9 @@
         <p class="title-en">Revisiting cirrhosis-related parkinsonism: a comprehensive review.</p>
         <p class="journal">Metabolic brain disease｜2026-05-23</p>
         <p class="ids">PMID: 42174344 ｜ DOI: 10.1007/s11011-026-01875-z</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42174344/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>肝硬化相关的帕金森症是一种常见但经常被忽视的慢性肝病神经系统并发症，主要是由于门体分流导致基底神经节中锰 (Mn) 积聚所致。临床上，它表现为一种非典型帕金森综合征，其特征是双侧对称运动特征、早期姿势不稳定以及对多巴胺能治疗反应差，这与特发性帕金森病不同。潜在的病理生理学涉及锰诱导的神经炎症、线粒体功能障碍和𝛂-突触核蛋白错误折叠的复杂级联，特别是影响苍白球。虽然 T1 加权 MRI 通常显示苍白球特征性双侧高信号，但其低特异性仍然是一个重大的诊断挑战，因为这些发现可能发生在无症状的肝硬化患者中。原位肝移植是唯一确定的治疗方法，具有通过恢复肝脏解毒来逆转神经功能缺陷的潜力。替代策略包括介入放射分流闭塞术和对症药物治疗，尽管后者的证据仍然不一致。这篇综述综合了有关这种神经肝综合征的流行病学、发病机制和治疗的最新知识，强调迫切需要标准化的诊断标准和经过验证的生物标志物，以提高临床认识和患者治疗结果。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42174344/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>肝硬化相关的帕金森症是一种常见但经常被忽视的慢性肝病神经系统并发症，主要是由于门体分流导致基底神经节中锰 (Mn) 积聚所致。临床上，它表现为一种非典型帕金森综合征，其特征是双侧对称运动特征、早期姿势不稳定以及对多巴胺能治疗反应差，这与特发性帕金森病不同。潜在的病理生理学涉及锰诱导的神经炎症、线粒体功能障碍和𝛂-突触核蛋白错误折叠的复杂级联，特别是影响苍白球。虽然 T1 加权 MRI 通常显示苍白球特征性双侧高信号，但其低特异性仍然是一个重大的诊断挑战，因为这些发现可能发生在无症状的肝硬化患者中。原位肝移植是唯一确定的治疗方法，具有通过恢复肝脏解毒来逆转神经功能缺陷的潜力。替代策略包括介入放射分流闭塞术和对症药物治疗，尽管后者的证据仍然不一致。这篇综述综合了有关这种神经肝综合征的流行病学、发病机制和治疗的最新知识，强调迫切需要标准化的诊断标准和经过验证的生物标志物，以提高临床认识和患者治疗结果。</p></details>
         <details><summary>英文摘要</summary><p>Cirrhosis-related Parkinsonism is a frequent but often overlooked neurological complication of chronic liver disease, primarily driven by manganese (Mn) accumulation in the basal ganglia resulting from portosystemic shunting. Clinically, it presents as an atypical Parkinsonian syndrome characterized by bilateral and symmetrical motor features, early postural instability, and poor responsiveness to dopaminergic therapy, which distinguishes it from idiopathic Parkinson&#x27;s disease. The underlying pathophysiology involves a complex cascade of Mn-induced neuroinflammation, mitochondrial dysfunction, and 𝛂-synuclein misfolding, particularly affecting the globus pallidus. While T1-weighted MRI typically reveals characteristic bilateral hyperintensities in the globus pallidus, its low specificity remains a significant diagnostic challenge, as these findings can occur in asymptomatic cirrhotic patients. Orthotopic liver transplantation stands as the only definitive treatment, offering potential for reversal of neurological deficits by restoring hepatic detoxification. Alternative strategies include interventional radiological shunt obliteration and symptomatic pharmacological therapies, though evidence for the latter remains inconsistent. This review synthesizes current knowledge on the epidemiology, pathogenesis, and management of this neurohepatic syndrome, highlighting the urgent need for standardized diagnostic criteria and validated biomarkers to improve clinical recognition and patient outcomes.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“创伤性脑损伤”，聚焦创伤性脑损伤。主要信息来自题名、期刊/来源和摘要。肝硬化相关的帕金森症是一种常见但经常被忽视的慢性肝病神经系统并发症，主要是由于门体分流导致基底神经节中锰 (Mn) 积聚所致。临床上，它表现为一种非典型帕金森综合征，其特征是双侧对称运动特征、早期姿势不稳定以及对多巴胺能治疗反应差，这与特发性帕金森病不同。潜在的病理生理学涉及锰诱导的神经炎症、线粒体功能障碍和𝛂-突触核蛋白错误折叠的复杂级联，特别是影响苍白球。虽然 T1 加权 MRI 通常显示苍白球特征性双侧高信号，但其低特异性仍然是一个重大的诊断挑战，因为这些发现可能发生在无症状的肝硬化患者中。原位肝移植是唯一确定的治疗方法，具有通过恢复肝脏解毒来逆转神经功能缺陷的潜力。替代策略包括介入放射分流闭塞术和对症药物治疗，尽管后者的证据仍然不一致。这篇综述综合了有关这种神经肝综合征的流行病学、发病机制和治疗的最新知识，强调迫切需要标准化的诊断标准和经过验证的生物标志物，以提高临床认识和患者治疗结果。</p></section>
-        <section><h3>临床/科研意义</h3><p>对创伤性脑损伤方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】重新审视与肝硬化相关的帕金森病：全面回顾。
-
-英文题目：Revisiting cirrhosis-related parkinsonism: a comprehensive review.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：肝硬化相关的帕金森症是一种常见但经常被忽视的慢性肝病神经系统并发症，主要是由于门体分流导致基底神经节中锰 (Mn) 积聚所致。临床上，它表现为一种非典型帕金森综合征，其特征是双侧对称运动特征、早期姿势不稳定以及对多巴胺能治疗反应差，这与特发性帕金森病不同。潜在的病理生理学涉及锰诱导的神经炎症、线粒体功能障碍和𝛂-突触核蛋白错误折叠的复杂级联，特别是影响苍白球。虽然 T1 加权 MRI 通常显示苍白球特征性双侧高信号，但其低特异性仍然是一个重大的诊断挑战，因为这些发现可能发生在无症状的肝硬化患者中。原位肝移植是唯一确定的治疗方法，具有通过恢复肝脏解毒来逆转神经功能缺陷的潜力。替代策略包括介入放射分流闭塞术和对症药物治疗，尽管后者的证据仍然不一致。这篇综述综合了有关这种神经肝综合征的流行病学、发病机制和治疗的最新知识，强调迫切需要标准化的诊断标准和经过验证的生物标志物，以提高临床认识和患者治疗结果。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Metabolic brain disease｜IF 3.5｜JCR Q2 / CAS 4区｜2026-05-23｜https://pubmed.ncbi.nlm.nih.gov/42174344/</pre></details>
       </article>
 
       <article class="card">
@@ -278,24 +173,9 @@
         <p class="title-en">Faecalibacterium prausnitzii-derived extracellular vesicles ameliorate experimental colitis through regulating barrier immunity and gut microbiota.</p>
         <p class="journal">NPJ science of food｜2026-05-23</p>
         <p class="ids">PMID: 42173875 ｜ DOI: 10.1038/s41538-026-00897-2</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42173875/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>溃疡性结肠炎（UC）与肠道屏障功能障碍和肠道菌群失调密切相关。细菌细胞外囊泡（bEV）是细菌-宿主串扰的关键介质，在调节宿主健康方面具有巨大潜力。最近的研究表明，源自肠道共生细菌的 EV 在治疗 UC 方面具有治疗优势。在此，我们探讨了普氏粪杆菌衍生的 EV（PEV）对 DSS 诱导的结肠炎小鼠的治疗作用。结果显示，PEV 显着改善肠道屏障损伤，恢复 Th17/Treg 平衡并缓解肠道菌群失调。进一步的粪便微生物群移植（FMT）证实，PEVs 治疗小鼠的粪便将有益效果转移到受体结肠炎小鼠身上。总的来说，我们的研究结果表明，共生肠道微生物群衍生的纳米囊泡有潜力作为 UC 治疗的候选者。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42173875/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>溃疡性结肠炎（UC）与肠道屏障功能障碍和肠道菌群失调密切相关。细菌细胞外囊泡（bEV）是细菌-宿主串扰的关键介质，在调节宿主健康方面具有巨大潜力。最近的研究表明，源自肠道共生细菌的 EV 在治疗 UC 方面具有治疗优势。在此，我们探讨了普氏粪杆菌衍生的 EV（PEV）对 DSS 诱导的结肠炎小鼠的治疗作用。结果显示，PEV 显着改善肠道屏障损伤，恢复 Th17/Treg 平衡并缓解肠道菌群失调。进一步的粪便微生物群移植（FMT）证实，PEVs 治疗小鼠的粪便将有益效果转移到受体结肠炎小鼠身上。总的来说，我们的研究结果表明，共生肠道微生物群衍生的纳米囊泡有潜力作为 UC 治疗的候选者。</p></details>
         <details><summary>英文摘要</summary><p>Ulcerative colitis (UC) is closely linked to intestinal barrier dysfunction and gut dysbiosis. Bacterial extracellular vesicles (bEVs) act as key mediators of bacteria-host crosstalk, with great potential in regulating host health. Recent studies have shown that EVs derived from gut commensal bacteria offer therapeutic advantages in treating UC. Herein, we explored the therapeutic effect of Faecalibacterium prausnitzii-derived EVs (PEVs) in DSS-induced colitis mice. Results showed PEVs significantly improved intestinal barrier damage, restored Th17/Treg balance and alleviated gut dysbiosis. Further fecal microbiota transplantation (FMT) confirmed that feces from PEVs-treated mice transferred beneficial effects to recipient colitis mice. Collectively, our findings indicate that commensal gut microbiota-derived nanovesicles have the potential to serve as candidates for UC treatment.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“干细胞与外泌体”，聚焦干细胞与外泌体。主要信息来自题名、期刊/来源和摘要。溃疡性结肠炎（UC）与肠道屏障功能障碍和肠道菌群失调密切相关。细菌细胞外囊泡（bEV）是细菌-宿主串扰的关键介质，在调节宿主健康方面具有巨大潜力。最近的研究表明，源自肠道共生细菌的 EV 在治疗 UC 方面具有治疗优势。在此，我们探讨了普氏粪杆菌衍生的 EV（PEV）对 DSS 诱导的结肠炎小鼠的治疗作用。结果显示，PEV 显着改善肠道屏障损伤，恢复 Th17/Treg 平衡并缓解肠道菌群失调。进一步的粪便微生物群移植（FMT）证实，PEVs 治疗小鼠的粪便将有益效果转移到受体结肠炎小鼠身上。总的来说，我们的研究结果表明，共生肠道微生物群衍生的纳米囊泡有潜力作为 UC 治疗的候选者。</p></section>
-        <section><h3>临床/科研意义</h3><p>对干细胞与外泌体方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】普拉梭杆菌来源的细胞外囊泡通过调节屏障免疫和肠道微生物群改善实验性结肠炎。
-
-英文题目：Faecalibacterium prausnitzii-derived extracellular vesicles ameliorate experimental colitis through regulating barrier immunity and gut microbiota.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：溃疡性结肠炎（UC）与肠道屏障功能障碍和肠道菌群失调密切相关。细菌细胞外囊泡（bEV）是细菌-宿主串扰的关键介质，在调节宿主健康方面具有巨大潜力。最近的研究表明，源自肠道共生细菌的 EV 在治疗 UC 方面具有治疗优势。在此，我们探讨了普氏粪杆菌衍生的 EV（PEV）对 DSS 诱导的结肠炎小鼠的治疗作用。结果显示，PEV 显着改善肠道屏障损伤，恢复 Th17/Treg 平衡并缓解肠道菌群失调。进一步的粪便微生物群移植（FMT）证实，PEVs 治疗小鼠的粪便将有益效果转移到受体结肠炎小鼠身上。总的来说，我们的研究结果表明，共生肠道微生物群衍生的纳米囊泡有潜力作为 UC 治疗的候选者。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：NPJ science of food｜IF 7.8｜JCR Q1 / CAS 1区｜2026-05-23｜https://pubmed.ncbi.nlm.nih.gov/42173875/</pre></details>
       </article>
 
       <article class="card">
@@ -304,24 +184,9 @@
         <p class="title-en">Hotspots and trends of microglia in ischemic stroke: A bibliometric analysis from 1998 to 2024.</p>
         <p class="journal">Medicine｜2026-05-22</p>
         <p class="ids">PMID: 42175444 ｜ DOI: 10.1097/MD.0000000000048993</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42175444/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>背景：缺血性中风（IS）是全球残疾的主要原因，其特征是小胶质细胞（中枢神经系统的常驻免疫细胞）促进显着的神经炎症反应。全面了解该领域当前的研究格局对于指导未来的研究至关重要。然而，缺乏对这一交叉领域的系统、定量的全景分析。本研究旨在通过对从 Web of Science 核心合集数据库检索的出版物进行文献计量分析，阐明历史发展、协作网络和新兴前沿，来解决这一知识差距。目的：本研究致力于对 IS 中的小胶质细胞研究进行全面的文献计量分析，旨在通过对出版趋势、合作网络和概念框架的演变的定量评估来阐明历史发展，确定当前的研究前沿，并提出未来的方向。方法：利用 IS 和小胶质细胞的受控词汇术语，我们对 Web of Science 核心合集数据库进行了系统检索。应用排除标准后，我们​​的分析包括 5709 篇出版物（4859 篇文章；850 条评论）。我们使用 Bibliometrix R、VOSviewer 和 CiteSpace 进行高级文献计量分析。结果：每年发表论文数量呈指数级增长，过去5年（2020-2024）年复合增长率为14.6%，显示出强劲的研究势头。系统评价和荟萃分析占总数的14.9%，凸显了综合证据的重要性日益增加。中国（n = 1852）和美国（n = 1723）在研究贡献方面处于领先地位。首都医科大学成为最多产的机构（n = 217）。 《Journal of Neuroinflammation》是主要发表地（n = 142），而 Stroke 的引用次数最高（8742 次引用）。 Moo-Ho Won 是最多产的作者 (n = 68)，Iadecola C. 是同被引用最多的研究人员 (n = 1024)。关键词分析确定了“小胶质细胞极化”（突发强度 = 36.5）、“NLR fam……</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42175444/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>背景：缺血性中风（IS）是全球残疾的主要原因，其特征是小胶质细胞（中枢神经系统的常驻免疫细胞）促进显着的神经炎症反应。全面了解该领域当前的研究格局对于指导未来的研究至关重要。然而，缺乏对这一交叉领域的系统、定量的全景分析。本研究旨在通过对从 Web of Science 核心合集数据库检索的出版物进行文献计量分析，阐明历史发展、协作网络和新兴前沿，来解决这一知识差距。目的：本研究致力于对 IS 中的小胶质细胞研究进行全面的文献计量分析，旨在通过对出版趋势、合作网络和概念框架的演变的定量评估来阐明历史发展，确定当前的研究前沿，并提出未来的方向。方法：利用 IS 和小胶质细胞的受控词汇术语，我们对 Web of Science 核心合集数据库进行了系统检索。应用排除标准后，我们​​的分析包括 5709 篇出版物（4859 篇文章；850 条评论）。我们使用 Bibliometrix R、VOSviewer 和 CiteSpace 进行高级文献计量分析。结果：每年发表论文数量呈指数级增长，过去5年（2020-2024）年复合增长率为14.6%，显示出强劲的研究势头。系统评价和荟萃分析占总数的14.9%，凸显了综合证据的重要性日益增加。中国（n = 1852）和美国（n = 1723）在研究贡献方面处于领先地位。首都医科大学成为最多产的机构（n = 217）。 《Journal of Neuroinflammation》是主要发表地（n = 142），而 Stroke 的引用次数最高（8742 次引用）。 Moo-Ho Won 是最多产的作者 (n = 68)，Iadecola C. 是同被引用最多的研究人员 (n = 1024)。关键词分析确定了“小胶质细胞极化”（突发强度 = 36.5）、“NLR fam……</p></details>
         <details><summary>英文摘要</summary><p>BACKGROUND: Ischemic stroke (IS) represents a predominant cause of disability globally, characterized by significant neuroinflammatory responses facilitated by microglia, the resident immune cells of the central nervous system. A comprehensive understanding the current research landscape in this field is essential for guiding future inquiries. However, a systematic, quantitative panorama analysis of this intersecting field is lacking. This study aims to address this knowledge gap by conducting a bibliometric analysis of publications retrieved from the Web of Science Core Collection database, elucidating historical developments, collaboration networks, and emerging frontiers. OBJECTIVE: This study endeavors to perform a comprehensive bibliometric analysis of microglia research in IS, with the aim of elucidating historical developments, identifying current research frontiers, and proposing future directions through a quantitative assessment of publication trends, collaboration networks, and the evolution of conceptual frameworks. METHODS: Utilizing controlled vocabulary terms for IS and microglia, we conducted a systematic search of the Web of Science Core Collection database. After applying exclusion criteria, our analysis included 5709 publications (4859 articles; 850 reviews). We employed Bibliometrix R, VOSviewer, and CiteSpace for advanced bibliometric analysis. RESULTS: The annual publication count showed exponential growth, with a compound annual growth rate of 14.6% over the past 5 years (2020-2024), indicating robust research momentum. Systematic reviews and meta-analyses accounted for 14.9% of the total, highlighting the growing importance of integrative evidence. China (n = 1852) and the United States (n = 1723) leading in research contributions. Capital Medical University emerged as the most prolific institution (n = 217). Journal of Neuroinflammation was the primary publication venue (n = 142), while Stroke had the highest citation count (8742 citations). Moo-Ho Won was the most productive author (n = 68), and Iadecola C. was the most co-cited researcher (n = 1024). Keyword analysis identified &quot;microglia polarization&quot; (burst strength = 36.5), &quot;NLR family pyrin domain containing 3 inflammasome&quot; (burst strength = 32.1), and &quot;extracellular vesicles&quot; (burst strength = 28.7) as emerging research frontiers. CONCLUSION: Our analysis outlines 3 key research trajectories, molecular mechanisms of microglia activation, particularly NLR family pyrin domain containing 3-mediated pathways; phenotypic modulation of microglia during stroke recovery; and novel roles in angiogenesis and immunomodulation. The emergence of &quot;gut-microbiota-brain axis&quot; and &quot;mitochondrial transfer&quot; as new research themes offers promising directions for investigation. These findings provide a strategic framework for prioritizing research on neuroinflammation and neurorepair after stroke.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“创伤性脑损伤”，聚焦创伤性脑损伤。主要信息来自题名、期刊/来源和摘要。背景：缺血性中风（IS）是全球残疾的主要原因，其特征是小胶质细胞（中枢神经系统的常驻免疫细胞）促进显着的神经炎症反应。全面了解该领域当前的研究格局对于指导未来的研究至关重要。然而，缺乏对这一交叉领域的系统、定量的全景分析。本研究旨在通过对从 Web of Science 核心合集数据库检索的出版物进行文献计量分析，阐明历史发展、协作网络和新兴前沿，来解决这一知识差距。目的：本研究致力于对 IS 中的小胶质细胞研究进行全面的文献计量分析，旨在通过对出版趋势、合作网络和概念框架的演变的定量评估来阐明历史发展，确定当前的研究前沿，并提出未来的方向。方法：利用 IS 和小胶质细胞的受控词汇术语，我们对 Web of Science 核心合集数据库进行了系统检索。应用排除标准后，我们​​的分析包括 5709 篇出版物（4859 篇文章；850 条评论）。我们使用 Bibliometrix R、VOSviewer 和 CiteSpace 进</p></section>
-        <section><h3>临床/科研意义</h3><p>对创伤性脑损伤方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】缺血性中风中小胶质细胞的热点和趋势：1998 年至 2024 年的文献计量分析。
-
-英文题目：Hotspots and trends of microglia in ischemic stroke: A bibliometric analysis from 1998 to 2024.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：背景：缺血性中风（IS）是全球残疾的主要原因，其特征是小胶质细胞（中枢神经系统的常驻免疫细胞）促进显着的神经炎症反应。全面了解该领域当前的研究格局对于指导未来的研究至关重要。然而，缺乏对这一交叉领域的系统、定量的全景分析。本研究旨在通过对从 Web of Science 核心合集数据库检索的出版物进行文献计量分析，阐明历史发展、协作网络和新兴前沿，来解决这一知识差距。目的：本研究致力于对 IS 中的小胶质细胞研究进行全面的文献计量分析，旨在通过对出版趋势、合作网络和概念框架的演变的定量评估来阐明历史发展，确定当前的研究前沿，并提出未来的方向。方法：利用 IS 和小胶质细胞的受控词汇术语，我们对 Web of Science 核心合集数据库进行了系统检索。应用排除标准后，我们​​的分析包括 5709 篇出版物（4859 篇文章；850 条评论）。我们使用 Bibliometrix R、VOSviewer 和 CiteSpace 进行高级文献计量分析。结果：每年发表论文数量呈指数级增长，过去5年（2020-2024）年复合增长率为14.6%，显示出强劲的研究势头。系统评价和荟萃分析占总数的14.9%，凸显了综合证据的重要性日益增加。中国（n = 1852）和美国（n = 1723）在研究贡献方面处于领先地位。首都医科大学成为最多产的机构（n = 217）。 《Journal of Neuroinflammation》是主要发表地（n = 142），而 Stroke 的引用次数最高（8742 次引用）。 Moo-Ho Won 是最多产的作者 (n = 68)，Iadecola C. 是同被引用最多的研究人员 (n = 1024)。关键词分析确定了“小胶质细胞极化”（突发强度 = 36.5）、“NLR fam……
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Medicine｜IF 1.4｜JCR Q2 / CAS 4区｜2026-05-22｜https://pubmed.ncbi.nlm.nih.gov/42175444/</pre></details>
       </article>
 
     </section>
@@ -331,7 +196,6 @@
         <div>
           <div class="eyebrow">top_journal_neuroscience</div>
           <h2>顶刊神经科学</h2>
-          <p>优先从 Nature、Science、Cell、Nature Medicine、Nature Neuroscience、Neuron、Brain、Lancet Neurology、JAMA Neurology 等筛选神经科学基础与临床研究。</p>
         </div>
         <strong>8 条</strong>
       </div>
@@ -342,24 +206,9 @@
         <p class="title-en">Endogenous retrovirus-derived RNA-DNA hybrids induce microglial synaptic pruning in autism models.</p>
         <p class="journal">Neuron｜2026-05-20</p>
         <p class="ids">PMID: 41742408 ｜ DOI: 10.1016/j.neuron.2026.01.011</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/41742408/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>小胶质细胞介导的神经炎症越来越被认为是自闭症谱系障碍（ASD）的关键病理成分，尽管驱动小胶质细胞激活的机制在很大程度上仍然难以捉摸。我们的研究表明，高危 ASD 基因 SETDB1 的缺陷以及母体免疫激活 (MIA) 会提高补体蛋白 C4b 的表达，特别是在前额皮质 (PFC) 神经元中。这种上调会触发过度的小胶质细胞突触修剪，导致类似自闭症的行为。此外，我们发现小胶质细胞的消除提高了突触密度，而完全敲除 C4b 则挽救了小鼠中所有观察到的自闭症样表型。 C4b 表达由内源逆转录病毒 (ERV) 重新激活形成的 RNA-DNA 杂交体驱动。值得注意的是，我们发现 FDA 批准的现有 HIV 药物可抑制逆转录活性，显着降低 C4b 水平并缓解 ASD 症状。这些发现强调了 C4b 在 ASD 中小胶质细胞介导的突触修剪中的关键作用，并强调了利用现有 HIV 药物靶向 ERV 重新激活的治疗潜力。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/41742408/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>小胶质细胞介导的神经炎症越来越被认为是自闭症谱系障碍（ASD）的关键病理成分，尽管驱动小胶质细胞激活的机制在很大程度上仍然难以捉摸。我们的研究表明，高危 ASD 基因 SETDB1 的缺陷以及母体免疫激活 (MIA) 会提高补体蛋白 C4b 的表达，特别是在前额皮质 (PFC) 神经元中。这种上调会触发过度的小胶质细胞突触修剪，导致类似自闭症的行为。此外，我们发现小胶质细胞的消除提高了突触密度，而完全敲除 C4b 则挽救了小鼠中所有观察到的自闭症样表型。 C4b 表达由内源逆转录病毒 (ERV) 重新激活形成的 RNA-DNA 杂交体驱动。值得注意的是，我们发现 FDA 批准的现有 HIV 药物可抑制逆转录活性，显着降低 C4b 水平并缓解 ASD 症状。这些发现强调了 C4b 在 ASD 中小胶质细胞介导的突触修剪中的关键作用，并强调了利用现有 HIV 药物靶向 ERV 重新激活的治疗潜力。</p></details>
         <details><summary>英文摘要</summary><p>Microglia-mediated neuroinflammation is increasingly recognized as a key pathological component in autism spectrum disorders (ASDs), though the mechanisms driving microglial activation remain largely elusive. Our study reveals that deficiency in the high-risk ASD gene SETDB1, as well as maternal immune activation (MIA), elevates complement protein C4b expression specifically in prefrontal cortex (PFC) neurons. This upregulation triggers excessive microglial synaptic pruning, leading to autistic-like behaviors. Furthermore, we found that microglia elimination improved synaptic density, while complete C4b knockout rescued all observed autistic-like phenotypes in mice. C4b expression is driven by RNA-DNA hybrids formed through the reactivation of endogenous retroviruses (ERVs). Notably, we identify that existing FDA-approved HIV medications, which inhibit retrotranscriptional activity, substantially reduce C4b levels and alleviate ASD symptoms. These findings underscore the crucial role of C4b in microglia-mediated synaptic pruning in ASD and highlight the therapeutic potential of targeting ERV reactivation with existing HIV medications.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。小胶质细胞介导的神经炎症越来越被认为是自闭症谱系障碍（ASD）的关键病理成分，尽管驱动小胶质细胞激活的机制在很大程度上仍然难以捉摸。我们的研究表明，高危 ASD 基因 SETDB1 的缺陷以及母体免疫激活 (MIA) 会提高补体蛋白 C4b 的表达，特别是在前额皮质 (PFC) 神经元中。这种上调会触发过度的小胶质细胞突触修剪，导致类似自闭症的行为。此外，我们发现小胶质细胞的消除提高了突触密度，而完全敲除 C4b 则挽救了小鼠中所有观察到的自闭症样表型。 C4b 表达由内源逆转录病毒 (ERV) 重新激活形成的 RNA-DNA 杂交体驱动。值得注意的是，我们发现 FDA 批准的现有 HIV 药物可抑制逆转录活性，显着降低 C4b 水平并缓解 ASD 症状。这些发现强调了 C4b 在 ASD 中小胶质细胞介导的突触修剪中的关键作用，并强调了利用现有 HIV 药物靶向 ERV 重新激活的治疗潜力。</p></section>
-        <section><h3>临床/科研意义</h3><p>对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】内源性逆转录病毒衍生的 RNA-DNA 杂交体在自闭症模型中诱导小胶质细胞突触修剪。
-
-英文题目：Endogenous retrovirus-derived RNA-DNA hybrids induce microglial synaptic pruning in autism models.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：小胶质细胞介导的神经炎症越来越被认为是自闭症谱系障碍（ASD）的关键病理成分，尽管驱动小胶质细胞激活的机制在很大程度上仍然难以捉摸。我们的研究表明，高危 ASD 基因 SETDB1 的缺陷以及母体免疫激活 (MIA) 会提高补体蛋白 C4b 的表达，特别是在前额皮质 (PFC) 神经元中。这种上调会触发过度的小胶质细胞突触修剪，导致类似自闭症的行为。此外，我们发现小胶质细胞的消除提高了突触密度，而完全敲除 C4b 则挽救了小鼠中所有观察到的自闭症样表型。 C4b 表达由内源逆转录病毒 (ERV) 重新激活形成的 RNA-DNA 杂交体驱动。值得注意的是，我们发现 FDA 批准的现有 HIV 药物可抑制逆转录活性，显着降低 C4b 水平并缓解 ASD 症状。这些发现强调了 C4b 在 ASD 中小胶质细胞介导的突触修剪中的关键作用，并强调了利用现有 HIV 药物靶向 ERV 重新激活的治疗潜力。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Neuron｜IF 15.0｜JCR Q1 / CAS 1区｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/41742408/</pre></details>
       </article>
 
       <article class="card">
@@ -368,24 +217,9 @@
         <p class="title-en">MIF modulates impaired astrocyte distribution in schizophrenia cortical spheroids.</p>
         <p class="journal">Brain : a journal of neurology｜2026-05-19</p>
         <p class="ids">PMID: 42153336 ｜ DOI: 10.1093/brain/awag181</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42153336/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>神经炎症和星形胶质细胞功能障碍与精神分裂症有关。为了阐明所涉及的分子机制，我们从 14 名精神分裂症患者和 14 名健康对照中产生了诱导多能干细胞，并将它们分化为人类皮质球体。转录谱显示精神分裂症球体中纤毛相关基因的过度表达主要由星形胶质细胞驱动。我们确定了精神分裂症中星形胶质细胞的基线异常分布，并表明它是由主要由神经元分泌的促炎细胞因子巨噬细胞迁移抑制因子（MIF）触发的。虽然用 MIF 拮抗剂 ISO-1 治疗可以减轻精神分裂症球体中星形胶质细胞的异常分布并减少促炎细胞因子的分泌，但用 CRISPR-Cas9 敲除 MIF 基因却加剧了精神分裂症培养物中星形胶质细胞和细胞因子的失调，这表明 MIF 升高和缺失的两个极端都会导致星形胶质细胞分布受损，并且需要最低限度的 MIF 表达才能实现最佳细胞功能。综上所述，我们的结果表明，MIF 诱导了精神分裂症中皮质星形胶质细胞的调节，并强调 MIF 拮抗剂是潜在的新型治疗策略。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42153336/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>神经炎症和星形胶质细胞功能障碍与精神分裂症有关。为了阐明所涉及的分子机制，我们从 14 名精神分裂症患者和 14 名健康对照中产生了诱导多能干细胞，并将它们分化为人类皮质球体。转录谱显示精神分裂症球体中纤毛相关基因的过度表达主要由星形胶质细胞驱动。我们确定了精神分裂症中星形胶质细胞的基线异常分布，并表明它是由主要由神经元分泌的促炎细胞因子巨噬细胞迁移抑制因子（MIF）触发的。虽然用 MIF 拮抗剂 ISO-1 治疗可以减轻精神分裂症球体中星形胶质细胞的异常分布并减少促炎细胞因子的分泌，但用 CRISPR-Cas9 敲除 MIF 基因却加剧了精神分裂症培养物中星形胶质细胞和细胞因子的失调，这表明 MIF 升高和缺失的两个极端都会导致星形胶质细胞分布受损，并且需要最低限度的 MIF 表达才能实现最佳细胞功能。综上所述，我们的结果表明，MIF 诱导了精神分裂症中皮质星形胶质细胞的调节，并强调 MIF 拮抗剂是潜在的新型治疗策略。</p></details>
         <details><summary>英文摘要</summary><p>Neuroinflammation and astrocyte dysfunction are associated with schizophrenia. To elucidate the molecular mechanisms involved, we generated induced pluripotent stem cells from 14 schizophrenia patients and 14 healthy controls and differentiated them to human cortical spheroids. Transcriptional profiling revealed overexpression of cilia-related genes in schizophrenia spheroids which was mainly driven by astrocytes. We identified baseline abnormal astrocyte distribution in schizophrenia and show that it is triggered by the pro-inflammatory cytokine macrophage migration inhibitory factor (MIF), primarily secreted by neurons. While treatment with the MIF antagonist ISO-1 attenuated abnormal astrocyte distribution in schizophrenia spheroids and reduced pro-inflammatory cytokines secretion, MIF gene knockout with CRISPR-Cas9 exacerbated astrocyte and cytokines dysregulation in schizophrenia cultures, suggesting that both extremes of elevated and absent MIF lead to impaired astrocyte distribution and that a minimum expression of MIF is required for optimal cell function. Taken together, our results point to a MIF-induced regulation of cortical astroglia in schizophrenia and highlight MIF antagonists as potential novel treatment strategies.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。神经炎症和星形胶质细胞功能障碍与精神分裂症有关。为了阐明所涉及的分子机制，我们从 14 名精神分裂症患者和 14 名健康对照中产生了诱导多能干细胞，并将它们分化为人类皮质球体。转录谱显示精神分裂症球体中纤毛相关基因的过度表达主要由星形胶质细胞驱动。我们确定了精神分裂症中星形胶质细胞的基线异常分布，并表明它是由主要由神经元分泌的促炎细胞因子巨噬细胞迁移抑制因子（MIF）触发的。虽然用 MIF 拮抗剂 ISO-1 治疗可以减轻精神分裂症球体中星形胶质细胞的异常分布并减少促炎细胞因子的分泌，但用 CRISPR-Cas9 敲除 MIF 基因却加剧了精神分裂症培养物中星形胶质细胞和细胞因子的失调，这表明 MIF 升高和缺失的两个极端都会导致星形胶质细胞分布受损，并且需要最低限度的 MIF 表达才能实现最佳细胞功能。综上所述，我们的结果表明，MIF 诱导了精神分裂症中皮质星形胶质细胞的调节，并强调 MIF 拮抗剂是潜在的新型治疗策略。</p></section>
-        <section><h3>临床/科研意义</h3><p>对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】MIF 调节精神分裂症皮质球体中受损的星形胶质细胞分布。
-
-英文题目：MIF modulates impaired astrocyte distribution in schizophrenia cortical spheroids.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：神经炎症和星形胶质细胞功能障碍与精神分裂症有关。为了阐明所涉及的分子机制，我们从 14 名精神分裂症患者和 14 名健康对照中产生了诱导多能干细胞，并将它们分化为人类皮质球体。转录谱显示精神分裂症球体中纤毛相关基因的过度表达主要由星形胶质细胞驱动。我们确定了精神分裂症中星形胶质细胞的基线异常分布，并表明它是由主要由神经元分泌的促炎细胞因子巨噬细胞迁移抑制因子（MIF）触发的。虽然用 MIF 拮抗剂 ISO-1 治疗可以减轻精神分裂症球体中星形胶质细胞的异常分布并减少促炎细胞因子的分泌，但用 CRISPR-Cas9 敲除 MIF 基因却加剧了精神分裂症培养物中星形胶质细胞和细胞因子的失调，这表明 MIF 升高和缺失的两个极端都会导致星形胶质细胞分布受损，并且需要最低限度的 MIF 表达才能实现最佳细胞功能。综上所述，我们的结果表明，MIF 诱导了精神分裂症中皮质星形胶质细胞的调节，并强调 MIF 拮抗剂是潜在的新型治疗策略。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Brain : a journal of neurology｜IF 11.7｜JCR Q1 / CAS 1区｜2026-05-19｜https://pubmed.ncbi.nlm.nih.gov/42153336/</pre></details>
       </article>
 
       <article class="card">
@@ -394,24 +228,9 @@
         <p class="title-en">Parkinson&#x27;s disease beyond the brain: erythrocyte α-synuclein transfer across the blood-brain barrier.</p>
         <p class="journal">Brain : a journal of neurology｜2026-05-19</p>
         <p class="ids">PMID: 42153334 ｜ DOI: 10.1093/brain/awag179</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42153334/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>帕金森病的特点是中枢神经系统中 α-突触核蛋白病理的积累和传播，但外周 α-突触核蛋白来源的贡献仍不清楚。在这里，我们确定红细胞是 α-突触核蛋白的重要储存库，并证明骨髓来源的红细胞 α-突触核蛋白可能有助于脑病理学和帕金森病相关的神经变性。使用人体组织和小鼠模型，我们表明红细胞含有丰富的 α-突触核蛋白种类。骨髓移植显示骨髓源性 α-突触核蛋白在外周器官中广泛分布，在大脑中可检测到但水平明显较低。在中枢神经系统内，免疫表型分析和单核 RNA 测序证实，骨髓来源的 α-突触核蛋白优先积聚在常驻小胶质细胞中，并且与小胶质细胞激活相关。此外，携带α-突触核蛋白的红细胞来源的细胞外囊泡可以很容易地被体内小胶质细胞摄取。从功能上讲，小鼠大脑中骨髓来源的 α-突触核蛋白水平升高导致多巴胺能功能障碍，在基线条件下具有轻度神经退行性表型。重要的是，血脑屏障的完整性严格调节外周 α-突触核蛋白进入中枢神经系统。通过内毒素给药、甘露醇治疗或聚焦超声破坏血脑屏障显着增加外周α-突触核蛋白进入大脑，从而加剧神经变性和行为缺陷。总的来说，这些发现确定骨髓源性红细胞 α-突触核蛋白是帕金森病发病机制的系统性促成因素，并强调血脑屏障完整性是外周到中枢 α-突触核蛋白传输的关键许可调节因子。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42153334/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>帕金森病的特点是中枢神经系统中 α-突触核蛋白病理的积累和传播，但外周 α-突触核蛋白来源的贡献仍不清楚。在这里，我们确定红细胞是 α-突触核蛋白的重要储存库，并证明骨髓来源的红细胞 α-突触核蛋白可能有助于脑病理学和帕金森病相关的神经变性。使用人体组织和小鼠模型，我们表明红细胞含有丰富的 α-突触核蛋白种类。骨髓移植显示骨髓源性 α-突触核蛋白在外周器官中广泛分布，在大脑中可检测到但水平明显较低。在中枢神经系统内，免疫表型分析和单核 RNA 测序证实，骨髓来源的 α-突触核蛋白优先积聚在常驻小胶质细胞中，并且与小胶质细胞激活相关。此外，携带α-突触核蛋白的红细胞来源的细胞外囊泡可以很容易地被体内小胶质细胞摄取。从功能上讲，小鼠大脑中骨髓来源的 α-突触核蛋白水平升高导致多巴胺能功能障碍，在基线条件下具有轻度神经退行性表型。重要的是，血脑屏障的完整性严格调节外周 α-突触核蛋白进入中枢神经系统。通过内毒素给药、甘露醇治疗或聚焦超声破坏血脑屏障显着增加外周α-突触核蛋白进入大脑，从而加剧神经变性和行为缺陷。总的来说，这些发现确定骨髓源性红细胞 α-突触核蛋白是帕金森病发病机制的系统性促成因素，并强调血脑屏障完整性是外周到中枢 α-突触核蛋白传输的关键许可调节因子。</p></details>
         <details><summary>英文摘要</summary><p>Parkinson&#x27;s disease is characterized by the accumulation and propagation of α-synuclein pathology in the central nervous system, yet the contribution of peripheral α-synuclein sources remains unclear. Here, we identify erythrocytes as an important reservoir of α-synuclein and demonstrate that bone marrow-derived erythrocytic α-synuclein likely contributes to brain pathology and Parkinson&#x27;s disease-related neurodegeneration. Using human tissues and mouse models, we show that erythrocytes harbour abundant α-synuclein species. Bone marrow transplantation revealed widespread distribution of bone marrow-derived α-synuclein in peripheral organs, with detectable but substantially lower levels in the brain. Within the central nervous system, bone marrow-derived α-synuclein preferentially accumulated in resident microglia, as confirmed by immunophenotyping and single-nucleus RNA sequencing, and was associated with microglial activation. Furthermore, erythrocyte-derived extracellular vesicles carrying α-synuclein can be readily taken up by microglia in vivo. Functionally, elevated levels of bone marrow-derived α-synuclein in the mouse brain resulted in dopaminergic dysfunction with a mild neurodegenerative phenotype under baseline conditions. Importantly, blood-brain barrier integrity critically regulated peripheral α-synuclein entry into the central nervous system. Disruption of the blood-brain barrier by endotoxin administration, mannitol treatment or focused ultrasound markedly increased the entry of peripheral α-synuclein into the brain, aggravating neurodegeneration and behavioural deficits. Collectively, these findings identify bone marrow-derived erythrocytic α-synuclein as a systemic contributor to the pathogenesis of Parkinson&#x27;s disease and highlight blood-brain barrier integrity as a key permissive regulator of peripheral-to-central α-synuclein transmission.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。帕金森病的特点是中枢神经系统中 α-突触核蛋白病理的积累和传播，但外周 α-突触核蛋白来源的贡献仍不清楚。在这里，我们确定红细胞是 α-突触核蛋白的重要储存库，并证明骨髓来源的红细胞 α-突触核蛋白可能有助于脑病理学和帕金森病相关的神经变性。使用人体组织和小鼠模型，我们表明红细胞含有丰富的 α-突触核蛋白种类。骨髓移植显示骨髓源性 α-突触核蛋白在外周器官中广泛分布，在大脑中可检测到但水平明显较低。在中枢神经系统内，免疫表型分析和单核 RNA 测序证实，骨髓来源的 α-突触核蛋白优先积聚在常驻小胶质细胞中，并且与小胶质细胞激活相关。此外，携带α-突触核蛋白的红细胞来源的细胞外囊泡可以很容易地被体内小胶质细胞摄取。从功能上讲，小鼠大脑中骨髓来源的 α-突触核蛋白水平升高导致多巴胺能功能障碍，在基线条件下具有轻度神经退行性表型。重要的是，血脑屏障的完整性严格调节外周 α-突触核蛋白进入中枢神经系统。通过内毒素给药、甘露醇治疗或聚焦超</p></section>
-        <section><h3>临床/科研意义</h3><p>对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】帕金森病超越大脑：红细胞 α-突触核蛋白穿过血脑屏障。
-
-英文题目：Parkinson&#x27;s disease beyond the brain: erythrocyte α-synuclein transfer across the blood-brain barrier.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：帕金森病的特点是中枢神经系统中 α-突触核蛋白病理的积累和传播，但外周 α-突触核蛋白来源的贡献仍不清楚。在这里，我们确定红细胞是 α-突触核蛋白的重要储存库，并证明骨髓来源的红细胞 α-突触核蛋白可能有助于脑病理学和帕金森病相关的神经变性。使用人体组织和小鼠模型，我们表明红细胞含有丰富的 α-突触核蛋白种类。骨髓移植显示骨髓源性 α-突触核蛋白在外周器官中广泛分布，在大脑中可检测到但水平明显较低。在中枢神经系统内，免疫表型分析和单核 RNA 测序证实，骨髓来源的 α-突触核蛋白优先积聚在常驻小胶质细胞中，并且与小胶质细胞激活相关。此外，携带α-突触核蛋白的红细胞来源的细胞外囊泡可以很容易地被体内小胶质细胞摄取。从功能上讲，小鼠大脑中骨髓来源的 α-突触核蛋白水平升高导致多巴胺能功能障碍，在基线条件下具有轻度神经退行性表型。重要的是，血脑屏障的完整性严格调节外周 α-突触核蛋白进入中枢神经系统。通过内毒素给药、甘露醇治疗或聚焦超声破坏血脑屏障显着增加外周α-突触核蛋白进入大脑，从而加剧神经变性和行为缺陷。总的来说，这些发现确定骨髓源性红细胞 α-突触核蛋白是帕金森病发病机制的系统性促成因素，并强调血脑屏障完整性是外周到中枢 α-突触核蛋白传输的关键许可调节因子。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Brain : a journal of neurology｜IF 11.7｜JCR Q1 / CAS 1区｜2026-05-19｜https://pubmed.ncbi.nlm.nih.gov/42153334/</pre></details>
       </article>
 
       <article class="card">
@@ -420,24 +239,9 @@
         <p class="title-en">Microglia Rank signaling regulates GnRH neuronal function and the hypothalamic-pituitary-gonadal axis.</p>
         <p class="journal">Science (New York, N.Y.)｜2026-05-21</p>
         <p class="ids">PMID: 41818388 ｜ DOI: 10.1126/science.aeb6999</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/41818388/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>下丘脑-垂体-性腺轴 (HPG) 控制青春期发育、性成熟和生育能力。我们确定了下丘脑小胶质细胞通过核因子 κB (Rank) 信号传导的受体激活剂控制 HPG 轴的作用。全身和小胶质细胞 Rank（小鼠）耗竭导致促性腺激素释放激素（GnRH）神经元功能改变而导致性腺功能减退（HH）。此外，我们还在 HH 患者中发现了 RANK（人类）的罕见基因变异。 Rank 丢失后的转录分析显示，中位隆起的小胶质细胞激活有缺陷，形态发生改变，减少了 GnRH 末端投射的接触和吞噬，并损害了 GnRH 神经元对 Kisspeptin 的反应。总体而言，我们的数据揭示了小胶质细胞通过 Rank 信号传导调节 GnRH 神经元功能，对生殖成熟和生育力具有潜在影响。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/41818388/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>下丘脑-垂体-性腺轴 (HPG) 控制青春期发育、性成熟和生育能力。我们确定了下丘脑小胶质细胞通过核因子 κB (Rank) 信号传导的受体激活剂控制 HPG 轴的作用。全身和小胶质细胞 Rank（小鼠）耗竭导致促性腺激素释放激素（GnRH）神经元功能改变而导致性腺功能减退（HH）。此外，我们还在 HH 患者中发现了 RANK（人类）的罕见基因变异。 Rank 丢失后的转录分析显示，中位隆起的小胶质细胞激活有缺陷，形态发生改变，减少了 GnRH 末端投射的接触和吞噬，并损害了 GnRH 神经元对 Kisspeptin 的反应。总体而言，我们的数据揭示了小胶质细胞通过 Rank 信号传导调节 GnRH 神经元功能，对生殖成熟和生育力具有潜在影响。</p></details>
         <details><summary>英文摘要</summary><p>The hypothalamic-pituitary-gonadal axis (HPG) controls pubertal development, sexual maturation, and fertility. We identified a role of hypothalamic microglia in controlling the HPG axis through receptor activator of nuclear factor κB (Rank) signaling. Whole-body and microglia Rank (mouse) depletion led to hypogonadotropic hypogonadism (HH) resulting from an alteration in gonadotropin-releasing hormone (GnRH) neuron function. In addition, we identified rare gene variants of RANK (human) in patients with HH. Transcriptional profiling upon Rank loss revealed defective microglia activation and morphological alterations in the median eminence, decreasing the contacts and engulfment of GnRH terminal projections and impairing GnRH neuronal responses to kisspeptin. Overall, our data uncover the microglia as regulator of GnRH neuronal function through Rank signaling, with potential implications for reproductive maturation and fertility.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。下丘脑-垂体-性腺轴 (HPG) 控制青春期发育、性成熟和生育能力。我们确定了下丘脑小胶质细胞通过核因子 κB (Rank) 信号传导的受体激活剂控制 HPG 轴的作用。全身和小胶质细胞 Rank（小鼠）耗竭导致促性腺激素释放激素（GnRH）神经元功能改变而导致性腺功能减退（HH）。此外，我们还在 HH 患者中发现了 RANK（人类）的罕见基因变异。 Rank 丢失后的转录分析显示，中位隆起的小胶质细胞激活有缺陷，形态发生改变，减少了 GnRH 末端投射的接触和吞噬，并损害了 GnRH 神经元对 Kisspeptin 的反应。总体而言，我们的数据揭示了小胶质细胞通过 Rank 信号传导调节 GnRH 神经元功能，对生殖成熟和生育力具有潜在影响。</p></section>
-        <section><h3>临床/科研意义</h3><p>对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】小胶质细胞 Rank 信号传导调节 GnRH 神经元功能和下丘脑-垂体-性腺轴。
-
-英文题目：Microglia Rank signaling regulates GnRH neuronal function and the hypothalamic-pituitary-gonadal axis.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：下丘脑-垂体-性腺轴 (HPG) 控制青春期发育、性成熟和生育能力。我们确定了下丘脑小胶质细胞通过核因子 κB (Rank) 信号传导的受体激活剂控制 HPG 轴的作用。全身和小胶质细胞 Rank（小鼠）耗竭导致促性腺激素释放激素（GnRH）神经元功能改变而导致性腺功能减退（HH）。此外，我们还在 HH 患者中发现了 RANK（人类）的罕见基因变异。 Rank 丢失后的转录分析显示，中位隆起的小胶质细胞激活有缺陷，形态发生改变，减少了 GnRH 末端投射的接触和吞噬，并损害了 GnRH 神经元对 Kisspeptin 的反应。总体而言，我们的数据揭示了小胶质细胞通过 Rank 信号传导调节 GnRH 神经元功能，对生殖成熟和生育力具有潜在影响。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Science (New York, N.Y.)｜IF 45.8｜JCR Q1 / CAS 1区｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/41818388/</pre></details>
       </article>
 
       <article class="card">
@@ -446,24 +250,9 @@
         <p class="title-en">Spatial proteomic analysis in human Alzheimer&#x27;s disease brains enables identification of microenvironment-dependent microglial cell states.</p>
         <p class="journal">Nature neuroscience｜2026-05-18</p>
         <p class="ids">PMID: 42151483 ｜ DOI: 10.1038/s41593-026-02267-3</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42151483/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>与疾病相关的小胶质细胞状态被认为有助于阿尔茨海默病（AD）的进展，但描述它们的特征及其与病理学的关系仍然具有挑战性。在这里，我们介绍 CODEX-CNS - 一种多重蛋白质成像技术，具有用于人脑样本的定制数据分析管道。我们对 8 名 AD 患者和 8 名健康对照者的额叶皮层样本中的 704,706 个细胞进行了分析，并绘制了同一组织切片内的血脑屏障、脑膜成分和细胞间相互作用等特征。在我们鉴定的骨髓细胞群中，我们发现了与衰老相关的边界相关巨噬细胞样小胶质细胞亚群。根据空间邻域对骨髓细胞亚群进行进一步分类，我们发现了一种边界相关的巨噬细胞样小胶质细胞亚群，该亚群与致密的β-淀粉样蛋白斑块显着相关，我们将其称为人类斑块相关小胶质细胞。这项工作提供了对 AD 中骨髓细胞异质性的见解，并提供了一种在单细胞蛋白质水平上表征脑细胞的新空间方法。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42151483/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>与疾病相关的小胶质细胞状态被认为有助于阿尔茨海默病（AD）的进展，但描述它们的特征及其与病理学的关系仍然具有挑战性。在这里，我们介绍 CODEX-CNS - 一种多重蛋白质成像技术，具有用于人脑样本的定制数据分析管道。我们对 8 名 AD 患者和 8 名健康对照者的额叶皮层样本中的 704,706 个细胞进行了分析，并绘制了同一组织切片内的血脑屏障、脑膜成分和细胞间相互作用等特征。在我们鉴定的骨髓细胞群中，我们发现了与衰老相关的边界相关巨噬细胞样小胶质细胞亚群。根据空间邻域对骨髓细胞亚群进行进一步分类，我们发现了一种边界相关的巨噬细胞样小胶质细胞亚群，该亚群与致密的β-淀粉样蛋白斑块显着相关，我们将其称为人类斑块相关小胶质细胞。这项工作提供了对 AD 中骨髓细胞异质性的见解，并提供了一种在单细胞蛋白质水平上表征脑细胞的新空间方法。</p></details>
         <details><summary>英文摘要</summary><p>Disease-associated microglial states are thought to contribute to Alzheimer&#x27;s disease (AD) progression, but characterizing them and their relationships to pathology remains challenging. Here we introduce CODEX-CNS-a multiplexed protein imaging technology with a custom data analysis pipeline for use in human brain samples. We profiled 704,706 cells in samples from the frontal cortex of 8 people with AD and 8 healthy controls and mapped features including blood-brain barrier, meningeal components and cell-cell interactions within the same tissue sections. Amongst the myeloid cell populations we identified, we found a border-associated macrophage-like microglial subset associated with aging. Further classifying myeloid cell subsets based on their spatial neighborhood, we identified a border-associated macrophage-like microglial subpopulation that was associated significantly with dense amyloid-β plaques, which we termed human plaque-associated microglia. This work offers insights into myeloid cell heterogeneity in AD and provides a new spatial approach to characterizing brain cells at the single-cell protein level.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。与疾病相关的小胶质细胞状态被认为有助于阿尔茨海默病（AD）的进展，但描述它们的特征及其与病理学的关系仍然具有挑战性。在这里，我们介绍 CODEX-CNS - 一种多重蛋白质成像技术，具有用于人脑样本的定制数据分析管道。我们对 8 名 AD 患者和 8 名健康对照者的额叶皮层样本中的 704,706 个细胞进行了分析，并绘制了同一组织切片内的血脑屏障、脑膜成分和细胞间相互作用等特征。在我们鉴定的骨髓细胞群中，我们发现了与衰老相关的边界相关巨噬细胞样小胶质细胞亚群。根据空间邻域对骨髓细胞亚群进行进一步分类，我们发现了一种边界相关的巨噬细胞样小胶质细胞亚群，该亚群与致密的β-淀粉样蛋白斑块显着相关，我们将其称为人类斑块相关小胶质细胞。这项工作提供了对 AD 中骨髓细胞异质性的见解，并提供了一种在单细胞蛋白质水平上表征脑细胞的新空间方法。</p></section>
-        <section><h3>临床/科研意义</h3><p>对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】人类阿尔茨海默病大脑中的空间蛋白质组分析能够识别微环境依赖性小胶质细胞状态。
-
-英文题目：Spatial proteomic analysis in human Alzheimer&#x27;s disease brains enables identification of microenvironment-dependent microglial cell states.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：与疾病相关的小胶质细胞状态被认为有助于阿尔茨海默病（AD）的进展，但描述它们的特征及其与病理学的关系仍然具有挑战性。在这里，我们介绍 CODEX-CNS - 一种多重蛋白质成像技术，具有用于人脑样本的定制数据分析管道。我们对 8 名 AD 患者和 8 名健康对照者的额叶皮层样本中的 704,706 个细胞进行了分析，并绘制了同一组织切片内的血脑屏障、脑膜成分和细胞间相互作用等特征。在我们鉴定的骨髓细胞群中，我们发现了与衰老相关的边界相关巨噬细胞样小胶质细胞亚群。根据空间邻域对骨髓细胞亚群进行进一步分类，我们发现了一种边界相关的巨噬细胞样小胶质细胞亚群，该亚群与致密的β-淀粉样蛋白斑块显着相关，我们将其称为人类斑块相关小胶质细胞。这项工作提供了对 AD 中骨髓细胞异质性的见解，并提供了一种在单细胞蛋白质水平上表征脑细胞的新空间方法。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Nature neuroscience｜IF 20.0｜JCR Q1 / CAS 1区｜2026-05-18｜https://pubmed.ncbi.nlm.nih.gov/42151483/</pre></details>
       </article>
 
       <article class="card">
@@ -472,24 +261,9 @@
         <p class="title-en">Scientists play catch-up to startling Ebola outbreak.</p>
         <p class="journal">Science (New York, N.Y.)｜2026-05-21</p>
         <p class="ids">PMID: 42166572 ｜ DOI: 10.1126/science.aej0202</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42166572/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>随着本迪布焦病毒的传播，测试、测序和临床试验工作迅速启动。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42166572/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>随着本迪布焦病毒的传播，测试、测序和临床试验工作迅速启动。</p></details>
         <details><summary>英文摘要</summary><p>Testing, sequencing, and clinical trial efforts spring to life as Bundibugyo virus spreads.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。随着本迪布焦病毒的传播，测试、测序和临床试验工作迅速启动。</p></section>
-        <section><h3>临床/科研意义</h3><p>对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】科学家们正在追赶令人震惊的埃博拉疫情。
-
-英文题目：Scientists play catch-up to startling Ebola outbreak.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：随着本迪布焦病毒的传播，测试、测序和临床试验工作迅速启动。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Science (New York, N.Y.)｜IF 45.8｜JCR Q1 / CAS 1区｜2026-05-21｜https://pubmed.ncbi.nlm.nih.gov/42166572/</pre></details>
       </article>
 
       <article class="card">
@@ -498,24 +272,9 @@
         <p class="title-en">A plasma protein signature for cerebral amyloid angiopathy.</p>
         <p class="journal">Acta neuropathologica｜2026-05-20</p>
         <p class="ids">PMID: 42162487 ｜ DOI: 10.1007/s00401-026-03030-5</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42162487/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>脑淀粉样血管病 (CAA) 是一种脑血管疾病，其特征是淀粉样蛋白-β (Aβ) 在软脑膜和皮质血管壁沉积，增加脑出血和进行性认知能力下降的风险。超过 90% 的阿尔茨海默病 (AD) 患者表现出一定程度的 CAA。值得注意的是，在 AD 疾病缓解治疗的新时代，CAA 是淀粉样蛋白相关影像异常 (ARIA) 的一个重要危险因素，ARIA 是一种与抗淀粉样蛋白治疗相关的不良事件。因此，非常需要可获取、可靠和准确的体内生物标志物（例如基于血液的生物标志物）来改善 CAA 的生前识别，从而改善风险分层并减少症状性 ARIA。在这项研究中，我们采用核酸联免疫三明治检测 (NULISA™) 中枢神经系统面板对来自班纳太阳健康研究所大脑和身体捐赠计划 (N = 251) 的 CAA 神经病理学评估参与者的死前血浆进行探索性生物标志物定量，并在加州大学欧文阿尔茨海默病研究中心队列 (N = 110) 中进行独立验证。我们使用逻辑回归模型评估了死亡后 5 年以内（平均 1.76 ± 1.3）采集的生前血浆样本中的差异蛋白表达。我们进一步比较了多生物标志物模型，发现 CRP、IL4、CCL11、NPY 和 PDLIM5 以及人口统计协变量的组合显示曲线下面积 (AUC) 为 0.90 (95% CI 0.86-0.94)，可在发现队列中识别神经病理学证实的 CAA。在我们的独立复制中，死前血浆特征比基本人口统计模型表现更好，显示出预测 CAA 的潜力。对死前血浆的探索和验证表明，多分析物组合与 AD 病理学的体内血液生物标志物相结合，可能能够识别 CAA 的存在，并可能对接受认知衰退调查的患者的临床评估产生有意义的影响。这种情况的生物标志物的进一步发展至关重要，以便 CAA 识别……</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42162487/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>脑淀粉样血管病 (CAA) 是一种脑血管疾病，其特征是淀粉样蛋白-β (Aβ) 在软脑膜和皮质血管壁沉积，增加脑出血和进行性认知能力下降的风险。超过 90% 的阿尔茨海默病 (AD) 患者表现出一定程度的 CAA。值得注意的是，在 AD 疾病缓解治疗的新时代，CAA 是淀粉样蛋白相关影像异常 (ARIA) 的一个重要危险因素，ARIA 是一种与抗淀粉样蛋白治疗相关的不良事件。因此，非常需要可获取、可靠和准确的体内生物标志物（例如基于血液的生物标志物）来改善 CAA 的生前识别，从而改善风险分层并减少症状性 ARIA。在这项研究中，我们采用核酸联免疫三明治检测 (NULISA™) 中枢神经系统面板对来自班纳太阳健康研究所大脑和身体捐赠计划 (N = 251) 的 CAA 神经病理学评估参与者的死前血浆进行探索性生物标志物定量，并在加州大学欧文阿尔茨海默病研究中心队列 (N = 110) 中进行独立验证。我们使用逻辑回归模型评估了死亡后 5 年以内（平均 1.76 ± 1.3）采集的生前血浆样本中的差异蛋白表达。我们进一步比较了多生物标志物模型，发现 CRP、IL4、CCL11、NPY 和 PDLIM5 以及人口统计协变量的组合显示曲线下面积 (AUC) 为 0.90 (95% CI 0.86-0.94)，可在发现队列中识别神经病理学证实的 CAA。在我们的独立复制中，死前血浆特征比基本人口统计模型表现更好，显示出预测 CAA 的潜力。对死前血浆的探索和验证表明，多分析物组合与 AD 病理学的体内血液生物标志物相结合，可能能够识别 CAA 的存在，并可能对接受认知衰退调查的患者的临床评估产生有意义的影响。这种情况的生物标志物的进一步发展至关重要，以便 CAA 识别……</p></details>
         <details><summary>英文摘要</summary><p>Cerebral amyloid angiopathy (CAA) is a cerebrovascular disorder characterized by the deposition of amyloid-β (Aβ) in the walls of leptomeningeal and cortical blood vessels that increases risk of intracerebral hemorrhages and progressive cognitive decline. More than 90% of individuals with Alzheimer&#x27;s disease (AD) exhibit some level of CAA. Notably, in the new era of disease-modifying treatments for AD, CAA is a significant risk factor for amyloid-related imaging abnormalities (ARIA), an adverse event associated with anti-amyloid treatments. Therefore, there is great need for accessible, reliable and accurate in vivo biomarkers (e.g., blood-based) to improve antemortem identification of CAA that would improve risk stratification and reduce symptomatic ARIA. In this study, we employed the Nucleic Acid-Linked Immuno-Sandwich Assay (NULISA™) central nervous system panel for exploratory biomarker quantification in antemortem plasma of participants with neuropathological assessments for CAA from the Banner Sun Health Research Institute Brain and Body Donation Program (N = 251) and independently validated in the University of California Irvine Alzheimer Disease Research Center cohort (N = 110). We evaluated the differential protein expression in antemortem plasma sample taken &lt; 5 years (mean 1.76 ± 1.3) from death using a logistic regression model. We further compared multi-biomarker models and found that a combination of CRP, IL4, CCL11, NPY and PDLIM5, plus demographic covariates showed an area under the curve (AUC) of 0.90 (95% CI 0.86-0.94) to identify neuropathologically confirmed CAA in the discovery cohort. In our independent replication, the antemortem plasma signature performed better than the basic demographics model showing a potential to predict CAA. The exploration and validation in antemortem plasma indicate that a multi-analyte panel, when combined with in vivo blood biomarkers for AD pathology, may be capable of identifying the presence of CAA and could have an meaningful impact on the clinical evaluation of patients under the investigation for cognitive decline. Further developments in biomarkers for this condition are crucial so that CAA identification could inform treatment decisions by highlighting ARIA risk.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。脑淀粉样血管病 (CAA) 是一种脑血管疾病，其特征是淀粉样蛋白-β (Aβ) 在软脑膜和皮质血管壁沉积，增加脑出血和进行性认知能力下降的风险。超过 90% 的阿尔茨海默病 (AD) 患者表现出一定程度的 CAA。值得注意的是，在 AD 疾病缓解治疗的新时代，CAA 是淀粉样蛋白相关影像异常 (ARIA) 的一个重要危险因素，ARIA 是一种与抗淀粉样蛋白治疗相关的不良事件。因此，非常需要可获取、可靠和准确的体内生物标志物（例如基于血液的生物标志物）来改善 CAA 的生前识别，从而改善风险分层并减少症状性 ARIA。在这项研究中，我们采用核酸联免疫三明治检测 (NULISA™) 中枢神经系统面板对来自班纳太阳健康研究所大脑和身体捐赠计划 (N = 251) 的 CAA 神经病理学评估参与者的死前血浆进行探索性生物标志物定量，并在加州大学欧文阿尔茨海默病研究中心队列 (N = 110) 中进行独立验证。我们使用逻辑回归模型评估了死</p></section>
-        <section><h3>临床/科研意义</h3><p>对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】脑淀粉样血管病的血浆蛋白特征。
-
-英文题目：A plasma protein signature for cerebral amyloid angiopathy.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：脑淀粉样血管病 (CAA) 是一种脑血管疾病，其特征是淀粉样蛋白-β (Aβ) 在软脑膜和皮质血管壁沉积，增加脑出血和进行性认知能力下降的风险。超过 90% 的阿尔茨海默病 (AD) 患者表现出一定程度的 CAA。值得注意的是，在 AD 疾病缓解治疗的新时代，CAA 是淀粉样蛋白相关影像异常 (ARIA) 的一个重要危险因素，ARIA 是一种与抗淀粉样蛋白治疗相关的不良事件。因此，非常需要可获取、可靠和准确的体内生物标志物（例如基于血液的生物标志物）来改善 CAA 的生前识别，从而改善风险分层并减少症状性 ARIA。在这项研究中，我们采用核酸联免疫三明治检测 (NULISA™) 中枢神经系统面板对来自班纳太阳健康研究所大脑和身体捐赠计划 (N = 251) 的 CAA 神经病理学评估参与者的死前血浆进行探索性生物标志物定量，并在加州大学欧文阿尔茨海默病研究中心队列 (N = 110) 中进行独立验证。我们使用逻辑回归模型评估了死亡后 5 年以内（平均 1.76 ± 1.3）采集的生前血浆样本中的差异蛋白表达。我们进一步比较了多生物标志物模型，发现 CRP、IL4、CCL11、NPY 和 PDLIM5 以及人口统计协变量的组合显示曲线下面积 (AUC) 为 0.90 (95% CI 0.86-0.94)，可在发现队列中识别神经病理学证实的 CAA。在我们的独立复制中，死前血浆特征比基本人口统计模型表现更好，显示出预测 CAA 的潜力。对死前血浆的探索和验证表明，多分析物组合与 AD 病理学的体内血液生物标志物相结合，可能能够识别 CAA 的存在，并可能对接受认知衰退调查的患者的临床评估产生有意义的影响。这种情况的生物标志物的进一步发展至关重要，以便 CAA 识别……
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Acta neuropathologica｜IF 9.3｜JCR Q1 / CAS 1区｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/42162487/</pre></details>
       </article>
 
       <article class="card">
@@ -524,24 +283,9 @@
         <p class="title-en">Spinal neuromotor rehabilitation using a portable isokinetic training robot.</p>
         <p class="journal">Nature｜2026-05-20</p>
         <p class="ids">PMID: 42162434 ｜ DOI: 10.1038/s41586-026-10642-0</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42162434/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>大多数下肢辅助机器人被设计为主动辅助步态1-7，而不考虑长期的神经肌肉适应8-11。在这项研究中，我们提出了一种轻型（0.96 公斤）机器人，它可以进行等速阻力训练，以维持移除后的神经肌肉康复。该设备将可变刚度机构与可反向驱动的阻尼电机集成在一起，为患有脊髓性肌肉萎缩症 (SMA) II 型的青少年提供安全、便携式和可定制的阻力训练。在一项涉及 6 名青少年参与者的研究中，临床试验 (NCT06648486) 经过 6 周的机器人辅助训练后，观察到下肢运动能力显着改善。参与者能够在没有外部支撑的情况下将手放在膝盖上进行从坐到站的转换，平均坐姿膝盖弯曲角度为 111° 至 104°，比干预前提高了 7°。这种改善伴随着双侧膝关节功能的显着增强（峰值扭矩：+130%；运动范围：+51%；做功：+97%）。观察到显着的生理性股四头肌肥大（解剖横截面积：+12%；体积：+19%；生理横截面积：+21%），同时股神经传导增强（复合肌肉动作电位：+19%），代表与观察到的功能改善一致的生理变化。重要的是，参与者在停止等速训练并恢复常规物理治疗后能够保留其收益。这些结果表明，即使通过可穿戴机器人暂时进行等速阻力训练也可能有助于持久的神经肌肉恢复。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42162434/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>大多数下肢辅助机器人被设计为主动辅助步态1-7，而不考虑长期的神经肌肉适应8-11。在这项研究中，我们提出了一种轻型（0.96 公斤）机器人，它可以进行等速阻力训练，以维持移除后的神经肌肉康复。该设备将可变刚度机构与可反向驱动的阻尼电机集成在一起，为患有脊髓性肌肉萎缩症 (SMA) II 型的青少年提供安全、便携式和可定制的阻力训练。在一项涉及 6 名青少年参与者的研究中，临床试验 (NCT06648486) 经过 6 周的机器人辅助训练后，观察到下肢运动能力显着改善。参与者能够在没有外部支撑的情况下将手放在膝盖上进行从坐到站的转换，平均坐姿膝盖弯曲角度为 111° 至 104°，比干预前提高了 7°。这种改善伴随着双侧膝关节功能的显着增强（峰值扭矩：+130%；运动范围：+51%；做功：+97%）。观察到显着的生理性股四头肌肥大（解剖横截面积：+12%；体积：+19%；生理横截面积：+21%），同时股神经传导增强（复合肌肉动作电位：+19%），代表与观察到的功能改善一致的生理变化。重要的是，参与者在停止等速训练并恢复常规物理治疗后能够保留其收益。这些结果表明，即使通过可穿戴机器人暂时进行等速阻力训练也可能有助于持久的神经肌肉恢复。</p></details>
         <details><summary>英文摘要</summary><p>Most lower-extremity assistive robots are designed to actively assist gait1-7 without considering long-term neuromuscular adaptations8-11. In this study, we present a lightweight (0.96 kg) robot that administers isokinetic resistance training to sustain neuromuscular rehabilitation after removal. The device integrates a variable stiffness mechanism with a back-drivable damping motor to make available safe, portable, and customizable resistance training to juveniles with Spinal Muscular Atrophy (SMA) type II. In a study involving 6 such juvenile participants, significant improvements in lower-extremity motor ability were observed after 6 weeks of robot-assisted training in a clinical trial (NCT06648486). Participants gained the ability to perform sit-to-stand transitions with hands on knees but without external support from an average seated knee flexion angle of 111° to 104°, representing a 7° improvement from pre-intervention. This improvement was accompanied by significantly increased bilateral knee joint function (peak torque: +130%; range of motion: +51%; work: +97%). Significant physiological quadriceps muscle hypertrophy was observed (anatomical cross-sectional area: +12%; volume: +19%; physiological cross-sectional area: +21%) alongside enhanced femoral nerve conduction (compound muscle action potential: +19%), representing physiological changes consistent with the observed functional improvements. Importantly, participants were able to retain their gains after discontinuing isokinetic training and returning to their conventional physiotherapy routines. These results suggest that even temporary exposure to isokinetic resistance training through wearable robotics may facilitate enduring neuromuscular recovery.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“顶刊神经科学”，聚焦顶刊神经科学。主要信息来自题名、期刊/来源和摘要。大多数下肢辅助机器人被设计为主动辅助步态1-7，而不考虑长期的神经肌肉适应8-11。在这项研究中，我们提出了一种轻型（0.96 公斤）机器人，它可以进行等速阻力训练，以维持移除后的神经肌肉康复。该设备将可变刚度机构与可反向驱动的阻尼电机集成在一起，为患有脊髓性肌肉萎缩症 (SMA) II 型的青少年提供安全、便携式和可定制的阻力训练。在一项涉及 6 名青少年参与者的研究中，临床试验 (NCT06648486) 经过 6 周的机器人辅助训练后，观察到下肢运动能力显着改善。参与者能够在没有外部支撑的情况下将手放在膝盖上进行从坐到站的转换，平均坐姿膝盖弯曲角度为 111° 至 104°，比干预前提高了 7°。这种改善伴随着双侧膝关节功能的显着增强（峰值扭矩：+130%；运动范围：+51%；做功：+97%）。观察到显着的生理性股四头肌肥大（解剖横截面积：+12%；体积：+19%；生理横截面积：+21%），同时股神经传导增强（复合肌肉动作</p></section>
-        <section><h3>临床/科研意义</h3><p>对顶刊神经科学方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】使用便携式等速训练机器人进行脊髓神经运动康复。
-
-英文题目：Spinal neuromotor rehabilitation using a portable isokinetic training robot.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：大多数下肢辅助机器人被设计为主动辅助步态1-7，而不考虑长期的神经肌肉适应8-11。在这项研究中，我们提出了一种轻型（0.96 公斤）机器人，它可以进行等速阻力训练，以维持移除后的神经肌肉康复。该设备将可变刚度机构与可反向驱动的阻尼电机集成在一起，为患有脊髓性肌肉萎缩症 (SMA) II 型的青少年提供安全、便携式和可定制的阻力训练。在一项涉及 6 名青少年参与者的研究中，临床试验 (NCT06648486) 经过 6 周的机器人辅助训练后，观察到下肢运动能力显着改善。参与者能够在没有外部支撑的情况下将手放在膝盖上进行从坐到站的转换，平均坐姿膝盖弯曲角度为 111° 至 104°，比干预前提高了 7°。这种改善伴随着双侧膝关节功能的显着增强（峰值扭矩：+130%；运动范围：+51%；做功：+97%）。观察到显着的生理性股四头肌肥大（解剖横截面积：+12%；体积：+19%；生理横截面积：+21%），同时股神经传导增强（复合肌肉动作电位：+19%），代表与观察到的功能改善一致的生理变化。重要的是，参与者在停止等速训练并恢复常规物理治疗后能够保留其收益。这些结果表明，即使通过可穿戴机器人暂时进行等速阻力训练也可能有助于持久的神经肌肉恢复。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Nature｜IF 48.5｜JCR Q1 / CAS 1区｜2026-05-20｜https://pubmed.ncbi.nlm.nih.gov/42162434/</pre></details>
       </article>
 
     </section>
@@ -551,61 +295,19 @@
         <div>
           <div class="eyebrow">global_hot_topics</div>
           <h2>全球热点话题｜学术界值得关注</h2>
-          <p>捕捉空间组学、单细胞、脑机接口、AI 医学、神经退行性疾病、基因治疗等全球学术热点。</p>
         </div>
         <strong>8 条</strong>
       </div>
       
-      <article class="card">
-        <div class="meta"><span>全球学术热点</span><span>PubMed</span><span>Score 65</span><span>IF 8.9</span><span>JCR Q1 / CAS 2区</span><span>2025 CAS/JCR user table</span></div>
-        <h2>跨性别女性和顺性别个体丘脑皮质功能连接的比较：与中国队列认知的关联。</h2>
-        <p class="title-en">Comparisons of thalamocortical functional connectivity in transgender women and cisgender individuals: associations with cognition in a Chinese cohort.</p>
-        <p class="journal">Dialogues in clinical neuroscience｜2026-12-01</p>
-        <p class="ids">PMID: 42127800 ｜ DOI: 10.1080/19585969.2026.2669514</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42127800/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>简介：性别不安（GD）会因性别不一致而造成痛苦，并增加自杀风险，但其神经病理学仍不清楚。跨性别女性 (TW) 的丘脑皮质功能连接 (FC) 尚未被探索。我们研究了丘脑皮质 FC 及其在 TW 症状认知关系中的中介作用。方法：我们回顾性分析了 2021 年 10 月至 2024 年 1 月期间 44 名 TW、40 名顺性别男性 (CM) 和 42 名顺性别女性 (CW) 的静息态 fMRI。评估临床症状 (GIDYQ-AA) 和认知 (MCCB)。进行了基于种子的丘脑亚区 FC 和中介分析。结果：相对于 CW，TW 和 CM 在多个丘脑-前额叶回路中表现出 FC 增加。与 CM 相比，TW 显示左侧 mPFtha-左侧 DLPFC FC (p = 0.026) 和右侧 rTtha-左侧 DLPFC FC (p = 0.025) 减少。与 CM 相比，TW 和 CW 中右侧 PPtha-右侧 MOG FC（p = 0.023；p &lt; 0.001）和右侧 cTtha-右侧 SOG FC（p = 0.008；p &lt; 0.001）增加。在 TW 中，左侧 rTtha-双侧 MPFC FC 与 GIDYQ-AA 评分、注意力/警觉性和综合评分相关。该 FC 完全介导了 GD 症状与注意力/警惕性（自举 95% CI = 1.861-11.688）和综合（自举 95% CI = 1.025-12.283）之间的关系。结论：TW 表现出丘脑皮质 FC 异常和认知功能障碍。重要的是，丘脑-MPFC 连接断开介导 GD 症状相关的认知功能障碍，揭示了一种新的神经通路。需要在更大、多样化的样本中进行验证。</p></section>
-        <details><summary>英文摘要</summary><p>INTRODUCTION: Gender dysphoria (GD) causes distress from gender-sex incongruence with elevated suicide risk, yet its neuropathology remains unclear. The thalamic-cortical functional connectivity (FC) in transgender women (TW) is unexplored. We investigated thalamo-cortical FC and its mediating role in TW&#x27;s symptom-cognition relationships. METHODS: We retrospectively analysed resting-state fMRI from 44 TW, 40 cisgender men (CM), and 42 cisgender women (CW), between October 2021 and January 2024. Clinical symptoms (GIDYQ-AA) and cognition (MCCB) were assessed. Seed-based thalamic subregion FC and mediation analyses were performed. RESULTS: Relative to CW, TW and CM exhibited increased FC in multiple thalamo-prefrontal circuits. Compared to CM, TW showed decreased left mPFtha-left DLPFC FC (p = 0.026), and right rTtha-left DLPFC FC (p = 0.025). Compared to CM, right PPtha-right MOG FC (p = 0.023; p &lt; 0.001), and right cTtha-right SOG FC (p = 0.008; p &lt; 0.001) were increased in TW and CW. In TW, left rTtha-bilateral MPFC FC correlated with GIDYQ-AA scores, attention/vigilance, and composite. This FC fully mediated relationships between GD symptoms and both attention/vigilance (bootstrapped 95% CI = 1.861-11.688) and composite (bootstrapped 95% CI = 1.025-12.283). CONCLUSIONS: TW exhibit thalamo-cortical FC abnormalities and cognitive dysfunction. Critically, thalamus-MPFC dysconnectivity mediates GD symptom-related cognitive dysfunction, revealing a novel neural pathway. Validation in larger, diverse samples is needed.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。简介：性别不安（GD）会因性别不一致而造成痛苦，并增加自杀风险，但其神经病理学仍不清楚。跨性别女性 (TW) 的丘脑皮质功能连接 (FC) 尚未被探索。我们研究了丘脑皮质 FC 及其在 TW 症状认知关系中的中介作用。方法：我们回顾性分析了 2021 年 10 月至 2024 年 1 月期间 44 名 TW、40 名顺性别男性 (CM) 和 42 名顺性别女性 (CW) 的静息态 fMRI。评估临床症状 (GIDYQ-AA) 和认知 (MCCB)。进行了基于种子的丘脑亚区 FC 和中介分析。结果：相对于 CW，TW 和 CM 在多个丘脑-前额叶回路中表现出 FC 增加。与 CM 相比，TW 显示左侧 mPFtha-左侧 DLPFC FC (p = 0.026) 和右侧 rTtha-左侧 DLPFC FC (p = 0.025) 减少。与 CM 相比，TW 和 CW 中右侧 PPtha-右侧 MOG FC（p = 0.023；p </p></section>
-        <section><h3>临床/科研意义</h3><p>对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】跨性别女性和顺性别个体丘脑皮质功能连接的比较：与中国队列认知的关联。
-
-英文题目：Comparisons of thalamocortical functional connectivity in transgender women and cisgender individuals: associations with cognition in a Chinese cohort.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：简介：性别不安（GD）会因性别不一致而造成痛苦，并增加自杀风险，但其神经病理学仍不清楚。跨性别女性 (TW) 的丘脑皮质功能连接 (FC) 尚未被探索。我们研究了丘脑皮质 FC 及其在 TW 症状认知关系中的中介作用。方法：我们回顾性分析了 2021 年 10 月至 2024 年 1 月期间 44 名 TW、40 名顺性别男性 (CM) 和 42 名顺性别女性 (CW) 的静息态 fMRI。评估临床症状 (GIDYQ-AA) 和认知 (MCCB)。进行了基于种子的丘脑亚区 FC 和中介分析。结果：相对于 CW，TW 和 CM 在多个丘脑-前额叶回路中表现出 FC 增加。与 CM 相比，TW 显示左侧 mPFtha-左侧 DLPFC FC (p = 0.026) 和右侧 rTtha-左侧 DLPFC FC (p = 0.025) 减少。与 CM 相比，TW 和 CW 中右侧 PPtha-右侧 MOG FC（p = 0.023；p &lt; 0.001）和右侧 cTtha-右侧 SOG FC（p = 0.008；p &lt; 0.001）增加。在 TW 中，左侧 rTtha-双侧 MPFC FC 与 GIDYQ-AA 评分、注意力/警觉性和综合评分相关。该 FC 完全介导了 GD 症状与注意力/警惕性（自举 95% CI = 1.861-11.688）和综合（自举 95% CI = 1.025-12.283）之间的关系。结论：TW 表现出丘脑皮质 FC 异常和认知功能障碍。重要的是，丘脑-MPFC 连接断开介导 GD 症状相关的认知功能障碍，揭示了一种新的神经通路。需要在更大、多样化的样本中进行验证。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Dialogues in clinical neuroscience｜IF 8.9｜JCR Q1 / CAS 2区｜2026-12-01｜https://pubmed.ncbi.nlm.nih.gov/42127800/</pre></details>
-      </article>
-
       <article class="card">
         <div class="meta"><span>全球学术热点</span><span>PubMed</span><span>Score 57</span><span>IF 3.4</span><span>JCR Q3 / CAS 3区</span><span>2025 CAS/JCR user table</span></div>
         <h2>肿瘤发生中的环状 RNA：深入了解生物发生和靶向肿瘤治疗的最新研究。</h2>
         <p class="title-en">Circular RNAs in tumorigenesis: an insight into recent research in biogenesis and targeted tumor therapy.</p>
         <p class="journal">Cell cycle (Georgetown, Tex.)｜2026-12-01</p>
         <p class="ids">PMID: 42148803 ｜ DOI: 10.1080/15384101.2026.2630878</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42148803/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>环状RNA（circRNA）是共价闭合的真核RNA分子，具有高稳定性、组织特异性表达和细胞特异性表达的特点。大多数 circRNA 是由前 mRNA 产生的，这些前 mRNA 也会产生线性 RNA，并且它们的表达模式与其宿主 mRNA 相似。尽管 circRNA 含量丰富，但其表达水平通常低于 mRNA。根据越来越多的数据，这些分子在癌症中通常失调，并在肿瘤的发生和进展过程中发挥重要作用。癌症特有的失调的 circRNA 可用作癌症诊断和预后的生物标志物，因为来自癌症组织的某些 circRNA 已被证明可以通过血流并持续存在于血清中。研究发现，circRNA不仅影响肿瘤免疫，在肿瘤指标、肿瘤发展和预后中发挥重要作用，而且在多种肿瘤中也可能表达异常。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42148803/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>环状RNA（circRNA）是共价闭合的真核RNA分子，具有高稳定性、组织特异性表达和细胞特异性表达的特点。大多数 circRNA 是由前 mRNA 产生的，这些前 mRNA 也会产生线性 RNA，并且它们的表达模式与其宿主 mRNA 相似。尽管 circRNA 含量丰富，但其表达水平通常低于 mRNA。根据越来越多的数据，这些分子在癌症中通常失调，并在肿瘤的发生和进展过程中发挥重要作用。癌症特有的失调的 circRNA 可用作癌症诊断和预后的生物标志物，因为来自癌症组织的某些 circRNA 已被证明可以通过血流并持续存在于血清中。研究发现，circRNA不仅影响肿瘤免疫，在肿瘤指标、肿瘤发展和预后中发挥重要作用，而且在多种肿瘤中也可能表达异常。</p></details>
         <details><summary>英文摘要</summary><p>Circular RNAs (circRNAs) are eukaryotic RNA molecules that are covalently closed and have the characteristics of high stability, tissue-specific expression, and cell-specific expression. The majority of circRNAs are produced from pre-mRNAs that also result in linear RNA, and they have expression patterns that are similar to those of their host mRNAs. Despite their abundance, circRNAs are typically expressed at lower levels than mRNAs. These molecules are often dysregulated in Cancer and play important roles during the beginning and progression of tumors, according to mounting data. Dysregulated circRNAs unique to Cancer may be used as biomarkers for cancer diagnosis and prognosis since certain circRNAs from cancer tissues have been shown to go through the bloodstream and be persistently present in sera. It has been discovered that circRNAs not only influence tumor immunity and play a major role in tumor indicators, tumor development, and prognosis, but they may also be expressed improperly in various tumors.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。环状RNA（circRNA）是共价闭合的真核RNA分子，具有高稳定性、组织特异性表达和细胞特异性表达的特点。大多数 circRNA 是由前 mRNA 产生的，这些前 mRNA 也会产生线性 RNA，并且它们的表达模式与其宿主 mRNA 相似。尽管 circRNA 含量丰富，但其表达水平通常低于 mRNA。根据越来越多的数据，这些分子在癌症中通常失调，并在肿瘤的发生和进展过程中发挥重要作用。癌症特有的失调的 circRNA 可用作癌症诊断和预后的生物标志物，因为来自癌症组织的某些 circRNA 已被证明可以通过血流并持续存在于血清中。研究发现，circRNA不仅影响肿瘤免疫，在肿瘤指标、肿瘤发展和预后中发挥重要作用，而且在多种肿瘤中也可能表达异常。</p></section>
-        <section><h3>临床/科研意义</h3><p>对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】肿瘤发生中的环状 RNA：深入了解生物发生和靶向肿瘤治疗的最新研究。
-
-英文题目：Circular RNAs in tumorigenesis: an insight into recent research in biogenesis and targeted tumor therapy.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：环状RNA（circRNA）是共价闭合的真核RNA分子，具有高稳定性、组织特异性表达和细胞特异性表达的特点。大多数 circRNA 是由前 mRNA 产生的，这些前 mRNA 也会产生线性 RNA，并且它们的表达模式与其宿主 mRNA 相似。尽管 circRNA 含量丰富，但其表达水平通常低于 mRNA。根据越来越多的数据，这些分子在癌症中通常失调，并在肿瘤的发生和进展过程中发挥重要作用。癌症特有的失调的 circRNA 可用作癌症诊断和预后的生物标志物，因为来自癌症组织的某些 circRNA 已被证明可以通过血流并持续存在于血清中。研究发现，circRNA不仅影响肿瘤免疫，在肿瘤指标、肿瘤发展和预后中发挥重要作用，而且在多种肿瘤中也可能表达异常。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Cell cycle (Georgetown, Tex.)｜IF 3.4｜JCR Q3 / CAS 3区｜2026-12-01｜https://pubmed.ncbi.nlm.nih.gov/42148803/</pre></details>
       </article>
 
       <article class="card">
@@ -614,24 +316,20 @@
         <p class="title-en">miR‑223‑3p promotes microglial lactylation and M1 polarization via the FBXW7/Notch1/Hes1/SIRT1 axis.</p>
         <p class="journal">International journal of molecular medicine｜2026-07-01</p>
         <p class="ids">PMID: 42138198 ｜ DOI: 10.3892/ijmm.2026.5849</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42138198/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>神经炎症是阿尔茨海默病 (AD) 的一个标志，与小胶质细胞 M1 极化密切相关。在本研究中，miR-223-3p 被确定为小胶质细胞代谢重编程的关键调节因子。对 Gene Expression Omnibus 和 AD Neuroimaging Initiative 数据集的分析显示，AD 患者的大脑、血液和脑脊液中 miR-223-3p 显着上调。 miR-223-3p 的过度表达促进 M1 极化并增加活性氧 (ROS) 水平。转录组学、代谢组学和 Seahorse 分析显示糖酵解、乳酸产生和乳酰化增加，而抑制乳酰化会减少 M1 极化和 ROS 积累。从机制上讲，miR-223-3p 抑制 SIRT1 表达并直接靶向 FBXW7，导致 Notch1/Hes1 通路激活并进一步抑制 SIRT1。总之，这些发现表明 miR-223-3p 通过 FBXW7/Notch1/Hes1/SIRT1 信号轴驱动小胶质细胞乳酰化介导的 M1 极化。本研究提供了关于乳酰化在神经炎症中的作用的新见解，并强调 miR-223-3p 作为 AD 的潜在治疗靶点。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42138198/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>神经炎症是阿尔茨海默病 (AD) 的一个标志，与小胶质细胞 M1 极化密切相关。在本研究中，miR-223-3p 被确定为小胶质细胞代谢重编程的关键调节因子。对 Gene Expression Omnibus 和 AD Neuroimaging Initiative 数据集的分析显示，AD 患者的大脑、血液和脑脊液中 miR-223-3p 显着上调。 miR-223-3p 的过度表达促进 M1 极化并增加活性氧 (ROS) 水平。转录组学、代谢组学和 Seahorse 分析显示糖酵解、乳酸产生和乳酰化增加，而抑制乳酰化会减少 M1 极化和 ROS 积累。从机制上讲，miR-223-3p 抑制 SIRT1 表达并直接靶向 FBXW7，导致 Notch1/Hes1 通路激活并进一步抑制 SIRT1。总之，这些发现表明 miR-223-3p 通过 FBXW7/Notch1/Hes1/SIRT1 信号轴驱动小胶质细胞乳酰化介导的 M1 极化。本研究提供了关于乳酰化在神经炎症中的作用的新见解，并强调 miR-223-3p 作为 AD 的潜在治疗靶点。</p></details>
         <details><summary>英文摘要</summary><p>Neuroinflammation is a hallmark of Alzheimer&#x27;s disease (AD) and is closely linked to microglial M1 polarization. In the present study, miR‑223‑3p was identified as a critical regulator of microglial metabolic reprogramming. Analyses of Gene Expression Omnibus and AD Neuroimaging Initiative datasets revealed significant upregulation of miR‑223‑3p in the brain, blood, and cerebrospinal fluid of patients with AD. The overexpression of miR‑223‑3p promoted M1 polarization and increased reactive oxygen species (ROS) levels. Transcriptomic, metabolomic and Seahorse analyses revealed increased glycolysis, lactate production and lactylation, whereas inhibition of lactylation reduced M1 polarization and ROS accumulation. Mechanistically, miR‑223‑3p suppressed SIRT1 expression and directly targeted FBXW7, leading to activation of the Notch1/Hes1 pathway and further suppression of SIRT1. In summary, these findings demonstrate that miR‑223‑3p drives microglial lactylation‑mediated M1 polarization through the FBXW7/Notch1/Hes1/SIRT1 signaling axis. The present study provides new insight into the role of lactylation in neuroinflammation and highlights miR‑223‑3p as a potential therapeutic target for AD.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。神经炎症是阿尔茨海默病 (AD) 的一个标志，与小胶质细胞 M1 极化密切相关。在本研究中，miR-223-3p 被确定为小胶质细胞代谢重编程的关键调节因子。对 Gene Expression Omnibus 和 AD Neuroimaging Initiative 数据集的分析显示，AD 患者的大脑、血液和脑脊液中 miR-223-3p 显着上调。 miR-223-3p 的过度表达促进 M1 极化并增加活性氧 (ROS) 水平。转录组学、代谢组学和 Seahorse 分析显示糖酵解、乳酸产生和乳酰化增加，而抑制乳酰化会减少 M1 极化和 ROS 积累。从机制上讲，miR-223-3p 抑制 SIRT1 表达并直接靶向 FBXW7，导致 Notch1/Hes1 通路激活并进一步抑制 SIRT1。总之，这些发现表明 miR-223-3p 通过 FBXW7/Notch1/Hes1/SIRT1 信号轴驱动小胶质细胞乳酰化介导的 M1 </p></section>
-        <section><h3>临床/科研意义</h3><p>对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】miR-223-3p 通过 FBXW7/Notch1/Hes1/SIRT1 轴促进小胶质细胞乳酰化和 M1 极化。
+      </article>
 
-英文题目：miR‑223‑3p promotes microglial lactylation and M1 polarization via the FBXW7/Notch1/Hes1/SIRT1 axis.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：神经炎症是阿尔茨海默病 (AD) 的一个标志，与小胶质细胞 M1 极化密切相关。在本研究中，miR-223-3p 被确定为小胶质细胞代谢重编程的关键调节因子。对 Gene Expression Omnibus 和 AD Neuroimaging Initiative 数据集的分析显示，AD 患者的大脑、血液和脑脊液中 miR-223-3p 显着上调。 miR-223-3p 的过度表达促进 M1 极化并增加活性氧 (ROS) 水平。转录组学、代谢组学和 Seahorse 分析显示糖酵解、乳酸产生和乳酰化增加，而抑制乳酰化会减少 M1 极化和 ROS 积累。从机制上讲，miR-223-3p 抑制 SIRT1 表达并直接靶向 FBXW7，导致 Notch1/Hes1 通路激活并进一步抑制 SIRT1。总之，这些发现表明 miR-223-3p 通过 FBXW7/Notch1/Hes1/SIRT1 信号轴驱动小胶质细胞乳酰化介导的 M1 极化。本研究提供了关于乳酰化在神经炎症中的作用的新见解，并强调 miR-223-3p 作为 AD 的潜在治疗靶点。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：International journal of molecular medicine｜IF 5.8｜JCR Q1 / CAS 2区｜2026-07-01｜https://pubmed.ncbi.nlm.nih.gov/42138198/</pre></details>
+      <article class="card">
+        <div class="meta"><span>全球学术热点</span><span>PubMed</span><span>Score 55</span><span>IF 8.5</span><span>JCR Q1 / CAS 1区</span><span>2025 CAS/JCR user table</span></div>
+        <h2>镰状细胞病成人的造血干细胞移植和脑容量变化。</h2>
+        <p class="title-en">Hematopoietic Stem Cell Transplant and Brain Volume Changes in Adults With Sickle Cell Disease.</p>
+        <p class="journal">Neurology｜2026-06-09</p>
+        <p class="ids">PMID: 42133908 ｜ DOI: 10.1212/WNL.0000000000218050</p>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42133908/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>背景和目的：患有镰状细胞病（SCD）的成年人即使没有临床中风，也面临大脑健康和认知能力下降的风险。 MRI 上与 SCD 相关的变化包括脑萎缩和 T2 液衰减反转恢复 (FLAIR) 白质高信号 (WMH) 生长。造血干细胞移植（HSCT）可以治愈，但预处理方案可能会带来新并发症的风险，特别是对于器官累积损伤的成年人。我们测试了成人 SCD 成功的 HSCT 是否与脑萎缩或 WMH 生长减少有关。方法：在这项队列研究中，患有严重 SCD 的成年人接受了 HSCT，作为美国国立卫生研究院临床中心 5 个研究方案的一部分，包括自体基因治疗、HLA 匹配的供体 HSC 和半相合 HSC。移植前后长达 12 年的连续脑部 MRI 扫描包括 3D T1 加权和轴向 FLAIR 序列。使用 FreeSurfer 分割并校正颅内总体积 (TICV) 的纵向脑体积用于测量脑实质分数 (BPF)。深度学习算法从 FLAIR 序列中分割出 WMH 体积。将体积进行 log2 转换为 TICV 的百分比。我们使用混合效应线性回归测试了 HSCT 成功（持续植入与移植失败）或血红蛋白 (Hb) 变化（HSCT 前后）是否与脑萎缩率或 WMH 生长相关。随机效应包括扫描仪、参与者截距和斜率，而固定效应包括年龄和性别。结果：77 名接受 HSCT 的参与者（平均年龄 32 ± 9 岁，43% 为女性）接受了中位随访 5.3 年（四分位数间距 [IQR] = 4.6）。对于 65 名成功进行 HSCT 的参与者，BPF 无显着下降（-0.055%/年；95% CI -0.12, 0.006；p = 0.08）。 12 名移植失败的参与者的 BPF 下降了 7 倍（-0.42%/年；95% CI -0.57，-0.26；p &lt; 0.001；组间差异 p &lt; 0.001）。 HSCT 后 Hb 的较小变化与 BPF 急剧下降相关（每单位 Hb 0.035%/年；95% CI 0.017, 0.053；交互作用 p &lt; 0.001）。两组的 WMH 增长相似（每年 0.038% vs 0.030%；交互作用……</p></details>
+        <details><summary>英文摘要</summary><p>BACKGROUND AND OBJECTIVES: Adults with sickle cell disease (SCD) are at risk of decline in brain health and cognition, even without clinical stroke. SCD-related changes on MRI include brain atrophy and T2 fluid attenuated inversion recovery (FLAIR) white matter hyperintensity (WMH) growth. Hematopoietic stem cell transplant (HSCT) can be curative, but conditioning regimens risk new complications, particularly for adults with accumulated organ damage. We tested whether successful HSCT for adults with SCD was associated with reduced brain atrophy or WMH growth. METHODS: In this cohort study, adults with severe SCD underwent HSCT as part of 5 research protocols at the National Institutes of Health Clinical Center, including autologous gene therapy, HLA-matched donor HSCs, and haploidentical HSCs. Serial brain MRI scans acquired before and after transplant for up to 12 years included 3D T1-weighted and axial FLAIR sequences. Longitudinal brain volumes, segmented using FreeSurfer and corrected for total intracranial volume (TICV), were used to measure brain parenchymal fraction (BPF). A deep learning algorithm segmented WMH volumes from FLAIR sequences. Volumes were log2-transformed as a percentage of TICV. We tested whether HSCT success (persistent engraftment vs graft failure) or change in hemoglobin (Hb) (post-pre-HSCT) was associated with the rate of brain atrophy or WMH growth using mixed-effects linear regression. Random effects included scanner, participant intercept, and slope, while fixed effects included age and sex. RESULTS: Seventy-seven participants (mean age 32 ± 9 years, 43% female) who underwent HSCT were followed for a median 5.3 years (interquartile range [IQR] = 4.6). For 65 participants with successful HSCT, BPF declined nonsignificantly (-0.055%/year; 95% CI -0.12, 0.006; p = 0.08). Twelve participants with graft failure had a 7-fold greater BPF decline (-0.42%/year; 95% CI -0.57, -0.26; p &lt; 0.001; group difference p &lt; 0.001). A smaller change in Hb after HSCT was associated with steeper BPF decline (0.035%/year per unit Hb; 95% CI 0.017, 0.053; interaction p &lt; 0.001). WMH growth was similar in both groups (0.038% vs 0.030% per year; interaction p = 0.50) and was associated with older age and baseline WMHs, but not treatment success. DISCUSSION: Successful HSCT was associated with preserved brain volume, but not WMH growth, another brain health biomarker. Whether these HSCT-related brain structural changes translate to cognitive preservation remains to be determined. TRIAL REGISTRATION INFORMATION: ClinicalTrials.gov NCT02140554 registered 2014-05-14, first enrollment February 2015; ClinicalTrials.gov NCT00061568; registered 2004-07-16, first enrollment July 2004; ClinicalTrials.gov NCT02105766; registered 2014-04-01, first enrollment April 2014; ClinicalTrials.gov NCT03077542; registered 2017-03-10, first enrollment April 2017; ClinicalTrials.gov NCT00977691; registered 2009-12-14, first enrollment December 2009. CLASSIFICATION OF EVIDENCE: This study provides Class III evidence that in adults with sickle cell disease, successful hematopoietic stem cell transplant is associated with slower declines in BPFs over a median period of 5 years, compared with patients with transplant failure.</p></details>
       </article>
 
       <article class="card">
@@ -640,24 +338,9 @@
         <p class="title-en">Recombinant humanized type III collagen attenuates recurrent spontaneous abortion by regulating stromal cell decidualization and reinforcing protective immune microenvironment at the maternal-fetal interface.</p>
         <p class="journal">International immunopharmacology｜2026-08-01</p>
         <p class="ids">PMID: 42143931 ｜ DOI: 10.1016/j.intimp.2026.116836</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42143931/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>背景：复发性自然流产（RSA）是常见的早期妊娠并发症，其发病机制和治疗仍然难以捉摸。重组人源化III型胶原蛋白（rhCOLIII）是一种新型生物材料，已被证明可有效治疗多种疾病。然而，rhCOLIII 在 RSA 中的作用尚不清楚。本研究旨在以单细胞分辨率探讨 rhCOLIII 在 RSA 中的治疗潜力和潜在机制。方法：获取来自健康捐献者/正常孕妇和RSA患者的人类子宫内膜/蜕膜样本，通过免疫组织化学（IHC）和蛋白质印迹检测III型胶原（COLIII）表达。建立小鼠RSA模型（CBA/J♀×DBA/2♂），宫内灌注rhCOLIII评价其治疗效果。在妊娠第 8 天收集 RSA 和 rhCOLIII 处理小鼠的子宫组织进行单细胞 RNA 测序，结果通过 IHC、多重 I​​HC (mIHC) 和流式细胞术 (FCM) 进行验证。结果：RSA 子宫内膜/蜕膜组织中 COLIII 表达显着降低。在小鼠 RSA 模型中，宫内 rhCOLIII 治疗显着降低了胚胎吸收率，从 31.62% 降至 3.82%（P &lt; 0.001）。单细胞分析鉴定出 19 个细胞簇，以基质细胞为主要群体，进一步分为 7 个功能亚型，并且通过 mIHC 证实了 RSA 和 rhCOLIII 组之间的差异组成。此外，rhCOLIII 通过激活氧化应激反应途径和调节蜕膜化来重新编程基质细胞功能。同时，我们的结果表明 rhCOLIII 可以增强抗炎巨噬细胞活性并增加 CD16+ NK 细胞丰度。细胞间通讯分析发现，蜕膜基质细胞和巨噬细胞之间的 APOE-TREM2 信号传导，以及蜕膜基质细胞与 NK 细胞相互作用中的 BSG-PPIA 信号传导，在 rhCOLIII 治疗后增强。 FCM 分析表明 rhCOLIII 增加了与 M2 极化相关的 TREM2+ 巨噬细胞。结论：我们的研究表明 rhCOLIII 可能通过调节作用对 RSA 小鼠发挥治疗作用……</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42143931/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>背景：复发性自然流产（RSA）是常见的早期妊娠并发症，其发病机制和治疗仍然难以捉摸。重组人源化III型胶原蛋白（rhCOLIII）是一种新型生物材料，已被证明可有效治疗多种疾病。然而，rhCOLIII 在 RSA 中的作用尚不清楚。本研究旨在以单细胞分辨率探讨 rhCOLIII 在 RSA 中的治疗潜力和潜在机制。方法：获取来自健康捐献者/正常孕妇和RSA患者的人类子宫内膜/蜕膜样本，通过免疫组织化学（IHC）和蛋白质印迹检测III型胶原（COLIII）表达。建立小鼠RSA模型（CBA/J♀×DBA/2♂），宫内灌注rhCOLIII评价其治疗效果。在妊娠第 8 天收集 RSA 和 rhCOLIII 处理小鼠的子宫组织进行单细胞 RNA 测序，结果通过 IHC、多重 I​​HC (mIHC) 和流式细胞术 (FCM) 进行验证。结果：RSA 子宫内膜/蜕膜组织中 COLIII 表达显着降低。在小鼠 RSA 模型中，宫内 rhCOLIII 治疗显着降低了胚胎吸收率，从 31.62% 降至 3.82%（P &lt; 0.001）。单细胞分析鉴定出 19 个细胞簇，以基质细胞为主要群体，进一步分为 7 个功能亚型，并且通过 mIHC 证实了 RSA 和 rhCOLIII 组之间的差异组成。此外，rhCOLIII 通过激活氧化应激反应途径和调节蜕膜化来重新编程基质细胞功能。同时，我们的结果表明 rhCOLIII 可以增强抗炎巨噬细胞活性并增加 CD16+ NK 细胞丰度。细胞间通讯分析发现，蜕膜基质细胞和巨噬细胞之间的 APOE-TREM2 信号传导，以及蜕膜基质细胞与 NK 细胞相互作用中的 BSG-PPIA 信号传导，在 rhCOLIII 治疗后增强。 FCM 分析表明 rhCOLIII 增加了与 M2 极化相关的 TREM2+ 巨噬细胞。结论：我们的研究表明 rhCOLIII 可能通过调节作用对 RSA 小鼠发挥治疗作用……</p></details>
         <details><summary>英文摘要</summary><p>BACKGROUND: Recurrent spontaneous abortion (RSA), the common early pregnancy complication, remains elusive in its pathogenesis and treatment. Recombinant humanized type III collagen (rhCOLIII), a novel biomaterial, has demonstrated efficacy in treating various diseases. However, the role of rhCOLIII in RSA is unclear. This study aimed to explore the therapeutic potential and underlying mechanisms of rhCOLIII in RSA at single-cell resolution. METHODS: Human endometrium/decidua samples derived from healthy donors/normal pregnant and RSA patients were obtained to detect type III collagen (COLIII) expression via immunohistochemistry (IHC) and Western blot. A murine RSA model (CBA/J ♀ × DBA/2 ♂) was established, followed by intrauterine perfusion of rhCOLIII to evaluate its therapeutic efficacy. Uterine tissues from RSA and rhCOLIII-treated mice were collected on gestation day 8 for single-cell RNA sequencing, with findings validated by IHC, multiplex IHC (mIHC), and flow cytometry (FCM). RESULTS: COLIII expression was significantly reduced in RSA endometrial/decidual tissues. Intrauterine rhCOLIII treatment in a murine RSA model significantly decreased the embryo resorption rate from 31.62% to 3.82% (P &lt; 0.001). Single-cell analysis identified 19 cell clusters, with stromal cells as the predominant population, further classified into seven functional subtypes and their differential composition between the RSA and rhCOLIII groups was confirmed by mIHC. Furthermore, rhCOLIII reprogrammed stromal cell function by activating oxidative-stress response pathways and regulating decidualization. Concurrently, our results showed that rhCOLIII could enhance anti-inflammatory macrophage activity and increase CD16+ NK cell abundance. Cell-cell communication analysis uncovered that APOE-TREM2 signaling between decidual stromal cells and macrophages, as well as BSG-PPIA signaling in decidual stromal cell-NK cell interactions, was augmented following rhCOLIII treatment. FCM analysis demonstrated that rhCOLIII increased TREM2+ macrophages associated with M2 polarization. CONCLUSIONS: Our study demonstrates that rhCOLIII exerts therapeutic effects in RSA mice potentially by modulating stromal cell decidualization and promoting a protective immune microenvironment, highlighting a promising therapeutic strategy for RSA.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。背景：复发性自然流产（RSA）是常见的早期妊娠并发症，其发病机制和治疗仍然难以捉摸。重组人源化III型胶原蛋白（rhCOLIII）是一种新型生物材料，已被证明可有效治疗多种疾病。然而，rhCOLIII 在 RSA 中的作用尚不清楚。本研究旨在以单细胞分辨率探讨 rhCOLIII 在 RSA 中的治疗潜力和潜在机制。方法：获取来自健康捐献者/正常孕妇和RSA患者的人类子宫内膜/蜕膜样本，通过免疫组织化学（IHC）和蛋白质印迹检测III型胶原（COLIII）表达。建立小鼠RSA模型（CBA/J♀×DBA/2♂），宫内灌注rhCOLIII评价其治疗效果。在妊娠第 8 天收集 RSA 和 rhCOLIII 处理小鼠的子宫组织进行单细胞 RNA 测序，结果通过 IHC、多重 I​​HC (mIHC) 和流式细胞术 (FCM) 进行验证。结果：RSA 子宫内膜/蜕膜组织中 COLIII 表达显着降低。在小鼠 RSA 模型中，宫内 rhCOL</p></section>
-        <section><h3>临床/科研意义</h3><p>对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】重组人源化 III 型胶原蛋白通过调节基质细胞蜕膜化和增强母胎界面的保护性免疫微环境来减轻复发性自然流产。
-
-英文题目：Recombinant humanized type III collagen attenuates recurrent spontaneous abortion by regulating stromal cell decidualization and reinforcing protective immune microenvironment at the maternal-fetal interface.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：背景：复发性自然流产（RSA）是常见的早期妊娠并发症，其发病机制和治疗仍然难以捉摸。重组人源化III型胶原蛋白（rhCOLIII）是一种新型生物材料，已被证明可有效治疗多种疾病。然而，rhCOLIII 在 RSA 中的作用尚不清楚。本研究旨在以单细胞分辨率探讨 rhCOLIII 在 RSA 中的治疗潜力和潜在机制。方法：获取来自健康捐献者/正常孕妇和RSA患者的人类子宫内膜/蜕膜样本，通过免疫组织化学（IHC）和蛋白质印迹检测III型胶原（COLIII）表达。建立小鼠RSA模型（CBA/J♀×DBA/2♂），宫内灌注rhCOLIII评价其治疗效果。在妊娠第 8 天收集 RSA 和 rhCOLIII 处理小鼠的子宫组织进行单细胞 RNA 测序，结果通过 IHC、多重 I​​HC (mIHC) 和流式细胞术 (FCM) 进行验证。结果：RSA 子宫内膜/蜕膜组织中 COLIII 表达显着降低。在小鼠 RSA 模型中，宫内 rhCOLIII 治疗显着降低了胚胎吸收率，从 31.62% 降至 3.82%（P &lt; 0.001）。单细胞分析鉴定出 19 个细胞簇，以基质细胞为主要群体，进一步分为 7 个功能亚型，并且通过 mIHC 证实了 RSA 和 rhCOLIII 组之间的差异组成。此外，rhCOLIII 通过激活氧化应激反应途径和调节蜕膜化来重新编程基质细胞功能。同时，我们的结果表明 rhCOLIII 可以增强抗炎巨噬细胞活性并增加 CD16+ NK 细胞丰度。细胞间通讯分析发现，蜕膜基质细胞和巨噬细胞之间的 APOE-TREM2 信号传导，以及蜕膜基质细胞与 NK 细胞相互作用中的 BSG-PPIA 信号传导，在 rhCOLIII 治疗后增强。 FCM 分析表明 rhCOLIII 增加了与 M2 极化相关的 TREM2+ 巨噬细胞。结论：我们的研究表明 rhCOLIII 可能通过调节作用对 RSA 小鼠发挥治疗作用……
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：International immunopharmacology｜IF 4.7｜JCR Q1 / CAS 2区｜2026-08-01｜https://pubmed.ncbi.nlm.nih.gov/42143931/</pre></details>
       </article>
 
       <article class="card">
@@ -666,24 +349,9 @@
         <p class="title-en">Perceptions of young people living with HIV and caregivers in Botswana on analytical treatment interruption studies: a qualitative approach.</p>
         <p class="journal">HIV research &amp; clinical practice｜2026-12-31</p>
         <p class="ids">PMID: 42163437 ｜ DOI: 10.1080/25787489.2026.2673739</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42163437/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>背景：目前的研究表明，对于某些人来说，在抗逆转录病毒治疗（ART）中断后，治疗后艾滋病毒控制是可能的。尽管密切监测的分析治疗中断 (ATI) 研究可以安全地进行，并且对于确定谁可能不再需要 ART 至关重要，但目前尚不清楚这些研究在博茨瓦纳的接受程度如何。目的：确定博茨瓦纳 ATI 包容性研究的知识、态度和可接受性。方法：我们采用非随机的有目的的设计来招募研究参与者。我们对哈博罗内和帕拉佩的 12 名艾滋病毒感染者年轻人、8 名护理人员、8 名医疗保健提供者和 4 名社区倡导者进行了面对面的开放式访谈。结果：三十二 (32) 名参与者同意接受采访。感染艾滋病毒的年轻人的中位年龄为 29 岁。所有感染艾滋病毒的年轻人都表示他们正在接受抗逆转录病毒治疗，并承认接受抗逆转录病毒治疗的好处。所有感染艾滋病毒的年轻人都不知道 ATI，而八分之六的护理人员、八分之六的医疗保健提供者和四分之二的社区倡导者从未听说过 ATI。大多数参与者认为 ATI 研究是可以接受的，并相信只要有足够的风险缓解措施，它将是有益的。结论：ATI 研究对于感染艾滋病毒的年轻人及其照顾者来说都是可以接受的。人们对 ATI 的了解有限，这突出表明需要向社区和医疗保健提供者通报 ATI 和艾滋病毒治疗研究的科学方面。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42163437/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>背景：目前的研究表明，对于某些人来说，在抗逆转录病毒治疗（ART）中断后，治疗后艾滋病毒控制是可能的。尽管密切监测的分析治疗中断 (ATI) 研究可以安全地进行，并且对于确定谁可能不再需要 ART 至关重要，但目前尚不清楚这些研究在博茨瓦纳的接受程度如何。目的：确定博茨瓦纳 ATI 包容性研究的知识、态度和可接受性。方法：我们采用非随机的有目的的设计来招募研究参与者。我们对哈博罗内和帕拉佩的 12 名艾滋病毒感染者年轻人、8 名护理人员、8 名医疗保健提供者和 4 名社区倡导者进行了面对面的开放式访谈。结果：三十二 (32) 名参与者同意接受采访。感染艾滋病毒的年轻人的中位年龄为 29 岁。所有感染艾滋病毒的年轻人都表示他们正在接受抗逆转录病毒治疗，并承认接受抗逆转录病毒治疗的好处。所有感染艾滋病毒的年轻人都不知道 ATI，而八分之六的护理人员、八分之六的医疗保健提供者和四分之二的社区倡导者从未听说过 ATI。大多数参与者认为 ATI 研究是可以接受的，并相信只要有足够的风险缓解措施，它将是有益的。结论：ATI 研究对于感染艾滋病毒的年轻人及其照顾者来说都是可以接受的。人们对 ATI 的了解有限，这突出表明需要向社区和医疗保健提供者通报 ATI 和艾滋病毒治疗研究的科学方面。</p></details>
         <details><summary>英文摘要</summary><p>BACKGROUND: Current research suggests that post-treatment HIV control may be possible for some people following antiretroviral treatment (ART) interruption. Although closely monitored analytic treatment interruption (ATI) studies can be performed safely and are crucial to determine who may no longer require ART, currently it is unknown how acceptable these studies will be in Botswana. AIM: To determine the knowledge, attitudes and acceptability of ATI-inclusive studies in Botswana. METHODS: We employed a non-randomized purposive design to recruit study participants. We conducted face-to-face open-ended interviews with 12 young people living with HIV and 8 caregivers, 8 healthcare providers and 4 community advocates in Gaborone and Palapye. RESULTS: Thirty-two (32) participants consented to be interviewed. The median age of young people living with HIV was 29 years. All young people living with HIV indicated that they were on ART and acknowledged the benefits of being on ART. All young people living with HIV were unaware of ATIs, whereas 6 out of 8 caregivers, 6 out of 8 healthcare providers and 2 out of 4 community advocates had never heard of ATIs. Most participants found ATI research to be acceptable and believed that it would be beneficial provided there were adequate risk mitigations in place. CONCLUSIONS: ATI studies were acceptable to both young people living with HIV and their caregivers. There was limited knowledge about ATI, highlighting a need to inform communities and health care providers on the scientific aspects of ATI and HIV cure research.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。背景：目前的研究表明，对于某些人来说，在抗逆转录病毒治疗（ART）中断后，治疗后艾滋病毒控制是可能的。尽管密切监测的分析治疗中断 (ATI) 研究可以安全地进行，并且对于确定谁可能不再需要 ART 至关重要，但目前尚不清楚这些研究在博茨瓦纳的接受程度如何。目的：确定博茨瓦纳 ATI 包容性研究的知识、态度和可接受性。方法：我们采用非随机的有目的的设计来招募研究参与者。我们对哈博罗内和帕拉佩的 12 名艾滋病毒感染者年轻人、8 名护理人员、8 名医疗保健提供者和 4 名社区倡导者进行了面对面的开放式访谈。结果：三十二 (32) 名参与者同意接受采访。感染艾滋病毒的年轻人的中位年龄为 29 岁。所有感染艾滋病毒的年轻人都表示他们正在接受抗逆转录病毒治疗，并承认接受抗逆转录病毒治疗的好处。所有感染艾滋病毒的年轻人都不知道 ATI，而八分之六的护理人员、八分之六的医疗保健提供者和四分之二的社区倡导者从未听说过 ATI。大多数参与者认为 </p></section>
-        <section><h3>临床/科研意义</h3><p>对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】博茨瓦纳艾滋病毒感染者和护理人员对分析性治疗中断研究的看法：定性方法。
-
-英文题目：Perceptions of young people living with HIV and caregivers in Botswana on analytical treatment interruption studies: a qualitative approach.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：背景：目前的研究表明，对于某些人来说，在抗逆转录病毒治疗（ART）中断后，治疗后艾滋病毒控制是可能的。尽管密切监测的分析治疗中断 (ATI) 研究可以安全地进行，并且对于确定谁可能不再需要 ART 至关重要，但目前尚不清楚这些研究在博茨瓦纳的接受程度如何。目的：确定博茨瓦纳 ATI 包容性研究的知识、态度和可接受性。方法：我们采用非随机的有目的的设计来招募研究参与者。我们对哈博罗内和帕拉佩的 12 名艾滋病毒感染者年轻人、8 名护理人员、8 名医疗保健提供者和 4 名社区倡导者进行了面对面的开放式访谈。结果：三十二 (32) 名参与者同意接受采访。感染艾滋病毒的年轻人的中位年龄为 29 岁。所有感染艾滋病毒的年轻人都表示他们正在接受抗逆转录病毒治疗，并承认接受抗逆转录病毒治疗的好处。所有感染艾滋病毒的年轻人都不知道 ATI，而八分之六的护理人员、八分之六的医疗保健提供者和四分之二的社区倡导者从未听说过 ATI。大多数参与者认为 ATI 研究是可以接受的，并相信只要有足够的风险缓解措施，它将是有益的。结论：ATI 研究对于感染艾滋病毒的年轻人及其照顾者来说都是可以接受的。人们对 ATI 的了解有限，这突出表明需要向社区和医疗保健提供者通报 ATI 和艾滋病毒治疗研究的科学方面。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：HIV research &amp; clinical practice｜IF 1.8｜JCR Q3 / CAS 4区｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42163437/</pre></details>
       </article>
 
       <article class="card">
@@ -692,24 +360,9 @@
         <p class="title-en">Frailty as a mediator of the association between hyperuricemia and stroke risk: A prospective cohort study.</p>
         <p class="journal">Clinical and experimental hypertension (New York, N.Y. : 1993)｜2026-12-31</p>
         <p class="ids">PMID: 42154033 ｜ DOI: 10.1080/10641963.2026.2675538</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42154033/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>背景：关于高尿酸血症、身体虚弱和中风之间相互关系的现有证据仍然有限且不清楚。本研究旨在探讨高尿酸血症和虚弱与中风发病率的关系，并评估虚弱的潜在中介作用。方法：我们纳入了中国健康与退休追踪研究 (CHARLS) 中 45 岁及以上的中国成年人。采用酶比色法测定血清尿酸浓度，高尿酸血症定义为血清尿酸≥420μmol/L。脆弱指数（FI）是根据 28 个基线项目构建的。中风是根据自我报告、医生诊断的事件确定的。进行多变量逻辑回归和中介分析来检查高尿酸血症、身体虚弱和中风之间的关联。结果：总共 7462 名符合条件的参与者被纳入分析。高尿酸血症与虚弱状态（OR = 1.54，95% CI：1.02-5.84）和卒中发生率（OR = 4.07，95% CI：1.25-13.19）呈正相关。体弱前和体弱参与者发生中风的风险显着较高（分别为 OR = 1.55，95% CI：1.11-2.92 和 OR = 2.87，95% CI：1.29-6.37）。中介分析进一步表明，FI部分介导了高尿酸血症与卒中之间的关系，占总效应的10.82%（95% CI：6.51%-21.65%）。结论：高尿酸血症与中风风险增加相关，而虚弱可能部分介导了这种关联。早期识别和管理高尿酸血症患者的虚弱可能代表一种新颖的综合策略，以降低中风风险并促进健康老龄化。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42154033/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>背景：关于高尿酸血症、身体虚弱和中风之间相互关系的现有证据仍然有限且不清楚。本研究旨在探讨高尿酸血症和虚弱与中风发病率的关系，并评估虚弱的潜在中介作用。方法：我们纳入了中国健康与退休追踪研究 (CHARLS) 中 45 岁及以上的中国成年人。采用酶比色法测定血清尿酸浓度，高尿酸血症定义为血清尿酸≥420μmol/L。脆弱指数（FI）是根据 28 个基线项目构建的。中风是根据自我报告、医生诊断的事件确定的。进行多变量逻辑回归和中介分析来检查高尿酸血症、身体虚弱和中风之间的关联。结果：总共 7462 名符合条件的参与者被纳入分析。高尿酸血症与虚弱状态（OR = 1.54，95% CI：1.02-5.84）和卒中发生率（OR = 4.07，95% CI：1.25-13.19）呈正相关。体弱前和体弱参与者发生中风的风险显着较高（分别为 OR = 1.55，95% CI：1.11-2.92 和 OR = 2.87，95% CI：1.29-6.37）。中介分析进一步表明，FI部分介导了高尿酸血症与卒中之间的关系，占总效应的10.82%（95% CI：6.51%-21.65%）。结论：高尿酸血症与中风风险增加相关，而虚弱可能部分介导了这种关联。早期识别和管理高尿酸血症患者的虚弱可能代表一种新颖的综合策略，以降低中风风险并促进健康老龄化。</p></details>
         <details><summary>英文摘要</summary><p>BACKGROUND: Existing evidence on the interrelationship among hyperuricemia, physical frailty, and stroke remains limited and unclear. This study aimed to examine the associations of hyperuricemia and frailty with the incidence of stroke, and to evaluate the potential mediating role of frailty. METHODS: We include Chinese adults aged 45 years and above from the China Health and Retirement Longitudinal Study (CHARLS). Serum urate concentrations were measured using an enzymatic colorimetric method, and hyperuricemia was defined as serum urate ≥420 μmol/L. The frailty index (FI) was constructed based on 28 baseline items. Stroke was ascertained based on self-reported, physician-diagnosed events. Multivariable logistic regression and mediation analyses were conducted to examine the associations among hyperuricemia, physical frailty, and stroke. RESULTS: A total of 7462 eligible participants were included in the analysis. Hyperuricemia was positively associated with frailty status (OR = 1.54, 95% CI: 1.02-5.84) and with the incidence of stroke (OR = 4.07, 95% CI: 1.25-13.19). Pri-frail and frail participants exhibited a substantially higher risk of incident stroke (OR = 1.55, 95% CI: 1.11-2.92 and OR = 2.87, 95% CI: 1.29-6.37, respectively). Mediation analysis further indicated that the FI partially mediated the relationship between hyperuricemia and incident stroke, accounting for 10.82% (95% CI: 6.51%-21.65%) of the total effect. CONCLUSIONS: Hyperuricemia is associated with an increased risk of stroke, and frailty may partially mediate this association. Early identification and management of frailty in individuals with hyperuricemia may represent a novel, integrative strategy to reduce stroke risk and promote healthy aging.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。背景：关于高尿酸血症、身体虚弱和中风之间相互关系的现有证据仍然有限且不清楚。本研究旨在探讨高尿酸血症和虚弱与中风发病率的关系，并评估虚弱的潜在中介作用。方法：我们纳入了中国健康与退休追踪研究 (CHARLS) 中 45 岁及以上的中国成年人。采用酶比色法测定血清尿酸浓度，高尿酸血症定义为血清尿酸≥420μmol/L。脆弱指数（FI）是根据 28 个基线项目构建的。中风是根据自我报告、医生诊断的事件确定的。进行多变量逻辑回归和中介分析来检查高尿酸血症、身体虚弱和中风之间的关联。结果：总共 7462 名符合条件的参与者被纳入分析。高尿酸血症与虚弱状态（OR = 1.54，95% CI：1.02-5.84）和卒中发生率（OR = 4.07，95% CI：1.25-13.19）呈正相关。体弱前和体弱参与者发生中风的风险显着较高（分别为 OR = 1.55，95% CI：1.11-2.92 和 OR = 2.87，95% CI：1.29-</p></section>
-        <section><h3>临床/科研意义</h3><p>对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】虚弱作为高尿酸血症和中风风险之间关联的中介：一项前瞻性队列研究。
-
-英文题目：Frailty as a mediator of the association between hyperuricemia and stroke risk: A prospective cohort study.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：背景：关于高尿酸血症、身体虚弱和中风之间相互关系的现有证据仍然有限且不清楚。本研究旨在探讨高尿酸血症和虚弱与中风发病率的关系，并评估虚弱的潜在中介作用。方法：我们纳入了中国健康与退休追踪研究 (CHARLS) 中 45 岁及以上的中国成年人。采用酶比色法测定血清尿酸浓度，高尿酸血症定义为血清尿酸≥420μmol/L。脆弱指数（FI）是根据 28 个基线项目构建的。中风是根据自我报告、医生诊断的事件确定的。进行多变量逻辑回归和中介分析来检查高尿酸血症、身体虚弱和中风之间的关联。结果：总共 7462 名符合条件的参与者被纳入分析。高尿酸血症与虚弱状态（OR = 1.54，95% CI：1.02-5.84）和卒中发生率（OR = 4.07，95% CI：1.25-13.19）呈正相关。体弱前和体弱参与者发生中风的风险显着较高（分别为 OR = 1.55，95% CI：1.11-2.92 和 OR = 2.87，95% CI：1.29-6.37）。中介分析进一步表明，FI部分介导了高尿酸血症与卒中之间的关系，占总效应的10.82%（95% CI：6.51%-21.65%）。结论：高尿酸血症与中风风险增加相关，而虚弱可能部分介导了这种关联。早期识别和管理高尿酸血症患者的虚弱可能代表一种新颖的综合策略，以降低中风风险并促进健康老龄化。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Clinical and experimental hypertension (New York, N.Y. : 1993)｜IF 3.5｜JCR Q2 / CAS 4区｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42154033/</pre></details>
       </article>
 
       <article class="card">
@@ -718,24 +371,9 @@
         <p class="title-en">Acute beetroot juice ingestion fails to improve sprint performance and neuromuscular function in trained male sprinters: a randomized, double-blind, placebo-controlled study.</p>
         <p class="journal">Journal of the International Society of Sports Nutrition｜2026-12-31</p>
         <p class="ids">PMID: 42148901 ｜ DOI: 10.1080/15502783.2026.2674220</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42148901/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>简介：本研究的目的是评估摄入甜菜根汁对受过训练的男性短跑运动员的短跑表现和神经肌肉特性的急性影响。方法：12 名男性短跑运动员（24.3 ± 4.8 岁）参加了一项随机、双盲、安慰剂对照研究，其中有两项试验是在摄入 70 mL 甜菜根汁（含 6.4 mmol NO3-）或 70 mL 安慰剂饮料（含 0.04 mmol NO3-）后进行的。参与者在摄入后 150 分钟进行反向运动跳跃、深蹲跳跃以及 60 和 100 m 冲刺测试。在这些性能测试之前和之后，用张力肌描记法测量股直肌、股二头肌、腓肠肌外侧肌和腓肠肌内侧肌的收缩特性。结果：还测量了唾液中 NO3- 和亚硝酸盐 NO2- 的浓度，与安慰剂饮料相比，摄入甜菜根汁增加了唾液中 NO3- 的浓度（230 ± 435 vs 6164 ± 3370 μM；p = &lt; 0.001，ES = 1.53）和 NO2-（130 ± 131 vs 4509 ± 4895） μM；p = 0.018；ES = 1.63）。摄入甜菜根汁不会影响反向运动跳跃高度（44.12 ± 6.14 vs 43.6 ± 6.29 cm；p = 0.400；ES = -0.25）、深蹲跳跃高度（42.02 ± 4.92 vs 41.91 cm；p = 0.911；ES = 0.04）、60 m 冲刺时间（7.55 ± 0.32 vs 7.58 ± 0.32 秒；p = 0.407；ES = -0.24），或 100 m 冲刺时间（12.57 ± 0.65 vs 12.51 ± 0.62 秒；p = 0.343；ES = 0.29）。除了股二头肌的松弛时间变量 (p = 0.047) 之外，肌张力描记分析未报告所分析肌肉的收缩特性有任何差异 (p = 0.065-0.914)。结论：急性摄入含有 6.4 mmol NO3- 的 70 mL 甜菜根汁并不会增强男性训练有素的短跑运动员的短跑成绩或神经肌肉功能。 试验注册：该研究于 2024 年 11 月 1 日在 ClinicalTrials.gov 上进行回顾性注册，ID 为：5-56NCT06675682。</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42148901/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>简介：本研究的目的是评估摄入甜菜根汁对受过训练的男性短跑运动员的短跑表现和神经肌肉特性的急性影响。方法：12 名男性短跑运动员（24.3 ± 4.8 岁）参加了一项随机、双盲、安慰剂对照研究，其中有两项试验是在摄入 70 mL 甜菜根汁（含 6.4 mmol NO3-）或 70 mL 安慰剂饮料（含 0.04 mmol NO3-）后进行的。参与者在摄入后 150 分钟进行反向运动跳跃、深蹲跳跃以及 60 和 100 m 冲刺测试。在这些性能测试之前和之后，用张力肌描记法测量股直肌、股二头肌、腓肠肌外侧肌和腓肠肌内侧肌的收缩特性。结果：还测量了唾液中 NO3- 和亚硝酸盐 NO2- 的浓度，与安慰剂饮料相比，摄入甜菜根汁增加了唾液中 NO3- 的浓度（230 ± 435 vs 6164 ± 3370 μM；p = &lt; 0.001，ES = 1.53）和 NO2-（130 ± 131 vs 4509 ± 4895） μM；p = 0.018；ES = 1.63）。摄入甜菜根汁不会影响反向运动跳跃高度（44.12 ± 6.14 vs 43.6 ± 6.29 cm；p = 0.400；ES = -0.25）、深蹲跳跃高度（42.02 ± 4.92 vs 41.91 cm；p = 0.911；ES = 0.04）、60 m 冲刺时间（7.55 ± 0.32 vs 7.58 ± 0.32 秒；p = 0.407；ES = -0.24），或 100 m 冲刺时间（12.57 ± 0.65 vs 12.51 ± 0.62 秒；p = 0.343；ES = 0.29）。除了股二头肌的松弛时间变量 (p = 0.047) 之外，肌张力描记分析未报告所分析肌肉的收缩特性有任何差异 (p = 0.065-0.914)。结论：急性摄入含有 6.4 mmol NO3- 的 70 mL 甜菜根汁并不会增强男性训练有素的短跑运动员的短跑成绩或神经肌肉功能。 试验注册：该研究于 2024 年 11 月 1 日在 ClinicalTrials.gov 上进行回顾性注册，ID 为：5-56NCT06675682。</p></details>
         <details><summary>英文摘要</summary><p>INTRODUCTION: The aim of this study was to evaluate the acute effect of beetroot juice ingestion on sprint performance and neuromuscular properties of male trained sprinters. METHODS: Twelve male sprinters (24.3 ± 4.8 years) participated in a randomized, double-blind, and placebo-controlled study with two experimental trials after the ingestion of 70 mL beetroot juice (containing 6.4 mmol NO3-) or 70 mL placebo drink (containing 0.04 mmol NO3-). Participants performed a countermovement jump, a squat jump, and 60 and 100 m sprint tests at 150 minutes after ingestion. Before and after these performance tests, contractile properties of the rectus femoris, biceps femoris, gastrocnemius lateralis, and gastrocnemius medialis muscles were measured with tensiomyography. RESULTS: Salivary concentrations of NO3- and nitrite NO2- were also measured and in comparison to the placebo drink, the intake of beetroot juice increased salivary concentrations of NO3- (from 230 ± 435 vs 6164 ± 3370 μM; p = &lt; 0.001, ES = 1.53) and NO2- (130 ± 131 vs 4509 ± 4895 μM; p = 0.018; ES = 1.63). Beetroot juice ingestion did not affect countermovement jump height (44.12 ± 6.14 vs 43.6 ± 6.29 cm; p = 0.400; ES = -0.25), squat jump height (42.02 ± 4.92 vs 41.91 cm; p = 0.911; ES = 0.04), 60 m sprint time (7.55 ± 0.32 vs 7.58 ± 0.32 seconds; p = 0.407; ES = -0.24), or 100 m sprint time (12.57 ± 0.65 vs 12.51 ± 0.62 seconds; p = 0.343; ES = 0.29). The tensiomyography analysis did not report any difference in the contractile properties of the muscles analyzed (p = 0.065-0.914), except for the biceps femoris in the relaxation time variable (p = 0.047). CONCLUSION: Acute ingestion of 70 mL beetroot juice containing 6.4 mmol of NO3- did not enhance sprint performance or the neuromuscular function of male trained sprinters.Trial registration: The study was retrospectively registered in ClinicalTrials.gov with the following ID: 5-56NCT06675682 by 1 November 2024.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。简介：本研究的目的是评估摄入甜菜根汁对受过训练的男性短跑运动员的短跑表现和神经肌肉特性的急性影响。方法：12 名男性短跑运动员（24.3 ± 4.8 岁）参加了一项随机、双盲、安慰剂对照研究，其中有两项试验是在摄入 70 mL 甜菜根汁（含 6.4 mmol NO3-）或 70 mL 安慰剂饮料（含 0.04 mmol NO3-）后进行的。参与者在摄入后 150 分钟进行反向运动跳跃、深蹲跳跃以及 60 和 100 m 冲刺测试。在这些性能测试之前和之后，用张力肌描记法测量股直肌、股二头肌、腓肠肌外侧肌和腓肠肌内侧肌的收缩特性。结果：还测量了唾液中 NO3- 和亚硝酸盐 NO2- 的浓度，与安慰剂饮料相比，摄入甜菜根汁增加了唾液中 NO3- 的浓度（230 ± 435 vs 6164 ± 3370 μM；p = &lt; 0.001，ES = 1.53）和 NO2-（130 ± 131 vs 4509 ± 4895） μM；p = 0</p></section>
-        <section><h3>临床/科研意义</h3><p>对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】急性摄入甜菜根汁无法改善受过训练的男性短跑运动员的短跑表现和神经肌肉功能：一项随机、双盲、安慰剂对照研究。
-
-英文题目：Acute beetroot juice ingestion fails to improve sprint performance and neuromuscular function in trained male sprinters: a randomized, double-blind, placebo-controlled study.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：简介：本研究的目的是评估摄入甜菜根汁对受过训练的男性短跑运动员的短跑表现和神经肌肉特性的急性影响。方法：12 名男性短跑运动员（24.3 ± 4.8 岁）参加了一项随机、双盲、安慰剂对照研究，其中有两项试验是在摄入 70 mL 甜菜根汁（含 6.4 mmol NO3-）或 70 mL 安慰剂饮料（含 0.04 mmol NO3-）后进行的。参与者在摄入后 150 分钟进行反向运动跳跃、深蹲跳跃以及 60 和 100 m 冲刺测试。在这些性能测试之前和之后，用张力肌描记法测量股直肌、股二头肌、腓肠肌外侧肌和腓肠肌内侧肌的收缩特性。结果：还测量了唾液中 NO3- 和亚硝酸盐 NO2- 的浓度，与安慰剂饮料相比，摄入甜菜根汁增加了唾液中 NO3- 的浓度（230 ± 435 vs 6164 ± 3370 μM；p = &lt; 0.001，ES = 1.53）和 NO2-（130 ± 131 vs 4509 ± 4895） μM；p = 0.018；ES = 1.63）。摄入甜菜根汁不会影响反向运动跳跃高度（44.12 ± 6.14 vs 43.6 ± 6.29 cm；p = 0.400；ES = -0.25）、深蹲跳跃高度（42.02 ± 4.92 vs 41.91 cm；p = 0.911；ES = 0.04）、60 m 冲刺时间（7.55 ± 0.32 vs 7.58 ± 0.32 秒；p = 0.407；ES = -0.24），或 100 m 冲刺时间（12.57 ± 0.65 vs 12.51 ± 0.62 秒；p = 0.343；ES = 0.29）。除了股二头肌的松弛时间变量 (p = 0.047) 之外，肌张力描记分析未报告所分析肌肉的收缩特性有任何差异 (p = 0.065-0.914)。结论：急性摄入含有 6.4 mmol NO3- 的 70 mL 甜菜根汁并不会增强男性训练有素的短跑运动员的短跑成绩或神经肌肉功能。 试验注册：该研究于 2024 年 11 月 1 日在 ClinicalTrials.gov 上进行回顾性注册，ID 为：5-56NCT06675682。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Journal of the International Society of Sports Nutrition｜IF 3.9｜JCR Q1 / CAS 2区｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42148901/</pre></details>
       </article>
 
       <article class="card">
@@ -744,24 +382,9 @@
         <p class="title-en">Creatine monohydrate for lean mass, strength, and bone density in postmenopausal women: a systematic review and meta-analysis.</p>
         <p class="journal">Journal of the International Society of Sports Nutrition｜2026-12-31</p>
         <p class="ids">PMID: 42141930 ｜ DOI: 10.1080/15502783.2026.2668435</p>
-        <p><a href="https://pubmed.ncbi.nlm.nih.gov/42141930/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>背景：更年期伴随着肌肉质量和力量的加速损失以及骨密度的下降。一水肌酸是否对绝经后妇女有益尚不确定。方法：我们系统地回顾了随机、安慰剂对照试验，检查绝经后妇女是否补充肌酸，有或没有阻力训练 (RT)。 MEDLINE、Embase、Scopus、Web of Science、SPORTDiscus 和 Cochrane CENTRAL 的检索时间为 2000 年至 2025 年 8 月，并辅以试验注册和参考文献列表筛选。符合条件的研究包括年龄≥40-45岁的绝经后女性，主要分析的干预持续时间≥6周，结果包括DXA衍生的瘦体重、单次重复最大（1RM）力量、骨矿物质密度、身体功能和安全性。进行了双重筛选、重复提取和 Cochrane RoB 2 评估。随机效应荟萃分析使用带有 Hartung-Knapp-Sidik-Jonkman 调整的 Paule-Mandel 估计量 τ2。评估了异质性（τ²、I²）、95% 预测区间、按 RT 状态进行的亚组分析、探索性剂量/持续时间元回归、小型研究效果和 GRADE 确定性。结果：7 项随机对照试验（n = 608 例随机；持续时间 12-104 周，中位 38 周）纳入了绝经后妇女（平均年龄 ≈ 62 岁）。瘦体重 (k = 5; n = 338) 有利于肌酸：平均差 (MD) + 0.37 kg（95% CI + 0.05 至 + 0.69；I² = 25%；τ² = 0.01；95% PI -0.10 至 + 0.84）。肌酸改善腿举 1RM（k = 3；n = 111）：MD + 7.5 kg（95% CI + 2.2 至 + 12.8；I² = 0%）。当肌酸 ≥ 5 g·day⁻1 与 RT 相结合时，益处是显而易见的；使用 ≤ 3 g·day⁻1 且不进行 RT 的试验显示没有可测量的效果。骨密度总体上没有变化。不良事件轻微且与安慰剂相似；肾指数无变化。偏见风险主要是“一些担忧”；一项大型、预先注册的双盲随机对照试验风险较低。结论：对于绝经后女性，肌酸，尤其是 ≥ 5 g·day⁻1 的 RT 肌酸，可以在去脂体重和力量方面产生小但有意义的增益，且无损害证据。对骨密度的影响仍不清楚。注册：本综述并未前瞻性注册。去识别化数据和……</p></section>
+        <p><a class="open-link" href="https://pubmed.ncbi.nlm.nih.gov/42141930/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>背景：更年期伴随着肌肉质量和力量的加速损失以及骨密度的下降。一水肌酸是否对绝经后妇女有益尚不确定。方法：我们系统地回顾了随机、安慰剂对照试验，检查绝经后妇女是否补充肌酸，有或没有阻力训练 (RT)。 MEDLINE、Embase、Scopus、Web of Science、SPORTDiscus 和 Cochrane CENTRAL 的检索时间为 2000 年至 2025 年 8 月，并辅以试验注册和参考文献列表筛选。符合条件的研究包括年龄≥40-45岁的绝经后女性，主要分析的干预持续时间≥6周，结果包括DXA衍生的瘦体重、单次重复最大（1RM）力量、骨矿物质密度、身体功能和安全性。进行了双重筛选、重复提取和 Cochrane RoB 2 评估。随机效应荟萃分析使用带有 Hartung-Knapp-Sidik-Jonkman 调整的 Paule-Mandel 估计量 τ2。评估了异质性（τ²、I²）、95% 预测区间、按 RT 状态进行的亚组分析、探索性剂量/持续时间元回归、小型研究效果和 GRADE 确定性。结果：7 项随机对照试验（n = 608 例随机；持续时间 12-104 周，中位 38 周）纳入了绝经后妇女（平均年龄 ≈ 62 岁）。瘦体重 (k = 5; n = 338) 有利于肌酸：平均差 (MD) + 0.37 kg（95% CI + 0.05 至 + 0.69；I² = 25%；τ² = 0.01；95% PI -0.10 至 + 0.84）。肌酸改善腿举 1RM（k = 3；n = 111）：MD + 7.5 kg（95% CI + 2.2 至 + 12.8；I² = 0%）。当肌酸 ≥ 5 g·day⁻1 与 RT 相结合时，益处是显而易见的；使用 ≤ 3 g·day⁻1 且不进行 RT 的试验显示没有可测量的效果。骨密度总体上没有变化。不良事件轻微且与安慰剂相似；肾指数无变化。偏见风险主要是“一些担忧”；一项大型、预先注册的双盲随机对照试验风险较低。结论：对于绝经后女性，肌酸，尤其是 ≥ 5 g·day⁻1 的 RT 肌酸，可以在去脂体重和力量方面产生小但有意义的增益，且无损害证据。对骨密度的影响仍不清楚。注册：本综述并未前瞻性注册。去识别化数据和……</p></details>
         <details><summary>英文摘要</summary><p>BACKGROUND: Menopause is accompanied by accelerated losses in muscle mass and strength and declining bone density. Whether creatine monohydrate benefits postmenopausal women are uncertain. METHODS: We systematically reviewed randomized, placebo-controlled trials examining creatine supplementation, with or without resistance training (RT), in postmenopausal women. MEDLINE, Embase, Scopus, Web of Science, SPORTDiscus, and Cochrane CENTRAL were searched from 2000 to August 2025, supplemented by trial registries and reference-list screening. Eligible studies included postmenopausal women aged ≥40-45 years, intervention durations ≥6 weeks for primary analyses, and outcomes including DXA-derived lean mass, one-repetition maximum (1RM) strength, bone mineral density, physical function, and safety. Dual screening, duplicate extraction, and Cochrane RoB 2 assessment were performed. Random-effects meta-analysis used the Paule-Mandel estimator for τ² with Hartung-Knapp-Sidik-Jonkman adjustment. Heterogeneity (τ², I²), 95% prediction intervals, subgroup analyses by RT status, exploratory dose/duration meta-regression, small-study effects, and GRADE certainty were assessed. RESULTS: Seven RCTs (n = 608 randomized; duration 12-104 weeks, median 38 weeks) enrolled postmenopausal women (mean age ≈ 62 y). Lean mass (k = 5; n = 338) favored creatine: mean difference (MD) + 0.37 kg (95% CI + 0.05 to + 0.69; I² = 25%; τ² = 0.01; 95% PI -0.10 to + 0.84). Leg-press 1RM (k = 3; n = 111) improved with creatine: MD + 7.5 kg (95% CI + 2.2 to + 12.8; I² = 0%). Benefits were evident when creatine ≥ 5 g·day⁻¹ was combined with RT; trials using ≤ 3 g·day⁻¹ without RT showed no measurable effect. Bone density was unchanged overall. Adverse events were mild and similar to placebo; renal indices were unchanged. Risk of bias was mostly &quot;some concerns;&quot; one large, preregistered, double-blind RCT was at low risk. CONCLUSIONS: In postmenopausal women, creatine, particularly ≥ 5 g·day⁻¹ with RT, yields small but meaningful gains in lean mass and strength without evidence of harm. Effects on bone density remain unclear.Registration: This review was not prospectively registered. De-identified data and supplementary materials were deposited on OSF after completion of the analysis (DOI: 10.17605/OSF.IO/BVTRZ).</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“全球学术热点”，聚焦全球学术热点。主要信息来自题名、期刊/来源和摘要。背景：更年期伴随着肌肉质量和力量的加速损失以及骨密度的下降。一水肌酸是否对绝经后妇女有益尚不确定。方法：我们系统地回顾了随机、安慰剂对照试验，检查绝经后妇女是否补充肌酸，有或没有阻力训练 (RT)。 MEDLINE、Embase、Scopus、Web of Science、SPORTDiscus 和 Cochrane CENTRAL 的检索时间为 2000 年至 2025 年 8 月，并辅以试验注册和参考文献列表筛选。符合条件的研究包括年龄≥40-45岁的绝经后女性，主要分析的干预持续时间≥6周，结果包括DXA衍生的瘦体重、单次重复最大（1RM）力量、骨矿物质密度、身体功能和安全性。进行了双重筛选、重复提取和 Cochrane RoB 2 评估。随机效应荟萃分析使用带有 Hartung-Knapp-Sidik-Jonkman 调整的 Paule-Mandel 估计量 τ2。评估了异质性（τ²、I²）、95% 预测区间、按 RT </p></section>
-        <section><h3>临床/科研意义</h3><p>对全球学术热点方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】一水肌酸对绝经后女性瘦体重、力量和骨密度的影响：系统评价和荟萃分析。
-
-英文题目：Creatine monohydrate for lean mass, strength, and bone density in postmenopausal women: a systematic review and meta-analysis.
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：背景：更年期伴随着肌肉质量和力量的加速损失以及骨密度的下降。一水肌酸是否对绝经后妇女有益尚不确定。方法：我们系统地回顾了随机、安慰剂对照试验，检查绝经后妇女是否补充肌酸，有或没有阻力训练 (RT)。 MEDLINE、Embase、Scopus、Web of Science、SPORTDiscus 和 Cochrane CENTRAL 的检索时间为 2000 年至 2025 年 8 月，并辅以试验注册和参考文献列表筛选。符合条件的研究包括年龄≥40-45岁的绝经后女性，主要分析的干预持续时间≥6周，结果包括DXA衍生的瘦体重、单次重复最大（1RM）力量、骨矿物质密度、身体功能和安全性。进行了双重筛选、重复提取和 Cochrane RoB 2 评估。随机效应荟萃分析使用带有 Hartung-Knapp-Sidik-Jonkman 调整的 Paule-Mandel 估计量 τ2。评估了异质性（τ²、I²）、95% 预测区间、按 RT 状态进行的亚组分析、探索性剂量/持续时间元回归、小型研究效果和 GRADE 确定性。结果：7 项随机对照试验（n = 608 例随机；持续时间 12-104 周，中位 38 周）纳入了绝经后妇女（平均年龄 ≈ 62 岁）。瘦体重 (k = 5; n = 338) 有利于肌酸：平均差 (MD) + 0.37 kg（95% CI + 0.05 至 + 0.69；I² = 25%；τ² = 0.01；95% PI -0.10 至 + 0.84）。肌酸改善腿举 1RM（k = 3；n = 111）：MD + 7.5 kg（95% CI + 2.2 至 + 12.8；I² = 0%）。当肌酸 ≥ 5 g·day⁻1 与 RT 相结合时，益处是显而易见的；使用 ≤ 3 g·day⁻1 且不进行 RT 的试验显示没有可测量的效果。骨密度总体上没有变化。不良事件轻微且与安慰剂相似；肾指数无变化。偏见风险主要是“一些担忧”；一项大型、预先注册的双盲随机对照试验风险较低。结论：对于绝经后女性，肌酸，尤其是 ≥ 5 g·day⁻1 的 RT 肌酸，可以在去脂体重和力量方面产生小但有意义的增益，且无损害证据。对骨密度的影响仍不清楚。注册：本综述并未前瞻性注册。去识别化数据和……
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：Journal of the International Society of Sports Nutrition｜IF 3.9｜JCR Q1 / CAS 2区｜2026-12-31｜https://pubmed.ncbi.nlm.nih.gov/42141930/</pre></details>
       </article>
 
     </section>
@@ -771,35 +394,52 @@
         <div>
           <div class="eyebrow">medical_news</div>
           <h2>国内外医学与医药新闻</h2>
-          <p>来自 NIH、FDA、Medical Xpress 等公开 RSS 的医学、药物、临床、器械和生物医药动态。</p>
         </div>
         <strong>10 条</strong>
       </div>
       
+      <article class="card">
+        <div class="meta"><span>国内外医学与医药新闻</span><span>Neuroscience News</span><span>Score 58</span><span>IF 待核实</span><span>待核实</span><span>未匹配</span></div>
+        <h2>长期新冠肺炎脑部炎症会随着时间的推移而减少</h2>
+        <p class="title-en">Long COVID Brain Inflammation Decreases Over Time</p>
+        <p class="journal">Neuroscience News｜Fri, 22 Ma</p>
+        <p class="ids">PMID: N/A ｜ DOI: N/A</p>
+        <p><a class="open-link" href="https://neurosciencenews.com/long-covid-brain-inflammation-30745/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>&lt;a href=&quot;https://neurosciencenews.com/long-covid-brain-inflammation-30745/&quot; rel=&quot;nofollow&quot; title=&quot;长期新冠肺炎脑部炎症随着时间的推移而减少&quot;&gt;&lt;img alt=&quot;这显示了大脑。&quot; class =“webfeedsFeaturedVisual wp-post-image”height =“770”src =“https://neurosciencenews.com/files/2026/05/neuroinflammation-long-covid-neuroscience-1155x770.jpg”style =“浮动：左；边距右：5px；” width=&quot;1155&quot; /&gt;&lt;/a&gt;持续的脑部炎症是否可以解释长新冠肺炎导致的长期疲劳和认知能力下降？一项神经影像学临床试验表明，广泛的脑部炎症并不是长期症状的主要驱动因素。</p></details>
+        <details><summary>英文摘要</summary><p>&lt;a href=&quot;https://neurosciencenews.com/long-covid-brain-inflammation-30745/&quot; rel=&quot;nofollow&quot; title=&quot;Long COVID Brain Inflammation Decreases Over Time&quot;&gt;&lt;img alt=&quot;This shows a brain.&quot; class=&quot;webfeedsFeaturedVisual wp-post-image&quot; height=&quot;770&quot; src=&quot;https://neurosciencenews.com/files/2026/05/neuroinflammation-long-covid-neuroscience-1155x770.jpg&quot; style=&quot;float: left; margin-right: 5px;&quot; width=&quot;1155&quot; /&gt;&lt;/a&gt;Does persistent brain inflammation explain the prolonged fatigue and cognitive decline of Long COVID? A neuroimaging clinical trial demonstrates that widespread brain inflammation is not the primary driver of long-term symptoms.</p></details>
+      </article>
+
       <article class="card">
         <div class="meta"><span>国内外医学与医药新闻</span><span>ScienceDaily Health Medicine</span><span>Score 50</span><span>IF 待核实</span><span>待核实</span><span>未匹配</span></div>
         <h2>麻省理工学院的科学家发现有助于肠道自我修复的氨基酸</h2>
         <p class="title-en">MIT scientists discover amino acid that helps the gut heal itself</p>
         <p class="journal">ScienceDaily Health Medicine｜Thu, 21 Ma</p>
         <p class="ids">PMID: N/A ｜ DOI: N/A</p>
-        <p><a href="https://www.sciencedaily.com/releases/2026/05/260520233223.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>麻省理工学院的科学家发现半胱氨酸（一种存在于肉类、乳制品、豆类和坚果等食物中的氨基酸）是肠道修复的有效触发剂。在小鼠中，富含半胱氨酸的饮食激活了释放愈合信号的免疫细胞，帮助干细胞重建辐射暴露后受损的肠道组织。研究人员表示，这一发现最终可能会为患有与治疗相关的肠道损伤的癌症患者带来新的饮食疗法。</p></section>
+        <p><a class="open-link" href="https://www.sciencedaily.com/releases/2026/05/260520233223.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>麻省理工学院的科学家发现半胱氨酸（一种存在于肉类、乳制品、豆类和坚果等食物中的氨基酸）是肠道修复的有效触发剂。在小鼠中，富含半胱氨酸的饮食激活了释放愈合信号的免疫细胞，帮助干细胞重建辐射暴露后受损的肠道组织。研究人员表示，这一发现最终可能会为患有与治疗相关的肠道损伤的癌症患者带来新的饮食疗法。</p></details>
         <details><summary>英文摘要</summary><p>MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild damaged intestinal tissue after radiation exposure. Researchers say the discovery could eventually lead to new dietary therapies for cancer patients suffering from treatment-related gut damage.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。麻省理工学院的科学家发现半胱氨酸（一种存在于肉类、乳制品、豆类和坚果等食物中的氨基酸）是肠道修复的有效触发剂。在小鼠中，富含半胱氨酸的饮食激活了释放愈合信号的免疫细胞，帮助干细胞重建辐射暴露后受损的肠道组织。研究人员表示，这一发现最终可能会为患有与治疗相关的肠道损伤的癌症患者带来新的饮食疗法。</p></section>
-        <section><h3>临床/科研意义</h3><p>对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】麻省理工学院的科学家发现有助于肠道自我修复的氨基酸
+      </article>
 
-英文题目：MIT scientists discover amino acid that helps the gut heal itself
+      <article class="card">
+        <div class="meta"><span>国内外医学与医药新闻</span><span>Neuroscience News</span><span>Score 50</span><span>IF 待核实</span><span>待核实</span><span>未匹配</span></div>
+        <h2>小胶质细胞脂肪超载与快速 MS 相关</h2>
+        <p class="title-en">Microglia Overloaded with Fat Linked to Rapid MS</p>
+        <p class="journal">Neuroscience News｜Fri, 22 Ma</p>
+        <p class="ids">PMID: N/A ｜ DOI: N/A</p>
+        <p><a class="open-link" href="https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>&lt;a href=&quot;https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/&quot; rel=&quot;nofollow&quot; title=&quot;小胶质细胞与快速 MS 相关的脂肪超载&quot;&gt;&lt;img alt=&quot;这显示了神经元。&quot; class =“webfeedsFeaturedVisual wp-post-image”height =“770”src =“https://neurosciencenews.com/files/2026/05/fatty-microglia-ms-neurology-1155x770.jpg”style =“浮动：左；边距右：5px；” width=&quot;1155&quot; /&gt;&lt;/a&gt;为什么一些多发性硬化症患者病情迅速恶化，而另一些患者则几十年来症状轻微？尸检神经检查显示，严重的多发性硬化症进展与“泡沫状小胶质细胞”有关，即大脑免疫细胞病理性地充满脂肪滴。</p></details>
+        <details><summary>英文摘要</summary><p>&lt;a href=&quot;https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/&quot; rel=&quot;nofollow&quot; title=&quot;Microglia Overloaded with Fat Linked to Rapid MS&quot;&gt;&lt;img alt=&quot;This shows neurons.&quot; class=&quot;webfeedsFeaturedVisual wp-post-image&quot; height=&quot;770&quot; src=&quot;https://neurosciencenews.com/files/2026/05/fatty-microglia-ms-neurology-1155x770.jpg&quot; style=&quot;float: left; margin-right: 5px;&quot; width=&quot;1155&quot; /&gt;&lt;/a&gt;Why do some multiple sclerosis patients deteriorate rapidly while others experience mild symptoms for decades? A post-mortem neuro-audit reveals that severe MS progression is linked to &quot;foamy microglia&quot;, brain immune cells pathologically overloaded with fat droplets.</p></details>
+      </article>
 
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：麻省理工学院的科学家发现半胱氨酸（一种存在于肉类、乳制品、豆类和坚果等食物中的氨基酸）是肠道修复的有效触发剂。在小鼠中，富含半胱氨酸的饮食激活了释放愈合信号的免疫细胞，帮助干细胞重建辐射暴露后受损的肠道组织。研究人员表示，这一发现最终可能会为患有与治疗相关的肠道损伤的癌症患者带来新的饮食疗法。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Thu, 21 Ma｜https://www.sciencedaily.com/releases/2026/05/260520233223.htm</pre></details>
+      <article class="card">
+        <div class="meta"><span>国内外医学与医药新闻</span><span>Neuroscience News</span><span>Score 48</span><span>IF 待核实</span><span>待核实</span><span>未匹配</span></div>
+        <h2>机器学习使抑郁症缓解率翻倍</h2>
+        <p class="title-en">Machine Learning Doubles Depression Remission Rate</p>
+        <p class="journal">Neuroscience News｜Thu, 21 Ma</p>
+        <p class="ids">PMID: N/A ｜ DOI: N/A</p>
+        <p><a class="open-link" href="https://neurosciencenews.com/machine-learning-imap-depression-30744/" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>&lt;a href=&quot;https://neurosciencenews.com/machine-learning-imap-depression-30744/&quot; rel=&quot;nofollow&quot; title=&quot;机器学习使抑郁症缓解率翻倍&quot;&gt;&lt;img alt=&quot;这显示了一个抑郁症患者低着头。&quot; class =“webfeedsFeaturedVisual wp-post-image”height =“770”src =“https://neurosciencenews.com/files/2026/05/depression-remission-ai-neuroscience-1155x770.jpg”style =“浮动：左；边距右：5px；” width=&quot;1155&quot; /&gt;&lt;/a&gt;生活方式追踪的算法方法能否从根本上改善抑郁症治疗？一项具有里程碑意义的临床试验表明，通过机器学习进行个性化行为护理可以使标准治疗基准几乎翻倍。</p></details>
+        <details><summary>英文摘要</summary><p>&lt;a href=&quot;https://neurosciencenews.com/machine-learning-imap-depression-30744/&quot; rel=&quot;nofollow&quot; title=&quot;Machine Learning Doubles Depression Remission Rate&quot;&gt;&lt;img alt=&quot;This shows a depressed person holding their head.&quot; class=&quot;webfeedsFeaturedVisual wp-post-image&quot; height=&quot;770&quot; src=&quot;https://neurosciencenews.com/files/2026/05/depression-remission-ai-neuroscience-1155x770.jpg&quot; style=&quot;float: left; margin-right: 5px;&quot; width=&quot;1155&quot; /&gt;&lt;/a&gt;Can an algorithmic approach to lifestyle tracking radically improve depression treatment? A milestone clinical trial demonstrates that personalizing behavioral care via machine learning can nearly double standard therapy benchmarks.</p></details>
       </article>
 
       <article class="card">
@@ -808,24 +448,9 @@
         <p class="title-en">This 800-year-old Chinese exercise helps lower blood pressure naturally</p>
         <p class="journal">ScienceDaily Mind Brain｜Sun, 10 Ma</p>
         <p class="ids">PMID: N/A ｜ DOI: N/A</p>
-        <p><a href="https://www.sciencedaily.com/releases/2026/05/260510234724.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>中国古代的锻炼习惯可能与每天快走一样有效降低血压——无需设备、健身房或剧烈锻炼。在一项大型临床试验中，患有一期高血压的成年人练习八段锦（一种结合了缓慢运动、呼吸和冥想的温和身心运动）后，三个月内血压显着下降，并持续了一整年。</p></section>
+        <p><a class="open-link" href="https://www.sciencedaily.com/releases/2026/05/260510234724.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>中国古代的锻炼习惯可能与每天快走一样有效降低血压——无需设备、健身房或剧烈锻炼。在一项大型临床试验中，患有一期高血压的成年人练习八段锦（一种结合了缓慢运动、呼吸和冥想的温和身心运动）后，三个月内血压显着下降，并持续了一整年。</p></details>
         <details><summary>英文摘要</summary><p>An ancient Chinese exercise routine may be just as powerful as a daily brisk walk for lowering blood pressure — without equipment, gyms, or intense workouts. In a major clinical trial, adults with stage 1 hypertension who practiced baduanjin, a gentle mind-body exercise combining slow movements, breathing, and meditation, saw meaningful drops in blood pressure within three months that lasted for an entire year.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。中国古代的锻炼习惯可能与每天快走一样有效降低血压——无需设备、健身房或剧烈锻炼。在一项大型临床试验中，患有一期高血压的成年人练习八段锦（一种结合了缓慢运动、呼吸和冥想的温和身心运动）后，三个月内血压显着下降，并持续了一整年。</p></section>
-        <section><h3>临床/科研意义</h3><p>对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】这项有 800 年历史的中国运动有助于自然降低血压
-
-英文题目：This 800-year-old Chinese exercise helps lower blood pressure naturally
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：中国古代的锻炼习惯可能与每天快走一样有效降低血压——无需设备、健身房或剧烈锻炼。在一项大型临床试验中，患有一期高血压的成年人练习八段锦（一种结合了缓慢运动、呼吸和冥想的温和身心运动）后，三个月内血压显着下降，并持续了一整年。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Mind Brain｜IF 10+｜JCR Q1 / CAS 1区｜Sun, 10 Ma｜https://www.sciencedaily.com/releases/2026/05/260510234724.htm</pre></details>
       </article>
 
       <article class="card">
@@ -834,24 +459,9 @@
         <p class="title-en">Scientists discover simple way to relieve arthritis pain without pills or surgery</p>
         <p class="journal">ScienceDaily Health Medicine｜Fri, 22 Ma</p>
         <p class="ids">PMID: N/A ｜ DOI: N/A</p>
-        <p><a href="https://www.sciencedaily.com/releases/2026/05/260522031135.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>一个令人惊讶的简单步行调整可能会给数百万人膝骨关节炎患者带来新的希望。在一项为期一年的临床试验中，研究人员发现，走路时稍微改变脚的角度可以像普通药物一样有效地减轻膝盖疼痛，甚至可以减缓关节内的软骨损伤。</p></section>
+        <p><a class="open-link" href="https://www.sciencedaily.com/releases/2026/05/260522031135.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>一个令人惊讶的简单步行调整可能会给数百万人膝骨关节炎患者带来新的希望。在一项为期一年的临床试验中，研究人员发现，走路时稍微改变脚的角度可以像普通药物一样有效地减轻膝盖疼痛，甚至可以减缓关节内的软骨损伤。</p></details>
         <details><summary>英文摘要</summary><p>A surprisingly simple walking tweak may offer new hope for millions living with knee osteoarthritis. In a year-long clinical trial, researchers found that slightly changing the angle of a person’s foot while walking reduced knee pain as effectively as common medications — and even slowed cartilage damage inside the joint.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。一个令人惊讶的简单步行调整可能会给数百万人膝骨关节炎患者带来新的希望。在一项为期一年的临床试验中，研究人员发现，走路时稍微改变脚的角度可以像普通药物一样有效地减轻膝盖疼痛，甚至可以减缓关节内的软骨损伤。</p></section>
-        <section><h3>临床/科研意义</h3><p>对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】科学家发现无需药物或手术即可缓解关节炎疼痛的简单方法
-
-英文题目：Scientists discover simple way to relieve arthritis pain without pills or surgery
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：一个令人惊讶的简单步行调整可能会给数百万人膝骨关节炎患者带来新的希望。在一项为期一年的临床试验中，研究人员发现，走路时稍微改变脚的角度可以像普通药物一样有效地减轻膝盖疼痛，甚至可以减缓关节内的软骨损伤。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Fri, 22 Ma｜https://www.sciencedaily.com/releases/2026/05/260522031135.htm</pre></details>
       </article>
 
       <article class="card">
@@ -860,24 +470,9 @@
         <p class="title-en">Surprising study finds beef doesn’t worsen blood sugar or diabetes risk</p>
         <p class="journal">ScienceDaily Health Medicine｜Fri, 22 Ma</p>
         <p class="ids">PMID: N/A ｜ DOI: N/A</p>
-        <p><a href="https://www.sciencedaily.com/releases/2026/05/260521072416.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>一项新的临床试验表明，每天吃牛肉对于糖尿病前期患者来说可能并不像许多人想象的那样危险。研究人员发现，与吃家禽的人相比，连续一个月每天吃 6-7 盎司牛肉的成年人的血糖控制、胰岛素功能、炎症或其他与 2 型糖尿病相关的关键指标并没有恶化。</p></section>
+        <p><a class="open-link" href="https://www.sciencedaily.com/releases/2026/05/260521072416.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>一项新的临床试验表明，每天吃牛肉对于糖尿病前期患者来说可能并不像许多人想象的那样危险。研究人员发现，与吃家禽的人相比，连续一个月每天吃 6-7 盎司牛肉的成年人的血糖控制、胰岛素功能、炎症或其他与 2 型糖尿病相关的关键指标并没有恶化。</p></details>
         <details><summary>英文摘要</summary><p>A new clinical trial suggests that eating beef every day may not be as risky for people with prediabetes as many assume. Researchers found that adults who ate 6–7 ounces of beef daily for a month showed no worsening in blood sugar control, insulin function, inflammation, or other key markers linked to type 2 diabetes when compared to people eating poultry instead.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。一项新的临床试验表明，每天吃牛肉对于糖尿病前期患者来说可能并不像许多人想象的那样危险。研究人员发现，与吃家禽的人相比，连续一个月每天吃 6-7 盎司牛肉的成年人的血糖控制、胰岛素功能、炎症或其他与 2 型糖尿病相关的关键指标并没有恶化。</p></section>
-        <section><h3>临床/科研意义</h3><p>对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】令人惊讶的研究发现牛肉不会恶化血糖或糖尿病风险
-
-英文题目：Surprising study finds beef doesn’t worsen blood sugar or diabetes risk
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：一项新的临床试验表明，每天吃牛肉对于糖尿病前期患者来说可能并不像许多人想象的那样危险。研究人员发现，与吃家禽的人相比，连续一个月每天吃 6-7 盎司牛肉的成年人的血糖控制、胰岛素功能、炎症或其他与 2 型糖尿病相关的关键指标并没有恶化。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Fri, 22 Ma｜https://www.sciencedaily.com/releases/2026/05/260521072416.htm</pre></details>
       </article>
 
       <article class="card">
@@ -886,24 +481,9 @@
         <p class="title-en">Scientists found a hidden Alzheimer’s trigger and shut it down</p>
         <p class="journal">ScienceDaily Health Medicine｜Wed, 20 Ma</p>
         <p class="ids">PMID: N/A ｜ DOI: N/A</p>
-        <p><a href="https://www.sciencedaily.com/releases/2026/05/260519224334.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>一种新发现的名为 IDOL 的酶可能成为对抗阿尔茨海默病的一个主要新靶点。研究人员发现，从神经元中去除淀粉样蛋白斑块，可以显着减少淀粉样蛋白斑块，并改善与细胞之间的弹性和沟通相关的关键大脑过程。这一发现可能会带来未来的治疗方法，而不仅仅是减缓阿尔茨海默病——可能有助于保护大脑免于进一步衰退。</p></section>
+        <p><a class="open-link" href="https://www.sciencedaily.com/releases/2026/05/260519224334.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>一种新发现的名为 IDOL 的酶可能成为对抗阿尔茨海默病的一个主要新靶点。研究人员发现，从神经元中去除淀粉样蛋白斑块，可以显着减少淀粉样蛋白斑块，并改善与细胞之间的弹性和沟通相关的关键大脑过程。这一发现可能会带来未来的治疗方法，而不仅仅是减缓阿尔茨海默病——可能有助于保护大脑免于进一步衰退。</p></details>
         <details><summary>英文摘要</summary><p>A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communication between cells. The discovery may lead to future treatments that go beyond slowing Alzheimer’s — potentially helping protect the brain from further decline.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。一种新发现的名为 IDOL 的酶可能成为对抗阿尔茨海默病的一个主要新靶点。研究人员发现，从神经元中去除淀粉样蛋白斑块，可以显着减少淀粉样蛋白斑块，并改善与细胞之间的弹性和沟通相关的关键大脑过程。这一发现可能会带来未来的治疗方法，而不仅仅是减缓阿尔茨海默病——可能有助于保护大脑免于进一步衰退。</p></section>
-        <section><h3>临床/科研意义</h3><p>对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】科学家发现了阿尔茨海默病的一个隐藏诱因并将其关闭
-
-英文题目：Scientists found a hidden Alzheimer’s trigger and shut it down
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：一种新发现的名为 IDOL 的酶可能成为对抗阿尔茨海默病的一个主要新靶点。研究人员发现，从神经元中去除淀粉样蛋白斑块，可以显着减少淀粉样蛋白斑块，并改善与细胞之间的弹性和沟通相关的关键大脑过程。这一发现可能会带来未来的治疗方法，而不仅仅是减缓阿尔茨海默病——可能有助于保护大脑免于进一步衰退。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Wed, 20 Ma｜https://www.sciencedaily.com/releases/2026/05/260519224334.htm</pre></details>
       </article>
 
       <article class="card">
@@ -912,24 +492,9 @@
         <p class="title-en">New psychedelic-like drugs could treat depression without making you trip</p>
         <p class="journal">ScienceDaily Mind Brain｜Wed, 13 Ma</p>
         <p class="ids">PMID: N/A ｜ DOI: N/A</p>
-        <p><a href="https://www.sciencedaily.com/releases/2026/05/260512202325.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>加州大学戴维斯分校的研究人员通过将紫外线照射到基于氨基酸的分子上，创造出全新的迷幻类化合物。这些化合物激活了与大脑可塑性和心理健康益处相关的关键血清素受体，但令人惊讶的是在动物测试中并没有引起类似幻觉的行为。科学家表示，这一发现可能会导致未来治疗抑郁症、创伤后应激障碍和成瘾的方法，而无需强烈的迷幻体验。</p></section>
+        <p><a class="open-link" href="https://www.sciencedaily.com/releases/2026/05/260512202325.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>加州大学戴维斯分校的研究人员通过将紫外线照射到基于氨基酸的分子上，创造出全新的迷幻类化合物。这些化合物激活了与大脑可塑性和心理健康益处相关的关键血清素受体，但令人惊讶的是在动物测试中并没有引起类似幻觉的行为。科学家表示，这一发现可能会导致未来治疗抑郁症、创伤后应激障碍和成瘾的方法，而无需强烈的迷幻体验。</p></details>
         <details><summary>英文摘要</summary><p>UC Davis researchers created brand-new psychedelic-like compounds by shining UV light on amino acid-based molecules. These compounds activated key serotonin receptors tied to brain plasticity and mental health benefits, but surprisingly did not cause hallucination-like behavior in animal tests. Scientists say the discovery could lead to future treatments for depression, PTSD, and addiction without the intense psychedelic experience.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。加州大学戴维斯分校的研究人员通过将紫外线照射到基于氨基酸的分子上，创造出全新的迷幻类化合物。这些化合物激活了与大脑可塑性和心理健康益处相关的关键血清素受体，但令人惊讶的是在动物测试中并没有引起类似幻觉的行为。科学家表示，这一发现可能会导致未来治疗抑郁症、创伤后应激障碍和成瘾的方法，而无需强烈的迷幻体验。</p></section>
-        <section><h3>临床/科研意义</h3><p>对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】新的迷幻类药物可以治疗抑郁症而不会让你绊倒
-
-英文题目：New psychedelic-like drugs could treat depression without making you trip
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：加州大学戴维斯分校的研究人员通过将紫外线照射到基于氨基酸的分子上，创造出全新的迷幻类化合物。这些化合物激活了与大脑可塑性和心理健康益处相关的关键血清素受体，但令人惊讶的是在动物测试中并没有引起类似幻觉的行为。科学家表示，这一发现可能会导致未来治疗抑郁症、创伤后应激障碍和成瘾的方法，而无需强烈的迷幻体验。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Mind Brain｜IF 10+｜JCR Q1 / CAS 1区｜Wed, 13 Ma｜https://www.sciencedaily.com/releases/2026/05/260512202325.htm</pre></details>
       </article>
 
       <article class="card">
@@ -938,107 +503,15 @@
         <p class="title-en">Scientists discover strange link between vitamin D and pain</p>
         <p class="journal">ScienceDaily Health Medicine｜Tue, 19 Ma</p>
         <p class="ids">PMID: N/A ｜ DOI: N/A</p>
-        <p><a href="https://www.sciencedaily.com/releases/2026/05/260519224308.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>维生素 D 水平低可能会悄然使乳腺癌手术恢复过程更加痛苦。在一项新的研究中，缺乏维生素 D 的患者在乳房切除术后出现中度至重度疼痛的可能性增加了三倍，并最终使用更多的阿片类药物来应对。研究人员表示，维生素 D 可能通过影响炎症和免疫系统来帮助调节身体处理疼痛的方式。</p></section>
+        <p><a class="open-link" href="https://www.sciencedaily.com/releases/2026/05/260519224308.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
+        <details><summary>中文摘要</summary><p>维生素 D 水平低可能会悄然使乳腺癌手术恢复过程更加痛苦。在一项新的研究中，缺乏维生素 D 的患者在乳房切除术后出现中度至重度疼痛的可能性增加了三倍，并最终使用更多的阿片类药物来应对。研究人员表示，维生素 D 可能通过影响炎症和免疫系统来帮助调节身体处理疼痛的方式。</p></details>
         <details><summary>英文摘要</summary><p>Low vitamin D levels could be quietly making breast cancer surgery recovery far more painful. In a new study, patients deficient in vitamin D were three times more likely to experience moderate to severe pain after mastectomy surgery and ended up using significantly more opioid medication to cope. Researchers say vitamin D may help regulate how the body processes pain through its effects on inflammation and the immune system.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。维生素 D 水平低可能会悄然使乳腺癌手术恢复过程更加痛苦。在一项新的研究中，缺乏维生素 D 的患者在乳房切除术后出现中度至重度疼痛的可能性增加了三倍，并最终使用更多的阿片类药物来应对。研究人员表示，维生素 D 可能通过影响炎症和免疫系统来帮助调节身体处理疼痛的方式。</p></section>
-        <section><h3>临床/科研意义</h3><p>对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】科学家发现维生素 D 与疼痛之间的奇怪联系
-
-英文题目：Scientists discover strange link between vitamin D and pain
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：维生素 D 水平低可能会悄然使乳腺癌手术恢复过程更加痛苦。在一项新的研究中，缺乏维生素 D 的患者在乳房切除术后出现中度至重度疼痛的可能性增加了三倍，并最终使用更多的阿片类药物来应对。研究人员表示，维生素 D 可能通过影响炎症和免疫系统来帮助调节身体处理疼痛的方式。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Tue, 19 Ma｜https://www.sciencedaily.com/releases/2026/05/260519224308.htm</pre></details>
-      </article>
-
-      <article class="card">
-        <div class="meta"><span>国内外医学与医药新闻</span><span>ScienceDaily Health Medicine</span><span>Score 40</span><span>IF 待核实</span><span>待核实</span><span>未匹配</span></div>
-        <h2>科学家发现可以增强细胞能量的营养素</h2>
-        <p class="title-en">Scientists discover the nutrient that can supercharge cellular energy</p>
-        <p class="journal">ScienceDaily Health Medicine｜Thu, 21 Ma</p>
-        <p class="ids">PMID: N/A ｜ DOI: N/A</p>
-        <p><a href="https://www.sciencedaily.com/releases/2026/05/260520233221.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>研究人员发现，富含蛋白质的食物中含有的一种营养素亮氨酸可以通过保护细胞内重要的能量产生蛋白质来增强线粒体。这一突破揭示了饮食和细胞能量之间强大的新联系，可能对癌症和代谢疾病的治疗产生影响。</p></section>
-        <details><summary>英文摘要</summary><p>Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。研究人员发现，富含蛋白质的食物中含有的一种营养素亮氨酸可以通过保护细胞内重要的能量产生蛋白质来增强线粒体。这一突破揭示了饮食和细胞能量之间强大的新联系，可能对癌症和代谢疾病的治疗产生影响。</p></section>
-        <section><h3>临床/科研意义</h3><p>对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】科学家发现可以增强细胞能量的营养素
-
-英文题目：Scientists discover the nutrient that can supercharge cellular energy
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：研究人员发现，富含蛋白质的食物中含有的一种营养素亮氨酸可以通过保护细胞内重要的能量产生蛋白质来增强线粒体。这一突破揭示了饮食和细胞能量之间强大的新联系，可能对癌症和代谢疾病的治疗产生影响。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Thu, 21 Ma｜https://www.sciencedaily.com/releases/2026/05/260520233221.htm</pre></details>
-      </article>
-
-      <article class="card">
-        <div class="meta"><span>国内外医学与医药新闻</span><span>ScienceDaily Mind Brain</span><span>Score 40</span><span>IF 10+</span><span>JCR Q1 / CAS 1区</span><span>内置参考表</span></div>
-        <h2>科学家通过给大脑的微型引擎充电来逆转记忆丧失</h2>
-        <p class="title-en">Scientists reversed memory loss by recharging the brain’s tiny engines</p>
-        <p class="journal">ScienceDaily Mind Brain｜Sat, 16 Ma</p>
-        <p class="ids">PMID: N/A ｜ DOI: N/A</p>
-        <p><a href="https://www.sciencedaily.com/releases/2026/05/260515234803.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>研究人员首次表明，线粒体（细胞的能量发生器）发生故障可能会直接导致神经退行性疾病中的认知能力下降。通过创造一种暂时增强大脑线粒体活动的新工具，科学家们恢复了痴呆小鼠模型的记忆能力。这一发现暗示，神经元内部的能量衰竭可能发生在脑细胞死亡之前，这可能为未来阿尔茨海默病的治疗提供新的目标。</p></section>
-        <details><summary>英文摘要</summary><p>Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain, scientists restored memory performance in mouse models of dementia. The discovery hints that energy failure inside neurons could happen before brain cells die, potentially offering a new target for future Alzheimer’s treatments.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。研究人员首次表明，线粒体（细胞的能量发生器）发生故障可能会直接导致神经退行性疾病中的认知能力下降。通过创造一种暂时增强大脑线粒体活动的新工具，科学家们恢复了痴呆小鼠模型的记忆能力。这一发现暗示，神经元内部的能量衰竭可能发生在脑细胞死亡之前，这可能为未来阿尔茨海默病的治疗提供新的目标。</p></section>
-        <section><h3>临床/科研意义</h3><p>对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】科学家通过给大脑的微型引擎充电来逆转记忆丧失
-
-英文题目：Scientists reversed memory loss by recharging the brain’s tiny engines
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：研究人员首次表明，线粒体（细胞的能量发生器）发生故障可能会直接导致神经退行性疾病中的认知能力下降。通过创造一种暂时增强大脑线粒体活动的新工具，科学家们恢复了痴呆小鼠模型的记忆能力。这一发现暗示，神经元内部的能量衰竭可能发生在脑细胞死亡之前，这可能为未来阿尔茨海默病的治疗提供新的目标。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Mind Brain｜IF 10+｜JCR Q1 / CAS 1区｜Sat, 16 Ma｜https://www.sciencedaily.com/releases/2026/05/260515234803.htm</pre></details>
-      </article>
-
-      <article class="card">
-        <div class="meta"><span>国内外医学与医药新闻</span><span>ScienceDaily Mind Brain</span><span>Score 40</span><span>IF 10+</span><span>JCR Q1 / CAS 1区</span><span>内置参考表</span></div>
-        <h2>科学家发现隐藏的大脑营养缺乏可能会加剧焦虑</h2>
-        <p class="title-en">Scientists find hidden brain nutrient deficit that may fuel anxiety</p>
-        <p class="journal">ScienceDaily Mind Brain｜Sat, 16 Ma</p>
-        <p class="ids">PMID: N/A ｜ DOI: N/A</p>
-        <p><a href="https://www.sciencedaily.com/releases/2026/05/260515234759.htm" target="_blank" rel="noopener">打开 PubMed / 原文</a></p>
-        <section><h3>中文摘要</h3><p>对脑部扫描的一项主要分析发现，患有焦虑症的人的胆碱水平明显较低，胆碱是健康大脑功能至关重要的营养素。最有力的证据出现在前额皮质，该区域与情绪控制和决策有关。研究人员表示，这一发现是第一个与焦虑相关的明确的大脑化学模式，最终可能导致新的基于营养的治疗方法。</p></section>
-        <details><summary>英文摘要</summary><p>A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the discovery is the first clear chemical brain pattern linked to anxiety and could eventually lead to new nutrition-based treatments.</p></details>
-        <section><h3>AI 中文总结</h3><p>这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。对脑部扫描的一项主要分析发现，患有焦虑症的人的胆碱水平明显较低，胆碱是健康大脑功能至关重要的营养素。最有力的证据出现在前额皮质，该区域与情绪控制和决策有关。研究人员表示，这一发现是第一个与焦虑相关的明确的大脑化学模式，最终可能导致新的基于营养的治疗方法。</p></section>
-        <section><h3>临床/科研意义</h3><p>对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。</p></section>
-        <details><summary>人工审核前推文草稿</summary><pre>【文献速递】科学家发现隐藏的大脑营养缺乏可能会加剧焦虑
-
-英文题目：Scientists find hidden brain nutrient deficit that may fuel anxiety
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：对脑部扫描的一项主要分析发现，患有焦虑症的人的胆碱水平明显较低，胆碱是健康大脑功能至关重要的营养素。最有力的证据出现在前额皮质，该区域与情绪控制和决策有关。研究人员表示，这一发现是第一个与焦虑相关的明确的大脑化学模式，最终可能导致新的基于营养的治疗方法。
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Mind Brain｜IF 10+｜JCR Q1 / CAS 1区｜Sat, 16 Ma｜https://www.sciencedaily.com/releases/2026/05/260515234759.htm</pre></details>
       </article>
 
     </section>
 
-    <section class="errors"><h3>抓取提示</h3><ul><li>arXiv traumatic_brain_injury: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22traumatic+brain+injury%22+OR+all%3A%22TBI%22+OR+all%3A%22brain+trauma%22+OR+all%3A%22neuroinflammation%22+OR+all%3A%22blood-brain+barrier%22+OR+all%3A%22glymphatic%22&amp;start=0&amp;max_results=25&amp;sortBy=submittedDate&amp;sortOrder=descending</li><li>arXiv hydrocephalus: HTTPSConnectionPool(host=&#x27;export.arxiv.org&#x27;, port=443): Read timed out. (read timeout=15)</li><li>arXiv stem_cell_exosome: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22stem+cell%22+OR+all%3A%22mesenchymal+stem+cell%22+OR+all%3A%22MSC%22+OR+all%3A%22exosome%22+OR+all%3A%22extracellular+vesicles%22+OR+all%3A%22intranasal%22&amp;start=0&amp;max_results=25&amp;sortBy=submittedDate&amp;sortOrder=descending</li><li>arXiv microglia_trem2: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22microglia%22+OR+all%3A%22TREM2%22+OR+all%3A%22Cystatin+C%22+OR+all%3A%22CST3%22+OR+all%3A%22phagocytosis%22+OR+all%3A%22neuroimmune%22&amp;start=0&amp;max_results=25&amp;sortBy=submittedDate&amp;sortOrder=descending</li><li>arXiv glioma_spinal: HTTPSConnectionPool(host=&#x27;export.arxiv.org&#x27;, port=443): Read timed out. (read timeout=15)</li><li>arXiv neurosurgery_general: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22neurosurgery%22+OR+all%3A%22neurosurgical%22+OR+all%3A%22brain+injury%22+OR+all%3A%22spinal+cord%22+OR+all%3A%22neurocritical+care%22&amp;start=0&amp;max_results=25&amp;sortBy=submittedDate&amp;sortOrder=descending</li><li>Medical news Neuroscience News: feed parse failed</li></ul></section>
-  </main>
+      <section class="errors" id="fetch-notes"><h3>抓取提示</h3><ul><li>arXiv traumatic_brain_injury: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22traumatic+brain+injury%22+OR+all%3A%22TBI%22+OR+all%3A%22brain+trauma%22+OR+all%3A%22neuroinflammation%22+OR+all%3A%22blood-brain+barrier%22+OR+all%3A%22glymphatic%22&amp;start=0&amp;max_results=25&amp;sortBy=submittedDate&amp;sortOrder=descending</li><li>arXiv hydrocephalus: HTTPSConnectionPool(host=&#x27;export.arxiv.org&#x27;, port=443): Read timed out. (read timeout=15)</li><li>arXiv stem_cell_exosome: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22stem+cell%22+OR+all%3A%22mesenchymal+stem+cell%22+OR+all%3A%22MSC%22+OR+all%3A%22exosome%22+OR+all%3A%22extracellular+vesicles%22+OR+all%3A%22intranasal%22&amp;start=0&amp;max_results=25&amp;sortBy=submittedDate&amp;sortOrder=descending</li><li>arXiv microglia_trem2: HTTPSConnectionPool(host=&#x27;export.arxiv.org&#x27;, port=443): Read timed out. (read timeout=15)</li><li>arXiv glioma_spinal: HTTPSConnectionPool(host=&#x27;export.arxiv.org&#x27;, port=443): Read timed out. (read timeout=15)</li><li>arXiv neurosurgery_general: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22neurosurgery%22+OR+all%3A%22neurosurgical%22+OR+all%3A%22brain+injury%22+OR+all%3A%22spinal+cord%22+OR+all%3A%22neurocritical+care%22&amp;start=0&amp;max_results=25&amp;sortBy=submittedDate&amp;sortOrder=descending</li></ul></section>
+    </main>
+  </div>
 </body>
 </html>
