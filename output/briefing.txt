@@ -1,4 +1,4 @@
-【神外文献日报 V1】2026-05-24 00:25:01
+【神外文献日报 V1】2026-05-24 09:35:52
 核心神外文献数量：10
 全部条目数量：36
 说明：人工审核前推文草稿，不自动发布公众号。
@@ -271,7 +271,17 @@
 
 【国内外医学与医药新闻】
 
-1. 论文标题：MIT scientists discover amino acid that helps the gut heal itself
+1. 论文标题：Long COVID Brain Inflammation Decreases Over Time
+   英文：Long COVID Brain Inflammation Decreases Over Time
+   主题：国内外医学与医药新闻｜来源：Neuroscience News｜分数：58
+   期刊：Neuroscience News｜IF：待核实｜分区：待核实｜指标：未匹配
+   日期：Fri, 22 Ma｜PMID：N/A｜DOI：N/A
+   链接：https://neurosciencenews.com/long-covid-brain-inflammation-30745/
+   摘要：<a href="https://neurosciencenews.com/long-covid-brain-inflammation-30745/" rel="nofollow" title="Long COVID Brain Inflammation Decreases Over Time"><img alt="This shows a brain." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/05/neuroinflammation-long-covid-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Does persistent brain inflammation explain the prolonged fatigue and cognitive decline of Long COVID? A neuroimaging clinical trial demonstrates that widespread brain inflammation is not the primary driver of long-term symptoms.
+   总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。<a href="https://neurosciencenews.com/long-covid-brain-inflammation-30745/" rel="nofollow" title="Long COVID Brain Inflammation Decreases Over Time"><img alt="This shows a brain." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neuroscie...
+   意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+2. 论文标题：MIT scientists discover amino acid that helps the gut heal itself
    英文：MIT scientists discover amino acid that helps the gut heal itself
    主题：国内外医学与医药新闻｜来源：ScienceDaily Health Medicine｜分数：50
    期刊：ScienceDaily Health Medicine｜IF：待核实｜分区：待核实｜指标：未匹配
@@ -281,7 +291,27 @@
    总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。MIT scientists have identified cysteine — an amino acid found in foods like meat, dairy, beans, and nuts — as a potent trigger for intestinal repair. In mice, a cysteine-rich diet activated immune cells that released healing signals, helping stem cells rebuild...
    意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
-2. 论文标题：This 800-year-old Chinese exercise helps lower blood pressure naturally
+3. 论文标题：Microglia Overloaded with Fat Linked to Rapid MS
+   英文：Microglia Overloaded with Fat Linked to Rapid MS
+   主题：国内外医学与医药新闻｜来源：Neuroscience News｜分数：50
+   期刊：Neuroscience News｜IF：待核实｜分区：待核实｜指标：未匹配
+   日期：Fri, 22 Ma｜PMID：N/A｜DOI：N/A
+   链接：https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/
+   摘要：<a href="https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/" rel="nofollow" title="Microglia Overloaded with Fat Linked to Rapid MS"><img alt="This shows neurons." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/05/fatty-microglia-ms-neurology-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Why do some multiple sclerosis patients deteriorate rapidly while others experience mild symptoms for decades? A post-mortem neuro-audit reveals that severe MS progression is linked to "foamy microglia", brain immune cells pathologically overloaded with fat droplets.
+   总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。<a href="https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/" rel="nofollow" title="Microglia Overloaded with Fat Linked to Rapid MS"><img alt="This shows neurons." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neuro...
+   意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+4. 论文标题：Machine Learning Doubles Depression Remission Rate
+   英文：Machine Learning Doubles Depression Remission Rate
+   主题：国内外医学与医药新闻｜来源：Neuroscience News｜分数：48
+   期刊：Neuroscience News｜IF：待核实｜分区：待核实｜指标：未匹配
+   日期：Thu, 21 Ma｜PMID：N/A｜DOI：N/A
+   链接：https://neurosciencenews.com/machine-learning-imap-depression-30744/
+   摘要：<a href="https://neurosciencenews.com/machine-learning-imap-depression-30744/" rel="nofollow" title="Machine Learning Doubles Depression Remission Rate"><img alt="This shows a depressed person holding their head." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/05/depression-remission-ai-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Can an algorithmic approach to lifestyle tracking radically improve depression treatment? A milestone clinical trial demonstrates that personalizing behavioral care via machine learning can nearly double standard therapy benchmarks.
+   总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。<a href="https://neurosciencenews.com/machine-learning-imap-depression-30744/" rel="nofollow" title="Machine Learning Doubles Depression Remission Rate"><img alt="This shows a depressed person holding their head." class="webfeedsFeaturedVisual wp-post-image" h...
+   意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+5. 论文标题：This 800-year-old Chinese exercise helps lower blood pressure naturally
    英文：This 800-year-old Chinese exercise helps lower blood pressure naturally
    主题：国内外医学与医药新闻｜来源：ScienceDaily Mind Brain｜分数：48
    期刊：ScienceDaily Mind Brain｜IF：10+｜分区：JCR Q1 / CAS 1区｜指标：内置参考表
@@ -291,7 +321,7 @@
    总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。An ancient Chinese exercise routine may be just as powerful as a daily brisk walk for lowering blood pressure — without equipment, gyms, or intense workouts. In a major clinical trial, adults with stage 1 hypertension who practiced baduanjin, a gentle mind-bod...
    意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
-3. 论文标题：Scientists discover simple way to relieve arthritis pain without pills or surgery
+6. 论文标题：Scientists discover simple way to relieve arthritis pain without pills or surgery
    英文：Scientists discover simple way to relieve arthritis pain without pills or surgery
    主题：国内外医学与医药新闻｜来源：ScienceDaily Health Medicine｜分数：48
    期刊：ScienceDaily Health Medicine｜IF：待核实｜分区：待核实｜指标：未匹配
@@ -301,7 +331,7 @@
    总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。A surprisingly simple walking tweak may offer new hope for millions living with knee osteoarthritis. In a year-long clinical trial, researchers found that slightly changing the angle of a person’s foot while walking reduced knee pain as effectively as common m...
    意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
-4. 论文标题：Surprising study finds beef doesn’t worsen blood sugar or diabetes risk
+7. 论文标题：Surprising study finds beef doesn’t worsen blood sugar or diabetes risk
    英文：Surprising study finds beef doesn’t worsen blood sugar or diabetes risk
    主题：国内外医学与医药新闻｜来源：ScienceDaily Health Medicine｜分数：48
    期刊：ScienceDaily Health Medicine｜IF：待核实｜分区：待核实｜指标：未匹配
@@ -311,7 +341,7 @@
    总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。A new clinical trial suggests that eating beef every day may not be as risky for people with prediabetes as many assume. Researchers found that adults who ate 6–7 ounces of beef daily for a month showed no worsening in blood sugar control, insulin function, in...
    意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
-5. 论文标题：Scientists found a hidden Alzheimer’s trigger and shut it down
+8. 论文标题：Scientists found a hidden Alzheimer’s trigger and shut it down
    英文：Scientists found a hidden Alzheimer’s trigger and shut it down
    主题：国内外医学与医药新闻｜来源：ScienceDaily Health Medicine｜分数：40
    期刊：ScienceDaily Health Medicine｜IF：待核实｜分区：待核实｜指标：未匹配
@@ -321,7 +351,7 @@
    总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。A newly identified enzyme called IDOL could become a major new target in the fight against Alzheimer’s disease. Researchers found that removing it from neurons sharply reduced amyloid plaques and improved key brain processes linked to resilience and communicat...
    意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
-6. 论文标题：New psychedelic-like drugs could treat depression without making you trip
+9. 论文标题：New psychedelic-like drugs could treat depression without making you trip
    英文：New psychedelic-like drugs could treat depression without making you trip
    主题：国内外医学与医药新闻｜来源：ScienceDaily Mind Brain｜分数：40
    期刊：ScienceDaily Mind Brain｜IF：10+｜分区：JCR Q1 / CAS 1区｜指标：内置参考表
@@ -331,7 +361,7 @@
    总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。UC Davis researchers created brand-new psychedelic-like compounds by shining UV light on amino acid-based molecules. These compounds activated key serotonin receptors tied to brain plasticity and mental health benefits, but surprisingly did not cause hallucina...
    意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
 
-7. 论文标题：Scientists discover strange link between vitamin D and pain
+10. 论文标题：Scientists discover strange link between vitamin D and pain
    英文：Scientists discover strange link between vitamin D and pain
    主题：国内外医学与医药新闻｜来源：ScienceDaily Health Medicine｜分数：40
    期刊：ScienceDaily Health Medicine｜IF：待核实｜分区：待核实｜指标：未匹配
@@ -339,34 +369,4 @@
    链接：https://www.sciencedaily.com/releases/2026/05/260519224308.htm
    摘要：Low vitamin D levels could be quietly making breast cancer surgery recovery far more painful. In a new study, patients deficient in vitamin D were three times more likely to experience moderate to severe pain after mastectomy surgery and ended up using significantly more opioid medication to cope. Researchers say vitamin D may help regulate how the body processes pain through its effects on inflammation and the immune system.
    总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。Low vitamin D levels could be quietly making breast cancer surgery recovery far more painful. In a new study, patients deficient in vitamin D were three times more likely to experience moderate to severe pain after mastectomy surgery and ended up using signifi...
-   意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
-
-8. 论文标题：Scientists discover the nutrient that can supercharge cellular energy
-   英文：Scientists discover the nutrient that can supercharge cellular energy
-   主题：国内外医学与医药新闻｜来源：ScienceDaily Health Medicine｜分数：40
-   期刊：ScienceDaily Health Medicine｜IF：待核实｜分区：待核实｜指标：未匹配
-   日期：Thu, 21 Ma｜PMID：N/A｜DOI：N/A
-   链接：https://www.sciencedaily.com/releases/2026/05/260520233221.htm
-   摘要：Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.
-   总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possib...
-   意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
-
-9. 论文标题：Scientists reversed memory loss by recharging the brain’s tiny engines
-   英文：Scientists reversed memory loss by recharging the brain’s tiny engines
-   主题：国内外医学与医药新闻｜来源：ScienceDaily Mind Brain｜分数：40
-   期刊：ScienceDaily Mind Brain｜IF：10+｜分区：JCR Q1 / CAS 1区｜指标：内置参考表
-   日期：Sat, 16 Ma｜PMID：N/A｜DOI：N/A
-   链接：https://www.sciencedaily.com/releases/2026/05/260515234803.htm
-   摘要：Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain, scientists restored memory performance in mouse models of dementia. The discovery hints that energy failure inside neurons could happen before brain cells die, potentially offering a new target for future Alzheimer’s treatments.
-   总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain,...
-   意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
-
-10. 论文标题：Scientists find hidden brain nutrient deficit that may fuel anxiety
-   英文：Scientists find hidden brain nutrient deficit that may fuel anxiety
-   主题：国内外医学与医药新闻｜来源：ScienceDaily Mind Brain｜分数：40
-   期刊：ScienceDaily Mind Brain｜IF：10+｜分区：JCR Q1 / CAS 1区｜指标：内置参考表
-   日期：Sat, 16 Ma｜PMID：N/A｜DOI：N/A
-   链接：https://www.sciencedaily.com/releases/2026/05/260515234759.htm
-   摘要：A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the discovery is the first clear chemical brain pattern linked to anxiety and could eventually lead to new nutrition-based treatments.
-   总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and...
    意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。

@@ -1,6 +1,6 @@
 # 神外文献日报 V1
 
-生成时间：2026-05-24 00:25:01
+生成时间：2026-05-24 09:35:52
 核心神外文献数量：10
 全部条目数量：36
 
@@ -922,7 +922,42 @@
 
 # 国内外医学与医药新闻
 
-## 1. 论文标题：MIT scientists discover amino acid that helps the gut heal itself
+## 1. 论文标题：Long COVID Brain Inflammation Decreases Over Time
+
+- 英文题目：Long COVID Brain Inflammation Decreases Over Time
+- 主题：国内外医学与医药新闻
+- 来源：Neuroscience News
+- 期刊/平台：Neuroscience News
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Fri, 22 Ma
+- 分数：58
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://neurosciencenews.com/long-covid-brain-inflammation-30745/
+
+摘要：<a href="https://neurosciencenews.com/long-covid-brain-inflammation-30745/" rel="nofollow" title="Long COVID Brain Inflammation Decreases Over Time"><img alt="This shows a brain." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/05/neuroinflammation-long-covid-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Does persistent brain inflammation explain the prolonged fatigue and cognitive decline of Long COVID? A neuroimaging clinical trial demonstrates that widespread brain inflammation is not the primary driver of long-term symptoms.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。<a href="https://neurosciencenews.com/long-covid-brain-inflammation-30745/" rel="nofollow" title="Long COVID Brain Inflammation Decreases Over Time"><img alt="This shows a brain." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neuroscie...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Long COVID Brain Inflammation Decreases Over Time
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：<a href="https://neurosciencenews.com/long-covid-brain-inflammation-30745/" rel="nofollow" title="Long COVID Brain Inflammation Decreases Over Time"><img alt="This shows a brain." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neuroscie...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Neuroscience News｜IF 待核实｜待核实｜Fri, 22 Ma｜https://neurosciencenews.com/long-covid-brain-inflammation-30745/
+
+## 2. 论文标题：MIT scientists discover amino acid that helps the gut heal itself
 
 - 英文题目：MIT scientists discover amino acid that helps the gut heal itself
 - 主题：国内外医学与医药新闻
@@ -957,7 +992,77 @@
 
 参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Thu, 21 Ma｜https://www.sciencedaily.com/releases/2026/05/260520233223.htm
 
-## 2. 论文标题：This 800-year-old Chinese exercise helps lower blood pressure naturally
+## 3. 论文标题：Microglia Overloaded with Fat Linked to Rapid MS
+
+- 英文题目：Microglia Overloaded with Fat Linked to Rapid MS
+- 主题：国内外医学与医药新闻
+- 来源：Neuroscience News
+- 期刊/平台：Neuroscience News
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Fri, 22 Ma
+- 分数：50
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/
+
+摘要：<a href="https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/" rel="nofollow" title="Microglia Overloaded with Fat Linked to Rapid MS"><img alt="This shows neurons." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/05/fatty-microglia-ms-neurology-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Why do some multiple sclerosis patients deteriorate rapidly while others experience mild symptoms for decades? A post-mortem neuro-audit reveals that severe MS progression is linked to "foamy microglia", brain immune cells pathologically overloaded with fat droplets.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。<a href="https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/" rel="nofollow" title="Microglia Overloaded with Fat Linked to Rapid MS"><img alt="This shows neurons." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neuro...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Microglia Overloaded with Fat Linked to Rapid MS
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：<a href="https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/" rel="nofollow" title="Microglia Overloaded with Fat Linked to Rapid MS"><img alt="This shows neurons." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neuro...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Neuroscience News｜IF 待核实｜待核实｜Fri, 22 Ma｜https://neurosciencenews.com/foamy-microglia-multiple-sclerosis-30746/
+
+## 4. 论文标题：Machine Learning Doubles Depression Remission Rate
+
+- 英文题目：Machine Learning Doubles Depression Remission Rate
+- 主题：国内外医学与医药新闻
+- 来源：Neuroscience News
+- 期刊/平台：Neuroscience News
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Thu, 21 Ma
+- 分数：48
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://neurosciencenews.com/machine-learning-imap-depression-30744/
+
+摘要：<a href="https://neurosciencenews.com/machine-learning-imap-depression-30744/" rel="nofollow" title="Machine Learning Doubles Depression Remission Rate"><img alt="This shows a depressed person holding their head." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/05/depression-remission-ai-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Can an algorithmic approach to lifestyle tracking radically improve depression treatment? A milestone clinical trial demonstrates that personalizing behavioral care via machine learning can nearly double standard therapy benchmarks.
+
+中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。<a href="https://neurosciencenews.com/machine-learning-imap-depression-30744/" rel="nofollow" title="Machine Learning Doubles Depression Remission Rate"><img alt="This shows a depressed person holding their head." class="webfeedsFeaturedVisual wp-post-image" h...
+
+临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
+
+推文草稿：
+
+【文献速递】Machine Learning Doubles Depression Remission Rate
+
+研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
+
+核心发现：<a href="https://neurosciencenews.com/machine-learning-imap-depression-30744/" rel="nofollow" title="Machine Learning Doubles Depression Remission Rate"><img alt="This shows a depressed person holding their head." class="webfeedsFeaturedVisual wp-post-image" h...
+
+临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
+
+小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
+
+参考信息：Neuroscience News｜IF 待核实｜待核实｜Thu, 21 Ma｜https://neurosciencenews.com/machine-learning-imap-depression-30744/
+
+## 5. 论文标题：This 800-year-old Chinese exercise helps lower blood pressure naturally
 
 - 英文题目：This 800-year-old Chinese exercise helps lower blood pressure naturally
 - 主题：国内外医学与医药新闻
@@ -992,7 +1097,7 @@
 
 参考信息：ScienceDaily Mind Brain｜IF 10+｜JCR Q1 / CAS 1区｜Sun, 10 Ma｜https://www.sciencedaily.com/releases/2026/05/260510234724.htm
 
-## 3. 论文标题：Scientists discover simple way to relieve arthritis pain without pills or surgery
+## 6. 论文标题：Scientists discover simple way to relieve arthritis pain without pills or surgery
 
 - 英文题目：Scientists discover simple way to relieve arthritis pain without pills or surgery
 - 主题：国内外医学与医药新闻
@@ -1027,7 +1132,7 @@
 
 参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Fri, 22 Ma｜https://www.sciencedaily.com/releases/2026/05/260522031135.htm
 
-## 4. 论文标题：Surprising study finds beef doesn’t worsen blood sugar or diabetes risk
+## 7. 论文标题：Surprising study finds beef doesn’t worsen blood sugar or diabetes risk
 
 - 英文题目：Surprising study finds beef doesn’t worsen blood sugar or diabetes risk
 - 主题：国内外医学与医药新闻
@@ -1062,7 +1167,7 @@
 
 参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Fri, 22 Ma｜https://www.sciencedaily.com/releases/2026/05/260521072416.htm
 
-## 5. 论文标题：Scientists found a hidden Alzheimer’s trigger and shut it down
+## 8. 论文标题：Scientists found a hidden Alzheimer’s trigger and shut it down
 
 - 英文题目：Scientists found a hidden Alzheimer’s trigger and shut it down
 - 主题：国内外医学与医药新闻
@@ -1097,7 +1202,7 @@
 
 参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Wed, 20 Ma｜https://www.sciencedaily.com/releases/2026/05/260519224334.htm
 
-## 6. 论文标题：New psychedelic-like drugs could treat depression without making you trip
+## 9. 论文标题：New psychedelic-like drugs could treat depression without making you trip
 
 - 英文题目：New psychedelic-like drugs could treat depression without making you trip
 - 主题：国内外医学与医药新闻
@@ -1132,7 +1237,7 @@
 
 参考信息：ScienceDaily Mind Brain｜IF 10+｜JCR Q1 / CAS 1区｜Wed, 13 Ma｜https://www.sciencedaily.com/releases/2026/05/260512202325.htm
 
-## 7. 论文标题：Scientists discover strange link between vitamin D and pain
+## 10. 论文标题：Scientists discover strange link between vitamin D and pain
 
 - 英文题目：Scientists discover strange link between vitamin D and pain
 - 主题：国内外医学与医药新闻
@@ -1167,111 +1272,11 @@
 
 参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Tue, 19 Ma｜https://www.sciencedaily.com/releases/2026/05/260519224308.htm
 
-## 8. 论文标题：Scientists discover the nutrient that can supercharge cellular energy
-
-- 英文题目：Scientists discover the nutrient that can supercharge cellular energy
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Thu, 21 Ma
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260520233221.htm
-
-摘要：Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possible implications for cancer and metabolic disease treatments.
-
-中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possib...
-
-临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】Scientists discover the nutrient that can supercharge cellular energy
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：Researchers discovered that leucine, a nutrient found in protein-rich foods, can supercharge mitochondria by protecting crucial energy-producing proteins inside cells. The breakthrough uncovers a powerful new link between diet and cellular energy — with possib...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Health Medicine｜IF 待核实｜待核实｜Thu, 21 Ma｜https://www.sciencedaily.com/releases/2026/05/260520233221.htm
-
-## 9. 论文标题：Scientists reversed memory loss by recharging the brain’s tiny engines
-
-- 英文题目：Scientists reversed memory loss by recharging the brain’s tiny engines
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Mind Brain
-- 期刊/平台：ScienceDaily Mind Brain
-- 影响因子：10+
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：内置参考表
-- 日期：Sat, 16 Ma
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260515234803.htm
-
-摘要：Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain, scientists restored memory performance in mouse models of dementia. The discovery hints that energy failure inside neurons could happen before brain cells die, potentially offering a new target for future Alzheimer’s treatments.
-
-中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain,...
-
-临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】Scientists reversed memory loss by recharging the brain’s tiny engines
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：Researchers have shown for the first time that malfunctioning mitochondria — the cell’s energy generators — may directly cause cognitive decline in neurodegenerative diseases. By creating a new tool that temporarily boosts mitochondrial activity in the brain,...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Mind Brain｜IF 10+｜JCR Q1 / CAS 1区｜Sat, 16 Ma｜https://www.sciencedaily.com/releases/2026/05/260515234803.htm
-
-## 10. 论文标题：Scientists find hidden brain nutrient deficit that may fuel anxiety
-
-- 英文题目：Scientists find hidden brain nutrient deficit that may fuel anxiety
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Mind Brain
-- 期刊/平台：ScienceDaily Mind Brain
-- 影响因子：10+
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：内置参考表
-- 日期：Sat, 16 Ma
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260515234759.htm
-
-摘要：A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and decision-making. Researchers say the discovery is the first clear chemical brain pattern linked to anxiety and could eventually lead to new nutrition-based treatments.
-
-中文总结：这条内容归入“国内外医学与医药新闻”，聚焦国内外医学与医药新闻。主要信息来自题名、期刊/来源和摘要。A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and...
-
-临床/科研意义：对国内外医学与医药新闻方向有参考价值，既可关注基础机制，也可关注临床对照、队列、治疗或诊断研究；正式引用前需核对全文。
-
-推文草稿：
-
-【文献速递】Scientists find hidden brain nutrient deficit that may fuel anxiety
-
-研究背景：该研究与神经外科、脑损伤、脑积水或神经炎症相关，可能为课题设计和综述选题提供线索。
-
-核心发现：A major analysis of brain scans found that people with anxiety disorders have noticeably lower levels of choline, a nutrient crucial for healthy brain function. The strongest evidence appeared in the prefrontal cortex, the region tied to emotional control and...
-
-临床/科研意义：建议重点核对研究对象、模型、干预方式、主要终点和局限性，再判断是否纳入综述或选题库。
-
-小满点评：这是一条需要人工复核全文的候选文献，当前摘要层面不宜过度外推。
-
-参考信息：ScienceDaily Mind Brain｜IF 10+｜JCR Q1 / CAS 1区｜Sat, 16 Ma｜https://www.sciencedaily.com/releases/2026/05/260515234759.htm
-
 ## 抓取提示
 
-- Medical news Neuroscience News: feed parse failed
+- arXiv traumatic_brain_injury: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22traumatic+brain+injury%22+OR+all%3A%22TBI%22+OR+all%3A%22brain+trauma%22+OR+all%3A%22neuroinflammation%22+OR+all%3A%22blood-brain+barrier%22+OR+all%3A%22glymphatic%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
+- arXiv hydrocephalus: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22hydrocephalus%22+OR+all%3A%22normal+pressure+hydrocephalus%22+OR+all%3A%22iNPH%22+OR+all%3A%22cerebrospinal+fluid%22+OR+all%3A%22CSF%22+OR+all%3A%22meningeal+lymphatic%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
+- arXiv stem_cell_exosome: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22stem+cell%22+OR+all%3A%22mesenchymal+stem+cell%22+OR+all%3A%22MSC%22+OR+all%3A%22exosome%22+OR+all%3A%22extracellular+vesicles%22+OR+all%3A%22intranasal%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
+- arXiv microglia_trem2: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22microglia%22+OR+all%3A%22TREM2%22+OR+all%3A%22Cystatin+C%22+OR+all%3A%22CST3%22+OR+all%3A%22phagocytosis%22+OR+all%3A%22neuroimmune%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
+- arXiv glioma_spinal: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22glioma%22+OR+all%3A%22glioblastoma%22+OR+all%3A%22spinal+cord+tumor%22+OR+all%3A%22astrocytoma%22+OR+all%3A%22tumor+microenvironment%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
+- arXiv neurosurgery_general: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22neurosurgery%22+OR+all%3A%22neurosurgical%22+OR+all%3A%22brain+injury%22+OR+all%3A%22spinal+cord%22+OR+all%3A%22neurocritical+care%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
