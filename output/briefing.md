@@ -1,200 +1,200 @@
 # 神外文献日报 V2
 
-生成时间：2026-06-03 10:14:34
+生成时间：2026-06-04 10:12:36
 核心神外文献数量：10
 全部条目数量：36
 
 > 医学科研文献雷达；正式引用前请核对原文。
 
-## 1. 中风中的微生物群、全身免疫和细胞外囊泡：外周淋巴结作为治疗杠杆点。
+## 1. 乳腺肿瘤来源的外泌体诱导纹状体 NF-κB 信号传导、小胶质细胞反应性和焦虑/抑郁样行为。
 
-- 英文题目：Microbiota, systemic immunity, and extracellular vesicles in stroke: peripheral nodes as therapeutic leverage points.
+- 英文题目：Mammary tumors-derived exosomes induce striatal NF-κB signaling, microglial reactivity, and anxiety/depression-like behaviors.
+- 主题：小胶质细胞与 TREM2
+- 来源：PubMed
+- 期刊/平台：Brain, behavior, and immunity
+- 影响因子：7.6
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-06-01
+- 分数：93
+- PMID：42229702
+- DOI：10.1016/j.bbi.2026.106841
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42229702/
+
+中文摘要：新出现的证据将周围癌症的生长与情感障碍联系起来，但连接肿瘤生物学和中枢功能障碍的机制仍然不明确。在一组新诊断的乳腺癌患者和健康对照组中，患者表现出抑郁和焦虑相关症状升高，并伴有右侧尾状核低频波动（ALFF）振幅局部降低。右侧尾状核的 ALFF 与个体情感评分呈负相关，表明纹状体早期参与癌症相关的情感脆弱性。基于这些观察，我们使用了乳腺肿瘤小鼠模型，发现乳腺肿瘤小鼠出现了明显的焦虑/抑郁样行为，并伴有小胶质细胞反应性和纹状体中 NF-κB 信号增强。在体外，从乳腺肿瘤细胞中分离出的外泌体激活了 BV-2 小胶质细胞和 NF-κB 通路，并增强了促炎细胞因子的产生。在幼稚小鼠中全身施用肿瘤细胞衍生的外泌体可重现行为异常和纹状体小胶质细胞/NF-κB激活，而在乳腺肿瘤小鼠中对外泌体释放进行药理学抑制可改善行为异常并减少神经炎症。这些人类和实验数据共同确定外泌体是连接外周恶性肿瘤与中枢情感病理学的机械管道。纹状体小胶质细胞中外泌体驱动的 NF-κB 激活是癌症相关焦虑和抑郁的关键驱动因素。它代表了减轻癌症神经精神合并症的潜在治疗点。
+
+英文摘要：Emerging evidence links peripheral cancer growth with affective disturbances, yet the mechanisms bridging tumor biology and central dysfunction remain poorly defined. In a cohort of newly diagnosed breast cancer patients and healthy controls, patients exhibited elevated depressive and anxiety-related symptoms, accompanied by a focal reduction of amplitude of low-frequency fluctuations (ALFF) in the right caudate. The ALFF of right caudate is negatively correlated with individual affective scores, suggesting early striatal involvement in cancer-related affective vulnerability. Building on these observations, we used mammary tumor-bearing mouse models and found that mammary tumor-bearing mice developed pronounced anxiety/depression-like behaviors accompanied by microglial reactivity and heightened NF-κB signaling in the striatum. In vitro, exosomes isolated from mammary tumor-bearing cells activated BV-2 microglia and the NF-κB pathway, and enhanced pro-inflammatory cytokine production. Systemic administration of tumor cell-derived exosomes in naïve mice reproduced both behavioral abnormalities and striatal microglial/NF-κB activation, whereas pharmacological inhibition of exosome release in mammary tumor-bearing mice ameliorated behavioral abnormalities and reduced neuroinflammation. Together, these human and experimental data identify exosomes as a mechanistic conduit linking peripheral malignancy to central affective pathology. Exosome-driven NF-κB activation in striatal microglia emerges as a key driver of cancer-associated anxiety and depression. It represents a potential therapeutic point for mitigating neuropsychiatric comorbidity in cancer.
+
+## 2. 肠道菌群失调通过小胶质细胞 TREM2/SYK/NF-κB 信号轴驱动早期阿尔茨海默病发病机制。
+
+- 英文题目：Gut Microbiota Dysbiosis Drives Early Alzheimer's Pathogenesis via Microglial TREM2/SYK/NF-κB Signaling Axis.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：ACS chemical neuroscience
+- 影响因子：3.9
+- 分区：JCR Q2 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-06-03
+- 分数：85
+- PMID：42130461
+- DOI：10.1021/acschemneuro.6c00173
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42130461/
+
+中文摘要：肠道菌群失调与阿尔茨海默病（AD）有关，但将其与小胶质细胞功能障碍联系起来的因果证据和机制仍不清楚。本研究旨在确定早期 AD 中肠道微生物群是否通过小胶质细胞 TREM2/SYK 信号轴驱动神经炎症和认知障碍。使用六个月大的 APP/PS1 小鼠，在 AD 和野生型小鼠之间进行粪便微生物移植 (FMT)。评估了认知功能、肠道微生物群组成（16S rRNA 测序）、血清代谢物、海马神经炎症、小胶质细胞极化和 TREM2/SYK/NF-κB 通路活性。用 Aβ 寡聚物、TREM2 激动剂或 SYK 抑制剂处理 BV2 小胶质细胞以进行机制验证。 AD 小鼠表现出认知能力下降、微生物多样性减少（例如拟杆菌和乳酸菌减少）以及循环代谢物改变，包括丁酸盐减少和 LPS 升高。他们的海马表现出胶质细胞激活增强、促炎细胞因子（TNF-α、IL-1β、IL-6）升高以及向促炎激活标记物（M1 相关）的转变。在分子水平上，TREM2 表达下调，而 SYK 磷酸化和 NF-κB 激活增强，并伴有突触蛋白丢失。重要的是，来自健康捐赠者的 FMT 逆转了这些异常并改善了认知，而 AD 微生物群则在野生型小鼠中诱导了轻度病理。在体外，TREM2 激活或 SYK 抑制减弱了 Aβ 诱导的小胶质细胞 M1 极化和细胞因子释放。肠道菌群失调通过小胶质细胞 TREM2/SYK/NF-κB 通路失调促进早期 AD 发病，从而导致神经炎症和突触功能障碍。针对这一微生物信号轴可能提供新的治疗策略。
+
+英文摘要：Gut microbiota dysbiosis is implicated in Alzheimer's disease (AD), but causal evidence and mechanisms linking it to microglial dysfunction remain unclear. This study aimed to determine whether gut microbiota drives neuroinflammation and cognitive impairment via the microglial TREM2/SYK signaling axis in early AD. Using six-month-old APP/PS1 mice, fecal microbiota transplantation (FMT) was performed between AD and wild-type mice. Cognitive function, gut microbiota composition (16S rRNA sequencing), serum metabolites, hippocampal neuroinflammation, microglial polarization, and TREM2/SYK/NF-κB pathway activity were assessed. BV2 microglial cells were treated with Aβ oligomers, a TREM2 agonist, or a SYK inhibitor for mechanistic validation. AD mice exhibited cognitive decline, reduced microbial diversity (e.g., decreased Bacteroidetes and Lactobacillus), and altered circulating metabolites, including decreased butyrate and elevated LPS. Their hippocampi exhibited heightened glial activation, elevated pro-inflammatory cytokines (TNF-α, IL-1β, IL-6), and a shift toward pro-inflammatory activation markers (M1-associated). At the molecular level, TREM2 expression was downregulated, whereas SYK phosphorylation and NF-κB activation were enhanced, concomitant with synaptic protein loss. Critically, FMT from healthy donors reversed these abnormalities and improved cognition, whereas AD microbiota induced mild pathology in wild-type mice. In vitro, TREM2 activation or SYK inhibition attenuated Aβ-induced M1 polarization and cytokine release in microglia. Gut microbiota dysbiosis promotes early AD pathogenesis by dysregulating the microglial TREM2/SYK/NF-κB pathway, thereby driving neuroinflammation and synaptic dysfunction. Targeting this microbiota-signaling axis may offer novel therapeutic strategies.
+
+## 3. 生物打印的人脐带间充质干细胞负载微纤维衍生的细胞外囊泡促进子宫内膜修复和宫内粘连的生育力恢复。
+
+- 英文题目：Bioprinted Human Umbilical Cord Mesenchymal Stem Cell-laden Microfiber-derived Extracellular Vesicles Promote Endometrial Repair and Fertility Recovery in Intrauterine Adhesions.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Stem cell reviews and reports
+- 影响因子：4.2
+- 分区：JCR Q2 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-06-03
+- 分数：75
+- PMID：42234345
+- DOI：10.1007/s12015-026-11165-x
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42234345/
+
+中文摘要：宫腔粘连（IUAs）对生殖健康构成重大挑战，由于子宫内膜损伤和纤维化，常常导致不孕和妊娠并发症。间充质干细胞（MSC）衍生的细胞外囊泡（EV）疗法已成为子宫内膜修复的潜在策略。然而，传统的电动汽车生产方法产量低、功效有限，阻碍了其广泛应用。在这项研究中，我们提出了一种创新方法，将三维（3D）生物打印的人脐带间充质干细胞微纤维衍生的电动汽车（3D-EV）与明胶甲基丙烯酸酯水凝胶相结合进行原位输送。与传统的 2D 培养相比，我们的平台将 3D-EV 颗粒产量提高了 1,000 倍，并实现了卓越的货物质量。在大鼠子宫内膜类器官损伤模型中，3D-EV 和 2D-​​EV 表现出相当的治疗效果。 3D-EVs 通过转移核心蛋白聚糖来促进细胞活性并抑制细胞损伤，从而抑制 LPS 诱导的 p38 磷酸化。在体内，3D-EV 通过减少子宫内膜纤维化和促进子宫内膜增殖来改善妊娠结局。我们的研究结果表明，源自生物打印的含有 MSC 的人脐带微纤维的 3D-EV 可减轻子宫内膜损伤和纤维化，从而改善 IUA 的妊娠结局。这项研究为开发基于 EV 的有效 IUA 疗法开辟了新途径。
+
+英文摘要：Intrauterine adhesions (IUAs) pose a significant reproductive health challenge, often leading to infertility and complications in pregnancy owing to endometrial damage and fibrosis. Mesenchymal stem cell (MSC)-derived extracellular vesicles (EVs) therapy has emerged as a potential strategy for endometrial repair. However, traditional EVs production methods yield low quantities with limited efficacy, hindering their widespread application. In this study, we proposed an innovative approach that integrates three-dimensional (3D) bioprinted human umbilical cord MSC microfiber-derived EVs (3D-EVs) with gelatin methacrylate hydrogels for in situ delivery. Our platform achieved a 1,000-fold increase in 3D-EV particles production and superior cargo quality compared with conventional 2D cultures. In a rat endometrial organoid injury model, 3D-EVs and 2D-EVs exhibited equivalent therapeutic efficacy. 3D-EVs promoted cell activity and inhibited cell damage by transferring decorin, which inhibited LPS-induced p38 phosphorylation. In vivo, 3D-EVs improved pregnancy outcomes by reducing endometrial fibrosis and promoting endometrial proliferation. Our findings suggest that 3D-EVs derived from bioprinted human umbilical cord MSC-laden microfibers mitigate endometrial injury and fibrosis, improving pregnancy outcomes in IUAs. This study opens new avenues for the development of effective EV-based therapies for the treatment of IUAs.
+
+## 4. 基于双吡啶二胺的双 CDK7/9 抑制剂的结构引导发现，对多形性胶质母细胞瘤具有体外和体内抗肿瘤功效。
+
+- 英文题目：Structure-Guided Discovery of a Bis-Pyridyl Diamine-Based Dual CDK7/9 Inhibitor with In Vitro and In Vivo Antitumor Efficacy in Glioblastoma Multiforme.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：ACS chemical neuroscience
+- 影响因子：3.9
+- 分区：JCR Q2 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-06-03
+- 分数：75
+- PMID：42133861
+- DOI：10.1021/acschemneuro.6c00105
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42133861/
+
+中文摘要：多形性胶质母细胞瘤 (GBM) 是一种致命且快速生长的脑癌，很难通过标准医疗干预进行治疗。 GBM 肿瘤通常过度表达细胞周期蛋白依赖性激酶 9，与细胞周期蛋白 T1 复合，因此，它代表了一个有希望的治疗干预靶点。在这项研究中，我们采用基于结构的虚拟筛选方法对 PubChem 的 6,059 种双吡啶化合物库进行筛选，以鉴定潜在的 CDK9/T1 抑制剂。随后的体外 ADP-Glo​​ 测定表明 GNE-3511 是一种有效的 CDK9/T1 抑制剂，IC50 为 0.064 μM。 GNE-3511 还抑制 CDK7/cyclin H，IC50 为 0.12 μM。在 U-87 MG 和 T98G 胶质母细胞瘤细胞中，GNE-3511 表现出细胞毒性，GI50 分别为 3.4 和 5.0 μM，诱导 G2/M 期细胞周期停滞并促进早期凋亡。 GNE-3511治疗以剂量依赖性方式显着降低抗凋亡标志物BCL-2、SURVIVIN和耐药标志物（ABCB1和ABCG2）的表达，并下调胶质瘤干细胞群体/标志物（CD44、CD90+或CD133+和BMI-1）和球体形成能力。口服 20 mg/kg（每天两次）的 GNE-3511 在 U-87 MG 和 T98G 异种移植/原位小鼠模型中显示出显着的抗肿瘤功效并提高了生存率。总的来说，这些发现凸显 GNE-3511 是开发 GBM 疗法的有前途的主要候选药物。
+
+英文摘要：Glioblastoma multiforme (GBM) is a lethal and fast-growing brain cancer that is difficult to treat with standard medical interventions. GBM tumors often overexpress cyclin-dependent kinase 9, in complex with cyclin T1, and thus, it represents a promising target for therapeutic intervention. In this study, we employed a structure-based virtual screening approach for a curated library of 6,059 bis-pyridyl compounds from PubChem to identify potential CDK9/T1 inhibitors. Subsequent in vitro ADP-Glo assay led to the identification of GNE-3511 as a potent CDK9/T1 inhibitor with an IC50 of 0.064 μM. GNE-3511 also inhibited CDK7/cyclin H with an IC50 of 0.12 μM. In U-87 MG and T98G glioblastoma cells, GNE-3511 exhibited cytotoxicity with a GI50 of 3.4 and 5.0 μM, inducing G2/M phase cell cycle arrest and promoting early apoptosis. Treatment with GNE-3511 significantly reduced the expression of the anti-apoptotic markers BCL-2, SURVIVIN and drug resistance markers (ABCB1 and ABCG2) in a dose-dependent manner, and downregulated glioma stem cell population/markers (CD44, CD90+, or CD133+ and BMI-1) and sphere formation abilities. Oral administration of GNE-3511 at 20 mg/kg (twice daily) demonstrated significant anti-tumor efficacy and improved survival in both U-87 MG and T98G xenograft/orthotopic mouse models. Collectively, these findings highlight GNE-3511 as a promising lead candidate for the development of GBM therapeutics.
+
+## 5. EXOSC10 单倍体不足通过音刺猬信号传导的去抑制导致原发性小头畸形。
+
+- 英文题目：EXOSC10 haploinsufficiency causes primary microcephaly by derepression of Sonic hedgehog signalling.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Brain : a journal of neurology
+- 影响因子：11.7
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-06-03
+- 分数：75
+- PMID：41132091
+- DOI：10.1093/brain/awaf405
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/41132091/
+
+中文摘要：进化上保守的 RNA 外泌体复合物在发育过程中调节基因表达。 RNA外泌体复合体亚基的突变与多种人类大脑疾病有关，这表明RNA衰变的缺陷与神经发育受损有关。在我们的研究中，我们在小头症个体中发现了 EXOSC10 的从头变异。通过在发育中的小鼠前脑中杂合条件性敲除 Exosc10，可以复制患者的表型。发育中的小鼠皮质中 Exosc10 的杂合缺失导致细胞周期退出增加，放射状胶质细胞过早分化为胚胎皮质中的中间祖细胞和神经元。这种以神经干细胞增殖为代价的过早神经发生与较小的皮质尺寸相一致。 RNA 测序和 RNA 免疫沉淀测序揭示了许多 Sonic Hedgehog (Shh) 信号基因的上调。我们进一步展示了 Exosc10 对 Shh 通路转录本（例如 Scube1 和 Scube3）的直接降解。在 Exosc10 小鼠突变体中，减少的皮质尺寸可以通过减少 Shh 活性来很大程度上挽救。我们认为，Exosc10 缺乏导致的 Shh 活性增加会导致过早的神经发生，并最终导致小头畸形。这些观察结果为 Exosc10 的神经发育作用提供了新的见解，并强调了 Exosc10 在皮质发育中对 Shh 信号传导的剂量依赖性调节。
+
+英文摘要：The evolutionarily conserved RNA exosome complex modulates gene expression during development. Mutations in RNA exosome complex subunits have been implicated in various human brain disorders, suggesting that defects in RNA decay are linked to impaired neural development. In our study, we identified de novo variants of EXOSC10 in microcephalic individuals. The patient's phenotype can be replicated by heterozygous conditional knockout of Exosc10 in the developing mouse forebrain. The heterozygous loss of Exosc10 in the developing mouse cortex leads to increased cell cycle exit, with a premature differentiation of radial glial cells to intermediate progenitors and neurons in the embryonic cortex. This premature neurogenesis at the expense of neural stem cell proliferation coincides with a smaller cortical size. RNA sequencing and RNA immunoprecipitation sequencing revealed upregulation of many Sonic hedgehog (Shh) signalling genes. We further show the direct degradation of Shh pathway transcripts such as Scube1 and Scube3 by Exosc10. In Exosc10 mouse mutants, the reduced cortical size could be largely rescued by reducing Shh activity. We propose that increased Shh activity due to Exosc10 deficiency leads to premature neurogenesis and ultimately to microcephaly. These observations offer new insights into the neurodevelopmental role of Exosc10 and highlight the dosage-dependent regulation of Shh signalling by Exosc10 in cortical development.
+
+## 6. GPNMB 调节中性粒细胞胞外陷阱的形成：对缺血性中风的治疗意义。
+
+- 英文题目：GPNMB modulates neutrophil extracellular trap formation: therapeutic implications for ischemic stroke.
 - 主题：创伤性脑损伤
 - 来源：PubMed
 - 期刊/平台：Journal of neuroinflammation
 - 影响因子：10.1
 - 分区：JCR Q1 / CAS 1区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-01
-- 分数：85
-- PMID：42226217
-- DOI：10.1186/s12974-026-03896-y
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42226217/
-
-中文摘要：背景：中风越来越被理解为一种全身性疾病，而不仅仅是脑部病变。除了最初的脑缺血损伤之外，快速的自主神经和神经内分泌应激反应还会破坏周围器官的稳态，并促进广泛的免疫和代谢重塑。随后的屏障失效和外周免疫失调会产生持续的“二次打击”，其中循环微生物产物、损伤相关信号和炎症介质反馈，放大血脑屏障脆弱状态下的神经炎症。与此同时，中风后的免疫力是暂时可塑的：加剧急性损伤的炎症程序可以在以后支持解决和修复，这表明结果取决于免疫平衡和时间，而不仅仅是炎症的程度。正文：干细胞衍生的细胞外囊泡 (EV) 正在成为多货物生物制剂，在功能、组织学和炎症终点方面具有一致的临床前益处。然而，临床转化进展缓慢，部分原因是开发在很大程度上优先考虑增强中枢神经系统递送的策略，尽管全身给药的囊泡通常在脑实质中表现出较低的暴露。在这里，我们提出了一种“外周优先”的治疗策略，将这种药代动力学特征重新定义为一种优势。通过利用网状内皮和屏障相关器官（特别是肝脏、脾脏和肠道）对系统递送的囊泡的自然隔离，该方法旨在重新编程外周免疫轨迹，增强屏障完整性，并抑制维持继发性脑损伤的体液放大环路。我们综合了中风驱动的多器官功能障碍和阶段依赖性免疫重塑的证据，并整合了 EV 通过互补途径发挥作用的机制合理性：外周免疫和代谢再平衡、血脑屏障界面的作用以及中枢神经系统免疫生态位内有限但潜在有意义的影响。我们还总结了 EV 干预卒中的新兴临床前景，并强调了关键的转化……
-
-英文摘要：BACKGROUND: Stroke is increasingly understood as a systemic disorder rather than a brain-only lesion. Beyond the initial cerebral ischemic insult, rapid autonomic and neuroendocrine stress responses destabilize peripheral organ homeostasis and promote widespread immune and metabolic remodeling. Subsequent barrier failure and peripheral immune dysregulation can generate a sustained "second hit" in which circulating microbial products, damage-associated signals, and inflammatory mediators feedback to amplify neuroinflammation in a blood-brain barrier-vulnerable state. Meanwhile, post-stroke immunity is temporally plastic: inflammatory programs that worsen acute injury can later support resolution and repair, indicating that outcomes depend on immune balance and timing, not simply inflammatory magnitude. MAIN BODY: Stem cell-derived extracellular vesicles (EVs) are emerging as multi-cargo biologics with consistent preclinical benefit across functional, histological, and inflammatory endpoints. However, clinical translation has progressed slowly, in part because development has largely prioritized strategies to enhance central nervous system delivery even though systemically administered vesicles typically show low exposure in brain parenchyma. Here, we propose a "periphery-first" therapeutic strategy that reframes this pharmacokinetic profile as an advantage. By leveraging the natural sequestration of systemically delivered vesicles by reticuloendothelial and barrier-associated organs-particularly the liver, spleen, and gut-this approach aims to reprogram peripheral immune trajectories, strengthen barrier integrity, and suppress humoral amplification loops that sustain secondary brain injury. We synthesize evidence for stroke-driven multi-organ dysfunction and phase-dependent immune remodeling and integrate mechanistic plausibility for EVs acting through complementary routes: peripheral immune and metabolic rebalancing, actions at the blood-brain barrier interface and limited but potentially meaningful effects within central nervous system immune niches. We also summarize the emerging clinical landscape of EV interventions in stroke and highlight key translational constraints, including product heterogeneity and potency-linked quality control, comorbidity-relevant modeling aligned with systemic pathology, dosing and safety limitations imposed by hepatic clearance, and the need for artifact-resistant biodistribution methods and causal necessity/sufficiency study designs to quantify route-to-efficacy. CONCLUSION: A periphery-first framework positions EV therapy as a systems-level intervention that targets peripheral drivers of secondary brain injury. Establishing quantitative causal mechanisms and translation-ready manufacturing and dosing principles will be essential to accelerate clinical development beyond a primarily brain-delivery paradigm.
-
-## 2. 胶质母细胞瘤的肿瘤靶向干扰素-α 基因治疗：一项 1 期试验。
-
-- 英文题目：Tumor-targeted interferon-α gene therapy for glioblastoma: a phase 1 trial.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Nature medicine
-- 影响因子：50.0
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-01
-- 分数：83
-- PMID：42225991
-- DOI：10.1038/s41591-026-04419-1
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42225991/
-
-中文摘要：胶质母细胞瘤（GBM）是一种免疫冷脑肿瘤，预后较差，其特点是髓系驱动的免疫抑制微环境。在此，我们报告了一项首次人体 1/2a 期剂量递增研究的中期分析，该研究评估了 Temferon——一种基因工程自体干细胞移植物，旨在通过招募到 GBM TME 的骨髓后代传递干扰素-α2，并局部激活抗肿瘤免疫。手术切除和放疗后，24 名新诊断的 GBM 和未甲基化 MGMT 启动子患者在 8 个队列中接受治疗，测试 Temferon 剂量范围为 0.5 × 106 至 4.0 × 106 CD34+ 细胞 kg-1 和不同的预处理方案（BCNU 或白消安，含或不含塞替派）。主要终点是输注后 90 天内的安全性和耐受性。次要终点包括长期安全性、剂量和预处理方案选择、Temferon 植入、临床反应、生活质量和生存率。在所测试的特铁龙最高剂量水平下，未观察到剂量限制性毒性。选择白消安调理进行进一步开发。不良事件包括与自体干细胞移植一致的实验室异常、血细胞减少和感染。诊断后中位总生存期和无进展生存期分别为 16.7 个月和 8.1 个月，大多数患者保持良好的体力状态和生活质量。在骨髓和血液中长期检测到基因工程细胞，并检测到极少量的干扰素-α。对于新诊断的 GBM 患者来说，Temferon 是一种安全且可耐受的免疫治疗策略。 ClinicalTrials.gov：NCT03866109。
-
-英文摘要：Glioblastoma (GBM) is an immunologically cold brain tumor with poor outcome, characterized by a myeloid-driven immunosuppressive microenvironment. Here we report an interim analysis of a first-in-human phase 1/2a dose-escalation study evaluating Temferon-a genetically engineered autologous stem cell transplant designed to deliver interferon-α2 by means of myeloid progeny recruited to the GBM TME and locally activate antitumor immunity. Twenty-four newly diagnosed patients with GBM and unmethylated MGMT promoter were treated across eight cohorts following surgical resection and radiotherapy, testing Temferon doses ranging from 0.5 × 106 to 4.0 × 106 CD34+ cells kg-1 and different conditioning regimens (BCNU or busulfan, with or without thiotepa). The primary endpoint was safety and tolerability within 90 days after infusion. Secondary endpoints included long-term safety, dose and conditioning regimen selection, Temferon engraftment, clinical response, quality of life and survival. No dose-limiting toxicities were observed up to the highest dose level of temferon tested. Busulfan conditioning was selected for further development. Adverse events included laboratory abnormalities, cytopenias and infections consistent with autologous stem cell transplant. Median overall survival and progression-free survival were 16.7 months and 8.1 months from diagnosis, respectively, with most patients maintaining good performance status and quality of life. Genetically engineered cells were detected long term in the bone marrow and the blood, where minimal amounts of interferon-α were measured. Temferon is a safe and tolerable immunotherapeutic strategy in patients with newly diagnosed GBM. ClinicalTrials.gov: NCT03866109 .
-
-## 3. NAT10 依赖 N
-
-- 英文题目：NAT10-dependent N
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Cell reports
-- 影响因子：6.9
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-01
+- 日期：2026-06-02
 - 分数：75
-- PMID：42228575
-- DOI：10.1016/j.celrep.2026.117408
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42228575/
+- PMID：42231390
+- DOI：10.1186/s12974-026-03894-0
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42231390/
 
-中文摘要：R环重塑动态调节染色质状态和基因表达；然而，癌症利用它来维持自我更新和恶性肿瘤的情况仍然知之甚少。在这里，我们发现与分化的后代和神经干细胞相比，胶质母细胞瘤 (GBM) 干细胞 (GSC) 显示出高度活跃的 R 环。全基因组图谱揭示了 GSC 启动子近端区域 R 环的细胞特异性富集和空间积累，与活性转录和开放染色质相关。我们将 N-乙酰转移酶 10 (NAT10) 鉴定为 GSC 中的高亲和力 R 环结合蛋白，在 OLIG1 下游过表达。 NAT10 催化 R 环 RNA 链上广泛的 N4-乙酰胞苷 (ac4C) 沉积，稳定启动子相关的 R 环并促进开放染色质通过核心干性调节因子（包括 EGR1）维持自我更新。 NAT10 敲低可在体外抑制 GSC 增殖和维持，并在体内减弱肿瘤生长。使用重塑蛋白表型 NAT10 基因靶向对 NAT10/ac4C 修饰的 R 环进行药理抑制，证明了针对癌症的治疗前景。
+中文摘要：小胶质细胞是关键的免疫活性细胞，可立即响应操纵中风后神经炎症，从而塑造中风的预后。据报道，GPNMB 在缺血性中风后表达上调，可能会影响结果。然而，其详细的生物学功能和机制仍然难以捉摸。在这里，我们发现 GPNMB 在缺血脑中显着升高，并且主要分布在小胶质细胞中。将 GPNMB 敲除小鼠与重组 GPNMB 蛋白相结合，我们发现 GPNMB 可以减轻缺血性脑损伤。重组 GPNMB (rGPNMB) 给药可以减少中性粒细胞胞外陷阱 (NET) 的形成，而 GPNMB 的敲除则促进缺血性中风中 NET 的形成。此外，我们发现CD44在介导GPNMB抑制NET形成和减轻缺血性脑损伤方面发挥着重要作用。消耗中性粒细胞或用 DNase I 抑制 NET 形成可以降低 GPNMB 的神经保护作用。从机制上讲，GPNMB 可能部分通过与 CD44 受体结合后调节 Rac-ROS 通路来抑制 NET 形成。最后，我们的数据表明，延迟给予 rGPNMB 保留了对缺血性中风的神经保护作用。我们的研究揭示了 GPNMB 在调节 NET 形成中的重要性，并提出了操纵中风后中性粒细胞相关神经炎症的潜在目标。
 
-英文摘要：R-loop remodeling dynamically regulates chromatin states and gene expression; however, its exploitation by cancer to sustain self-renewal and malignancy remains poorly understood. Here, we find that glioblastoma (GBM) stem cells (GSCs) display highly active R-loops compared to differentiated progeny and neural stem cells. Genome-wide mapping reveals cell-specific enrichment and spatial accumulation of R-loops at promoter-proximal regions in GSCs, correlating with active transcription and open chromatin. We identify N-acetyltransferase 10 (NAT10) as a high-affinity R-loop-binding protein in GSCs, where it is overexpressed downstream of OLIG1. NAT10 catalyzes widespread N4-acetylcytidine (ac4C) deposition on the RNA strand of R-loops, stabilizing promoter-associated R-loops and facilitating open chromatin to sustain self-renewal through core stemness regulators, including EGR1. NAT10 knockdown suppresses GSC proliferation and maintenance in vitro and attenuates tumor growth in vivo. Pharmacological inhibition of NAT10/ac4C-modified R-loops using remodelin phenocopies NAT10 genetic targeting, demonstrating therapeutic promise for targeting cancer.
+英文摘要：Microglia are key immune-competent cells responding immediately to manipulate post-stroke neuroinflammation to shape the prognosis of stroke. GPNMB was reported to be upregulated after ischemic stroke and might influence the outcome. However, its detailed biological function and mechanism remain elusive. Here, we found that GPNMB was remarkably elevated in the ischemic brain and mainly distributed in microglia. Combining GPNMB knockout mice and recombinant GPNMB protein, we found that GPNMB could alleviate ischemic brain injury. Recombinant GPNMB (rGPNMB) administration could reduce neutrophil extracellular traps (NETs) formation, while knockout of GPNMB promoted NET formation in ischemic stroke. In addition, we found that CD44 functioned importantly in mediating the role of GPNMB inhibiting NET formation and alleviating ischemic brain injury. Depletion of neutrophils or inhibition of NET formation with DNase I could reduce the neuroprotective impact of GPNMB. Mechanistically, GPNMB might inhibit NET formation partly via modulating the Rac-ROS pathway after binding to the CD44 receptor. Finally, our data indicated that delayed rGPNMB administration retained neuroprotective impact in ischemic stroke. Our study revealed the importance of GPNMB in modulating NET formation and suggested a potential target for manipulating post-stroke neutrophil-associated neuroinflammation.
 
-## 4. 免疫球蛋白 G 加剧内皮-小胶质细胞串扰，促进高原脑水肿的继发性损伤。
+## 7. 口面部神经性疼痛的病理生理学：神经胶质可塑性多级级联的叙述性回顾。
 
-- 英文题目：Immunoglobulin G exacerbates endothelial-microglial crosstalk, promoting secondary injury in high-altitude cerebral edema.
-- 主题：小胶质细胞与 TREM2
+- 英文题目：Pathophysiology of orofacial neuropathic pain: A narrative review on the multi-level cascade of neuro-glial plasticity.
+- 主题：脑积水与脑脊液循环
 - 来源：PubMed
-- 期刊/平台：IBRO neuroscience reports
-- 影响因子：2.9
+- 期刊/平台：Journal of oral biosciences
+- 影响因子：2.3
 - 分区：JCR Q2 / CAS 4区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-01
+- 日期：2026-06-02
 - 分数：75
-- PMID：42221211
-- DOI：10.1016/j.ibneur.2026.04.012
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42221211/
+- PMID：42229053
+- DOI：10.1016/j.job.2026.100795
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42229053/
 
-中文摘要：低压缺氧（HH）引起的血脑屏障（BBB）破坏是高原脑水肿（HACE）的关键病理事件。然而，外渗免疫球蛋白 G (IgG) 在此过程中的机制作用仍未得到充分表征。这项研究阐明，在 HH 条件下，泄漏的 IgG 会主动导致神经炎症和 BBB 损伤，其功能不仅仅是被动生物标志物。使用体内和体外模型，我们证明 HH 快速诱导 Caveolin-1 依赖性 IgG 跨内皮细胞转胞吞作用，这是 TJ 降解之前的早期事件。内化的 IgG 激活内皮细胞中的 NF-κB 信号传导，导致 Claudin-5 和 ZO-1 下调并促进 NLRP3 炎性体组装。同时，外渗的 IgG 驱动小胶质细胞极化向促炎 M1 表型，其标志是 IL-1β 表达增加和 p65 磷酸化。使用甲基-β-环糊精 (MβCD) 抑制 Caveolin-1 可显着减少 IgG 摄取，抑制内皮炎症信号传导，并减弱小胶质细胞活化，从而保持 BBB 完整性。这些发现支持“两次打击”模型，其中 Caveolin-1 介导的 IgG 转胞吞作用启动神经炎症和 BBB 破坏的前馈循环。我们的结果将 Caveolin-1 确定为一个有前途的治疗靶点，并为 HACE 发病机制提供了机制见解，为新型预防和治疗策略奠定了基础。
+中文摘要：背景：口面部神经性疼痛除了简单的神经元过度兴奋之外，还具有复杂的病理生理学。在这篇综述中，综合了神经胶质可塑性多级级联（从三叉神经节（TG）到高级大脑中心）的最新证据，并检查了其在慢性疼痛和情感困扰中的作用。要点：周围神经损伤激活 TG 中的卫星胶质细胞和三叉神经感觉核复合体中的小胶质细胞/星形胶质细胞，驱动中枢敏化和回路重组。这些变化延伸到情感回路和下行疼痛调节系统，其中延髓头端腹内侧星形胶质细胞促进促伤害感受状态。新的观点也强调了脑膜淋巴功能障碍在延长神经炎症中的潜在作用。结论：口面部神经性疼痛被概念化为“多级神经胶质病”。对这些阶段特异性神经胶质细胞相互作用和稳态清除系统的更详细了解将为开发基于机制的治疗策略提供新的框架。
 
-英文摘要：Hypobaric hypoxia (HH)-induced blood-brain barrier (BBB) disruption is a critical pathological event in high-altitude cerebral edema (HACE). However, the mechanistic role of extravasated immunoglobulin G (IgG) in this process remains insufficiently characterized. This study elucidates that leaked IgG actively contributes to neuroinflammation and BBB impairment under HH conditions, functioning beyond being a passive biomarker. Using both in vivo and in vitro models, we demonstrated that HH rapidly induces Caveolin-1-dependent transcytosis of IgG across endothelial cells as an early event, preceding the degradation of TJs. Internalized IgG activated NF-κB signaling in endothelial cells, leading to the downregulation of Claudin-5 and ZO-1 and promoting NLRP3 inflammasome assembly. Concurrently, extravasated IgG drove microglial polarization toward a pro-inflammatory M1 phenotype, marked by increased IL-1β expression and p65 phosphorylation. Inhibition of Caveolin-1 using methyl-β-cyclodextrin (MβCD) significantly reduced IgG uptake, suppressed endothelial inflammatory signaling, and attenuated microglial activation, thereby preserving BBB integrity. These findings support the "two-hit" model, in which Caveolin-1-mediated IgG transcytosis initiates a feed-forward loop of neuroinflammation and BBB disruption. Our results identify Caveolin-1 as a promising therapeutic target and provide mechanistic insights into HACE pathogenesis, offering a foundation for novel preventive and treatment strategies.
+英文摘要：BACKGROUND: Orofacial neuropathic pain has a complex pathophysiology beyond simple neuronal hyperexcitability. In this review, recent evidence is synthesized on the multi-level cascade of neuro-glial plasticity-from the trigeminal ganglion (TG) to higher brain centers-and its role in pain chronicity and affective distress is examined. HIGHLIGHT: Peripheral nerve injury activates satellite glial cells in the TG and microglia/astrocytes in the trigeminal sensory nuclear complex, driving central sensitization and circuit reorganization. These changes extend to affective circuits and the descending pain modulatory system, where astrocytes in the rostral ventromedial medulla facilitate pro-nociceptive states. Emerging perspectives also highlight the potential role of meningeal lymphatic dysfunction in prolonging neuroinflammation. CONCLUSION: Orofacial neuropathic pain is conceptualized as a "multi-level gliopathy". A more detailed understanding of these stage-specific neuro-glial interactions and homeostatic clearance systems will provide a novel framework for the development of mechanism-based therapeutic strategies.
 
-## 5. LRP1 激活促进代谢重编程和 Mrc1 表达，以减轻 LPS 诱导的认知缺陷：综合组学分析。
+## 8. 全身神经免疫重置：神经精神疾病神经炎症非侵入性调节的统一框架。
 
-- 英文题目：LRP1 Activation Promotes Metabolic Reprogramming and Mrc1 Expression to Attenuate LPS-Induced Cognitive Deficits: An Integrated Omics Analysis.
+- 英文题目：Systemic Neuroimmune Reset: A Unified Framework for Non-Invasive Modulation of Neuroinflammation in Neuropsychiatric Disorders.
 - 主题：小胶质细胞与 TREM2
 - 来源：PubMed
-- 期刊/平台：CNS neuroscience & therapeutics
-- 影响因子：5.0
-- 分区：JCR Q1 / CAS 2区
+- 期刊/平台：Neuroscience and biobehavioral reviews
+- 影响因子：7.9
+- 分区：JCR Q1 / CAS 1区
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-06-01
 - 分数：75
-- PMID：42212852
-- DOI：10.1002/cns.70950
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42212852/
+- PMID：42229764
+- DOI：10.1016/j.neubiorev.2026.106792
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42229764/
 
-中文摘要：目的：中枢胰岛素抵抗和神经炎症在认知能力下降的发病机制中发挥协同驱动作用。虽然已知低密度脂蛋白受体相关蛋白 1 (LRP1) 可以维持血脑屏障的完整性，但其解耦炎症代谢轴的能力仍未得到充分研究。本研究探讨 LRP1 的激活是否可以通过重新校准脑葡萄糖代谢来改善 LPS 诱导的认知缺陷。方法：我们采用行为表型分析与靶向代谢组学和转录组学相结合的综合方法来剖析 SP16（一种选择性 LRP1 激动剂）的神经保护机制。通过脑室内 (i.c.v) LPS 给药，然后通过腹膜内 (i.p) 注射 SP16 进行全身干预，在小鼠中建立认知功能障碍模型。结果：SP16 治疗保留了 LPS 注射后的认知功能并防止了神经元结构萎缩。从机制上讲，LRP1 激活不仅仅能抑制炎症；它在功能上调节海马胰岛素敏感性并重新建立氧化还原稳态。至关重要的是，代谢组学分析强调了糖酵解通量的恢复，重点是果糖 1,6-二磷酸 (FBP) 水平的正常化。这种代谢重编程与 M2 样修复标记 Mrc1 的上调同时发生。结论：我们的研究结果确定 LRP1 是连接代谢健康和免疫解决的调节剂。通过 FBP 节点强制代谢转变，SP16 有效引导小胶质细胞从促炎状态转向组织修复。因此，研究 SP16 介导的代谢重编程为针对神经炎症相关认知障碍的治疗干预提供了机会，为广谱抗炎药提供了更细致的替代方案。
+中文摘要：目前针对神经精神疾病的药物疗法面临着不同的疗效和副作用，需要从症状管理转向针对共享的上游神经免疫机制。慢性神经炎症、小胶质细胞功能障碍和神经可塑性受损是诊断的核心驱动因素。非侵入性干预措施——运动、营养、电磁神经调节和身心实践——显示出希望，但机制是孤立研究的，限制了协同作用。我们提出了系统神经免疫重置（SNR）框架，该框架假设这些不同的模式汇聚在核心神经免疫调节中心。我们综合了证明协同作用的证据：(i) 抑制关键的促炎信号传导节点（NF-κB、NLRP3 炎症小体）； (ii) 促进小胶质细胞向神经保护表型极化； (iii) 增强神经营养支持和突触可塑性； (iv) 诱导持久的表观遗传重编程。这种多输入、协同输出模型超越了单纯的平行路径目录，揭示了一个集成的、分层的生物程序，用于重新校准失调的神经免疫系统。这种多输入、协同输出模型揭示了重新校准神经免疫稳态的综合程序。我们批判性地研究转化挑战，并概述 SNR 框架如何为生物标志物引导的个性化联合疗法提供机械路线图。该预测框架指导干预设计，以克服临床瓶颈并加速定制的神经免疫治疗。
 
-英文摘要：AIM: Central insulin resistance and neuroinflammation act as synergistic drivers in the pathogenesis of cognitive decline. While the low-density lipoprotein receptor-related protein 1 (LRP1) is known to maintain blood-brain barrier integrity, its capacity to decouple the inflammation-metabolism axis remains underexplored. This study investigates whether activation of LRP1 can ameliorate LPS-induced cognitive deficits by recalibrating cerebral glucose metabolism. METHODS: We utilized an integrative approach combining behavioral phenotyping with targeted metabolomics and transcriptomics to dissect the neuroprotective mechanism of SP16, a selective LRP1 agonist. Cognitive dysfunction was modeled in mice via intracerebroventricular (i.c.v) LPS administration, followed by systemic intervention with intraperitoneally (i.p) injected SP16. RESULTS: SP16 treatment preserved cognitive function and prevented neuronal structural atrophy against the LPS injection. Mechanistically, LRP1 activation did more than suppress inflammation; it functionally modulated hippocampal insulin sensitivity and re-established redox homeostasis. Crucially, metabolomic profiling highlighted a restoration of glycolytic flux, centered on the normalization of fructose-1,6-bisphosphate (FBP) levels. This metabolic reprogramming coincided with the upregulation of the M2-like reparative marker, Mrc1. CONCLUSION: Our findings identify LRP1 as a regulator that bridges metabolic health and immune resolution. By enforcing a metabolic shift via the FBP node, SP16 effectively guides microglia from a pro-inflammatory state toward tissue repair. Thus, honing in on SP16-mediated metabolic reprogramming presents an opportunity for a therapeutic intervention against neuroinflammation-associated cognitive impairment, offering a more nuanced alternative to broad-spectrum anti-inflammatories.
+英文摘要：Current pharmacotherapies for neuropsychiatric disorders face variable efficacy and side effects, demanding a shift from symptom management to targeting shared upstream neuroimmune mechanisms. Chronic neuroinflammation, microglial dysfunction, and impaired neuroplasticity represent central drivers across diagnoses. Non‑invasive interventions-exercise, nutrition, electromagnetic neuromodulation, and mind‑body practices-show promise, but mechanisms are studied in isolation, limiting synergy. We propose the Systemic Neuroimmune Reset (SNR) framework, which posits these diverse modalities converge on core neuroimmune regulatory hubs. We synthesize evidence demonstrating synergistic actions that: (i) suppress pivotal pro‑inflammatory signaling nodes (NF‑κB, NLRP3 inflammasome); (ii) promote microglial polarization toward a neuroprotective phenotype; (iii) enhance neurotrophic support and synaptic plasticity; and (iv) induce lasting epigenetic reprogramming. Moving beyond a mere catalog of parallel pathways, this multi‑input, synergistic‑output model reveals an integrated, hierarchical biological program for recalibrating a dysregulated neuroimmune system. This multi‑input, synergistic‑output model reveals an integrated program for recalibrating neuroimmune homeostasis. We critically examine translational challenges and outline how the SNR framework provides a mechanistic roadmap for biomarker‑guided, personalized combination therapies. This predictive framework guides intervention design to overcome clinical bottlenecks and accelerate tailored neuroimmune therapeutics.
 
-## 6. 在 GLP-1 受体激动剂诱导的减肥过程中，15-PGDH 抑制可促进肌肉修复和力量恢复。
+## 9. IRE1α/ASK1/JNK 信号通路的抑制可改善腹部手术后老年小鼠的围术期神经认知障碍。
 
-- 英文题目：15-PGDH inhibition promotes muscle repair and strength recovery during GLP-1 receptor agonist-induced weight loss.
+- 英文题目：Inhibition of the IRE1α/ASK1/JNK signaling pathway ameliorates perioperative neurocognitive disorder in aged mice following abdominal surgery.
+- 主题：小胶质细胞与 TREM2
+- 来源：PubMed
+- 期刊/平台：Brain research
+- 影响因子：2.6
+- 分区：JCR Q3 / CAS 4区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-06-01
+- 分数：75
+- PMID：42229696
+- DOI：10.1016/j.brainres.2026.150397
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42229696/
+
+中文摘要：背景：围手术期神经认知障碍（PND）是一种常见的术后并发症，尽管其病理生理机制仍不完全清楚。肌醇需求酶 1α (IRE1α) 是一种内质网 (ER) 膜传感器，通过 ER 应激参与认知障碍的发病机制。然而，其与 PND 的关系仍不清楚。本研究旨在探讨 IRE1α 是否通过手术引起的 ER 应激导致 PND。方法：采用腹部手术模型，观察手术后对小鼠海马的影响。进行行为学测试、海马组织mRNA测序、蛋白检测、尼氏染色、免疫组化、免疫荧光染色和电镜观察。手术组的老年小鼠接受腹腔注射 IRE1α 抑制剂。结果：手术引起的认知障碍主要见于老年小鼠。手术引起的内质网应激与 IRE1α/ASK1/JNK 通路的激活、小胶质细胞激活增加、炎症因子释放增加和线粒体损伤有关。 IRE1α 抑制剂治疗改善了这些结果。结论：手术引起的 ER 应激与老年小鼠 IRE1α 过度激活和术后认知障碍有关。 IRE1α/ASK1/JNK 通路的抑制可改善术后神经炎症、线粒体病理和小胶质细胞激活，从而改善老年小鼠的术后认知功能。
+
+英文摘要：BACKGROUND: Perioperative neurocognitive disorder (PND) is a common postoperative complication, although its pathophysiological mechanisms remain incompletely understood. Inositol-requiring enzyme 1α (IRE1α) is an endoplasmic reticulum (ER) membrane sensor that participates in the pathogenesis of cognitive disorders through ER stress. However, its relationship with PND remains unclear. This study aimed to investigate whether IRE1α contributes to PND through surgery-induced ER stress. METHODS: An abdominal surgery model was used to investigate the postoperative effects of surgery on the mouse hippocampus. Behavioral tests, mRNA sequencing of hippocampal tissue, protein detection, Nissl staining, immunohistochemistry, immunofluorescence staining, and electron microscopy were performed. Aged mice in the surgery group received intraperitoneal injection of an IRE1α inhibitor. RESULTS: Surgery-induced cognitive impairment was mainly observed in aged mice. Surgery-induced ER stress was associated with activation of the IRE1α/ASK1/JNK pathway, increased microglial activation, enhanced release of inflammatory factors, and mitochondrial damage. Treatment with the IRE1α inhibitor improved these outcomes. CONCLUSION: Surgery-induced ER stress was associated with IRE1α overactivation and postoperative cognitive impairment in aged mice. Suppression of the IRE1α/ASK1/JNK pathway ameliorated postoperative neuroinflammation, mitochondrial pathology, and microglial activation, thereby improving postoperative cognitive function in aged mice.
+
+## 10. 呼出气冷凝物中的细胞外囊泡作为肺癌的新兴生物标志物。
+
+- 英文题目：Extracellular Vesicles in Exhaled Breath Condensate as Emerging Biomarkers in Lung Cancer.
 - 主题：干细胞与外泌体
 - 来源：PubMed
-- 期刊/平台：Proceedings of the National Academy of Sciences of the United States of America
-- 影响因子：9.1
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-09
-- 分数：65
-- PMID：42228536
-- DOI：10.1073/pnas.2606533123
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42228536/
-
-中文摘要：胰高血糖素样肽 1 受体激动剂，包括长效索马鲁肽，是变革性的抗肥胖疗法。然而，新出现的证据表明，减肥可能会损害骨骼肌质量，而骨骼肌质量对于活动能力、代谢调节和整体健康至关重要。在这里，我们表明，在索马鲁肽存在的情况下，抑制Gerozyme 15-羟基前列腺素脱氢酶（15-PGDH）（一种随着损伤和衰老而增加的前列腺素降解酶）可以改善肌肉修复和力量恢复。在高脂肪饮食诱导的肥胖小鼠模型中，单独使用索马鲁肽会导致肌肉质量显着损失，同时保留收缩功能。受伤后，肥胖小鼠表现出先前报道的遗传性肌病杜氏肌营养不良症的病理性钙化。索马鲁肽既有有益作用，也有有害作用，减少钙化重塑，但导致再生肌纤维尺寸减少。接受索马鲁肽治疗的小鼠中，这种再生肌纤维生长受损的问题可以通过与 15-PGDH 抑制剂 (PGDHi) 共同治疗来克服，该抑制剂刺激肌肉干细胞功能和肌纤维生长，从而增强力量。重要的是，PGDHi 与索马鲁肽协同作用，可提高受伤后的肌肉质量和肌肉力量，而不影响减肥。
-
-英文摘要：Glucagon-like peptide-1 receptor agonists, including long-acting semaglutide, are transformative anti-obesity therapies. However, emerging evidence indicates that weight loss may come at the expense of skeletal muscle mass, a tissue essential for mobility, metabolic regulation, and overall health. Here, we show that inhibition of the gerozyme 15-hydroxyprostaglandin dehydrogenase (15-PGDH), a prostaglandin-degrading enzyme that increases with injury and aging, improves muscle repair and strength recovery in the presence of semaglutide. In a high fat diet-induced mouse model of obesity, semaglutide alone caused significant loss of muscle mass, while preserving contractile function. Following injury, obese mice exhibited pathological calcifications previously reported for the heritable myopathy, Duchenne Muscular Dystrophy. Semaglutide had both beneficial and deleterious effects, reducing calcific remodeling, but causing reduced regenerated myofiber sizes. This impaired regenerative myofiber growth in semaglutide-treated mice was surmounted by cotreatment with a 15-PGDH inhibitor (PGDHi), which stimulated muscle stem cell function and myofiber growth, leading to enhanced strength. Importantly, PGDHi synergizes with semaglutide to boost postinjury muscle quality and muscle force without compromising weight loss.
-
-## 7. 解码神经炎症：NLRP3 炎症小体在阿尔茨海默病中的关键作用。
-
-- 英文题目：Decoding neuroinflammation: the critical role of NLRP3 inflammasome in Alzheimer's disease.
-- 主题：创伤性脑损伤
-- 来源：PubMed
-- 期刊/平台：Inflammopharmacology
-- 影响因子：5.3
+- 期刊/平台：American journal of physiology. Cell physiology
+- 影响因子：4.7
 - 分区：JCR Q1 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-02
-- 分数：65
-- PMID：42228338
-- DOI：10.1007/s10787-026-02274-7
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42228338/
+- 日期：2026-06-03
+- 分数：73
+- PMID：42233525
+- DOI：10.1152/ajpcell.00069.2026
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42233525/
 
-中文摘要：阿尔茨海默病 (AD) 是一种进行性神经退行性疾病，其特征包括 tau 蛋白缠结、β 淀粉样蛋白 (Aβ) 斑块、认知障碍和严重的神经炎症。连接 AD 中免疫激活和神经病理学的关键分子介质是 NLRP3 炎性体。这篇综述解释了 NLRP3 炎症小体在 AD 中的复杂作用，包括其结构、激活机制和调节信号通路。激活 NLRP3 的病原体相关分子模式 (PAMP) 和损伤相关分子模式 (DAMP) 包括氧化应激、Aβ、线粒体功能障碍、离子流、肠道生态失调和线粒体功能障碍。当炎症小体与 ASC 和 procaspase-1 组装时，促炎细胞因子 IL-1β 和 IL-18 被释放，导致 caspase-1 激活和细胞焦亡。该文章研究了经典和非经典焦亡途径，并详细介绍了神经胶质细胞（特别是小胶质细胞和星形胶质细胞）如何参与 NLRP3 介导的神经炎症。研究表明，NLRP3 的激活受到多种受体介导的信号通路的调节，包括 NF-κB、TLR4、TREM2、嘌呤能和 MAP4K6，这些通路会加剧 AD 大脑中的炎症反应。此外，该综述还评估了针对 NLRP3 及其上游调节因子的临床前和临床研究，强调了 Simufilam、MCC950、OLT1177 和 CY-09 等潜在的治疗选择。这项工作强调了炎症小体的治疗潜力，并通过阐明 NLRP3 与 AD 进展之间的分子机制，促进了靶向抗炎治疗的发展，以改善 AD 病理学。
+中文摘要：呼出气冷凝物 (EBC) 已成为一种无创液体活检介质，可捕获呼吸道中的雾化物质，并可深入了解局部肺部生物学。在这个基质中，细胞外囊泡 (EV) 可以携带反映细胞起源的 DNA、RNA、蛋白质和脂质，并可能报告肿瘤相关炎症、气道重塑和微环境变化。本综述总结了 EBC 中检测到的 EV 的分子组成、起源和生物发生的最新证据，重点是它们在早期肺癌检测和纵向疾病监测方面的潜力。蛋白质组学、转录组学和基因组分析已经确定了与肿瘤相关的特征，包括细胞因子、驱动突变和表观遗传改变，而脂质组学分析可以捕获氧化、炎症和代谢应激。 EV 富集、微流体、单囊泡分析和数字化验方面的最新方法学进展正在提高低生物量 EBC 分析的灵敏度。然而，EBC 衍生的 EV 研究在技术上仍然具有挑战性，收集、EV 分离、分子分析和报告的标准化至关重要。人工智能 (AI) 和机器学习 (ML) 可以支持多组学和临床数据的整合，特别是在前瞻性队列中进行验证时。总之，这些发展将 EBC 衍生的 EV 定位为一种新兴的、患者友好的、近肺平台，用于生物标志物发现和未来的精准肿瘤学应用，同时强调了源解析验证和临床转化研究的需求。
 
-英文摘要：The hallmarks of Alzheimer's disease (AD), a progressive neurodegenerative disease, include tau tangles, amyloid-β (Aβ) plaques, cognitive impairment, and severe neuroinflammation. A key molecular mediator linking immunological activation and neurological pathology in AD is the NLRP3 inflammasome. This review explains the intricate role of the NLRP3 inflammasome in AD, including its structure, activation mechanisms, and regulatory signaling pathways. The pathogen-associated molecular patterns (PAMPs) and damage-associated molecular patterns (DAMPs) that activate NLRP3 include oxidative stress, Aβ, mitochondrial dysfunction, ion fluxes, gut dysbiosis, and mitochondrial malfunction. Pro-inflammatory cytokines IL-1β and IL-18 are released when the inflammasome assembles with ASC and procaspase-1, leading to caspase-1 activation and pyroptosis. The article investigates both canonical and noncanonical pyroptosis pathways and provides detailed insights into how glial cells-specifically microglia and astrocytes-are involved in NLRP3-mediated neuroinflammation. It has been demonstrated that NLRP3 activation is modulated by several receptor-mediated signaling pathways, including NF-κB, TLR4, TREM2, purinergic, and MAP4K6, which intensify inflammatory responses in the AD brain. Furthermore, the review assesses preclinical and clinical research targeting NLRP3 and its upstream regulators, emphasizing potential treatment options as Simufilam, MCC950, OLT1177, and CY-09. This work highlights the therapeutic potential of the inflammasome and promotes the development of targeted anti-inflammatory treatments to ameliorate AD pathology by elucidating the molecular mechanisms linking NLRP3 to AD progression.
-
-## 8. 计算机辅助智能算法的航行，用于分割脑组织以进行神经疾病诊断。
-
-- 英文题目：A voyage on computer aided intelligent algorithms for the segmentation of brain tissues for neurodisorder diagnosis.
-- 主题：创伤性脑损伤
-- 来源：PubMed
-- 期刊/平台：The International journal of neuroscience
-- 影响因子：1.5
-- 分区：JCR Q4 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-02
-- 分数：65
-- PMID：42190614
-- DOI：10.1080/00207454.2026.2680936
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42190614/
-
-中文摘要：神经疾病给全球健康带来了相当大的负担，通常需要早期治疗和诊断，以避免不可逆的认知和运动障碍。脑组织分割是神经诊断中的一项重要任务，因为它无法在 MRI 和 CT 等成像模式中准确分离灰质、白质和脑脊液。本文回顾了脑组织分割技术从手动和半自动方法到复杂的机器学习和深度学习算法的进展。它讨论了这些当代方法如何提高分割质量，解决困难的解剖变异并优化阿尔茨海默病、多发性硬化症、创伤性脑损伤和中风等疾病的诊断准确性。这项研究工作根据监督学习、无监督学习和深度学习范式的优点、缺点和在临床环境中的潜在用途进行了比较。此外，它还提出了混合和集成方法，将传统方法和基于人工智能的方法相结合，以减轻数据异构性、注释限制和可解释性等障碍。这项调查详细介绍了机器学习在神经影像学领域的革命性潜力，并最终寻求促进神经系统疾病的早期诊断、治疗计划和个性化医疗保健服务。
-
-英文摘要：Neurodisorders pose a considerable burden to global health, frequently requiring early treatment and diagnosis to avoid irreversible cognitive and motor impairments. Segmentation of brain tissue is an essential task in neurodiagnostics due to its inability to accurately separate grey matter, white matter and cerebrospinal fluid within imaging modalities like MRI and CT. This article reviews the progress of brain tissue segmentation techniques from manual and semi-automated approaches to sophisticated machine learning and deep learning algorithms. It discusses how these contemporary methodologies enhance segmentation quality, address difficult anatomical variation and optimize diagnostic accuracy in diseases like Alzheimer's, multiple sclerosis, traumatic brain injury and stroke. This research work compares supervised, unsupervised and deep learning paradigms on the basis of their advantages, disadvantages and potential use in clinical settings. In addition, it presents hybrid and ensemble methods that blend conventional and AI-based approaches to mitigate obstacles such as data heterogeneity, annotation limitations and interpretability. This survey details the revolutionizing potential of machine learning in neuroimaging and ultimately seeks to facilitate early diagnosis, treatment planning and individualized healthcare provision for neurological diseases.
-
-## 9. 装载 mRNA 的脂质纳米颗粒从鼻子到大脑的递送绕过血脑屏障，实现有效的脑部疾病治疗。
-
-- 英文题目：Nose-to-Brain Delivery of mRNA-Loaded Lipid Nanoparticles Bypasses the Blood-Brain Barrier for Effective Brain Disease Therapy.
-- 主题：创伤性脑损伤
-- 来源：PubMed
-- 期刊/平台：ACS nano
-- 影响因子：16.0
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-02
-- 分数：65
-- PMID：42157518
-- DOI：10.1021/acsnano.6c04580
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42157518/
-
-中文摘要：载有 mRNA 的脂质纳米粒子 (mRNA-LNP) 显示出巨大的治疗潜力，但其在中枢神经系统 (CNS) 疾病中的应用因血脑屏障 (BBB) 渗透性差而受到限制。鼻内（IN）给药可以通过嗅觉/三叉神经通路绕过血脑屏障，从而能够直接靶向大脑并快速筛选大脑特异性脂质纳米颗粒（LNP）。使用基于肽的可电离脂质平台，我们系统地评估了 LNP 表面电荷如何影响 IN 脑递送，并发现带正电荷的 mRNA-LNP 产生了优异的脑转染。体内迭代筛选产生了一种鼻内脑靶向 LNP (INBT LNP)，它可以有效地穿过嗅觉和三叉神经，驱动大脑特异性 mRNA 表达，并最大限度地减少外周器官中的脱靶表达。使用 INBT LNP 共同递送编码脑源性神经营养因子 (BDNF) 和白细胞介素 10 (IL-10) 的 mRNA，可显着减少重复性轻度创伤性脑损伤 (rmTBI) 小鼠模型的神经炎症、抑制神经元死亡并改善认知能力。总体而言，这项工作建立了一个无创、患者顺应性、鼻内 mRNA-LNP 脑递送平台，为 TBI 和其他中枢神经系统疾病提供了一种有前途的治疗策略。
-
-英文摘要：mRNA-loaded lipid nanoparticles (mRNA-LNPs) show great therapeutic potential, but their use in central nervous system (CNS) disorders is limited by poor blood-brain barrier (BBB) penetration. Intranasal (IN) administration can bypass the BBB via olfactory/trigeminal pathways, enabling direct brain targeting and rapid screening of brain-specific lipid nanoparticles (LNPs). Using a peptide-based ionizable lipid platform, we systematically evaluated how LNP surface charge affects IN brain delivery and found that positively charged mRNA-LNPs produced superior brain transfection. Iterative in vivo screening yielded an intranasal brain-targeting LNP (INBT LNP) that efficiently traverses the olfactory and trigeminal nerves, drives brain-specific mRNA expression, and minimizes off-target expression in peripheral organs. Co-delivery of mRNAs encoding brain-derived neurotrophic factor (BDNF) and interleukin-10 (IL-10) using INBT LNPs significantly reduced neuroinflammation, inhibited neuronal death, and improved cognition in a repetitive mild traumatic brain injury (rmTBI) mouse model. Overall, this work establishes a noninvasive, patient-compliant, intranasal mRNA-LNP platform for brain delivery, offering a promising therapeutic strategy for TBI and other CNS disorders.
-
-## 10. 跨界信号：肠道-乳腺轴上的微生物、代谢物和免疫细胞。
-
-- 英文题目：Cross-kingdom signals: microbial, metabolites, and immune cells on the gut-breast axis.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Critical reviews in food science and nutrition
-- 影响因子：8.8
-- 分区：JCR Q1 / CAS 2区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-02
-- 分数：65
-- PMID：42228631
-- DOI：10.1080/10408398.2026.2681931
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42228631/
-
-中文摘要：乳腺是一个动态的粘膜器官，其结构和功能在怀孕、哺乳和复旧过程中不断重塑。新的证据将其置于更广泛的肠道-乳腺轴中，其中肠道微生物及其产物影响乳腺免疫力、上皮细胞程序和母乳的成分。三个机械通道组织了这种串扰。首先，微生物信号（从结构配体到细胞外囊泡）可以到达乳房并调节先天感应。其次，肠道衍生的代谢物，特别是短链脂肪酸 (SCFA)、次级胆汁酸和色氨酸分解代谢物，循环至腺体并作用于宿主受体，调节屏障完整性、炎症和肿瘤生物学。第三，肠道印记免疫细胞运输至哺乳期乳房，将保护性分泌性免疫球蛋白 A 输出到乳汁中。这些途径具有切实的临床意义：选择性益生菌可降低乳腺炎风险并帮助脓肿恢复； SCFA 和胆汁酸相关途径可保护乳腺屏障；特定的共生体或致病生物可以影响乳腺癌的进展和治疗反应。由于牛奶和乳腺组织是低生物量生态位，因此严格的污染控制对于再现性至关重要。这篇综述综合了肠乳轴中的跨界信号，并概述了从膳食纤维和靶向后生元到胆汁酸途径调节和抗生素管理的转化机会，以改善哺乳期健康并为肿瘤学提供信息。
-
-英文摘要：The mammary gland is a dynamic mucosal organ whose structure and function are continually reshaped across pregnancy, lactation, and involution. Emerging evidence places it within a broader gut-breast axis in which intestinal microbes and their products influence mammary immunity, epithelial programs, and the composition of human milk. Three mechanistic lanes organize this crosstalk. First, microbial signals-ranging from structural ligands to extracellular vesicles-can reach the breast and tune innate sensing. Second, gut-derived metabolites-notably short-chain fatty acids (SCFA), secondary bile acids, and tryptophan catabolites-circulate to the gland and act on host receptors to regulate barrier integrity, inflammation, and tumor biology. Third, gut-imprinted immune cells traffic to the lactating breast, exporting protective secretory immunoglobulin A into milk. These routes have tangible clinical implications: selective probiotics reduce mastitis risk and aid abscess recovery; SCFA- and bile-acid-linked pathways protect mammary barriers; and specific commensals or pathobionts can shape breast cancer progression and therapy response. Because milk and mammary tissue are low-biomass niches, rigorous contamination controls are essential for reproducibility. This review synthesizes cross-kingdom signals in the gut-breast axis and outlines translational opportunities-from dietary fiber and targeted postbiotics to bile-acid pathway modulation and antibiotic stewardship-to improve lactation health and inform oncology.
+英文摘要：Exhaled breath condensate (EBC) has emerged as a noninvasive liquid biopsy medium that captures aerosolized material from the respiratory tract and may provide insight into local lung biology. Within this matrix, extracellular vesicles (EVs) can carry DNA, RNA, proteins, and lipids that reflect cellular origin and may report tumor-associated inflammation, airway remodeling, and microenvironmental changes. This review summarizes current evidence on the molecular composition, origin, and biogenesis of EVs detected in EBC, with emphasis on their potential for early lung cancer detection and longitudinal disease monitoring. Proteomic, transcriptomic, and genomic analyses have identified tumor-associated signatures, including cytokines, driver mutations, and epigenetic alterations, while lipidomic profiling may capture oxidative, inflammatory, and metabolic stress. Recent methodological advances in EV enrichment, microfluidics, single-vesicle analytics, and digital assays are improving the sensitivity of low-biomass EBC analyses. However, EBC-derived EV research remains technically challenging, and standardization of collection, EV isolation, molecular analysis, and reporting is essential. Artificial intelligence (AI) and machine learning (ML) may support integration of multi-omic and clinical data, particularly when validated in prospective cohorts. Together, these developments position EBC-derived EVs as an emerging, patient-friendly, lung-proximal platform for biomarker discovery and future precision oncology applications, while underscoring the need for source-resolved validation and clinical translation studies.
 
 # 顶刊神经科学
 
@@ -217,7 +217,26 @@
 
 英文摘要：Glioblastoma (GBM) is an immunologically cold brain tumor with poor outcome, characterized by a myeloid-driven immunosuppressive microenvironment. Here we report an interim analysis of a first-in-human phase 1/2a dose-escalation study evaluating Temferon-a genetically engineered autologous stem cell transplant designed to deliver interferon-α2 by means of myeloid progeny recruited to the GBM TME and locally activate antitumor immunity. Twenty-four newly diagnosed patients with GBM and unmethylated MGMT promoter were treated across eight cohorts following surgical resection and radiotherapy, testing Temferon doses ranging from 0.5 × 106 to 4.0 × 106 CD34+ cells kg-1 and different conditioning regimens (BCNU or busulfan, with or without thiotepa). The primary endpoint was safety and tolerability within 90 days after infusion. Secondary endpoints included long-term safety, dose and conditioning regimen selection, Temferon engraftment, clinical response, quality of life and survival. No dose-limiting toxicities were observed up to the highest dose level of temferon tested. Busulfan conditioning was selected for further development. Adverse events included laboratory abnormalities, cytopenias and infections consistent with autologous stem cell transplant. Median overall survival and progression-free survival were 16.7 months and 8.1 months from diagnosis, respectively, with most patients maintaining good performance status and quality of life. Genetically engineered cells were detected long term in the bone marrow and the blood, where minimal amounts of interferon-α were measured. Temferon is a safe and tolerable immunotherapeutic strategy in patients with newly diagnosed GBM. ClinicalTrials.gov: NCT03866109 .
 
-## 2. 小胶质细胞线粒体通过富含 GPNMB 的细胞外囊泡转移至星形胶质细胞，可减轻 tau 蛋白病小鼠的认知缺陷。
+## 2. EXOSC10 单倍体不足通过音刺猬信号传导的去抑制导致原发性小头畸形。
+
+- 英文题目：EXOSC10 haploinsufficiency causes primary microcephaly by derepression of Sonic hedgehog signalling.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Brain : a journal of neurology
+- 影响因子：11.7
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-06-03
+- 分数：91
+- PMID：41132091
+- DOI：10.1093/brain/awaf405
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/41132091/
+
+中文摘要：进化上保守的 RNA 外泌体复合物在发育过程中调节基因表达。 RNA外泌体复合体亚基的突变与多种人类大脑疾病有关，这表明RNA衰变的缺陷与神经发育受损有关。在我们的研究中，我们在小头症个体中发现了 EXOSC10 的从头变异。通过在发育中的小鼠前脑中杂合条件性敲除 Exosc10，可以复制患者的表型。发育中的小鼠皮质中 Exosc10 的杂合缺失导致细胞周期退出增加，放射状胶质细胞过早分化为胚胎皮质中的中间祖细胞和神经元。这种以神经干细胞增殖为代价的过早神经发生与较小的皮质尺寸相一致。 RNA 测序和 RNA 免疫沉淀测序揭示了许多 Sonic Hedgehog (Shh) 信号基因的上调。我们进一步展示了 Exosc10 对 Shh 通路转录本（例如 Scube1 和 Scube3）的直接降解。在 Exosc10 小鼠突变体中，减少的皮质尺寸可以通过减少 Shh 活性来很大程度上挽救。我们认为，Exosc10 缺乏导致的 Shh 活性增加会导致过早的神经发生，并最终导致小头畸形。这些观察结果为 Exosc10 的神经发育作用提供了新的见解，并强调了 Exosc10 在皮质发育中对 Shh 信号传导的剂量依赖性调节。
+
+英文摘要：The evolutionarily conserved RNA exosome complex modulates gene expression during development. Mutations in RNA exosome complex subunits have been implicated in various human brain disorders, suggesting that defects in RNA decay are linked to impaired neural development. In our study, we identified de novo variants of EXOSC10 in microcephalic individuals. The patient's phenotype can be replicated by heterozygous conditional knockout of Exosc10 in the developing mouse forebrain. The heterozygous loss of Exosc10 in the developing mouse cortex leads to increased cell cycle exit, with a premature differentiation of radial glial cells to intermediate progenitors and neurons in the embryonic cortex. This premature neurogenesis at the expense of neural stem cell proliferation coincides with a smaller cortical size. RNA sequencing and RNA immunoprecipitation sequencing revealed upregulation of many Sonic hedgehog (Shh) signalling genes. We further show the direct degradation of Shh pathway transcripts such as Scube1 and Scube3 by Exosc10. In Exosc10 mouse mutants, the reduced cortical size could be largely rescued by reducing Shh activity. We propose that increased Shh activity due to Exosc10 deficiency leads to premature neurogenesis and ultimately to microcephaly. These observations offer new insights into the neurodevelopmental role of Exosc10 and highlight the dosage-dependent regulation of Shh signalling by Exosc10 in cortical development.
+
+## 3. 小胶质细胞线粒体通过富含 GPNMB 的细胞外囊泡转移至星形胶质细胞，可减轻 tau 蛋白病小鼠的认知缺陷。
 
 - 英文题目：Microglial mitochondria transfer to astrocytes via GPNMB-enriched extracellular vesicles alleviates cognitive deficits in tauopathy mice.
 - 主题：顶刊神经科学
@@ -236,7 +255,7 @@
 
 英文摘要：Alzheimer's disease (AD) is an irreversible neurodegenerative disease characterized by cognitive decline. The precise molecular mechanisms that underlie the pathogenesis of AD remain elusive. Here we show that glycoprotein nonmetastatic melanoma protein B (GPNMB) is produced by microglia and transferred to astrocytes through extracellular vesicles (EVs) in PS19 tau pathology mice. Tau is cleaved in microglia to generate N-terminal fragments that form a complex on mitochondria with Parkin/Nix and GPNMB, promoting the secretion of EVs containing mitochondria. Functional mitochondria transferred to astrocytes via EVs markedly improve astrocytic functions and attenuate the cognitive impairments and pathogenic features in PS19 mice. By contrast, microglial GPNMB deficiency eliminates mitochondrial EV secretion and mitochondrial transfer to astrocytes, thereby impairing astrocytic functions and exacerbating cognitive impairment in PS19-CcKO (CX3CR1 cre Gpnmb floxp) mice. GPNMB-enriched EVs from PS19 mice alleviate the pathological phenotypes of PS19 mice, offering potential insights for AD treatment.
 
-## 3. 母胎 I 型干扰素信号传导导致神经发育障碍中 TREM2 失调和突触功能障碍。
+## 4. 母胎 I 型干扰素信号传导导致神经发育障碍中 TREM2 失调和突触功能障碍。
 
 - 英文题目：Maternal-fetal type I interferon signaling drives TREM2 dysregulation and synaptic dysfunction in neurodevelopmental disorders.
 - 主题：顶刊神经科学
@@ -255,7 +274,7 @@
 
 英文摘要：Maternal infections during gestation cause perturbed neuroimmune interactions and increased risk of neurodevelopmental disorders in the offspring. Using a maternal immune activation model with polyinosinic:polycytidylic acid (poly(I:C)), we investigated how maternal infections reshape the progeny hippocampal landscape. Poly(I:C) increased maternal type I interferon (IFN-I), disrupting neuronal transcriptional trajectories and excitatory synapse homeostasis in juvenile offspring. Poly(I:C) offspring microglia exhibited reduced expression of triggering receptor expressed on myeloid cells 2 (TREM2), a key regulator of synapse elimination and brain development, accompanied by impaired phagocytosis and suppressed IFN-I-responsive substate. Consistently, a blunted IFN-I signature was observed in postmortem tissues from schizophrenic patients. TREM2 deficiency was associated with aberrant maternal IFN-I and altered neuronal and microglial signatures in poly(I:C) offspring, highlighting its regulatory role in neurodevelopmental pathologies. Blocking maternal IFN-I signaling restored synaptic defects and TREM2 function, suggesting that monitoring IFN-I responses during pregnancy and targeting defective IFN-I cascades in the newborn may represent viable therapeutic approaches to mitigate neurodevelopmental dysfunctions.
 
-## 4. 人类造血干细胞会记住炎症应激。
+## 5. 人类造血干细胞会记住炎症应激。
 
 - 英文题目：Human haematopoietic stem cells remember inflammatory stress.
 - 主题：顶刊神经科学
@@ -274,7 +293,7 @@
 
 英文摘要：Inflammation activates blood cells, contributing to ageing and malignancy1-3. Haematopoietic stem cells (HSCs) survive a lifetime of infection to sustain life-long haematopoiesis1-9, but how human HSCs respond and adapt to inflammatory stress is largely unknown. Here, to empirically understand this adaptation, we developed xenograft inflammation-recovery models and performed single-cell multiomics on xenografted human HSCs. Two transcriptionally and epigenetically distinct HSC subsets were identified with one, termed HSC inflammatory memory (HSC-iM), retaining a molecular memory of previous inflammatory treatments. The HSC-iM subset exhibited quiescence and restrained haematopoietic output. Molecularly, the HSC-iM program was enriched in HSCs from adult and paediatric samples across conditions ranging from COVID-19 recovery, sickle cell disease, ageing and clonal haematopoiesis, establishing both the validity of our xenograft models and the physiological relevance of HSC-iM. Clonal haematopoiesis mutations in HSC-iM attenuated the effects of inflammatory stress by promoting HSC activation and differentiation. Moreover, transmission of the pro-inflammatory HSC-iM transcriptional program to differentiated immune progeny was demonstrated in xenograft and physiological settings. Finally, HSC-iM program enrichment in circulating blood cells was associated with a heightened risk score for all-cause mortality in population cohort analyses, underscoring the clinical relevance of this newly identified HSC subset in characterizing heterogeneous health outcomes across a lifetime.
 
-## 5. 通过对成人脑微血管进行靶向 Col4a1 编辑，建立一种新型小鼠脑微出血模型。
+## 6. 通过对成人脑微血管进行靶向 Col4a1 编辑，建立一种新型小鼠脑微出血模型。
 
 - 英文题目：A novel mouse model of cerebral microbleeds by targeted Col4a1 editing in adult brain microvessels.
 - 主题：顶刊神经科学
@@ -293,7 +312,7 @@
 
 英文摘要：Cerebral small vessel disease is a leading cause of cognitive decline and stroke in the elderly, with cerebral microbleeds (CMBs) serving as a key imaging biomarker. Despite their clinical significance, the pathophysiological mechanisms underlying cerebral small vessel disease remain poorly understood owing to a lack of appropriate animal models. We performed targeted deletion of Col4a1 in brain microvessels of adult mice using brain endothelium-specific adeno-associated virus (AAV)-BR1 vectors with clustered regularly interspaced short palindromic repeats/CRISPR-associated protein 9 (CRISPR/Cas9). Eight-week-old Cas9 transgenic mice received retro-orbital injections of AAV-BR1 containing single guide RNA (sgRNA) targeting Col4a1 or control Rosa26 sequences. Animals underwent longitudinal behavioural testing, including novel object recognition, Y-maze and rotarod tests, over 6 months. Brain pathology was assessed using T2*-weighted MRI, histological analysis and electron microscopy. For human studies, we analysed MRI and genomic data from 836 participants from the BICWALZS biobank, examining associations between genetic variants and CMB burden using linear regression and χ2 analyses. T2*-weighted MRI revealed numerous CMBs with distributions remarkably similar to human CMBs, appearing within 3 months post-injection. CMB burden increased progressively over 6 months in a dose-dependent manner. Behaviourally, mice exhibited progressive cognitive decline and motor incoordination. Histological examinations revealed haemosiderin deposits corresponding to MRI-detected CMBs, without macroscopic intracerebral haemorrhage or white matter changes. Ultrastructural analysis demonstrated significant basement membrane thinning in Col4a1-depleted microvessels. CMB accumulation was associated with widespread astrocytic reactivity extending beyond microbleed sites, whereas microglial activation remained localized. In human subjects, we identified significant associations between four genetic variants of TIMP2, an endogenous inhibitor of the matrix-degrading enzyme MMP2 and CMB burden, with odds ratios of 1.50-1.96 for increased microbleed susceptibility. This work provides the first animal model demonstrating that selective disruption of collagen IV in adult brain microvessels is sufficient to generate CMBs with high penetrance and dose-dependent tunability. Our findings establish that basement membrane integrity is critical for preventing microbleed formation and suggest that dysregulated collagen IV homeostasis underlies sporadic human CMB development.
 
-## 6. 重新评估 β2 微球蛋白的作用：关于 ALS 病理学选择性脆弱性的新见解。
+## 7. 重新评估 β2 微球蛋白的作用：关于 ALS 病理学选择性脆弱性的新见解。
 
 - 英文题目：Reevaluating the role of beta2-microglobulin: new insights on selective vulnerability in ALS pathology.
 - 主题：顶刊神经科学
@@ -312,43 +331,24 @@
 
 英文摘要：Amyotrophic lateral sclerosis (ALS) is characterized by the selective loss of motor neurons (MNs). Why these neurons are particularly vulnerable in ALS remains unclear, as does why certain MN groups remain resistant throughout the disease course. We investigated the role of the human leukocyte antigens (HLAs) and beta2-microglobulin (β2m) in MN susceptibility to ALS, given their reported involvement in both prolonging and shortening disease progression. Loss of HLAs in ALS has also been shown to increase MNs vulnerability to toxicity exerted by activated astrocytes. RNA sequencing of control tissues demonstrated that disease-resistant oculomotor neurons (OMNs) and Onuf's MNs exhibited β2m and HLA mRNA levels comparable to those of vulnerable spinal MNs, suggesting that baseline differences in these transcripts do not explain the differential vulnerabilities of these MN groups. However, HLA protein levels showed an inverse correlation with spinal MN size, with the large MNs, those lost early in ALS, displaying the lowest HLA expression. HLA protein levels were also reduced in spinal MNs from end-stage ALS patient tissues, while remaining relatively unchanged in OMNs. In contrast, spinal MNs uniquely exhibited significant upregulation of β2m and HLA-C transcripts during disease, likely reflecting a protective compensatory response. Together, these findings suggest that β2m and HLAs may contribute to spinal MN vulnerability in ALS. To assess their functional role, β2m knockout mice were crossbred with SOD1G93A ALS mice. Loss of β2m did not alter life span of the ALS mice, but led to partial preservation of lumbrical muscle innervation that was insufficient to maintain motor function. Analysis of GFAP immunoreactivity revealed marked neuroinflammation activation in the spinal cords of β2m knockout mice. As these mice retain normal MN numbers and life-span, this indicates that loss of functional MHC-I, even in the presence of astrocyte activation, is insufficient to cause MN disease. Furthermore, β2m knockout significantly increased GFAP activation in SOD1G93A mice, but did not further exacerbate disease progression, suggesting that loss of functional MHC-I does not necessarily render MNs more vulnerable to astrocyte toxicity. Overall, these findings indicate that β2m and HLAs are dynamically regulated in ALS, and may influence MN vulnerability, but they are not major disease modifiers in ALS.
 
-## 7. SEZ6 靶向抗体药物偶联物 ABBV-706 用于治疗晚期小细胞肺癌和实体瘤：1 期试验。
+## 8. IgA 自身抗体证明了 MuSK 重症肌无力病理学的新机制。
 
-- 英文题目：SEZ6-targeting antibody-drug conjugate ABBV-706 in advanced small cell lung cancer and solid tumors: a phase 1 trial.
+- 英文题目：IgA autoantibodies demonstrate a novel mechanism of MuSK myasthenia gravis pathology.
 - 主题：顶刊神经科学
 - 来源：PubMed
-- 期刊/平台：Nature medicine
-- 影响因子：50.0
+- 期刊/平台：Brain : a journal of neurology
+- 影响因子：11.7
 - 分区：JCR Q1 / CAS 1区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-01
+- 日期：2026-06-03
 - 分数：79
-- PMID：42225988
-- DOI：10.1038/s41591-026-04452-0
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42225988/
+- PMID：41147199
+- DOI：10.1093/brain/awaf410
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/41147199/
 
-中文摘要：癫痫相关同源物 6 (SEZ6) 在小细胞肺癌 (SCLC) 和神经内分泌肿瘤中表达。在一项开放标签的 1 期试验中，ABBV-706 是一种抗体药物缀合物，其带有与拓扑异构酶 1 抑制剂 (Top1i) 连接的 SEZ6 定向抗体，每 3 周 (Q3W) 对 288 名晚期实体瘤患者进行静脉注射； 240 人接受单一疗法，其中 124 人患有复发/难治性 (R/R) SCLC。剂(RP2D) ABBV-706 在 R/R SCLC 中的应用。在单一治疗队列 (N = 240) 中，任何级别最常见的治疗相关不良事件 (TRAE) 是贫血 (61%) 和疲劳 (38%)。 61% 的患者发生 3 级或以上 TRAE，且呈剂量依赖性（1.8 mg kg-1 时为 39%，2.5 mg kg-1 时为 70%）。在 R/R SCLC 单药治疗队列 (n = 124) 中，任意级别和 3 级或更高级别的 TRAE 分别发生在 93% 和 61% 的患者中。 ABBV-706 在 R/R SCLC 患者中表现出良好的初步疗效，客观缓解率 (ORR) 为 52% (65/124)。在剂量优化和扩展第 2 部分中接受单药治疗的 R/R SCLC 患者中，1.8 mg kg-1 和 2.5 mg kg-1 剂量之间的 ORR 相似（分别为 56% (23/41) 和 59% (23/39)），其中 1.8 mg kg-1 剂量的反应持续时间最高，并且大多数患者实现了快速且持久的肿瘤缩小。尽管探索性的长期疗效指标是 RP2D 确定中的一个重要考虑因素，但在 R/R SCLC 单药治疗中，总生存期 (OS) 在 1.8 mg kg-1 剂量下最高，中位 OS 为 12.4 个月。根据全部可用数据，包括但不限于安全性、初步疗效指标和 PK，1.8 mg kg-1 Q3W 被确认为 R/R SCLC 患者的最佳 RP2D。 ClinicalTrials.gov：NCT0……
+中文摘要：肌肉特异性酪氨酸激酶 (MuSK) 重症肌无力 (MG) 患者会因功能性单价免疫球蛋白 (Ig) G4 自身抗体 (Abs) 靶向 MuSK 并破坏乙酰胆碱受体 (AChR) 聚集而出现肌肉无力。来自其他自身免疫性疾病的新证据表明，IgA 类抗体（粘膜部位的典型免疫球蛋白同种型）可能与 IgG 抗体协同作用，从而导致病理。然而，在 MuSK MG 中，疾病特异性 IgA Ab 的存在尚未得到认识，限制了对 IgG4 驱动的自身免疫的更广泛理解。为了解决这一知识差距，我们利用了基于细胞的结合测定、患者来源的重组单克隆自身抗体 (mAb)、高通量 B 细胞受体测序、C2C12 小鼠肌管培养和被动免疫实验。在从 25 名 MuSK MG 患者（发现队列）收集的 112 份血清中，在 8 个样本中检测到 MuSK 特异性 IgA 抗体，相当于 3/25 (12%) 患者。这一发现在第二个独立队列（验证队列；n = 14 人）中得到了验证，其中另外一名患者 (1/14；7.1%) 携带 MuSK IgA Abs。在所有病例中，MuSK IgA Ab 与 MuSK IgG Ab 共存，而域作图显示 2/4 (50%) 患者出现多克隆 IgA 反应。值得注意的是，在纵向样本跨越十年的典型案例中，MuSK IgA 血清阳性持续存在，并且克隆扩增的 MuSK IgA B 细胞对治疗性 B 细胞耗竭表现出显着的抵抗力。我们生成了三种源自患者的 MuSK 特异性 IgA mAb，用于深入的分子分析。这些 mAb 高度超突变，与不同的 MuSK 结构域结合，并与 MuSK IgG4 mAb 共享目标表位。两种 IgA mAb 与小鼠 MuSK 发生交叉反应，从而能够利用 C2C12 肌管进行功能研究。从机制上讲，单个 IgA mAb 促进 AChR 聚集（表明 MuSK 激动）并部分拮抗 MuSK IgG4 单价的致病作用。然而，在对多克隆反应进行建模时，相同 IgA mAb 的组合会显着损害簇的形成，从而证明了协同致病潜力。符合……
 
-英文摘要：Seizure-related homolog 6 (SEZ6) is expressed in small cell lung cancer (SCLC) and neuroendocrine neoplasms. In an open label, phase 1 trial, ABBV-706, an antibody-drug conjugate with a SEZ6-directed antibody linked to topoisomerase-1 inhibitor (Top1i), was administered intravenously every 3 weeks (Q3W) to 288 patients with advanced solid tumors; 240 received monotherapy, including 124 with relapsed/refractory (R/R) SCLC. Primary objectives of dose escalation (part 1, advanced solid tumors), dose optimization and expansion (part 2, R/R SCLC only) and dose expansion (part 4, central nervous system tumors and high-grade neuroendocrine neoplasms only) were to evaluate the safety, tolerability, pharmacokinetics (PK), immunogenicity and antitumor activity of ABBV-706 monotherapy and, from parts 1 and 2, to determine the recommended phase 2 dose (RP2D) of ABBV-706 in R/R SCLC. In the monotherapy cohort (N = 240), the most common treatment-related adverse events (TRAEs) at any grade were anemia (61%) and fatigue (38%). Grade 3 or higher TRAEs occurred in 61% of patients and were dose dependent (39% at 1.8 mg kg-1 and 70% at 2.5 mg kg-1). In the R/R SCLC monotherapy cohort (n = 124), any-grade and grade 3 or higher TRAEs occurred in 93% and 61% of patients, respectively. ABBV-706 demonstrated promising preliminary efficacy in patients with R/R SCLC, with an objective response rate (ORR) of 52% (65/124). In patients with R/R SCLC receiving monotherapy in dose optimization and expansion part 2, ORR was similar between 1.8 mg kg-1 and 2.5 mg kg-1 doses (56% (23/41) and 59% (23/39), respectively), with a duration of response that was highest at the 1.8 mg kg-1 dose and with most patients achieving rapid and durable tumor reduction. Although exploratory, long-term efficacy measures were an important consideration in the RP2D determination, and in R/R SCLC monotherapy, overall survival (OS) was highest at the 1.8 mg kg-1 dose, with a median OS of 12.4 months. Based on the totality of available data, including, but not limited to, safety, preliminary efficacy measures and PK, 1.8 mg kg-1 Q3W was confirmed as the optimal RP2D for patients with R/R SCLC. ClinicalTrials.gov: NCT05599984 .
-
-## 8. 标准剂量替奈普酶与低剂量阿替普酶治疗大血管闭塞引起的急性缺血性中风：随机临床试验。
-
-- 英文题目：Standard-Dose Tenecteplase vs Low-Dose Alteplase for Acute Ischemic Stroke From Large-Vessel Occlusion: A Randomized Clinical Trial.
-- 主题：顶刊神经科学
-- 来源：PubMed
-- 期刊/平台：JAMA neurology
-- 影响因子：21.3
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-01
-- 分数：79
-- PMID：42223935
-- DOI：10.1001/jamaneurol.2026.1590
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42223935/
-
-中文摘要：重要性：对于急性缺血性卒中，替奈普酶比标准剂量阿替普酶具有优势。低剂量阿替普酶治疗方案（0.6 mg/kg）仍然是日本的标准，并在几个亚洲国家普遍使用。目的：确定在计划进行机械血栓切除术的患者中，0.25 mg/kg 标准剂量替奈普酶是否比 0.6 mg/kg 低剂量阿替普酶在初始血管造影中实现更高的再通率。不可避免地需要产生支持替奈普酶在日本获得监管批准所需的证据。设计、环境和参与者：这项由研究者发起的、多中心、随机、对照、开放标签、优效性试验于 2022 年 8 月 19 日至 2025 年 3 月 13 日进行，随访期为 3 个月，是首次比较替奈普酶 (0.25 mg/kg) 与阿替普酶 (0.6 mg/kg) 治疗急性缺血性卒中的效果。参与者包括符合在症状出现 4.5 小时内进行静脉溶栓，然后进行机械血栓切除术的大血管闭塞性中风患者。共有 221 名患者被随机分组​​，218 名接受试验药物的患者被纳入完整分析组（107 名替奈普酶；111 名阿替普酶）。这些数据的分析时间为 2025 年 7 月至 2025 年 12 月。 干预：患者以 1:1 的比例随机分配接受静脉注射替奈普酶或阿替普酶。主要结果和测量：主要结果是初始血管造影的显着再灌注（2b 至 3 级脑缺血的改良治疗或无可恢复的血栓）。次要结果包括 90 天改良 Rankin 量表。安全性结果是 24 至 36 小时内出现症状性颅内出血，以及 90 天时死亡。结果：完整分析组中纳入了总共 218 名接受试验药物的患者（平均 [SD] 年龄，77.1 [12.0] 岁；92 名女性和 126 名男性）（107 名替奈普酶；111 名阿替普酶）。标准剂量替奈普酶组发生显着再灌注的比例为 10.3%，而低剂量阿替普酶组为 3.6%（绝对差异，6.5 个百分点；90% CI，0.89-12.1），满足预先设定的成功标准。轮班的估计共同优势比……
-
-英文摘要：IMPORTANCE: Tenecteplase has advantages over standard-dose alteplase for acute ischemic stroke. A low-dose alteplase regimen (0.6 mg/kg) remains the standard in Japan and is commonly used in several Asian countries. OBJECTIVE: To determine whether standard-dose tenecteplase at 0.25 mg/kg achieves a higher rate of recanalization on the initial angiogram than low-dose alteplase at 0.6 mg/kg in patients scheduled for mechanical thrombectomy. It is inevitable to generate evidence required to support potential regulatory approval of tenecteplase in Japan. DESIGN, SETTING, AND PARTICIPANTS: This investigator-initiated, multicenter, randomized, controlled, open-label, superiority trial was conducted from August 19, 2022, through March 13, 2025, with 3-month follow-up and was the first ever to compare tenecteplase (0.25 mg/kg) with alteplase (0.6 mg/kg) for acute ischemic stroke. Participants included patients with large-vessel-occlusion stroke eligible for intravenous thrombolysis within 4.5 hours of symptom onset followed by mechanical thrombectomy. A total of 221 patients were randomized and 218 who received trial drugs were included in the full analysis set (107 tenecteplase; 111 alteplase). These data were analyzed from July 2025 to December 2025. INTERVENTIONS: Patients were randomly assigned in a 1:1 ratio to receive either intravenous tenecteplase or alteplase. MAIN OUTCOMES AND MEASURES: The primary outcome was substantial reperfusion (modified Treatment in Cerebral Ischemia grade 2b to 3 or no retrievable thrombus) on the initial angiogram. Secondary outcomes included the 90-day modified Rankin Scale. Safety outcomes were symptomatic intracranial hemorrhage within 24 to 36 hours and mortality at 90 days. RESULTS: A total of 218 patients (mean [SD] age, 77.1 [12.0] years; 92 female and 126 male) who received trial drugs were included in the full analysis set (107 tenecteplase; 111 alteplase). Substantial reperfusion occurred in 10.3% of the standard-dose tenecteplase group vs 3.6% of the low-dose alteplase group (absolute difference, 6.5 percentage points; 90% CI, 0.89-12.1), meeting the prespecified success criterion. The estimated common odds ratio for a shift toward better 90-day functional outcome with tenecteplase was 1.47 (95% CI, 0.92-2.35). Rates of symptomatic intracranial hemorrhage (2.8% vs 1.8%) and mortality (6.5% vs 9.9%) were similar between tenecteplase and alteplase groups. CONCLUSIONS AND RELEVANCE: In this study, standard-dose tenecteplase (0.25 mg/kg) prior to thrombectomy resulted in a higher rate of early substantial reperfusion compared with low-dose alteplase (0.6 mg/kg), with comparable functional and safety outcomes. Standard-dose tenecteplase is a promising thrombolytic option in regions where low-dose alteplase is currently the standard of care. TRIAL REGISTRATION: Japan Registry of Clinical Trials Identifier: 051210055.
+英文摘要：Patients with muscle-specific tyrosine kinase (MuSK) myasthenia gravis (MG) develop muscle weakness due to functionally monovalent immunoglobulin (Ig) G4 autoantibodies (Abs) that target MuSK and disrupt acetylcholine receptor (AChR) clustering. Emerging evidence from other autoimmune conditions suggests that Abs of the IgA class-the archetypal immunoglobulin isotype at mucosal sites-may synergize with IgG Abs, contributing to pathology. In MuSK MG, however, the presence of disease-specific IgA Abs has not yet been recognized, limiting a broader understanding of IgG4-driven autoimmunity. To address this knowledge gap, we leveraged cell-based binding assays, patient-derived recombinant monoclonal autoantibodies (mAbs), high-throughput B-cell receptor sequencing, C2C12 mouse myotube cultures and passive immunization experiments. Among 112 sera collected from 25 patients with MuSK MG (discovery cohort), MuSK-specific IgA Abs were detected in eight samples, corresponding to 3/25 (12%) patients. This finding was validated in a second, independent cohort (validation cohort; n = 14 individuals), wherein one additional patient (1/14; 7.1%) harboured MuSK IgA Abs. Across all cases, MuSK IgA Abs coexisted with MuSK IgG Abs, while domain mapping demonstrated a polyclonal IgA response in 2/4 (50%) patients. Notably, in a paradigmatic case with longitudinal samples spanning over a decade, MuSK IgA seropositivity was persistent, and clonally expanded MuSK IgA B cells showed remarkable resistance to therapeutic B-cell depletion. We generated three patient-derived MuSK-specific IgA mAbs for in-depth molecular profiling. These mAbs were highly hypermutated, bound to distinct MuSK domains and shared target epitopes with MuSK IgG4 mAbs. Two IgA mAbs cross-reacted with murine MuSK, enabling functional studies with C2C12 myotubes. Mechanistically, individual IgA mAbs promoted AChR clustering (indicative of MuSK agonism) and partially antagonized the pathogenic effects of MuSK IgG4 monovalency. When modelling a polyclonal response, however, the combination of the same IgA mAbs significantly impaired cluster formation, demonstrating cooperative pathogenic potential. Consistent with this, passive transfer of both IgA clones into mice induced a myasthenic phenotype characterized by progressive weight loss, muscle weakness and structural disruption of the neuromuscular junction (effects similar to those elicited by a functionally monovalent MuSK IgG4 mAb). These findings uncover a previously unrecognized pathogenic Ab isotype in a subset of patients with MuSK MG and show a mechanism through which bivalent MuSK Abs may synergize to induce pathology. The identification of MuSK-specific IgA B cells could signal a role of mucosal or environmental factors in the pathogenesis of MuSK MG and other IgG4-mediated diseases, offering a worthy avenue for future research.
 
 # 全球热点话题｜学术界值得关注
 
@@ -466,7 +466,26 @@
 
 英文摘要：Neurological disorders such as Alzheimer's disease (AD), Parkinson's disease (PD), cerebral ischemia, anxiety and depression pose significant global public health challenges due to their high prevalence and complex pathological mechanisms. Current therapeutic strategies primarily offer symptomatic relief, with limited efficacy in mitigating disease progression. Neuroprotection involves interventions aimed at preserving neuronal structure and function through mechanisms such as reducing oxidative stress, modulating inflammation and inhibiting apoptosis, presenting a promising avenue for treating these conditions. Protocatechuic acid (PCA), a natural phenolic acid compound prevalent in a variety of foods and herbal medicines, has received considerable attention for its notable antioxidant, anti‑inflammatory and neuroprotective properties. The present study systematically reviews the neuroprotective effects and molecular mechanisms of PCA in various neurological disorders (including AD, PD and cerebral ischemia). The present review highlights the multi‑target mechanisms of PCA, which act by mitigating oxidative stress, neuroinflammation, mitochondrial dysfunction and apoptosis, while promoting neuronal regeneration. Furthermore, the present review integrates the body of evidence across neurological contexts to identify conserved protective pathways and discusses the translational potential of PCA, providing a foundation for its clinical application in treating neurological diseases.
 
-## 7. 过去十年运动对老年女性代谢风险、心血管健康和身体成分的影响：系统评价和荟萃分析。
+## 7. 整体摘录
+
+- 英文题目：An extract from whole
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Journal of the International Society of Sports Nutrition
+- 影响因子：3.9
+- 分区：JCR Q1 / CAS 2区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-12-31
+- 分数：45
+- PMID：42234539
+- DOI：10.1080/15502783.2026.2682323
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42234539/
+
+中文摘要：背景：本研究旨在检验以下假设：浓缩咖啡因和多酚的完整阿拉比卡咖啡樱桃提取物会提高运动表现和肌糖原再合成。方法：12 名训练有素的自行车手（11 名男性，1 名女性；V̇O2max：55 ± 2 mL·kg-1·min-1）参加了双盲、随机、安慰剂对照、交叉试验。参与者服用含有 200 毫克咖啡因和 15 毫克多酚 (CB) 的咖啡果提取物补充剂或安慰剂 (PLA)，然后在自行车测力计上以 79 ± 1% V̇O2max 锻炼 30 分钟，然后进行 15 分钟计时试验 (TT1)。然后服用第二份补充剂，其中含有 1 g·kg bm-1 碳水化合物，并在第二天早上进行第二次试验 (TT2)。在整个过程中收集血样，并在 TT1（0 小时）、4 小时和 24 小时后立即收集肌肉活检。结果：与 PLA 相比，CB 的血浆咖啡因和绿原酸浓度在运动期间和随后的恢复过程中有所增加 (p < 0.001)。 TT1 期间执行的总功比 PLA 多 4.6% ± 1.5%（3.14 ± 0.15 vs. 3.02 ± 0.17 kJ·kg-1；Hedge's g [95% 置信区间] = 0.8 [0.2, 1.4]；p < 0.05）。使用 CB 进行稳态运动时，感知的用力较低 (p < 0.05)；呼吸交换率没有差​​异。从0到4小时恢复，PLA和CB中的肌糖原含量类似地分别增加了64±13和44±10mmol·kg dw-1，并且从4到24小时增加了53±8和45±10mmol·kg dw-1（P<0.001）。结论：我们报告称，含有低剂量咖啡因和多酚的完整阿拉比卡咖啡樱桃提取物具有麦角作用，但并未显示出在运动后消耗 1 g·kg bm-1 碳水化合物后可以增强肌糖原的再合成。临床试验注册：于2022年10月1日在clinicaltrials.gov注册为NCT05404841（URL：https://clinicaltrials.gov/study/NCT05404841）。
+
+英文摘要：BACKGROUND: This study aimed to test the hypothesis that a whole Coffea arabica coffee cherry extract concentrated in caffeine and polyphenols would increase exercise performance and muscle glycogen resynthesis. METHODS: Twelve trained cyclists (11 male, 1 female; V̇O2max: 55 ± 2 mL·kg-1·min-1) took part in a double blind, randomized, placebo-controlled, cross-over trial. Participants consumed either a coffee cherry extract supplement containing 200 mg caffeine and 15 mg polyphenols (CB) or placebo (PLA), before exercising for 30 min on a cycle ergometer at 79 ± 1% V̇O2max followed by a 15 min time trial (TT1). A second supplement was then consumed with 1 g·kg bm-1 carbohydrate and a second time trial (TT2) was performed the following morning. Blood samples were collected throughout, and muscle biopsies were collected immediately after TT1 (0 h), and at 4 and 24 h. RESULTS: Plasma caffeine and chlorogenic acid concentrations increased during exercise and subsequent recovery in CB compared to PLA (p < 0.001). Total work performed during TT1 was 4.6% ± 1.5% greater with CB than PLA (3.14 ± 0.15 vs. 3.02 ± 0.17 kJ·kg-1; Hedge's g [95% confidence interval] = 0.8 [0.2, 1.4]; p < 0.05). Perceived exertion was lower during steady-state exercise with CB (p < 0.05); respiratory exchange ratio did not differ. From 0 to 4 h recovery, muscle glycogen content increased similarly in PLA and CB by 64 ± 13 and 44 ± 10 mmol·kg dw-1, respectively, and by 53 ± 8 and 45 ± 10 mmol·kg dw-1 from 4 to 24 h (P < 0.001). CONCLUSIONS: We report that an extract from whole Coffea arabica cherry containing a low dose of caffeine and polyphenols is ergogenic but was not shown to enhance muscle glycogen resynthesis following post-exercise consumption of 1 g·kg bm-1 carbohydrate. Clinical trials registration: Registered with clinicaltrials.gov on 10/01/2022 as NCT05404841 (URL: https://clinicaltrials.gov/study/NCT05404841).
+
+## 8. 过去十年运动对老年女性代谢风险、心血管健康和身体成分的影响：系统评价和荟萃分析。
 
 - 英文题目：Effects of exercise on metabolic risk, cardiovascular fitness, and body composition in elderly women of the past decade: a systematic review and meta-analysis.
 - 主题：全球学术热点
@@ -484,25 +503,6 @@
 中文摘要：背景：与年龄相关的体力活动减少和不利的身体成分变化会促进老年人群的代谢功能障碍和心血管风险升高。由于雌激素相关因素、心血管风险的差异和肌肉骨骼状况，运动可能是老年女性最容易获得和广泛适用的生活方式干预措施之一。目前尚未对运动对老年女性心血管风险及其相关指标的影响进行全面、系统的检索。这项荟萃分析评估了运动对健康老年女性代谢风险、心血管健康和身体成分的影响。方法：按照 PRISMA 指南，我们系统地检索了 PubMed、Cochrane Library、Web of Science、Embase、Scopus、CNKI、VIP、万方和 Sinmed (2014-2024) 中比较监督运动与非运动对照的随机对照试验 (RCT)。在 Stata 17.0 中使用固定效应模型和随机效应模型对数据进行分析。 Cochrane RoB2 工具评估偏倚风险，同时通过 GRADE 方法评估证据的确定性。结果：纳入了 23 项随机对照试验（33 项干预组，23 项对照）。运动显着降低甘油三酯（TG）（-8.56 mg/dL，95% CI：-16.72，-0.40）、总胆固醇（TC）（-26.67 mg/dL，95% CI：-34.92，-18.42）、低密度脂蛋白胆固醇（LDL-C）（-23.77 mg/dL，95% CI：-34.48） -13.05）、血糖（Glu）（-5.59 mg/dL，95% CI：-10.12，-1.06）和 C 反应蛋白（CRP）（-0.86 mg/L，95% CI：-1.37，-0.35）。心血管改善包括峰值摄氧量增加（+2.78 mL/kg/min，95% CI：1.87，3.70）以及收缩压 (SBP) (-8.35 mmHg) 和舒张压 (DBP) (-3.26 mmHg) 降低。在身体成分方面，相对体脂（RF，即体脂百分比）下降（-2.47%，95% CI：-3.42，-1.53​​），但体重、躯干脂肪量（TFM）、腰围（WC）、去脂体重（FFM）或骨骼肌质量（SMM）没有观察到显着变化。根据 GRADE 框架，TC、TG、RF、VO2peak 和 SBP 降低的证据具有中等确定性；和所有其他的确定性较低……
 
 英文摘要：BACKGROUND: Age-related reductions in physical activity and unfavorable body composition changes promote metabolic dysfunction and cardiovascular risk elevation in older populations. Due to estrogen-related factors, differences in cardiovascular risks, and musculoskeletal conditions, exercise may be one of the most accessible and widely applicable lifestyle interventions for older women. A comprehensive and systematic search has not yet been carried out on the effects of exercise on cardiovascular risk and its related indicators in elderly women. This meta-analysis evaluates exercise effects on metabolic risk, cardiovascular health, and body composition in healthy elderly women. METHODS: Following PRISMA guidelines, we systematically searched PubMed, Cochrane Library, Web of Science, Embase, Scopus, CNKI, VIP, Wanfang, and Sinomed (2014-2024) for randomized controlled trials (RCTs) comparing supervised exercise with nonexercise controls. Data were analyzed with fixed- and random-effect models in Stata 17.0. The Cochrane RoB2 tool assessed bias risk, while the certainty of evidence was evaluated through the GRADE approach. RESULTS: Twenty-three RCTs (33 intervention arms, 23 controls) were included. Exercise significantly reduced triglycerides (TG) (-8.56 mg/dL, 95% CI: -16.72, -0.40), total cholesterol (TC)(-26.67 mg/dL, 95% CI: -34.92, -18.42), low-density lipoprotein cholesterol (LDL-C) (-23.77 mg/dL, 95% CI: -34.48, -13.05), blood glucose (Glu) (-5.59 mg/dL, 95% CI: -10.12, -1.06), and C-reactive protein (CRP) (-0.86 mg/L, 95% CI: -1.37, -0.35). Cardiovascular improvements included increased VO2peak (+2.78 mL/kg/min, 95% CI: 1.87, 3.70) and reduced systolic blood pressure (SBP) (-8.35 mmHg) and diastolic blood pressure (DBP) (-3.26 mmHg). Regarding body composition, relative body fat (RF, i.e. body fat percentage) decreased (-2.47%, 95% CI: -3.42, -1.53), but no significant changes were observed in body weight, trunk fat mass (TFM), waist circumference (WC), fat-free mass (FFM), or skeletal muscle mass (SMM). According to the GRADE framework, the evidence was of moderate certainty for reductions in TC, TG, RF, VO₂peak, and SBP; and low certainty for all other outcomes. CONCLUSION: This meta-analysis provides evidence that appropriate exercise (aerobic, resistance, combined exercise) effectively reduces cardiovascular risk factors in elderly women via dual mechanisms of body composition remodeling and metabolic homeostasis enhancement, with particular efficacy in lipid regulation and blood pressure control.
-
-## 8. 12 周非瑟酮补充和有氧训练间歇阻力：肥胖男性 Maresin-1 和炎症标志物的变化：一项随机对照试验。
-
-- 英文题目：12‑weeks fisetin supplementation and interval resistance with aerobic training: changes in Maresin‑1 and inflammatory markers in men with obesity: a randomized controlled trial.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：Journal of the International Society of Sports Nutrition
-- 影响因子：3.9
-- 分区：JCR Q1 / CAS 2区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-12-31
-- 分数：45
-- PMID：42218768
-- DOI：10.1080/15502783.2026.2679718
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42218768/
-
-中文摘要：背景：肥胖的特点是低度慢性炎症和胰岛素敏感性受损。 Maresin-1 (MaR1) 是一种专门的促消退介质，在终止炎症和支持代谢稳态方面发挥着关键作用；然而，人类的介入数据仍然很少。这项研究检验了补充非瑟酮是否会增强肥胖男性同时进行的间歇抗阻有氧训练对 Maresin-1、促炎标志物和胰岛素抵抗的影响。方法：在一项为期 12 周的平行组随机对照试验中，44 名肥胖成年男性（BMI > 30 kg/m²）完成了四种干预措施之一：对照安慰剂 (CP)、非瑟酮 (F)（200 毫克/天）、训练安慰剂 (TP) 或训练非瑟酮 (TF)。训练包括八次 60% 1RM 的阻力练习，积极休息，然后进行渐进式有氧运动（50%-70% HRmax）。在干预前和干预后评估了人体测量和生化参数，包括血浆 Maresin-1、白介素-6 (IL-6)、肿瘤坏死因子-α (TNF-α)、空腹血糖 (FBS)、胰岛素和 HOMA-IR。结果：Maresin-1 (p = 0.034)、IL-6 (p = 0.001)、TNF-α (p = 0.001)、FBS (p = 0.001)、胰岛素 (p = 0.001) 和 HOMA-IR (p = 0.001) 观察到显着的组 × 时间相互作用。 Maresin-1 在 TP (p = 0.001) 和 TF (p = 0.001) 组中增加。 T (p = 0.006)、TF (p = 0.001) 和 F (p = 0.013) 组中 IL-6 下降。所有干预组（F、TP 和 TF）中 TNF-α 均下降 (p = 0.002)。所有活跃组中的 FBS、胰岛素和 HOMA-IR 均显着下降 (p = 0.003)，其中 TF 组下降幅度最大。结论：12 周的同步间歇抗阻有氧训练，尤其是与非瑟酮结合使用时，可改善肥胖男性的炎症消退（↑Maresin-1、↓IL-6 和 ↓TNF-α）和代谢控制（↓FBS、↓胰岛素和 ↓HOMA-IR）。运动引起的适应与非瑟酮的抗炎特性之间的协同作用为减轻肥胖相关的代谢风险提供了一种有前景的非药物策略。
-
-英文摘要：BACKGROUND: Obesity is characterized by low‑grade chronic inflammation and impaired insulin sensitivity. Maresin‑1 (MaR1), a specialized pro‑resolving mediator, plays a critical role in terminating inflammation and supporting metabolic homeostasis; however, interventional data in humans remain scarce. This study examined whether fisetin supplementation augments the effects of concurrent interval resistance-aerobic training on Maresin‑1, pro‑inflammatory markers, and insulin resistance in obese men. METHODS: In a 12‑week parallel‑group randomized controlled trial, 44 obese adult males (BMI > 30 kg/m²) completed one of four interventions: control-placebo (CP), fisetin (F) (200 mg/day), training-placebo (TP), or training-fisetin (TF). Training comprised eight resistance exercises at 60% 1RM with active rest followed by progressive aerobic bouts (50%-70% HRmax). Anthropometric and biochemical parameters, including plasma Maresin‑1, interleukin-6 (IL‑6), tumor necrosis factor-alpha (TNF‑α), fasting blood glucose (FBS), insulin, and HOMA‑IR, were assessed pre‑ and post‑intervention. RESULTS: Significant group × time interactions were observed for Maresin‑1 (p = 0.034), IL‑6 (p = 0.001), TNF‑α (p = 0.001), FBS (p = 0.001), insulin (p = 0.001), and HOMA‑IR (p = 0.001). Maresin‑1 increased in the TP (p = 0.001) and TF (p = 0.001) groups. IL‑6 decreased in T (p = 0.006), TF (p = 0.001), and F (p = 0.013) groups. TNF‑α decreased in all intervention groups (F, TP, and TF) (p = 0.002). FBS, insulin, and HOMA‑IR decreased significantly in all active arms (p = 0.003), with the greatest reductions in the TF group. CONCLUSION: Twelve weeks of concurrent interval resistance-aerobic training, especially when combined with fisetin, improved inflammatory resolution (↑Maresin‑1, ↓IL‑6, and ↓TNF‑α) and metabolic control (↓FBS, ↓insulin, and ↓HOMA‑IR) in obese men. The synergy between exercise‑induced adaptations and fisetin's anti‑inflammatory properties offers a promising non‑pharmacological strategy for mitigating obesity‑related metabolic risk.
 
 # 国内外医学与医药新闻
 
@@ -563,7 +563,45 @@
 
 英文摘要：CBD may be doing far more than just easing pain or anxiety — new research suggests it could help fight Alzheimer’s disease by calming the brain’s runaway immune response. In experiments using Alzheimer’s mice, scientists found that inhaled CBD reduced key drivers of neuroinflammation, a damaging process increasingly linked to memory loss and brain degeneration.
 
-## 4. 科学家表示，他们通过简单的鼻喷雾剂逆转了大脑衰老
+## 4. 这种新型糖尿病药物可以燃烧脂肪，但没有 Ozempic 的缺点
+
+- 英文题目：This new diabetes pill burns fat without the downsides of Ozempic
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Wed, 03 Ju
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/06/260603015541.htm
+
+中文摘要：科学家们开发出了一种实验性糖尿病和肥胖药物，其作用方式与 Ozempic 等药物完全不同。它不是减少饥饿感，而是激活骨骼肌的新陈代谢，帮助降低血糖并增加脂肪燃烧，同时保持肌肉质量。早期临床结果表明该治疗是安全且耐受性良好的。
+
+英文摘要：Scientists have developed an experimental diabetes and obesity pill that works in a completely different way from drugs like Ozempic. Rather than reducing hunger, it activates metabolism in skeletal muscle, helping lower blood sugar and increase fat burning while preserving muscle mass. Early clinical results suggest the treatment is safe and well tolerated.
+
+## 5. 科学家通过修复微小的大脑回路来逆转焦虑
+
+- 英文题目：Scientists reverse anxiety by fixing a tiny brain circuit
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Wed, 03 Ju
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/06/260603015356.htm
+
+中文摘要：一组新发现的杏仁核神经元似乎在焦虑和社交行为中发挥着核心作用。恢复这个微小大脑回路的正常活动可以逆转小鼠的焦虑和社交缺陷，为未来的治疗揭示了一个有希望的新目标。
+
+英文摘要：A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for future treatments.
+
+## 6. 科学家表示，他们通过简单的鼻喷雾剂逆转了大脑衰老
 
 - 英文题目：Scientists say they’ve reversed brain aging with a simple nasal spray
 - 主题：国内外医学与医药新闻
@@ -582,7 +620,7 @@
 
 英文摘要：Researchers at Texas A&amp;M have developed a nasal spray that appears to reverse brain aging by calming inflammation and restoring the brain’s energy systems. After just two doses, memory and cognitive function improved for months, raising hopes for future treatments targeting dementia and brain fog.
 
-## 5. 单一蛋白质可能阻碍 CAR T 癌症治疗
+## 7. 单一蛋白质可能阻碍 CAR T 癌症治疗
 
 - 英文题目：A single protein may be holding back CAR T cancer therapy
 - 主题：国内外医学与医药新闻
@@ -601,7 +639,7 @@
 
 英文摘要：A newly identified protein may be one of the biggest obstacles holding CAR T-cell therapy back. Researchers found that NFIL3 causes these engineered immune cells to become exhausted and lose their cancer-fighting power over time. When NFIL3 was disabled, the cells remained stronger for longer and controlled tumors more effectively in animal models.
 
-## 6. 科学家认为大脑炎症是导致新冠病毒长期传播的原因，但扫描结果却显示出不同的情况
+## 8. 科学家认为大脑炎症是导致新冠病毒长期传播的原因，但扫描结果却显示出不同的情况
 
 - 英文题目：Scientists thought brain inflammation was driving long COVID but the scans told a different story
 - 主题：国内外医学与医药新闻
@@ -620,7 +658,7 @@
 
 英文摘要：A new brain imaging study has found no evidence of widespread brain inflammation in patients suffering from prolonged symptoms after COVID-19 infection. Instead, the most severe long COVID symptoms were associated with increased brain activity in regions involved in mood and emotion.
 
-## 7. 这种番茄大豆汁在短短四个星期内就减少了炎症
+## 9. 这种番茄大豆汁在短短四个星期内就减少了炎症
 
 - 英文题目：This tomato-soy juice reduced inflammation in just four weeks
 - 主题：国内外医学与医药新闻
@@ -639,7 +677,7 @@
 
 英文摘要：A specially formulated tomato-soy juice packed with natural plant compounds may help calm inflammation linked to obesity, according to a new clinical study. Healthy adults with obesity who drank the juice daily for four weeks saw significant reductions in several key inflammatory proteins in their blood, while a control tomato juice did not produce the same effect.
 
-## 8. 科学家发现为什么 Ozempic 和 Wegovy 减肥最终会趋于平稳
+## 10. 科学家发现为什么 Ozempic 和 Wegovy 减肥最终会趋于平稳
 
 - 英文题目：Scientists discover why Ozempic and Wegovy weight loss eventually plateaus
 - 主题：国内外医学与医药新闻
@@ -658,44 +696,6 @@
 
 英文摘要：New NIH research reveals that semaglutide sparks different responses inside appetite-controlling brain cells, offering fresh insight into why GLP-1 weight-loss drugs don’t work the same for everyone. Scientists also found a possible way to extend the drugs’ effects, potentially helping patients push past weight-loss plateaus.
 
-## 9. 这种药物在治疗结束后将类风湿性关节炎延迟数年
-
-- 英文题目：This drug delayed rheumatoid arthritis for years after treatment ended
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Mon, 01 Ju
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260530053426.htm
-
-中文摘要：一项有希望的新研究表明，对于高危人群来说，类风湿性关节炎可能并不像以前认为的那样不可避免。研究人员发现，仅使用免疫靶向药物阿巴西普治疗一年即可将类风湿性关节炎的发病延迟长达四年，并且在治疗结束后，其益处仍会持续很长时间。
-
-英文摘要：A promising new study suggests rheumatoid arthritis may not be as inevitable as once thought for people at high risk. Researchers found that just one year of treatment with the immune-targeting drug abatacept delayed the onset of rheumatoid arthritis by up to four years, with benefits lasting long after treatment ended.
-
-## 10. 流行的抗衰老药物组合导致小鼠严重脑损伤
-
-- 英文题目：Popular anti-aging drug combo caused severe brain damage in mice
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Mind Brain
-- 期刊/平台：ScienceDaily Mind Brain
-- 影响因子：10+
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：内置参考表
-- 日期：Wed, 27 Ma
-- 分数：34
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260526022024.htm
-
-中文摘要：一项广泛探索的抗衰老药物组合实际上可能会损害大脑，新的小鼠研究显示髓鞘质严重丧失以及与“化疗大脑”相关的变化。令人惊讶的是，受损的细胞与多发性硬化症中的细胞相似，这为科学家们在理解并可能修复这种疾病方面提供了新的线索。
-
-英文摘要：A drug combo widely explored for anti-aging may actually damage the brain, according to new mouse research showing severe loss of myelin and changes linked to “chemo brain.” Surprisingly, the damaged cells resembled those seen in multiple sclerosis, giving scientists a new lead in understanding—and potentially repairing—the disease.
-
 ## 抓取提示
 
 - arXiv traumatic_brain_injury: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22traumatic+brain+injury%22+OR+all%3A%22TBI%22+OR+all%3A%22brain+trauma%22+OR+all%3A%22neuroinflammation%22+OR+all%3A%22blood-brain+barrier%22+OR+all%3A%22glymphatic%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
@@ -703,5 +703,5 @@
 - arXiv stem_cell_exosome: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
 - arXiv microglia_trem2: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
 - arXiv glioma_spinal: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22glioma%22+OR+all%3A%22glioblastoma%22+OR+all%3A%22spinal+cord+tumor%22+OR+all%3A%22astrocytoma%22+OR+all%3A%22tumor+microenvironment%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
-- arXiv neurosurgery_general: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22neurosurgery%22+OR+all%3A%22neurosurgical%22+OR+all%3A%22brain+injury%22+OR+all%3A%22spinal+cord%22+OR+all%3A%22neurocritical+care%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
+- arXiv neurosurgery_general: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
 - Medical news Neuroscience News: feed parse failed
