@@ -1,6 +1,6 @@
 # 神外文献日报 V2
 
-生成时间：2026-06-14 10:01:07
+生成时间：2026-06-15 10:05:54
 核心神外文献数量：10
 全部条目数量：36
 
@@ -21,7 +21,7 @@
 - DOI：10.1016/j.xcrm.2026.102867
 - PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42285092/
 
-中文摘要：创伤性脑损伤 (TBI) 会导致持续的神经行为缺陷，并增加精神疾病的风险，包括抑郁、焦虑和与神经可塑性、神经炎症和血清素 (5-HT) 信号传导破坏相关的认知功能障碍。对于慢性 TBI，尚无有效的药物疗法。 Psilocybin 是一种迷幻的 5-HT2A 受体激动剂，由于其增强神经可塑性、抗炎和抗抑郁作用而显示出前景。在这里，雄性大鼠接受液体冲击或假损伤，一年后注射一次裸盖菇素（1 毫克/千克）或盐水。 24 小时后开始行为测试，两周后正电子发射断层扫描评估 5-HT2A 结合。 TBI 会导致持续的感觉运动、学习和记忆以及情感缺陷；减少 5-HT2A 结合；内侧前额叶皮质中的小胶质细胞改变，其特征是过程分支减少和体细胞尺寸增大。裸盖菇素治疗可以改善感觉运动功能、恢复 5-HT2A 结合并减少小胶质细胞计数。这些发现强调了裸盖菇素在慢性 TBI 中的治疗潜力，并支持对迷幻治疗的进一步研究。
+中文摘要：创伤性脑损伤 (TBI) 会导致持续的神经行为缺陷，并增加精神疾病的风险，包括抑郁、焦虑和与神经可塑性、神经炎症和血清素 (5-HT) 信号传导破坏相关的认知功能障碍。 No effective pharmacotherapies exist for chronic TBI. Psilocybin 是一种迷幻的 5-HT2A 受体激动剂，由于其增强神经可塑性、抗炎和抗抑郁作用而显示出前景。在这里，雄性大鼠接受液体冲击或假损伤，一年后注射一次裸盖菇素（1 毫克/千克）或盐水。 24 小时后开始行为测试，两周后正电子发射断层扫描评估 5-HT2A 结合。 TBI produced persistent sensorimotor, learning and memory, and affective deficits;减少 5-HT2A 结合； and microglial alterations in the medial prefrontal cortex characterized by decreased process branching and enlarged soma size.裸盖菇素治疗可以改善感觉运动功能、恢复 5-HT2A 结合并减少小胶质细胞计数。这些发现强调了裸盖菇素在慢性 TBI 中的治疗潜力，并支持对迷幻治疗的进一步研究。
 
 英文摘要：Traumatic brain injury (TBI) causes persistent neurobehavioral deficits and increases the risk of psychiatric disorders, including depression, anxiety, and cognitive dysfunction linked to disrupted neuroplasticity, neuroinflammation, and serotonergic (5-HT) signaling. No effective pharmacotherapies exist for chronic TBI. Psilocybin, a psychedelic 5-HT2A receptor agonist, shows promise due to its neuroplasticity-enhancing, anti-inflammatory, and antidepressant effects. Here, male rats received fluid-percussion or sham injury, followed one year later by a single psilocybin (1 mg/kg) or saline injection. Behavioral testing began 24 h later, and positron emission tomography assessed 5-HT2A binding after two weeks. TBI produced persistent sensorimotor, learning and memory, and affective deficits; reduced 5-HT2A binding; and microglial alterations in the medial prefrontal cortex characterized by decreased process branching and enlarged soma size. Psilocybin treatment could improve sensorimotor function, restore 5-HT2A binding, and reduce microglial cell counts. These findings highlight psilocybin's therapeutic potential in chronic TBI and support further investigation of psychedelic treatments.
 
@@ -390,26 +390,7 @@
 
 英文摘要：INTRODUCTION: In response to the increasing prevalence of online behavioral addictions, researchers have investigated various treatment approaches, including pharmacotherapies. This systematic review aimed to summarize pharmacotherapeutic studies of online behavioral addictions. METHODS: PubMed, MEDLINE, and Embase were searched to identify randomized controlled trials or quasi-experimental studies of pharmacotherapy for online behavioral addictions. Studies were excluded if they only targeted offline behavioral addictions. Study findings were summarized, and the Effective Public Health Practice Project Quality Assessment Tool was used for quality assessment. RESULTS: This systematic review included 20 studies (1016 participants). Bupropion, selective serotonin reuptake inhibitors (SSRIs), and opioid receptor antagonists were most frequently studied and showed preliminary promise in reducing symptom severity. Many pharmacotherapeutic studies addressed co-occurring concerns, such as depression. CONCLUSIONS: Pharmacotherapies for online behavioral addictions appear promising, but the evidence base was limited by small samples, few randomized controlled trials, and short follow-up periods. Given preliminary support for psychotherapy + pharmacotherapy for problematic gaming, future research may evaluate the efficacy of combined treatment for a broader range of online behavioral addictions. Future research should also investigate pharmacotherapies for emerging problematic online behaviors, such as AI-based sexual engagement and problematic cryptocurrency trading. Online behavioral addictions, such as problematic online gaming and gambling, are becoming more common. Researchers have begun studying whether medications can help treat these behaviors, but the evidence has not previously been systematically reviewed. This systematic review identified 20 studies on medications used to treat online behavioral addictions. Some medications, including bupropion, selective serotonin reuptake inhibitors (SSRIs), and opioid receptor antagonists, have shown early promise in reducing symptoms of online behavioral addictions. However, the identified studies have limitations in their design and conduct. Future research on medications for online behavioral addictions should focus on high-quality designs (e.g., using randomized controlled trials), large sample sizes, and long-term follow-up periods to work toward a stronger evidence base.
 
-## 3. 术前体重指数与脊柱转移肿瘤手术后 30 天死亡率相关吗？ ACS-NSQIP 分析。
-
-- 英文题目：Is preoperative body mass index associated with 30-day mortality after oncologic surgery for spinal metastases? An ACS-NSQIP analysis.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia
-- 影响因子：1.8
-- 分区：JCR Q3 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-09-01
-- 分数：65
-- PMID：42235383
-- DOI：10.1016/j.jocn.2026.112120
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42235383/
-
-中文摘要：研究设计：回顾性队列研究。目的：调查术前体重指数 (BMI) 与转移性脊柱肿瘤手术 (MSTS) 后 30 天死亡率之间的关系，特别强调体重不足状态作为术后早期死亡率的预测因素。背景数据摘要：脊柱转移瘤的手术干预存在很大的围手术期风险。鉴于 BMI 的可及性以及与营养状况和生理储备的关系，它已成为一种潜在的预后生物标志物。然而，关于其预测价值的证据仍然存在争议。此外，尽管该人群中癌症相关恶病质的患病率很高，但低 BMI 的预后影响尚未得到充分研究。方法：分析了美国外科医生学会国家手术质量改进计划（2018-2023）的数据。接受 MSTS 治疗的播散性癌症患者也被纳入其中。体重不足状态定义为 BMI < 18.5 kg/m2。主要终点是 30 天全因死亡率。进行单变量和多变量逻辑回归分析，根据临床相关性和既定的围手术期死亡率预测因素预先选择协变量。结果：在 2,098 名患者（平均年龄：63 岁；60% 为男性）中，平均 BMI 为 27.3 kg/m2，其中 4% (n = 90) 患者被归类为体重不足。 30 天死亡率为 8% (n = 164)。在多变量分析中，术前 BMI 作为连续变量与 30 天死亡率独立相关（OR 0.96 [95% CI 0.93 至 0.99]；p = 0.016）。体重不足状态也与 30 天死亡率增加近两倍的几率独立相关（OR 1.95 [95% CI 1.03 至 3.71]；p = 0.04）。结论：术前 BMI 较低与 MSTS 后 30 天死亡率增加独立相关，体重过轻的患者术后早期死亡几率几乎是其两倍。低体重指数可能是一个简单、容易获得的生理脆弱性升高的标志，需要对这一高危人群的营养和功能状态进行全面的术前评估。
-
-英文摘要：STUDY DESIGN: Retrospective cohort study. OBJECTIVE: To investigate the association between preoperative body mass index (BMI) and 30-day mortality following metastatic spinal tumor surgery (MSTS), with particular emphasis on underweight status as a predictor of early postoperative mortality. SUMMARY OF BACKGROUND DATA: Surgical intervention for spinal metastases carries substantial perioperative risk. BMI has emerged as a potential prognostic biomarker given its accessibility and relationship to nutritional status and physiological reserve. However, evidence regarding its predictive value remains conflicting. Moreover, the prognostic implications of low BMI are underexplored despite the high prevalence of cancer-related cachexia in this population. METHODS: Data from the American College of Surgeons National Surgical Quality Improvement Program (2018-2023) were analyzed. Patients with disseminated cancer managed with MSTS were included. Underweight status was defined as BMI < 18.5 kg/m2. The primary endpoint was 30-day all-cause mortality. Univariable and multivariable logistic regression analyses were performed, with covariates selected a priori based on clinical relevance and established predictors of perioperative mortality. RESULTS: Among 2,098 patients (Mean age: 63 years; 60% male population), mean BMI was 27.3 kg/m2, with 4% (n = 90) patients classified as being underweight. The 30-day mortality rate was 8% (n = 164). On multivariable analysis, preoperative BMI as a continuous variable was independently associated with 30-day mortality (OR 0.96 [95% CI 0.93 to 0.99]; p = 0.016). Underweight status was also independently associated with nearly two-fold increased odds of 30-day mortality (OR 1.95 [95% CI 1.03 to 3.71]; p = 0.04). CONCLUSION: Lower preoperative BMI is independently associated with increased 30-day mortality following MSTS, with underweight patients facing nearly twice the odds of early postoperative death. Low BMI may serve as a simple, readily available marker of heightened physiologic vulnerability, warranting comprehensive preoperative evaluation of nutritional and functional status in this high-risk population.
-
-## 4. 尿酸通过 Nrf2 信号通路抵抗铁死亡，减轻 LPS 诱导的 BV2 细胞和 MPTP 诱导的 PD 小鼠的炎症反应。
+## 3. 尿酸通过 Nrf2 信号通路抵抗铁死亡，减轻 LPS 诱导的 BV2 细胞和 MPTP 诱导的 PD 小鼠的炎症反应。
 
 - 英文题目：Uric acid alleviates the inflammatory response in LPS-induced BV2 cells and MPTP-induced PD mice by resisting ferroptosis through the Nrf2 signalling pathway.
 - 主题：全球学术热点
@@ -428,7 +409,7 @@
 
 英文摘要：BACKGROUND: Neuroinflammation, oxidative stress, and ferroptosis are implicated in Parkinson' s disease (PD) pathogenesis. Epidemiological studies suggest that elevated uric acid (UA) levels may reduce PD risk, but the precise molecular mechanisms involved remain unclear. In this study, we investigated the effects of UA in lipopolysaccharide (LPS) or MPP+-stimulated BV2 microglia and MPTP-induced PD mouse models. METHODS: BV2 cells are recognized as a standardized and reproducible neural inflammatory cell model for mechanism exploration. The anti-ferroptosis and anti-inflammatory effects of UA were assessed in LPS or MPP+ stimulated BV2 microglia and in an MPTP-induced PD mouse model. Western blot, qPCR, ELISA, and immunofluorescence were used to analyse the expression of inflammasome-related markers. ROS, MDA, GSH, and Fe²⁺ levels were measured using testing kits, while mitochondrial ultrastructure was evaluated through transmission electron microscopy. PD-related markers were assessed by ethology and immunohistochemistry. The Nrf2 inhibitor ML385 was employed to validate pathway specificity. RESULTS: We found that UA treatment reduced the expression of proinflammatory cytokines (TNF-α, IL-6, and IL-1β), ROS production, lipid peroxidation, and intracellular Fe²⁺ in BV2 microglia while increasing the antioxidant capacity and preserving the mitochondrial ultrastructure. In MPTP-treated mice, UA improved motor performance, preserved dopaminergic neuron density in the substantia nigra, and reduced neuroinflammation. UA activated Nrf2 signalling and upregulated GPX4 expression, which were attenuated by ML385, confirming the Nrf2 dependence of these effects. CONCLUSION: UA alleviates ferroptosis and neuroinflammation in LPS or MPP+ stimulated BV2 microglia and MPTP-induced PD mouse models through the activation of the Nrf2 signalling pathway.
 
-## 5. Met-Vision 揭示了炎症重新分布的组织巨噬细胞中共存的能量状态。
+## 4. Met-Vision 揭示了炎症重新分布的组织巨噬细胞中共存的能量状态。
 
 - 英文题目：Met-Vision reveals coexisting energetic states in tissue macrophages redistributed by inflammation.
 - 主题：全球学术热点
@@ -447,7 +428,7 @@
 
 英文摘要：The function of tissue-associated macrophages is tightly linked to their energy metabolism. Yet, the diversity of macrophage metabolic profiles coexisting in tissues at homeostasis or during immune challenges is incompletely understood. Here, we introduce Met-Vision, an imaging-based pipeline for single-cell functional profiling and classification of energy metabolism. Across multiple tissue contexts, we identified that macrophages do not adopt a uniform metabolic profile but typically coexist in four discrete metabolic states with distinct dependence on OXPHOS and metabolic plasticity. Inflammation reconfigured the distribution of macrophage metabolic profiles that remained heterogeneous. Notably, inflammation-derived nitric oxide finely tuned the distribution of macrophage energetic states. These findings challenge the view of homogeneous metabolic activation and reveal a layer of metabolic diversity in tissue at steady state and during inflammation. The ability to stratify macrophage energy metabolic profiles with Met-Vision should help guide the development of metabolism-targeted therapies for inflammatory diseases, cancer, and metabolic disorders.
 
-## 6. 严重创伤性脑损伤气管切开患者的经口食管喂养：一项随机对照试验。
+## 5. 严重创伤性脑损伤气管切开患者的经口食管喂养：一项随机对照试验。
 
 - 英文题目：Oro-esophageal feeding for tracheostomized patients with severe traumatic brain injury: a randomized controlled trial.
 - 主题：全球学术热点
@@ -466,7 +447,7 @@
 
 英文摘要：BACKGROUND: This study reports the clinical effects of intermittent oro-esophageal tube feeding (IOE) versus nasogastric tube feeding (NGT) on nutritional status, aspiration pneumonia, decannulation, and level of consciousness in tracheostomized patients with severe traumatic brain injury (sTBI). METHODS: A randomized controlled trial was conducted between March 2024 and October 2025 in China and included tracheostomized patients with sTBI. Participants were randomized 1:1 to the intervention and control groups for 28-day interventions. IOE or NGT was used for nutritional supports, respectively. The primary outcome was nutritional status, including hemoglobin, albumin, prealbumin and body mass index. The secondary outcomes included aspiration pneumonia, decannulation, and level of consciousness assessed using the Glasgow Coma Scale (GCS). Generalized linear mixed-effects models, generalized estimating equations, and Cox regression were used for data analyze. RESULTS: A total of 104 participants were included in the analysis. After intervention, significant interaction effects were observed in hemoglobin (β = 5.272, 95% CI: 2.707, 7.837), albumin (β = 3.675, 95% CI: 1.854, 5.496), prealbumin (β = 11.835, 95% CI: 6.623, 17.047), body mass index (β = 1.719, 95% CI: 0.868, 2.569), the GCS (β = 0.981, 95% CI: 0.572, 1.390), and aspiration pneumonia (OR= 0.304, 95% CI: 0.133, 0.693). The Cox model revealed that group significantly influenced the decannulation outcomes [HR (95% CI) =5.556 (3.197, 9.657), p < 0.001]. CONCLUSIONS: In tracheostomized patients with sTBI who received routine treatment, IOE is more conducive to decannulation and the improvement in nutritional status, aspiration pneumonia, and level of consciousness than NGT. CLINICAL TRIAL REGISTRATION: Prospectively registered at ClinicalTrials.gov (NCT06328985, 03/18/2024, clinicaltrials.gov/study/NCT06328985).
 
-## 7. SBRT 和 IL-12 局部递送至小鼠 PDAC 肿瘤可调节造血功能。
+## 6. SBRT 和 IL-12 局部递送至小鼠 PDAC 肿瘤可调节造血功能。
 
 - 英文题目：Local delivery of SBRT and IL-12 to murine PDAC tumors modulates hematopoiesis.
 - 主题：全球学术热点
@@ -485,7 +466,7 @@
 
 英文摘要：Standard of care radiotherapy and chemotherapy have shown limited efficacy in pancreatic ductal adenocarcinoma (PDAC). Immunotherapy has emerged as a promising treatment but has been hindered by systemic toxicities. A shift from systemic to localized delivery has reduced adverse effects and improved response rates in various cancers. However, the impact of tumor-targeted therapies on distant tissues, such as the bone marrow, remains underexplored. In a murine model of PDAC, we treated tumors with targeted stereotactic body radiation therapy (SBRT) and intratumoral interleukin-12 mRNA (IL-12). We evaluated tumor, blood, and bone marrow cells for therapy-induced changes over a period of 13 d to 13 months. Our results showed that while SBRT/IL-12 locally eradicated primary tumors, it also induced significant effects in the bone marrow. Early effects included acute lymphopenia in the blood and an immunostimulatory response in the bone marrow, leading to increased hematopoiesis. Long-term effects involved a reduction in hematopoietic stem cells (HSCs) and a shift towards a myeloid lineage, suggesting potential premature aging of the HSC population. These findings highlight the profound impact of localized SBRT/IL-12 therapy on distal bone marrow, emphasizing the need for further investigation into the long-term immunological consequences of localized cancer treatments.
 
-## 8. 利用细菌增强癌症免疫治疗：从合成生物学的角度来看。
+## 7. 利用细菌增强癌症免疫治疗：从合成生物学的角度来看。
 
 - 英文题目：Leveraging the bacteria for enhanced cancer immunotherapy: from a perspective of synthetic biology.
 - 主题：全球学术热点
@@ -504,28 +485,28 @@
 
 英文摘要：In recent years, synthetic biology has been widely applied to engineer and program cellular behaviors. Using this approach, bacteria can be designed to express immunotherapeutic agents, improve tumor targeting, and deliver therapeutic payloads directly to tumor sites. To further improve efficacy, strategies such as hypoxia-responsive promoters, bacterial swarming, and extracellular vesicles (EVs) have been investigated, along with the synergistic effects of combining bacterial therapy with other treatments (e.g., photodynamic therapy, chemotherapy, immune checkpoint inhibitors). This review summarizes recent advances in synthetic biology for bacteria-based cancer immunotherapies, focusing on how bacterial agents activate the immune system and the engineering strategies used to achieve tumor targeting.
 
+## 8. 免疫代谢的空间结构：免疫信号传导中的线粒体细胞器界面（综述）。
+
+- 英文题目：Spatial architecture of immunometabolism: Mitochondrial‑organelle interfaces in immune signaling (Review).
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：International journal of molecular medicine
+- 影响因子：5.8
+- 分区：JCR Q1 / CAS 2区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-08-01
+- 分数：47
+- PMID：42272253
+- DOI：10.3892/ijmm.2026.5887
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42272253/
+
+中文摘要：代谢重编程是免疫细胞功能的基础，但组织这些代谢状态的空间结构仍未完全确定。线粒体不是作为孤立的生物能量单位发挥作用，而是作为嵌入动态细胞器网络中的空间中心来协调免疫代谢信号。在本综述中，描述了线粒体细胞器界面的结构和功能基础，包括膜接触位点和囊泡运输途径，以及内质网、溶酶体、过氧化物酶体、脂滴和细胞核。讨论了这些界面如何生成专门的微域，用于钙、脂质和氧化还原信号的局部交换，从而塑造先天和适应性效应器程序。进一步强调了线粒体衍生的囊泡和含有线粒体的细胞外囊泡如何延伸这一调节轴，将细胞内细胞器串扰直接与全身组织稳态联系起来。至关重要的是，这些接口电路的适应不良解耦是感染、脓毒症、癌症、自身免疫和慢性炎症疾病的反复出现的特征。最后，评估了新兴的界面靶向治疗策略，并严格评估了验证纳米级相互作用所需的技术方法。通过将免疫代谢概念化为空间协调过程，本综述提供了解码免疫信号的全面景观，并确定了精准免疫治疗的易处理途径。
+
+英文摘要：Metabolic reprogramming is fundamental to immune cell function, yet the spatial architecture that organizes these metabolic states remains incompletely defined. Rather than functioning as isolated bioenergetic units, mitochondria act as spatial hubs embedded within dynamic organelle networks that coordinate immuno‑metabolic signaling. In the present review, the structural and functional basis of mitochondrial organelle interfaces were delineated, including membrane contact sites and vesicular trafficking pathways, with the endoplasmic reticulum, lysosomes, peroxisomes, lipid droplets and the nucleus. It was discussed how these interfaces generate specialized microdomains for the localized exchange of calcium, lipids and redox signals, thereby shaping innate and adaptive effector programs. It was further highlighted how mitochondria‑derived vesicles and mitochondria‑containing extracellular vesicles extend this regulatory axis, linking intracellular organelle crosstalk directly to systemic tissue homeostasis. Crucially, maladaptive decoupling of these interface circuits emerges as a recurrent feature of infection, sepsis, cancer, autoimmunity and chronic inflammation diseases. Finally, emerging interface‑targeted therapeutic strategies were evaluated and the technical methodologies required to validate nanoscale interactions were critically assessed. By conceptualizing immunometabolism as a spatially coordinated process, the prsent review provides a comprehensive landscape for decoding immune signaling and identifies tractable avenues for precision immunotherapy.
+
 # 国内外医学与医药新闻
 
-## 1. CBD 可能通过镇静大脑免疫系统来减缓阿尔茨海默病
-
-- 英文题目：CBD may slow Alzheimer’s by calming the brain’s immune system
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Mind Brain
-- 期刊/平台：ScienceDaily Mind Brain
-- 影响因子：10+
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：内置参考表
-- 日期：Thu, 28 Ma
-- 分数：44
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/05/260528082507.htm
-
-中文摘要：CBD 的作用可能远不止缓解疼痛或焦虑——新的研究表明，它可以通过平息大脑失控的免疫反应来帮助对抗阿尔茨海默病。在使用阿尔茨海默氏症小鼠进行的实验中，科学家发现吸入 CBD 可以减少神经炎症的关键驱动因素，神经炎症是一种与记忆丧失和大脑退化日益相关的破坏性过程。
-
-英文摘要：CBD may be doing far more than just easing pain or anxiety — new research suggests it could help fight Alzheimer’s disease by calming the brain’s runaway immune response. In experiments using Alzheimer’s mice, scientists found that inhaled CBD reduced key drivers of neuroinflammation, a damaging process increasingly linked to memory loss and brain degeneration.
-
-## 2. 科学家关闭癌症DNA修复以克服耐药性
+## 1. 科学家关闭癌症DNA修复以克服耐药性
 
 - 英文题目：Scientists shut down cancer DNA repair to overcome drug resistance
 - 主题：国内外医学与医药新闻
@@ -544,7 +525,7 @@
 
 英文摘要：Cancer cells often survive treatment by fixing the DNA damage that therapy is meant to cause. Researchers found that UNI418 can disrupt this repair ability, leaving cancer cells more exposed. When combined with a PARP inhibitor, it helped resistant cancer cells respond to treatment again. The findings point to a new strategy for overcoming cancer drug resistance.
 
-## 3. 科学家通过修复微小的大脑回路来逆转焦虑
+## 2. 科学家通过修复微小的大脑回路来逆转焦虑
 
 - 英文题目：Scientists reverse anxiety by fixing a tiny brain circuit
 - 主题：国内外医学与医药新闻
@@ -563,7 +544,7 @@
 
 英文摘要：A newly identified group of amygdala neurons appears to play a central role in anxiety and social behavior. Restoring normal activity in this tiny brain circuit reversed anxiety and social deficits in mice, revealing a promising new target for future treatments.
 
-## 4. 一些癌症治疗方法失效的秘密原因
+## 3. 一些癌症治疗方法失效的秘密原因
 
 - 英文题目：The secret reason some cancer treatments stop working
 - 主题：国内外医学与医药新闻
@@ -582,15 +563,15 @@
 
 英文摘要：Scientists have uncovered a hidden immune system "brake" that may help cancers avoid being destroyed. The molecule, called SLAMF6, weakens the body's cancer-fighting T cells and can leave them exhausted over time. Researchers developed antibodies that block this brake, allowing immune cells to stay stronger and attack tumors more effectively in mice.
 
-## 5. 癌症患者找到了一种在化疗期间保持思维敏捷的简单方法
+## 4. 癌症患者找到了一种在化疗期间保持思维敏捷的简单方法
 
 - 英文题目：Cancer patients found a simple way to stay mentally sharp during chemotherapy
 - 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
+- 来源：ScienceDaily Mind Brain
+- 期刊/平台：ScienceDaily Mind Brain
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
 - 日期：Tue, 09 Ju
 - 分数：40
 - PMID：N/A
@@ -601,7 +582,7 @@
 
 英文摘要：“Chemo brain” affects up to 80% of people receiving chemotherapy, making everyday tasks harder. In a new trial, cancer patients who followed a home-based exercise program showed better attention and fewer noticeable cognitive problems than those who received a placebo. Low-dose ibuprofen also improved some cognitive measures, though its effects were less consistent.
 
-## 6. 一个隐藏的基因终于解释了这种罕见的神经系统疾病
+## 5. 一个隐藏的基因最终解释了这种罕见的神经系统疾病
 
 - 英文题目：A hidden gene finally explains this rare neurological disorder
 - 主题：国内外医学与医药新闻
@@ -620,7 +601,7 @@
 
 英文摘要：Scientists have uncovered a surprising new genetic cause of a rare movement disorder after analyzing nearly 3,000 patients with conditions affecting coordination and muscle control. The team identified mutations in a gene called CD99L2, previously linked only to the immune system, and showed that it plays an essential role in keeping nerve-cell communication running smoothly.
 
-## 7. 科学家发现了一种新的阿尔茨海默病触发因素和一种阻止它的药物
+## 6. 科学家发现了一种新的阿尔茨海默病触发因素和一种阻止它的药物
 
 - 英文题目：Scientists found a new Alzheimer’s trigger and a drug that stops it
 - 主题：国内外医学与医药新闻
@@ -639,7 +620,7 @@
 
 英文摘要：Researchers have identified a new Alzheimer’s target and created an experimental compound that blocks a damaging process inside brain cells. In mice, the treatment slowed nerve cell loss, reduced Alzheimer’s-related changes, and even appeared to promote healthier aging.
 
-## 8. 科学家发现癌症与阿尔茨海默病之间存在令人惊讶的联系
+## 7. 科学家发现癌症与阿尔茨海默病之间存在令人惊讶的联系
 
 - 英文题目：Scientists discover a surprising cancer link to Alzheimer’s disease
 - 主题：国内外医学与医药新闻
@@ -658,7 +639,7 @@
 
 英文摘要：Researchers discovered that mutations linked to blood cancers may help trigger Alzheimer’s disease by creating overly inflammatory immune cells in the brain. The unexpected finding could lead to new blood-based screening methods and potential treatments borrowed from cancer medicine.
 
-## 9. 禁食可以对抗牙龈疾病吗？科学家发现令人惊讶的联系
+## 8. 禁食可以对抗牙龈疾病吗？科学家发现令人惊讶的联系
 
 - 英文题目：Can fasting fight gum disease? Scientists find surprising link
 - 主题：国内外医学与医药新闻
@@ -677,7 +658,7 @@
 
 英文摘要：A low-calorie fasting-style diet significantly reduced inflammation linked to gum disease in a small clinical study. The findings suggest that what people eat may influence gum health almost as much as what they do with a toothbrush.
 
-## 10. 斯坦福大学科学家取得重大突破，再生失去的软骨并逆转关节炎
+## 9. 斯坦福大学科学家取得重大突破，再生失去的软骨并逆转关节炎
 
 - 英文题目：Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough
 - 主题：国内外医学与医药新闻
@@ -695,6 +676,25 @@
 中文摘要：一种阻断与衰老相关的蛋白质的新疗法可以恢复老年小鼠失去的软骨，并有助于预防膝盖受伤后的关节炎。人类软骨样本也显示出类似的再生迹象，这让人们对未来能够修复而不是替代关节的药物产生了希望。
 
 英文摘要：A new treatment that blocks an aging-related protein restored lost cartilage in old mice and helped prevent arthritis after knee injuries. Human cartilage samples showed similar signs of regeneration, raising hopes for a future drug that could repair joints instead of replacing them.
+
+## 10. 流行的关节补充剂葡萄糖胺与阿尔茨海默病的加速进展有关
+
+- 英文题目：Popular joint supplement glucosamine linked to faster Alzheimer’s progression
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Wed, 10 Ju
+- 分数：34
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/06/260610003044.htm
+
+中文摘要：一项重大研究表明，葡萄糖胺（一种流行的治疗关节疼痛的补充剂）可能与从轻度认知障碍到阿尔茨海默病的更快进展有关。研究人员发现，葡萄糖胺使用者患痴呆症的可能性增加了 25%，并发现了可以解释其原因的生物学线索。
+
+英文摘要：A major study suggests glucosamine, a popular supplement for joint pain, could be linked to faster progression from mild cognitive impairment to Alzheimer’s disease. Researchers found a 25% higher likelihood of developing dementia among glucosamine users and uncovered biological clues that may explain why.
 
 ## 抓取提示
 
