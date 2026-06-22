@@ -1,6 +1,6 @@
 # 神外文献日报 V2
 
-生成时间：2026-06-21 10:05:27
+生成时间：2026-06-22 10:10:36
 核心神外文献数量：10
 全部条目数量：36
 
@@ -139,7 +139,7 @@
 
 英文摘要：BACKGROUND: Extracellular vesicles (EVs) derived from mesenchymal stromal cells (MSCs) have garnered attention as cell-free therapeutics due to their regenerative and immunomodulatory potential. Human placenta-derived stromal cells (hPSCs) are a particularly promising source owing to their accessibility, scalability, and superior proliferative capacity-yet the functional behavior of their EVs, especially in inflammatory disease contexts, remains poorly defined. This study introduces a novel integrated approach, combining a 3D microcarrier bioreactor for scalable EV production with advanced 3D human airway disease models, to resolve how donor variability and inflammatory context shape the immunomodulatory activity of hPSC-EVs. METHODS: hPSCs were expanded under Good Manufacturing Practice (GMP)-compliant conditions in both conventional 2D cultures and 3D stirred-tank bioreactors using microcarrier technology. EVs were isolated from conditioned media via tangential flow filtration and characterized by fluorescent nanoparticle tracking analysis (fNTA), flow cytometry and protein content. Functional effects of hPSCs and EVs were assessed in PBMC co-cultures and two human 3D airway models-cystic fibrosis (CF) and acute respiratory distress syndrome (ARDS)-based on the Epithelix SmallAir™ platform, integrating primary airway epithelium and macrophages at the air-liquid interface. Inflammation was induced with TNF-α (CF) or LPS (ARDS), and EVs or hPSCs were administered to both apical and basal compartments. RESULTS: 3D culture significantly increased EV yield without compromising quality. A key finding was a substantial donor-dependent variability in both hPSC and EV activity, which translated into distinct, model-specific immunomodulatory profiles. Notably, EV- and hPSC-mediated responses diverged across immune and epithelial compartments, indicating that EVs do not simply recapitulate parental cell function. In the 3D models, despite substantial heterogeneity, induction of IL-10 and Arginase-1 (up to 25-fold) in the macrophage compartment emerged as a consistent trend across experimental conditions. In contrast, parental hPSCs showed broader but less predictable cytokine modulation, including variable TNF-α suppression and context-specific effects across donors. CONCLUSIONS: Our findings demonstrate that hPSC- and EV-mediated immunomodulation is highly context-dependent and cannot be predicted solely from donor identity or culture format. Rather than identifying a single optimal condition, this study highlights the need for larger donor cohorts and functional profiling in advanced human models and supports the use of EVs as distinct, cell-free immunomodulatory entities with compartment-specific activity. Together, this work provides a translational framework linking GMP-compliant EV manufacturing with functionally relevant human disease modeling.
 
-## 8. 基于血清 FAP⁺ 外泌体的流式细胞术检测：在肺腺癌的早期诊断、疾病进展评估和手术反应监测中的潜在用途。
+## 8. 基于血清 FAP⁺ 的外泌体流式细胞术检测：在肺腺癌的早期诊断、疾病进展评估和手术反应监测中的潜在用途。
 
 - 英文题目：Serum FAP⁺ exosome-based flow cytometric detection: potential utility in early diagnosis, disease progression assessment, and surgical response monitoring of lung adenocarcinoma.
 - 主题：干细胞与外泌体
@@ -154,7 +154,7 @@
 - DOI：10.1186/s12951-026-04695-6
 - PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42321804/
 
-中文摘要：背景：肺腺癌（LUAD）仍然是癌症相关死亡的主要原因，目前可用的血清生物标志物对于早期诊断的敏感性和特异性有限。我们研究了血清成纤维细胞激活蛋白阳性（FAP⁺）外泌体是否可以作为 LUAD 的微创生物标志物。方法：我们检查了癌症相关成纤维细胞 (CAF) 中的 FAP 表达和外泌体定位，评估了基于磁珠的富集 FAP⁺ 外泌体的策略，并使用生物素化抗 FAP 抗体和链霉亲和素-PE 检测建立了基于乳胶珠的流式细胞术测定。然后在健康供体 (HD)、良性肺部病变 (LBL) 患者和 LUAD 患者中评估该检测方法，并将其诊断性能与传统血清生物标志物（包括 CEA、NSE 和 CYFRA21-1）进行比较。结果：CAF释放的外泌体显示FAP表达升高，并且FAP与外泌体标记物CD9相关，支持可能的CD9相关外泌体分选机制。在临床队列中，LUAD 患者的血清 FAP⁺ 外泌体水平显着高于 HD 和 LBL 患者，并且随着疾病分期而增加。在早期 LUAD 中，血清 FAP⁺ 外泌体表现出良好的诊断性能，AUC 为 0.932，敏感性为 88.4%，特异性为 87.6%。与传统的血清生物标志物（包括 CEA、NSE 和 CYFRA21-1）相比，血清 FAP⁺ 外泌体在该队列中显示出优越的诊断性能，而组合生物标志物模型仅比单独的 FAP⁺ 外泌体提供了适度的增量改进。手术后血清 FAP⁺ 外泌体水平也显着下降，表明该标志物可能反映术后早期变化。结论：本研究提供的证据表明，FAP 在 CAF 释放的外泌体中富集，并且可能通过 CD9 相关机制掺入外泌体中。我们进一步建立了一种基于血清 FAP⁺ 外泌体的流式细胞术检测，该检测可能作为 LUAD 诊断、疾病进展评估和术后早期监测的一种有前途的微创策略。
+中文摘要：背景：肺腺癌（LUAD）仍然是癌症相关死亡的主要原因，目前可用的血清生物标志物对于早期诊断的敏感性和特异性有限。我们研究了血清成纤维细胞激活蛋白阳性（FAP⁺）外泌体是否可以作为 LUAD 的微创生物标志物。方法：我们检查了癌症相关成纤维细胞 (CAF) 中的 FAP 表达和外泌体定位，评估了基于磁珠的富集 FAP⁺ 外泌体的策略，并使用生物素化抗 FAP 抗体和链霉亲和素-PE 检测建立了基于乳胶珠的流式细胞术测定。然后在健康供体 (HD)、良性肺部病变 (LBL) 患者和 LUAD 患者中评估该检测方法，并将其诊断性能与传统血清生物标志物（包括 CEA、NSE 和 CYFRA21-1）进行比较。结果：CAF释放的外泌体显示FAP表达升高，并且FAP与外泌体标记物CD9相关，支持可能的CD9相关外泌体分选机制。在临床队列中，LUAD 患者的血清 FAP⁺ 外泌体水平显着高于 HD 和 LBL 患者，并且随着疾病分期的增加而增加。在早期 LUAD 中，血清 FAP⁺ 外泌体表现出良好的诊断性能，AUC 为 0.932，敏感性为 88.4%，特异性为 87.6%。与传统的血清生物标志物（包括 CEA、NSE 和 CYFRA21-1）相比，血清 FAP⁺ 外泌体在该队列中显示出优越的诊断性能，而组合生物标志物模型仅比单独的 FAP⁺ 外泌体提供了适度的增量改进。手术后血清 FAP⁺ 外泌体水平也显着下降，表明该标志物可能反映术后早期变化。结论：本研究提供的证据表明，FAP 在 CAF 释放的外泌体中富集，并且可能通过 CD9 相关机制掺入外泌体中。我们进一步建立了一种基于血清 FAP⁺ 外泌体的流式细胞术检测，该检测可能作为 LUAD 诊断、疾病进展评估和术后早期监测的一种有前途的微创策略。
 
 英文摘要：BACKGROUND: Lung adenocarcinoma (LUAD) remains a leading cause of cancer-related mortality, and currently available serum biomarkers have limited sensitivity and specificity for early diagnosis. We investigated whether serum fibroblast activation protein-positive (FAP⁺) exosomes could serve as a minimally invasive biomarker for LUAD. METHODS: We examined FAP expression and exosomal localization in cancer-associated fibroblasts (CAFs), evaluated a magnetic bead-based strategy for enriching FAP⁺ exosomes, and established a latex bead-based flow cytometric assay using biotinylated anti-FAP antibody and streptavidin-PE detection. The assay was then evaluated in healthy donors (HD), patients with benign lung lesions (LBL), and patients with LUAD, and its diagnostic performance was compared with conventional serum biomarkers, including CEA, NSE, and CYFRA21-1. RESULTS: Exosomes released by CAFs showed elevated FAP expression, and FAP was associated with the exosomal marker CD9, supporting a possible CD9-associated exosomal sorting mechanism. In the clinical cohort, serum FAP⁺ exosome levels were significantly higher in LUAD than in HD and LBL, and increased with disease stage. In early-stage LUAD, serum FAP⁺ exosomes showed favorable diagnostic performance, with an AUC of 0.932, 88.4% sensitivity, and 87.6% specificity. Compared with conventional serum biomarkers, including CEA, NSE, and CYFRA21-1, serum FAP⁺ exosomes showed superior diagnostic performance in this cohort, while combined biomarker models provided only modest incremental improvement over FAP⁺ exosomes alone. Serum FAP⁺ exosome levels also decreased significantly after surgery, suggesting that this marker may reflect early postoperative changes. CONCLUSION: This study provides evidence that FAP is enriched in exosomes released by CAFs and may be incorporated into exosomes through a CD9-associated mechanism. We further established a serum FAP⁺ exosome-based flow cytometric assay that may serve as a promising minimally invasive strategy for LUAD diagnosis, disease progression assessment, and early postoperative monitoring.
 
@@ -525,64 +525,7 @@
 
 英文摘要：A small clinical trial suggests that probiotics may offer a surprising mental health boost for older adults with depression. Seniors who took a daily probiotic alongside their regular antidepressant treatment experienced slightly greater improvements in depression and anxiety symptoms than those who received a placebo.
 
-## 2. 儿童 mRNA 癌症疫苗可减少 70% 的肿瘤
-
-- 英文题目：Childhood mRNA Cancer Vaccine Reduces Tumors by 70%
-- 主题：国内外医学与医药新闻
-- 来源：Neuroscience News
-- 期刊/平台：Neuroscience News
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Thu, 18 Ju
-- 分数：48
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://neurosciencenews.com/neuroblastoma-mrna-vaccine-30915/
-
-中文摘要：<a href="https://neurosciencenews.com/neuroblastoma-mrna-vaccine-30915/" rel="nofollow" title="儿童 mRNA 癌症疫苗可减少 70% 的肿瘤"><img alt="这显示了 DNA 和一根针。" class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/06/mrna-neuroblastoma-vaccine-neuroscience-1155x770.jpg" style="float：左；margin-right：5px；" width="1155" /></a>临床前试验显示肿瘤大小减少了 70%，肿瘤进展延迟了 10 至 11 天，为未来的儿科癌症免疫疗法提供了高度适应性的“乐高积木”框架。
-
-英文摘要：<a href="https://neurosciencenews.com/neuroblastoma-mrna-vaccine-30915/" rel="nofollow" title="Childhood mRNA Cancer Vaccine Reduces Tumors by 70%"><img alt="This shows DNA and a needle." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/06/mrna-neuroblastoma-vaccine-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Preclinical trials showed a 70% reduction in tumor size and a 10-to-11-day delay in tumor progression, offering a highly adaptable "Lego-brick" framework for future pediatric cancer immunotherapies.
-
-## 3. 大多数停止使用 Ozempic 等 GLP-1 药物的人最终都会回归
-
-- 英文题目：Most people who stop GLP-1 drugs like Ozempic eventually return
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Tue, 16 Ju
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/06/260615033838.htm
-
-中文摘要：许多服用 GLP-1 药物治疗 2 型糖尿病的人（例如 Victoza、Ozempic 或替泽帕肽）停止服用，但令人惊讶的是，许多人后来又重新接受治疗。研究人员发现，新的药物似乎可以让患者接受治疗的时间更长，而副作用仍然是停止治疗的主要原因。
-
-英文摘要：Many people prescribed GLP-1 drugs for type 2 diabetes (such as Victoza, Ozempic, or tirzepatide) stop taking them, but a surprising number later return to treatment. Researchers found that newer medications appear to keep patients on therapy longer, while side effects remain a major reason for discontinuation.
-
-## 4. 癌症患者找到了一种在化疗期间保持思维敏捷的简单方法
-
-- 英文题目：Cancer patients found a simple way to stay mentally sharp during chemotherapy
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Mind Brain
-- 期刊/平台：ScienceDaily Mind Brain
-- 影响因子：10+
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：内置参考表
-- 日期：Tue, 09 Ju
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/06/260608040019.htm
-
-中文摘要：“化疗脑”影响了高达 80% 的接受化疗的人，使日常任务变得更加困难。在一项新的试验中，与接受安慰剂的癌症患者相比，遵循家庭锻炼计划的癌症患者表现出更好的注意力和更少的明显认知问题。低剂量布洛芬也改善了一些认知指标，尽管其效果不太一致。
-
-英文摘要：“Chemo brain” affects up to 80% of people receiving chemotherapy, making everyday tasks harder. In a new trial, cancer patients who followed a home-based exercise program showed better attention and fewer noticeable cognitive problems than those who received a placebo. Low-dose ibuprofen also improved some cognitive measures, though its effects were less consistent.
-
-## 5. Ozempic 改变了肥胖治疗，但专家表示真正的革命是下一个
+## 2. Ozempic 改变了肥胖治疗，但专家表示真正的革命是下一个
 
 - 英文题目：Ozempic changed obesity treatment, but experts say the real revolution is next
 - 主题：国内外医学与医药新闻
@@ -597,11 +540,11 @@
 - DOI：N/A
 - PubMed/原文链接：https://www.sciencedaily.com/releases/2026/06/260619020504.htm
 
-中文摘要：肥胖治疗领域正在快速变化，GLP-1 药物为比以往更有效的治疗打开了大门。专家们现在设想了一个未来，药物、微创手术、手术和精准医疗共同作用，以提供更好的长期结果。
+中文摘要：肥胖治疗领域正在快速变化，GLP-1 药物为比以往更有效的治疗打开了大门。专家们现在设想了一个未来，药物、微创手术、手术和精准医疗共同发挥作用，以提供更好的长期结果。
 
 英文摘要：The obesity treatment landscape is changing fast, with GLP-1 drugs opening the door to more effective care than ever before. Experts now envision a future where medications, minimally invasive procedures, surgery, and precision medicine work together to deliver better long-term results.
 
-## 6. 一个隐藏的基因最终解释了这种罕见的神经系统疾病
+## 3. 一个隐藏的基因最终解释了这种罕见的神经系统疾病
 
 - 英文题目：A hidden gene finally explains this rare neurological disorder
 - 主题：国内外医学与医药新闻
@@ -620,7 +563,7 @@
 
 英文摘要：Scientists have uncovered a surprising new genetic cause of a rare movement disorder after analyzing nearly 3,000 patients with conditions affecting coordination and muscle control. The team identified mutations in a gene called CD99L2, previously linked only to the immune system, and showed that it plays an essential role in keeping nerve-cell communication running smoothly.
 
-## 7. 铜药物可清除有毒的阿尔茨海默氏症蛋白质并恢复记忆
+## 4. 铜药物可清除有毒的阿尔茨海默氏症蛋白质并恢复记忆
 
 - 英文题目：Copper drug clears toxic Alzheimer’s proteins and restores memory
 - 主题：国内外医学与医药新闻
@@ -639,7 +582,7 @@
 
 英文摘要：A copper-based compound restored the brain’s ability to clear toxic Alzheimer’s proteins, dramatically reducing amyloid buildup and improving memory in laboratory experiments. The findings point to a potentially fast-tracked new treatment strategy because the drug has already been tested in humans for other neurological conditions.
 
-## 8. 科学家重新编程大脑免疫细胞来对抗阿尔茨海默病
+## 5. 科学家重新编程大脑免疫细胞来对抗阿尔茨海默病
 
 - 英文题目：Scientists reprogram brain immune cells to fight Alzheimer’s
 - 主题：国内外医学与医药新闻
@@ -658,7 +601,7 @@
 
 英文摘要：A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.
 
-## 9. 科学家发现癌症与阿尔茨海默病之间存在令人惊讶的联系
+## 6. 科学家发现癌症与阿尔茨海默病之间存在令人惊讶的联系
 
 - 英文题目：Scientists discover a surprising cancer link to Alzheimer’s disease
 - 主题：国内外医学与医药新闻
@@ -677,7 +620,7 @@
 
 英文摘要：Researchers discovered that mutations linked to blood cancers may help trigger Alzheimer’s disease by creating overly inflammatory immune cells in the brain. The unexpected finding could lead to new blood-based screening methods and potential treatments borrowed from cancer medicine.
 
-## 10. 一个令人惊讶的发现揭示了肾脏有一个秘密的备份系统
+## 7. 一个令人惊讶的发现揭示了肾脏有一个秘密的备份系统
 
 - 英文题目：A surprising discovery reveals the kidney has a secret backup system
 - 主题：国内外医学与医药新闻
@@ -696,6 +639,63 @@
 
 英文摘要：Scientists at Mayo Clinic have uncovered a surprising new way the kidneys conserve water, revealing a hidden backup system that works independently of the hormone long believed to control the process. The discovery emerged when researchers testing an old drug called probenecid expected it to worsen polycystic kidney disease (PKD) but found it actually slowed cyst growth instead.
 
+## 8. Ozempic 和 Wegovy 与暴力行为惊人下降有关
+
+- 英文题目：Ozempic and Wegovy linked to surprising drop in violent behavior
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Wed, 17 Ju
+- 分数：34
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/06/260617032152.htm
+
+中文摘要：罗格斯大学的一项研究表明，Ozempic 和 Wegovy 等 GLP-1 药物可能会削弱冲动倾向与暴力行为之间的联系。这一令人惊讶的发现暗示这些药物可能会影响人们的冲动行为，尽管研究人员强调因果关系尚未得到证实。
+
+英文摘要：A Rutgers study suggests GLP-1 drugs such as Ozempic and Wegovy may weaken the link between impulsive tendencies and violent behavior. The surprising finding hints that these medications could affect how people act on impulses, though researchers stress that cause and effect have not been proven.
+
+## 9. 新研究发现常见塑料化学物质与终生焦虑有关
+
+- 英文题目：Common plastic chemical linked to lifelong anxiety in new study
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Wed, 17 Ju
+- 分数：34
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/06/260616102221.htm
+
+中文摘要：在出生前和出生后不久接触常见的塑料化学品可能会对行为产生持久影响。研究人员发现，在生命早期接触 DEHP（一种用于从医疗设备到玩具等产品中的增塑剂）的雄性老鼠在成年后表现出明显更高的焦虑，即使在接触结束很久之后也是如此。这些动物在探索开放空间时更加犹豫，并且花更多的时间呆在原地，这是啮齿类动物焦虑的典型症状。
+
+英文摘要：Exposure to a common plastic chemical before and shortly after birth may have lasting effects on behavior. Researchers found that male rats exposed early in life to DEHP—a plasticizer used in products ranging from medical devices to toys—showed significantly higher anxiety as adults, even long after exposure had ended. The animals were more hesitant to explore open spaces and spent more time frozen in place, classic signs of anxiety in rodents.
+
+## 10. 经典的大脑测试暴露了人工智能的最大弱点
+
+- 英文题目：A classic brain test exposed AI's biggest weakness
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Mind Brain
+- 期刊/平台：ScienceDaily Mind Brain
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
+- 日期：Wed, 10 Ju
+- 分数：34
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/06/260610003049.htm
+
+中文摘要：研究人员对顶级人工智能模型进行了心理学中使用的经典注意力测试，并发现了一个重大缺陷。虽然模型可以正确命名简短列表中的颜色，但随着任务变得更长、更复杂，它们的性能急剧恶化。一些领先的系统的准确率从超过 90% 下降到几乎完全失败。
+
+英文摘要：Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models could correctly name colors in short lists, their performance deteriorated sharply as the task became longer and more complex. Some leading systems fell from over 90% accuracy to nearly complete failure.
+
 ## 抓取提示
 
-- Medical news Medical Xpress: feed parse failed
+- Medical news Neuroscience News: feed parse failed
