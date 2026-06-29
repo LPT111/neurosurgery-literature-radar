@@ -1,31 +1,12 @@
 # 神外文献日报 V2
 
-生成时间：2026-06-28 09:51:45
+生成时间：2026-06-29 09:54:59
 核心神外文献数量：10
 全部条目数量：36
 
 > 医学科研文献雷达；正式引用前请核对原文。
 
-## 1. 机械化学引发的再生细胞外囊泡作为周围神经病的纳米治疗策略。
-
-- 英文题目：Mechanochemically primed regenerative extracellular vesicles as a nanotherapeutic strategy for peripheral neuropathy.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Journal of nanobiotechnology
-- 影响因子：12.6
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-26
-- 分数：85
-- PMID：42363190
-- DOI：10.1186/s12951-026-04754-y
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42363190/
-
-中文摘要：背景：周围神经病是一种慢性神经系统疾病，其特征为炎症、神经损伤和功能受损。它是由多种因素引起的，包括创伤性神经损伤、癌症引起的神经性疼痛和糖尿病性神经病变。尽管传统的基于二维培养的间充质干细胞（MSC）来源的细胞外囊泡（EV）显示出治疗神经病的潜力，但它们的再生功效和一致性是有限的。因此，本研究提出了一种基于纳米生物学的神经再生医学治疗策略。结果：在本研究中，MSC 使用转化生长因子 beta-3 进行预处理，并在三维动态培养系统中培养，以产生高功能的机械化学引发的再生 EV（MCR-EV）。在脱髓鞘的离体器官型脊髓切片损伤模型中，MCR-EV 被切片驻留细胞内化，与传统的 2D-EV (Con-EV) 相比，细胞死亡显着减弱。 MCR-EV 还促进受损脊髓切片中轴突完整性和促生存信号的恢复，神经丝 M 免疫反应性增加、蛋白激酶 B 磷酸化恢复和生长相关蛋白 43 表达恢复表明。在慢性压迫性损伤诱发的周围神经病变小鼠模型中，与 Con-EV 相比，MCR-EV 表现出更强的治疗效果。 MCR-EV治疗组的促炎基因表达下调，包括肿瘤坏死因子-α、白细胞介素-1β、白细胞介素-6和环氧合酶-2，同时抑制小胶质细胞活化和细胞死亡。此外，轴突结构得到恢复，神经丝重链、神经元特异性 III 类 β-微管蛋白和神经元一氧化氮合酶的表达增加证明了这一点。 MCR-EV治疗组还表现出雪旺细胞相关标志物（S100β、髓磷脂碱性蛋白和髓磷脂相关糖蛋白）表达增加、神经肌肉结构维持以及血小板内皮细胞粘附分子1表达水平上调。此外，在 MCR-EV 中，小 RNA seq……
-
-英文摘要：BACKGROUND: Peripheral neuropathy is a chronic neurological disorder characterized by inflammation, nerve damage, and impaired function. It arises owing to various factors, including traumatic nerve injury, neuropathic pain due to cancer, and diabetic neuropathy. Although conventional two-dimensional culture-based mesenchymal stem cell (MSC)-derived extracellular vesicles (EVs) demonstrate therapeutic potential for neuropathy, their regenerative efficacy and consistency are limited. Therefore, the present study proposes a nanobiology-based therapeutic strategy for neuroregenerative medicine. RESULTS: In this study, MSCs were preconditioned using transforming growth factor beta-3 and cultured in a three-dimensional dynamic culture system to produce highly functional mechanochemically primed regenerative EVs (MCR-EVs). In an ex vivo organotypic spinal cord slice injury model with demyelination, MCR-EVs were internalized by slice-resident cells and significantly attenuated cell death compared to conventional 2D-EVs (Con-EVs). MCR-EVs also promoted the recovery of axonal integrity and pro-survival signaling in injured spinal cord slices, as indicated by increased neurofilament-M immunoreactivity, restored protein kinase B phosphorylation, and growth-associated protein 43 expression. MCR-EVs exhibited enhanced therapeutic effects compared with Con-EVs in a mouse model of peripheral neuropathy induced by chronic constriction injury. The MCR-EV-treated group exhibited downregulated expression of proinflammatory genes, including tumor necrosis factor-α, interleukin-1β, interleukin-6, and cyclooxygenase-2, accompanied by inhibition of microglial activation and cell death. Additionally, the axonal structure was restored, as demonstrated by increased expression of neurofilament heavy chain, neuron-specific class III β-tubulin, and neuronal nitric oxide synthase. The MCR-EV-treated group also exhibited increased expression of Schwann cell-related markers (S100β, myelin basic protein, and myelin-associated glycoprotein), maintenance of neuromuscular structure, and upregulated platelet endothelial cell adhesion molecule 1 expression levels. Moreover, in MCR-EVs, small RNA sequencing confirmed the presence of several miRNAs that are potentially associated with nerve regeneration, inflammation, and pain modulation. CONCLUSIONS: These results suggest that MCR-EVs contribute to the recovery of myelinated axons and regeneration of peripheral tissues, thus protecting endothelial cell components. MCR-EVs improved therapeutic outcomes compared to current Con-EV treatments and may promote peripheral neuropathic recovery by modulating anti-inflammatory and nerve regeneration pathways.
-
-## 2. 阿尔茨海默病以神经炎症为中心的病理生理学和治疗策略设计：前沿发展。
+## 1. 阿尔茨海默病以神经炎症为中心的病理生理学和治疗策略设计：前沿发展。
 
 - 英文题目：Neuroinflammation-centered pathophysiology and therapeutic strategy design in Alzheimer's disease: Cutting-edge developments.
 - 主题：小胶质细胞与 TREM2
@@ -44,7 +25,7 @@
 
 英文摘要：Alzheimer's disease (AD) is a multifactorial and progressive neurodegenerative disorder characterized by complex interactions among amyloid-β (Aβ) deposition, tau protein hyperphosphorylation, neuroinflammation, oxidative stress, metal dyshomeostasis, and impaired autophagy. Increasing evidence positions neuroinflammation not merely as a secondary response but as a central driver of disease progression, dynamically interacting with amyloid and tau protein pathology and contributing to synaptic dysfunction and neuronal loss. Among inflammatory mechanisms, microglial activation pathways-particularly TREM2 signaling, NLRP3 inflammasome activation, and complement cascade dysregulation-are currently the most clinically actionable targets, supported by genetic, biomarker, and therapeutic evidence. Emerging data suggest that modulation of innate immune pathways is most likely to confer benefit during the prodromal and early symptomatic stages of AD, when neuroinflammatory responses remain partially adaptive and neuronal networks retain functional reserve. Despite decades of drug development, many candidates have failed due to limited efficacy or safety concerns. Recent FDA approvals of anti-amyloid monoclonal antibodies, including aducanumab and lecanemab, represent important advances toward disease-modifying therapy, although their long-term clinical impact and safety profiles remain under evaluation. These developments underscore the importance of biomarker-guided patient selection, disease-stage stratification, and vigilant safety monitoring, particularly regarding amyloid-related imaging abnormalities. Therapeutic strategies are increasingly shifting toward multi-target approaches that integrate amyloid modulation, tau protein-directed interventions, and attenuation of maladaptive neuroinflammatory responses. Concurrently, inflammatory mediators and peripheral metabolic biomarkers are gaining recognition as tools for early detection, risk stratification, and therapeutic response monitoring, potentially enabling precision-based intervention. This review synthesizes current understanding of AD pathogenesis through an inflammation-centered framework, highlighting clinically actionable immune pathways and stage-specific therapeutic windows. By integrating mechanistic insights with biomarker-driven strategies, we aim to delineate translational paths toward more precise, safe, and clinically meaningful disease modification.
 
-## 3. 特发性正常压力脑积水脑室腹腔分流术后步态和笔迹变化：一项探索性试点研究。
+## 2. 特发性正常压力脑积水脑室腹腔分流术后步态和笔迹变化：一项探索性试点研究。
 
 - 英文题目：Gait and graphology changes after ventriculoperitoneal shunting for idiopathic normal pressure hydrocephalus: an exploratory pilot study.
 - 主题：脑积水与脑脊液循环
@@ -63,26 +44,26 @@
 
 英文摘要：BACKGROUND: Idiopathic normal pressure hydrocephalus (iNPH) is a potentially reversible neurological syndrome characterized by gait impairment, cognitive decline, and urinary dysfunction. While gait improvement after ventriculoperitoneal shunting (VPS) is well established, postoperative changes in handwriting-related graphomotor function remain poorly investigated. This exploratory pilot study aimed to evaluate whether a multidimensional motor-oriented assessment, including clinical gait scores, instrumental gait analysis, and handwriting-related graphomotor features, may capture postoperative responsiveness after shunting. METHODS: This single-centre observational pilot study included 14 patients with iNPH who underwent standardized preoperative work-up, including neuroimaging and lumbar infusion testing, followed by ventriculoperitoneal shunting (VPS) placement and longitudinal postoperative reassessment. Clinical evaluation included the Tinetti Performance-Oriented Mobility Assessment and neuropsychological scales such as MMSE, FAB, and MoCA. Instrumented gait analysis assessed spatiotemporal parameters. An exploratory graphological evaluation examined organization, graphomotor movement, cohesion, pressure, dimensions, and alignment on the line. To summarize overall handwriting change, a directional composite score of favourable graphological features was developed. Paired baseline/postoperative comparisons were analysed using non-parametric tests. RESULTS: The most robust postoperative effect was observed in gait-related functional performance. Median Tinetti score improved significantly from 15.0 at baseline to 24.5 at the first postoperative evaluation (p = 0.0088) and remained improved at last follow-up (22.5; p = 0.0137). Instrumental gait parameters showed favourable trends, with reduced gait duration and increased walking velocity, although without statistical significance. No consistent significant changes emerged in neuropsychological scales. Individual graphological domains were mostly stable, but the composite analysis suggested an overall favourable postoperative shift, reaching significance at last follow-up (p = 0.041) and in the exploratory best-postoperative sensitivity analysis (p = 0.025). CONCLUSIONS: In this exploratory pilot cohort, ventriculoperitoneal shunting for idiopathic normal pressure hydrocephalus was associated with significant improvement in gait-related functional performance and a possible favourable shift in graphomotor features. These preliminary findings suggest that graphomotor assessment may represent a feasible adjunctive exploratory measure of postoperative motor recovery in iNPH. Larger prospective, controlled, and blinded studies are required before graphological parameters can be considered validated outcome measures.
 
-## 4. hUC-MSC-外泌体将 Let-7b/7f-5p 递送至真皮乳头细胞，用于雄激素性脱发的多靶点协同治疗。
+## 3. 机械化学引发的再生细胞外囊泡作为周围神经病的纳米治疗策略。
 
-- 英文题目：hUC-MSC-exosomes deliver Let-7b/7f-5p to dermal papilla cells for a multi-target synergistic treatment of androgenetic alopecia.
-- 主题：干细胞与外泌体
+- 英文题目：Mechanochemically primed regenerative extracellular vesicles as a nanotherapeutic strategy for peripheral neuropathy.
+- 主题：神经外科综合
 - 来源：PubMed
 - 期刊/平台：Journal of nanobiotechnology
 - 影响因子：12.6
 - 分区：JCR Q1 / CAS 1区
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-06-26
-- 分数：83
-- PMID：42363148
-- DOI：10.1186/s12951-026-04752-0
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42363148/
+- 分数：77
+- PMID：42363190
+- DOI：10.1186/s12951-026-04754-y
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42363190/
 
-中文摘要：背景：外泌体在免疫调节、组织再生和疾病治疗中发挥着关键作用。然而，它们的具体作用机制仍不清楚。因此，本研究旨在阐明人脐带间充质干细胞来源的外泌体（hUC-MSC-exosomes）对雄激素性脱发（AGA）的治疗机制。我们建立了改良的 AGA 小鼠模型，发现 hUC-MSC-Exosomes 可以被真皮乳头细胞 (DPC) 摄取，促进毛囊从休止期到毛发生长初期的转变，改善毛囊微型化，并增强毛发再生和增厚。结果：细胞学实验表明，外泌体抑制DPCs的衰老和凋亡，促进其增殖和迁移，增加碱性磷酸酶（ALP）水平，刺激旁分泌细胞因子的分泌，并降低雄激素受体（AR）的表达水平。外泌体 miRNA 测序分析显示，排名前 10 的 miRNA 主要来自 Let-7 家族。 GO和Reactome功能富集分析和双荧光素酶报告基因实验表明，hUC-MSC-外泌体递送Let-7b-5p以靶向去泛素化酶USP12，从而抑制AR去泛素化并促进AR泛素化和降解。该过程进一步激活 Wnt/β-连环蛋白途径并抑制 TGF-β/Smad 途径。结论：总而言之，这项研究提供了对 hUC-MSC-外泌体在 AGA 中作用的潜在机制的见解，表明了它们的治疗潜力。深入分析发现，Let-7b-5p同时靶向DKK3，在多个维度激活Wnt/β-catenin通路。此外，hUC-MSC-外泌体将 Let-7f-5p 递送至目标 Smad2，与 Let-7b 协同抑制 TGF-β/Smad 通路并抑制 DHT 诱导的 DPC 凋亡。进一步的探索性临床试验表明，hUC-MSC-外泌体增加了 AGA 患者的毛发密度和平均毛发直径。
+中文摘要：背景：周围神经病是一种慢性神经系统疾病，其特征为炎症、神经损伤和功能受损。它是由多种因素引起的，包括创伤性神经损伤、癌症引起的神经性疼痛和糖尿病性神经病变。尽管传统的基于二维培养的间充质干细胞（MSC）来源的细胞外囊泡（EV）显示出治疗神经病的潜力，但它们的再生功效和一致性是有限的。因此，本研究提出了一种基于纳米生物学的神经再生医学治疗策略。结果：在本研究中，MSC 使用转化生长因子 beta-3 进行预处理，并在三维动态培养系统中培养，以产生高功能的机械化学引发的再生 EV（MCR-EV）。在脱髓鞘的离体器官型脊髓切片损伤模型中，MCR-EV 被切片驻留细胞内化，与传统的 2D-EV (Con-EV) 相比，细胞死亡显着减弱。 MCR-EV 还促进受损脊髓切片中轴突完整性和促生存信号的恢复，神经丝 M 免疫反应性增加、蛋白激酶 B 磷酸化恢复和生长相关蛋白 43 表达恢复表明。在慢性压迫性损伤诱发的周围神经病变小鼠模型中，与 Con-EV 相比，MCR-EV 表现出更强的治疗效果。 MCR-EV治疗组的促炎基因表达下调，包括肿瘤坏死因子-α、白细胞介素-1β、白细胞介素-6和环氧合酶-2，同时抑制小胶质细胞活化和细胞死亡。此外，轴突结构得到恢复，神经丝重链、神经元特异性 III 类 β-微管蛋白和神经元一氧化氮合酶的表达增加证明了这一点。 MCR-EV治疗组还表现出雪旺细胞相关标志物（S100β、髓磷脂碱性蛋白和髓磷脂相关糖蛋白）表达增加、神经肌肉结构维持以及血小板内皮细胞粘附分子1表达水平上调。此外，在 MCR-EV 中，小 RNA seq……
 
-英文摘要：BACKGROUND: Exosomes play pivotal roles in immunomodulation, tissue regeneration, and the treatment of diseases. However, their specific mechanisms of action remain unclear. Therefore, this study aimed to elucidate the therapeutic mechanisms of human umbilical cord mesenchymal stem cell-derived exosomes (hUC-MSC-exosomes) in androgenic alopecia (AGA). We established a modified AGA mouse model and found that hUC-MSC-Exosomes could be taken up by dermal papilla cells (DPCs), promoted the transition of hair follicles from telogen to anagen, ameliorated hair follicle miniaturization, and enhanced hair regeneration and thickening. RESULTS: Cytological experiments revealed that exosomes inhibited aging and apoptosis of DPCs, promoted their proliferation and migration, increased alkaline phosphatase (ALP) levels, stimulated the secretion of paracrine cytokines, and reduced the expression level of the androgen receptor (AR). Exosomal miRNA sequencing analysis revealed that the top 10 miRNAs were primarily from the Let-7 family. GO and Reactome functional enrichment analyses and dual-luciferase reporter experiments revealed that hUC-MSC-exosomes delivered Let-7b-5p to target the deubiquitinating enzyme USP12, thereby inhibiting AR deubiquitination and promoting AR ubiquitination and degradation. This process further activates the Wnt/β-catenin pathway and suppresses the TGF-β/Smad pathway. CONCLUSIONS: In summary, this study provides insights into the underlying mechanisms of action of hUC-MSC-exosomes in AGA, indicating their therapeutic potential. In-depth analysis revealed that Let-7b-5p simultaneously targets DKK3 to activate the Wnt/β-catenin pathway in multiple dimensions. Moreover, hUC-MSC-exosomes delivered Let-7f-5p to target Smad2, synergizing with Let-7b to inhibit the TGF-β/Smad pathway and suppress DHT-induced DPC apoptosis. Further exploratory clinical trial showed that hUC-MSC-exosomes increased hair density and average hair diameter in patients with AGA.
+英文摘要：BACKGROUND: Peripheral neuropathy is a chronic neurological disorder characterized by inflammation, nerve damage, and impaired function. It arises owing to various factors, including traumatic nerve injury, neuropathic pain due to cancer, and diabetic neuropathy. Although conventional two-dimensional culture-based mesenchymal stem cell (MSC)-derived extracellular vesicles (EVs) demonstrate therapeutic potential for neuropathy, their regenerative efficacy and consistency are limited. Therefore, the present study proposes a nanobiology-based therapeutic strategy for neuroregenerative medicine. RESULTS: In this study, MSCs were preconditioned using transforming growth factor beta-3 and cultured in a three-dimensional dynamic culture system to produce highly functional mechanochemically primed regenerative EVs (MCR-EVs). In an ex vivo organotypic spinal cord slice injury model with demyelination, MCR-EVs were internalized by slice-resident cells and significantly attenuated cell death compared to conventional 2D-EVs (Con-EVs). MCR-EVs also promoted the recovery of axonal integrity and pro-survival signaling in injured spinal cord slices, as indicated by increased neurofilament-M immunoreactivity, restored protein kinase B phosphorylation, and growth-associated protein 43 expression. MCR-EVs exhibited enhanced therapeutic effects compared with Con-EVs in a mouse model of peripheral neuropathy induced by chronic constriction injury. The MCR-EV-treated group exhibited downregulated expression of proinflammatory genes, including tumor necrosis factor-α, interleukin-1β, interleukin-6, and cyclooxygenase-2, accompanied by inhibition of microglial activation and cell death. Additionally, the axonal structure was restored, as demonstrated by increased expression of neurofilament heavy chain, neuron-specific class III β-tubulin, and neuronal nitric oxide synthase. The MCR-EV-treated group also exhibited increased expression of Schwann cell-related markers (S100β, myelin basic protein, and myelin-associated glycoprotein), maintenance of neuromuscular structure, and upregulated platelet endothelial cell adhesion molecule 1 expression levels. Moreover, in MCR-EVs, small RNA sequencing confirmed the presence of several miRNAs that are potentially associated with nerve regeneration, inflammation, and pain modulation. CONCLUSIONS: These results suggest that MCR-EVs contribute to the recovery of myelinated axons and regeneration of peripheral tissues, thus protecting endothelial cell components. MCR-EVs improved therapeutic outcomes compared to current Con-EV treatments and may promote peripheral neuropathic recovery by modulating anti-inflammatory and nerve regeneration pathways.
 
-## 5. 少突胶质细胞作为脱髓鞘疾病的活性免疫调节剂。
+## 4. 少突胶质细胞作为脱髓鞘疾病的活性免疫调节剂。
 
 - 英文题目：Oligodendroglia as Active Immunomodulators in Demyelinating Diseases.
 - 主题：创伤性脑损伤
@@ -100,6 +81,25 @@
 中文摘要：少突胶质细胞 (OL) 和少突胶质细胞祖细胞 (OPC) 是重要的中枢神经系统 (CNS) 细胞类型，负责髓磷脂形成、有效信号传导和轴突稳态。虽然其他胶质细胞（小胶质细胞和星形胶质细胞）的免疫功能已得到充分证实，但少突胶质细胞谱系细胞（OLC）在中枢神经系统炎症中的作用最近才得到认识。在病理条件下，特别是在脱髓鞘过程中，OLC 转变为疾病相关状态，其特征是释放曾经被认为是免疫细胞独有的促炎和抗炎趋化因子和细胞因子，从而挑战了它们作为被动受害者的传统特征。阐明 OLC 在神经微环境中的精确免疫调节作用可能对于促进脱髓鞘中枢神经系统疾病中神经炎症后的再生至关重要。本综述重点关注 OLC 的免疫学特征、驱动其免疫调节表型的机制、它们在神经微环境中的相互作用，以及这些过程在生理和病理环境中的影响。
 
 英文摘要：Oligodendrocytes (OLs) and oligodendrocyte progenitor cells (OPCs) are essential central nervous system (CNS) cell types responsible for myelin formation, efficient signal conduction, and axonal homeostasis. While the immunological functions of other glial cells-microglia and astrocytes-are well established, the involvement of oligodendrocyte lineage cells (OLCs) in the CNS inflammation has only recently gained recognition. Under pathological conditions, particularly during demyelination, OLCs transition into disease-associated states characterized by the release of pro- and anti-inflammatory chemokines and cytokines once thought to be exclusive to immune cells, thereby challenging their traditional characterization as passive victims. Elucidating the precise immunomodulatory roles of OLCs within the neural microenvironment may be pivotal for promoting regeneration following neuroinflammation in demyelinating CNS diseases. This review focuses on the immunological profiles of OLCs, the mechanisms driving their immunomodulatory phenotypes, their interactions within the neural microenvironment, and the implications of these processes in both physiological and pathological contexts.
+
+## 5. 具有多模式抗氧化和免疫调节功能的生物混合纳米囊泡可减轻急性肾损伤。
+
+- 英文题目：Bio-hybrid nanovesicles with multimodal antioxidant and immunomodulatory functions attenuate acute kidney injury.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Journal of nanobiotechnology
+- 影响因子：12.6
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-06-27
+- 分数：75
+- PMID：42365377
+- DOI：10.1186/s12951-026-04601-0
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42365377/
+
+中文摘要：氧化应激以活性氧 (ROS) 的产生与人体抗氧化防御之间的差异为标志，在急性肾损伤 (AKI) 的发展中至关重要，过量的 ROS 积累会导致肾小管上皮细胞损伤和炎症级联反应。炎症免疫失调进一步加剧组织损伤，凸显需要同时调节氧化防御和炎症免疫激活的综合策略。鉴于此，我们通过将表没食子儿茶素-3-没食子酸酯（EGCG）和硒代蛋氨酸（SeMet）的ES NP整合到源自人脐带间充质干细胞（hUMSC-EV）的细胞外囊泡中，开发了生物混合纳米囊泡（ES-EV）。在本研究中，合成了 ES NP，保留了 EGCG 和 SeMet 的生物活性，同时增强了它们的稳定性和生物利用度。此外，ES NP 的有效抗氧化和抗炎特性与 hUMSC-EV 的被动靶向递送和免疫调节功能相结合，为 AKI 的治疗提供了一种有前景的策略。体外评估证实，ES-EV 能够减轻氧化应激、保护线粒体、抑制细胞凋亡并使巨噬细胞极化至抗炎表型，从而防止过度的炎症级联反应。体内实验表明，ES-EVs能有效增强肾功能、修复受损肾组织并减少细胞凋亡。 ES-EV 通过抑制氧化应激、维持炎症稳态和重新编程免疫微环境来帮助肾功能恢复。 RNA测序分析表明，ES-EVs可以减轻顺铂引起的氧化应激和DNA损伤，同时发挥抗炎作用。综上所述，本研究建立了一种具有多功能治疗特性的仿生杂化纳米囊泡，为AKI治疗的临床转化奠定了基础。
+
+英文摘要：Oxidative stress, marked by a disparity between the generation of reactive oxygen species (ROS) and the body's antioxidant defenses, is crucial in the development of acute kidney injury (AKI), where excessive ROS accumulation drives tubular epithelial cell damage and inflammatory cascades. Dysregulated inflammatory immunity further exacerbates tissue injury, highlighting the need for integrated strategies that simultaneously regulate oxidative defense and inflammatory immune activation. Given this rationale, we developed bio-hybrid nanovesicles (ES-EVs) by integrating ES NPs of epigallocatechin-3-gallate (EGCG) and selenomethionine (SeMet) into extracellular vesicles derived from human umbilical cord mesenchymal stem cells (hUMSC-EVs). In this study, ES NPs were synthesized, preserving the biological activities of EGCG and SeMet while enhancing their stability and bioavailability. Furthermore, the integration of the potent antioxidant and anti-inflammatory properties of ES NPs with the passive targeted delivery and immunomodulatory functions of hUMSC-EVs offers a promising strategy for the treatment of AKI. In vitro evaluation confirmed that ES-EVs were able to mitigate oxidative stress, protect mitochondria, inhibit apoptosis and polarize macrophages toward an anti-inflammatory phenotype, thereby preventing excessive inflammatory cascades. In vivo experiments demonstrated that ES-EVs effectively enhanced renal function, repaired damaged renal tissue and decreased apoptosis. ES-EVs aid renal function recovery by inhibiting oxidative stress, maintaining inflammatory homeostasis and reprogramming the immune microenvironment. RNA sequencing analysis demonstrated that ES-EVs can alleviate cisplatin induced oxidative stress and DNA damage, and at the same time play an anti-inflammatory role. In summary, this study has established a bionic hybrid nanovesicular with multifunctional therapeutic properties, which lays the foundation for the clinical translation of management of AKI.
 
 ## 6. 靶向小胶质细胞 circMBNL1 开启了一种治疗重度抑郁症的新型纳米药物治疗策略。
 
@@ -120,64 +120,45 @@
 
 英文摘要：Major depressive disorder (MDD) is a prevalent psychological disorder that has a substantial effect on social and psychological functioning, requiring innovative treatments. Circular RNAs (circRNAs) have been shown to play a role in the pathogenesis of MDD and represent promising therapeutic targets. However, the target delivery strategies of interfering circRNAs against depression have not been extensively researched. Here, CircMBNL1 was identified to be significantly upregulated in plasma samples and showed a positive correlation with 24-Hamilton Depression Scale (HAMD-24) scores in patients with MDD. Moreover, in the microglia of the brains of mice subjected to the chronic unpredictable stress (CUS) model, circMBNL1 was significantly upregulated. To achieve specific knockdown of circMBNL1 in microglia, PEG/PEI-based nanoparticles were modified with MG1 peptide for the targeted delivery of siRNA (TNP-si-circMBNL1) into activated microglia via intranasal administration. In vitro and in vivo studies demonstrated that TNP-si-circMBNL1 efficiently delivered si-circMBNL1 to activated microglia, resulting in a significant reduction in circMBNL1 expression. Notably, intranasal administration of TNP-si-circMBNL1 effectively ameliorated CUS-induced depressive-like behaviors in mice. These results indicate that circMBNL1 is linked to MDD, and the peptide-guided nanoparticle loaded siRNA targeting circMBNL1 (TNP-si-circMBNL1) displays great potential for depression therapy.
 
-## 7. 胶质瘤固有的 MAPK/ERK 信号通过 T 细胞浸润和干扰素反应提高免疫治疗效果。
+## 7. 在成人 B 细胞急性淋巴细胞白血病 (B-ALL) 中按照护理标准进行同种异体造血细胞移植 Brexucabtagene Autoleucel (Brexu-cel)：来自 CAR T 在成人 ALL (ROCCA) 中的真实世界结果合作组织的结果。
 
-- 英文题目：Glioma-intrinsic MAPK/ERK signaling promotes immunotherapy efficacy through T cell infiltration and interferon responses.
-- 主题：小胶质细胞与 TREM2
+- 英文题目：Allogeneic Hematopoietic Cell Transplant Following Standard of Care Brexucabtagene Autoleucel (Brexu-cel) in Adults with B-Cell Acute Lymphoblastic Leukemia (B-ALL): Results from the Real-World Outcomes Collaborative of CAR T in Adult ALL (ROCCA).
+- 主题：干细胞与外泌体
 - 来源：PubMed
-- 期刊/平台：Nature communications
-- 影响因子：15.7
-- 分区：JCR Q1 / CAS 1区
+- 期刊/平台：Transplantation and cellular therapy
+- 影响因子：4.4
+- 分区：JCR Q1 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-25
-- 分数：75
-- PMID：42350396
-- DOI：10.1038/s41467-026-74124-7
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42350396/
+- 日期：2026-06-27
+- 分数：73
+- PMID：42364734
+- DOI：10.1016/j.jtct.2026.06.039
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42364734/
 
-中文摘要：胶质母细胞瘤（GBM）仍然是神经肿瘤学中的一个巨大挑战，免疫检查点阻断（ICB）仅在某些患者中显示出疗效，而控制治疗反应的机制尚不清楚。尽管 MAPK/ERK 信号传导与 ICB 后的生存相关，但其因果作用和肿瘤免疫原性的机制仍不清楚。在这里，我们在小鼠神经胶质瘤中进行体内全激酶组 CRISPR/Cas9 筛选，确定 RAF-MEK-ERK 轴是神经胶质瘤对抗程序性细胞死亡蛋白 1（抗 PD-1）治疗和 CD8+ T 细胞识别敏感性的最强调节剂。实验诱导的 ERK 磷酸化 (p-ERK) 可增强抗 PD-1 和抗 CTLA-4 治疗后的存活率，从而在再次攻击后产生持久的抗肿瘤免疫力。此外，神经胶质瘤细胞 p-ERK 促进干扰素反应和 T 细胞浸润增加。值得注意的是，在人 GBM/脑切片培养物中，BRAF/MEK 抑制会破坏 BRAFV600E 离体中的干扰素程序和肿瘤-小胶质细胞相互作用。我们的研究结果阐明，肿瘤固有的 MAPK/ERK 促进免疫治疗反应、干扰素反应、T 细胞肿瘤浸润和 GBM 细胞-小胶质细胞相互作用。
+中文摘要：简介：Brexucabtagene autoleucel (brexu-cel) 是一种自体抗 CD19 嵌合抗原受体 T (CAR T) 细胞疗法，被批准用于成人复发/难治性 (r/r) B-ALL 患者。尽管结果令人鼓舞，但大多数成年人在 brexu-cel 治疗后复发，这凸显了需要采取策略来提高反应的持久性。其中一种策略是巩固性同种异体干细胞移植（alloHCT）。在此，我们报告了成人 B-ALL 患者在商业 brexu-cel 后接受巩固性 alloHCT 的结果，作为成人 ALL CAR-T 现实世界结果合作组织 (ROCCA) 的一部分。方法：我们对患有 R/R B-ALL 的成人患者进行了回顾性多中心分析，这些患者在商业 brexu-cel 后完全缓解 (CR) 后接受了巩固性 alloHCT，并在 ROCCA 中注册。 ROCCA 包括 41 家美国机构，提供 2021 年至 2025 年间接受 brexu-cel 治疗的成人 B-ALL 患者的回顾性数据。 CAR T 失败后接受 alloHCT 的患者被排除。主要终点是 12 个月总生存期 (OS) 和无事件生存期 (EFS)；次要终点包括复发、非复发死亡率（NRM）和移植物抗宿主病（GVHD）。结果：在 399 名接受 brexu-cel 治疗的患者中，65 名患者接受了巩固性 alloHCT，其中 56 名患者接受了第一次 alloHCT，9 名患者接受了第二次 alloHCT。在首次 alloHCT 的接受者中，中位年龄为 34 岁，患者接受过中位三种先前治疗的严格预处理。 HCT 后中位随访时间为 11 个月，HCT 后 1 年估计 OS 和 EFS 分别为 79% (95% CI, 64-88) 和 66% (95% CI, 51-77)。 1年累积复发率为19%，NRM为13%。 18% 发生急性 II-IV 级 GVHD，4% 发生 III-IV 级，12% 发生中度至重度慢性 GVHD。在单变量分析中，年龄≥40岁与较差的OS（HR 4.31，95% CI 1.40-13.3）和EFS（HR 3.36，95% CI 1.43-7.91）相关，而清髓性预处理与改善的EFS相关（HR 0.37，95% CI 0.15-0.93）。在第二次 alloHCT 接受者中，1 年 EFS 和 OS 为 59% (95% CI, 19-85)。 1 年累积发生率 NRM 为 41%……
 
-英文摘要：Glioblastoma (GBM) remains a formidable challenge in neuro-oncology, with immune checkpoint blockade (ICB) only showing efficacy in some patients, while the mechanisms governing therapeutic responsiveness are poorly defined. Although MAPK/ERK signaling correlates with survival following ICB, its causal role and mechanisms underlying tumor immunogenicity remain unclear. Here, we perform in vivo kinome-wide CRISPR/Cas9 screens in murine gliomas where we identify RAF-MEK-ERK axis as the strongest modulators of glioma susceptibility to anti-programmed cell death protein 1 (anti-PD-1) therapy and CD8+ T cell recognition. Experimentally-induced ERK phosphorylation (p-ERK) enhances survival after anti-PD-1 and anti-CTLA-4 therapy, leading to durable antitumor immunity upon rechallenge. Additionally, glioma cell p-ERK promotes increased interferon responses and T cell infiltration. Notably, BRAF/MEK inhibition disrupts interferon programs and tumor-microglia interactions in BRAFV600E ex vivo in human GBM/brain slice cultures. Our findings elucidate that tumor-intrinsic MAPK/ERK promotes immunotherapy response, interferon responses, T cell tumor infiltration, and GBM cell-microglia interactions.
+英文摘要：INTRODUCTION: Brexucabtagene autoleucel (brexu-cel) is an autologous anti-CD19 chimeric antigen receptor T (CAR T) cell therapy approved for adults with relapsed/refractory (r/r) B-ALL. Despite encouraging outcomes, the majority of adults relapse following brexu-cel, highlighting the need for strategies to improve the durability of response. One such strategy is consolidative allogeneic stem cell transplant (alloHCT). Here, we report outcomes of adults with B-ALL who underwent consolidative alloHCT following commercial brexu-cel as part of the Real-world Outcomes Collaborative of CAR-T in Adult ALL (ROCCA). METHODS: We performed a retrospective multicenter analysis of adults with R/R B-ALL who underwent consolidative alloHCT in complete remission (CR) after commercial brexu-cel and were registered in ROCCA. ROCCA includes 41 US institutions contributing retrospective data for adults with B-ALL treated with brexu-cel between 2021-2025. Patients who received alloHCT after CAR T failure were excluded. Primary endpoints were 12-month overall survival (OS) and event-free survival (EFS); secondary endpoints included relapse, non-relapse mortality (NRM), and graft-versus-host disease (GVHD). RESULTS: Among 399 brexu-cel-treated patients, 65 underwent consolidative alloHCT including 56 patients who underwent a first alloHCT and nine who underwent 2nd alloHCT. Among recipients of first alloHCT, the median age was 34 years, and patients were heavily pretreated with a median of three prior lines of therapy. With a median follow-up of 11 months post-HCT, the estimated 1-year post-HCT OS and EFS were 79% (95% CI, 64-88) and 66% (95% CI, 51-77), respectively. The 1-year cumulative incidence of relapse was 19%, and NRM was 13%. Acute grade II-IV GVHD occurred in 18%, grade III-IV in 4%, and moderate-to-severe chronic GVHD in 12%. In univariable analysis, age ≥40 was associated with inferior OS (HR 4.31, 95% CI 1.40-13.3) and EFS (HR 3.36, 95% CI 1.43-7.91), whereas myeloablative conditioning was associated with improved EFS (HR 0.37, 95% CI 0.15-0.93). Among 2nd alloHCT recipients, 1-year EFS and OS were 59% (95% CI, 19-85). The 1-year cumulative incidence NRM was 41% and there were no relapses documented among these patients. CONCLUSIONS: In this large real-world cohort, consolidative alloHCT after brexu-cel was feasible and associated with encouraging survival, low relapse rates, and acceptable toxicity, particularly among HCT naive recipients. These findings support alloHCT as a viable consolidation strategy following CAR T-induced remission and highlight the need for prospective studies to refine patient selection, conditioning regimens and transplant approaches in the post CAR T setting.
 
-## 8. 间充质干细胞外泌体治疗阿尔茨海默病的生物学基础、作用机制和优化策略。
+## 8. 可溶性 PD-1 通过破坏免疫稳态来驱动 CKD 中的肾纤维化：通过靶向 sPD-1 隔离策略进行治疗缓解。
 
-- 英文题目：The Biological Basis, Mechanisms of Action, and Optimization Strategies of Exosomes Derived from Mesenchymal Stem Cells for the Treatment of Alzheimer's Disease.
-- 主题：小胶质细胞与 TREM2
+- 英文题目：Soluble PD-1 drives renal fibrosis in CKD by disrupting immune homeostasis: Therapeutic mitigation via a targeted sPD-1 sequestration strategy.
+- 主题：干细胞与外泌体
 - 来源：PubMed
-- 期刊/平台：Molecular neurobiology
-- 影响因子：4.3
-- 分区：JCR Q1 / CAS 2区
+- 期刊/平台：Life sciences
+- 影响因子：5.1
+- 分区：JCR Q1 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-25
-- 分数：75
-- PMID：42348056
-- DOI：10.1007/s12035-026-06002-8
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42348056/
+- 日期：2026-06-27
+- 分数：73
+- PMID：42364692
+- DOI：10.1016/j.lfs.2026.124556
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42364692/
 
-中文摘要：阿尔茨海默病（AD）是一种复杂的神经退行性疾病，其病理过程涉及多种机制，包括Aβ沉积、tau蛋白异常、神经炎症、突触损伤和神经元丢失。目前的治疗方法在阻止疾病进展方面仍然无效；因此，开发多靶点、低免疫原性、高效脑部递送的治疗策略具有重要意义。间充质干细胞衍生的外泌体（MSC-衍生的外泌体）继承了MSC的免疫调节、神经保护和组织修复特性，并具有良好的生物相容性和穿过血脑屏障的潜力。研究表明，MSC 衍生的外泌体通过调节神经炎症、促进神经发生和突触可塑性、减少 Aβ 沉积和 tau 病理以及调节多个 AD 相关信号通路来发挥治疗作用。同时，不同组织来源的间充质干细胞外泌体的分子组成和功能表现出异质性，其治疗效果受到来源细胞、培养条件、制备工艺和给药方法等因素的影响。近年来，工程化表面修饰、功能分子负载、三维培养、微环境预处理、规模化生产以及鼻内给药和生物材料递送系统等策略为增强间充质干细胞来源的外泌体的脑靶向能力、稳定性、产量和疗效提供了新的方向。本文综述了MSC来源的外泌体的生物学基础、其治疗AD的作用机制和优化策略，为其作为AD无细胞治疗方法的进一步开发和转化应用提供参考。
+中文摘要：目的：肾间质纤维化 (RIF) 会导致慢性肾脏病 (CKD) 进展，而可溶性 PD-1 (sPD-1) 升高会加剧慢性炎症。本研究旨在阐明 sPD-1 在 RIF 中的致病作用，并评估“Exo-PD1”（一种旨在隔离循环 sPD-1 的新型工程细胞外囊泡策略）作为减轻肾纤维化的靶向治疗干预措施。材料和方法：我们使用 ELISA、免疫组织化学和流式细胞术分析了来自临床 CKD 队列和三种不同小鼠模型（单侧输尿管梗阻 (UUO)、单侧缺血再灌注损伤 (UIRI) 和马兜铃酸 I (AAI) 诱导的肾病）的血清和肾活检样本。 Exo-PD1 是通过使用亲和素对细胞外囊泡进行表面功能化来装载抗 PD-1 抗体而设计的。在体外和体内系统地评估了 Exo-PD1 的治疗功效和安全性。主要发现：在患者和小鼠模型中，sPD-1 升高与 RIF 严重程度和 T 细胞过度激活密切相关，而外源性 sPD-1 会加剧纤维化。 Exo-PD1 有效隔离循环中的 sPD-1，通过局部吸附优于传统抗体。此外，Exo-PD1 治疗可显着减弱 T 细胞过度激活、减弱炎症反应并减少模型中的关键纤维化标志物（α-SMA、胶原蛋白 I），同时全身毒性最小。意义：sPD-1 通过破坏免疫稳态而充当肾纤维化的关键介质。生物相容性 Exo-PD1 平台有效拦截循环的 sPD-1，破坏炎症-纤维化串扰，并提供高度转化的治疗方法来阻止 CKD 进展。
 
-英文摘要：Alzheimer's disease (AD) is a complex neurodegenerative disorder whose pathological process involves multiple mechanisms, including Aβ deposition, tau protein abnormalities, neuroinflammation, synaptic damage, and neuronal loss. Current therapeutic approaches remain ineffective in halting disease progression; therefore, the development of multi-targeted, low-immunogenicity therapeutic strategies with efficient brain delivery is of great significance. Mesenchymal stem cell-derived exosomes (MSC-derived exosomes) inherit the immunomodulatory, neuroprotective, and tissue-repairing properties of MSCs, and possess good biocompatibility and the potential to cross the blood-brain barrier. Studies have shown that MSC-derived exosomes exert therapeutic effects by modulating neuroinflammation, promoting neurogenesis and synaptic plasticity, reducing Aβ deposition and tau pathology, and regulating multiple AD-related signaling pathways. At the same time, the molecular composition and functions of MSC-derived exosomes derived from different tissues exhibit heterogeneity, and their therapeutic efficacy is influenced by factors such as the source cells, culture conditions, preparation processes, and administration methods. In recent years, strategies such as engineered surface modification, functional molecule loading, three-dimensional culture, microenvironment pretreatment, large-scale production, as well as intranasal administration and biomaterial delivery systems have provided new directions for enhancing the brain-targeting ability, stability, yield, and therapeutic efficacy of MSC-derived exosomes. This review summarizes the biological basis of MSC-derived exosomes, their mechanisms of action in AD treatment, and optimization strategies, providing a reference for their further development and translational application as a cell-free therapeutic approach for AD.
+英文摘要：AIMS: Renal interstitial fibrosis (RIF) drives chronic kidney disease (CKD) progression, with elevated soluble PD-1 (sPD-1) exacerbating chronic inflammation. This study aims to elucidate the pathogenic role of sPD-1 in RIF and evaluate "Exo-PD1"-a novel engineered extracellular vesicle strategy designed to sequester circulating sPD-1-as a targeted therapeutic intervention to mitigate renal fibrosis. MATERIALS AND METHODS: We analyzed serum and renal biopsy samples from clinical CKD cohorts and three distinct mouse models-unilateral ureteral obstruction (UUO), unilateral ischemia-reperfusion injury (UIRI), and aristolochic acid I (AAI)-induced nephropathy-using ELISA, immunohistochemistry, and flow cytometry. Exo-PD1 was engineered by surface-functionalizing extracellular vesicles with avidin to load anti-PD-1 antibodies. The therapeutic efficacy and safety profiles of Exo-PD1 were systematically evaluated in vitro and in vivo. KEY FINDINGS: Elevated sPD-1 strongly correlated with RIF severity and T-cell hyperactivation in both patients and murine models, while exogenous sPD-1 exacerbated fibrosis. Exo-PD1 effectively sequestered circulating sPD-1, outperforming conventional antibodies through local adsorption. Furthermore, Exo-PD1 treatment significantly attenuated T-cell hyperactivation, blunted inflammatory responses, and reduced key fibrotic markers (α-SMA, collagen I) across models with minimal systemic toxicity. SIGNIFICANCE: sPD-1 acts as a critical mediator of renal fibrosis by disrupting immune homeostasis. The biocompatible Exo-PD1 platform effectively intercepts circulating sPD-1, disrupting the inflammation-fibrosis crosstalk and offering a highly translational therapeutic approach to halt CKD progression.
 
-## 9. 姜黄素和 α-糖基异槲皮苷的无定形配方对大鼠海湾战争疾病模型中海马功能障碍的比较改善作用。
-
-- 英文题目：The comparative ameliorating effects of an amorphous formula of curcumin and α-glycosyl isoquercitrin on hippocampal dysfunction in a rat gulf war illness model.
-- 主题：小胶质细胞与 TREM2
-- 来源：PubMed
-- 期刊/平台：Metabolic brain disease
-- 影响因子：3.5
-- 分区：JCR Q2 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-06-25
-- 分数：75
-- PMID：42347851
-- DOI：10.1007/s11011-026-01908-7
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42347851/
-
-中文摘要：脑功能障碍是海湾战争疾病（GWI）的主要症状。本研究研究了姜黄素 (CUR) 和 α-糖基异槲皮苷 (AGIQ) 的无定形配方对大鼠 GWI 模型中海马齿状回 (DG) 中产生的神经元的神经行为和成人神经发生以及突触可塑性的影响。十周大的大鼠接受 GWI 相关化学物质和束缚应激 28 天；此后，动物饲喂不含补充剂的饮食或混合有 0.1% CUR 或 0.5% AGIQ 的饮食 126 天。 GWI 治疗对行为终点产生不利影响，包括新物体识别、蔗糖偏好、新奇抑制喂养和情境恐惧条件反射。 CUR 改善了所有这些影响，而 AGIQ 则引起类似焦虑的行为并改善了恐惧消退学习。 GWI治疗下调DG中NRF2-KEAP1通路相关基因；这两种植物化学物质都逆转了大部分变化。 GWI 治疗增加了 DG 门中的 CD68+ 和 CD163+ 小胶质细胞数量；两种植物化学物质都逆转了 CD68+ 小胶质细胞的增加。在神经源性生态位中，GWI 治疗减少了 GFAP+ 神经干细胞，但增加了 DCX+ 和 PCNA+ 细胞，减少了肺门 SST+ 和 GAD67+ GABA 能中间神经元，并下调了 Pvalb。 CUR 逆转了 GFAP+ 细胞和 SST+ 中间神经元数量的减少。两种植物化学物质均可增加 VGLUT1 免疫反应性，恢复 VGLUT1/VGAT 比率，并上调 Bdnf、Gria1、Gria2、Gria3、Slc17a7、Ptgs2 和 Mapk1。 AGIQ 进一步增加了 COX2+ 细胞数量并上调了 Grin2a、Grin2b 和 Mapk3。总之，这两种植物化学物质可能在 GWI 动物中发挥抗氧化作用，并通过谷氨酸能信号调节兴奋/抑制平衡。 CUR 在使异常神经行为和神经发生正常化方面优于 AGIQ。
-
-英文摘要：Brain dysfunction is a primary symptom of Gulf War illness (GWI). The present study investigated the effects of an amorphous formula of curcumin (CUR) and α-glycosyl isoquercitrin (AGIQ) on neurobehaviors and adult neurogenesis and following synaptic plasticity of produced neurons in the hippocampal dentate gyrus (DG) in a rat GWI model. Ten-week-old rats received GWI-related chemicals and restraint stress for 28 days; thereafter, animals were fed either a diet without supplement or mixed with 0.1% CUR or 0.5% AGIQ for 126 days. GWI treatment adversely affected behavioral endpoints, including novel object recognition, sucrose preference, novelty-suppressed feeding, and contextual fear conditioning. CUR ameliorated all these effects, while AGIQ caused anxiety-like behavior and improved fear extinction learning. GWI treatment downregulated NRF2-KEAP1 pathway-related genes in the DG; both phytochemicals reversed most of these changes. GWI treatment increased CD68+ and CD163+ microglia populations in the DG hilus; both phytochemicals reversed the increase of CD68+ microglia. In the neurogenic niche, GWI treatment decreased GFAP+ neural stem cells but increased DCX+ and PCNA+ cells, decreased hilar SST+ and GAD67+ GABAergic interneurons, and downregulated Pvalb. CUR reversed decreases in GFAP+ cell and SST+ interneuron numbers. Both phytochemicals increased VGLUT1 immunoreactivity, restored the VGLUT1/VGAT ratio, and upregulated Bdnf, Gria1, Gria2, Gria3, Slc17a7, Ptgs2, and Mapk1. AGIQ further increased COX2+ cell numbers and upregulated Grin2a, Grin2b, and Mapk3. In summary, both phytochemicals may have exerted antioxidant effects and modulated excitatory/inhibitory balance via glutamatergic signaling in GWI animals; CUR was superior to AGIQ at normalizing aberrant neurobehaviors and neurogenesis.
-
-## 10. 血浆蛋白与日本社区八旬老人的残疾和死亡风险相关。
+## 9. 血浆蛋白与日本社区八旬老人的残疾和死亡风险相关。
 
 - 英文题目：Plasma proteins associated with disability and mortality risks in Japanese community-dwelling octogenarians.
 - 主题：小胶质细胞与 TREM2
@@ -195,6 +176,25 @@
 中文摘要：日本是世界上预期寿命最长的国家之一，但与老年人残疾和死亡率相关的生物标志物仍不确定。这项研究的目的是确定与社区八旬老人的意外残疾和死亡相关的血浆蛋白。分析了两个前瞻性队列：作为发现的川崎老龄化福祉项目（KAWP；2017-2018；4.5 年随访）和用于外部复制的 Invecchiare in Chianti（InCHIANTI；1998-2000；15 年随访）。发现样本包括 230 名 85-89 岁的无残疾成年人（50.4% 为女性）。使用 Luminex xMAP 分析了 29 种血浆蛋白。使用弹性净正则化 Cox 模型估计与事件残疾和死亡率的关联，并在完整 KAWP 队列和 InCHIANTI 中的多变量 Cox 模型中进行测试。较高的 β-2-微球蛋白和半胱氨酸蛋白酶抑制剂 C 水平与残疾风险增加相关（风险比 [HR] 1.35，95% 置信区间 [CI] 1.11-1.64；HR 1.42，95% CI 1.14-1.76）。对于死亡率，表皮生长因子呈负相关（HR 0.51，95% CI 0.27-0.96），而干扰素γ诱导蛋白10呈正相关（HR 1.23，95% CI 1.06-1.44）。与残疾的关联在整个 KAWP 队列和年龄≥ 80 岁的 InCHIANTI 参与者中得到了广泛的重复，而与死亡率相关的研究结果没有得到重复。总之，β-2-微球蛋白和胱抑素 C 可以作为未来残疾的生物标志物。这些模式表明肾功能障碍和炎症是老年人健康状况下降的驱动因素，并支持早期风险分层以指导预防性干预措施。
 
 英文摘要：Japan has one of the world's longest life expectancies, yet biomarkers associated with disability and mortality in very old adults remain uncertain. The goal of this study was to identify plasma proteins associated with incident disability and mortality in community-dwelling octogenarians. Two prospective cohorts were analyzed: the Kawasaki Aging Well-being Project (KAWP; 2017-2018; 4.5-year follow-up) as discovery and Invecchiare in Chianti (InCHIANTI; 1998-2000; 15-year follow-up) for external replication. The discovery sample comprised 230 disability-free adults aged 85-89 years (50.4% women). Twenty-nine plasma proteins were assayed using Luminex xMAP. Associations with incident disability and mortality were estimated with elastic net-regularized Cox models and tested in multivariable Cox models in the full KAWP cohort and in InCHIANTI. Higher beta-2-microglobulin and cystatin C levels were associated with an increased risk of disability (hazard ratio [HR] 1.35, 95% confidence interval [CI] 1.11-1.64; HR 1.42, 95% CI 1.14-1.76). For mortality, epidermal growth factor was inversely associated (HR 0.51, 95% CI 0.27-0.96), while interferon gamma-induced protein 10 was positively associated (HR 1.23, 95% CI 1.06-1.44). Associations with disability were broadly replicated in the full KAWP cohort and among InCHIANTI participants aged ≥ 80 years, whereas mortality-related findings were not replicated. In conclusion, beta-2-microglobulin and cystatin C may serve as biomarkers of future disability. These patterns implicate kidney dysfunction and inflammation as drivers of health decline in very old adults and support early risk stratification to guide preventive interventions.
+
+## 10. 血浆 GDF15 会影响长期痴呆风险并改变神经免疫信号传导。
+
+- 英文题目：Plasma GDF15 affects long-term dementia risk and alters neuroimmune signaling.
+- 主题：脑积水与脑脊液循环
+- 来源：PubMed
+- 期刊/平台：Science advances
+- 影响因子：12.5
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-06-26
+- 分数：73
+- PMID：42361163
+- DOI：10.1126/sciadv.aec7614
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42361163/
+
+中文摘要：生长/分化因子 15 (GDF15) 是一种与痴呆风险密切相关的分泌细胞因子。然而，GDF15 在多大程度上代表痴呆风险的生物标志物和驱动因素仍不清楚。在多个队列中，我们证明，在中年测量时，血浆 GDF15 在 15 至 25 年的随访期内与更大的痴呆风险相关，与阿尔茨海默病 (AD) 和痴呆相比，与血管的相关性更强。两个样本孟德尔随机化支持血浆 GDF15 在 AD 和相关痴呆中的机制作用，而队列研究将其与脑小血管疾病、神经变性、磷酸化 tau 和表明神经免疫激活的脑脊液蛋白质组特征联系起来。将培养的骨髓细胞暴露于重组 GDF15 会改变生物途径，我们随后证明这些途径可预测痴呆风险，包括干扰素/抗病毒反应。这些发现支持循环 GDF15 作为早期生物标志物的作用，特别是血管性痴呆和神经炎症，并确定了它可能增加痴呆风险的机制。
+
+英文摘要：Growth/differentiation factor-15 (GDF15) is a secreted cytokine strongly associated with dementia risk. However, the extent to which GDF15 represents a biomarker and driver of dementia risk remains unclear. Across multiple cohorts, we demonstrated that plasma GDF15 is associated with greater dementia risk over 15- to 25-year follow-up periods when measured in midlife, with stronger associations observed for vascular, compared to Alzheimer's disease (AD), dementia. Two-sample Mendelian randomization supported plasma GDF15's mechanistic role in AD and related dementias, while cohort studies linked it to cerebral small vessel disease, neurodegeneration, phosphorylated tau, and a cerebrospinal fluid proteomic signature indicative of neuroimmune activation. Exposure of cultured myeloid cells to recombinant GDF15 altered biological pathways that we subsequently demonstrated are predictive of dementia risk, including interferon/antiviral responses. These findings support circulating GDF15's role as an early biomarker-particularly for vascular dementia and neuroinflammation-and identify the mechanisms by which it may drive dementia risk.
 
 # 顶刊神经科学
 
@@ -371,7 +371,26 @@
 
 英文摘要：BACKGROUND AND OBJECTIVES: We characterized fine-scale geographic variation in serum trace metals across Campania (southern Italy). MATERIALS AND METHODS: In 2016-2017, the SPES programme sampled residents aged 20-49 years from municipal registries across Campania. Municipalities were stratified using an environmental-pressure index into three broad impact strata: high-impact, medium-impact and low-impact. For higher spatial resolution, municipalities were also grouped into 21 predefined municipal clusters. We measured 20 serum trace metals by ICP-MS and estimated age- and sex-adjusted geometric mean ratios (GMRs) comparing each stratum or cluster with the study-wide geometric mean. RESULTS: Of 4205 enrolled participants, 4188 were included. Medium-impact areas showed higher mercury (GMR 1.87, 95% CI 1.73-2.02) and antimony (1.95, 1.71-2.23) relative to the cohort average. At the municipal-cluster scale, the Irno Valley clusters around the Fonderie Pisano foundry (Baronissi-Pellezzano and Salerno) had about six-fold higher mercury (GMR 5.71 and 6.10) and about three-fold higher antimony (3.45 and 2.93), whereas the Valle del Sabato cluster showed about ten-fold higher antimony (GMR 10.5) and about seven-fold higher nickel (7.16) and cadmium (7.67). CONCLUSIONS: Overall serum metal concentrations were broadly comparable with European general-population ranges, but pronounced small-area heterogeneity indicates localized hotspots that provincial or regional averages can obscure. This population-based human biomonitoring study analyzed serum concentrations of 20 trace metals in 4,188 adults from Campania, Italy, comparing high-, medium- and low-impact environmental-pressure areas and 21 municipal clusters.Although overall serum metal concentrations were broadly comparable with European general-population ranges, the analysis identified pronounced small-area heterogeneity that would be obscured by broader provincial or regional summaries.Medium-impact areas showed higher mercury and antimony relative to the cohort average, while cluster-level analyses identified localized hotspots not captured by broad area-level summaries.The Irno Valley clusters around the Fonderie Pisano foundry showed about six-fold higher mercury and about three-fold higher antimony, whereas the Valle del Sabato cluster showed marked elevations in antimony, nickel and cadmium.A prespecified, reproducible missing-data workflow was used, including censoring-aware imputation for values below the limit of quantification and measured-subset analyses for metals with substantial assay nonperformance.Matched-set sensitivity analyses supported the main geospatial conclusions, although antimony contrasts were more sensitive to the alternative censoring-likelihood specification than most other metals.These findings support the value of fine-scale human biomonitoring for identifying local exposure signals and prioritizing follow-up environmental and public-health investigations.
 
-## 2. 温鼻内盐水冲洗可减少功能性内窥镜鼻窦手术期间的术中失血：一项倾向评分匹配队列研究。
+## 2. 通过 scRNA-seq 和 RNA-seq 分析鉴定与颈动脉粥样硬化斑块不稳定性相关的 PGF+ 内皮细胞。
+
+- 英文题目：Identification of PGF+ endothelial cells associated with plaque instability in carotid atherosclerosis by scRNA-seq and RNA-seq analysis.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Cell cycle (Georgetown, Tex.)
+- 影响因子：3.4
+- 分区：JCR Q3 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-12-01
+- 分数：57
+- PMID：42365589
+- DOI：10.1080/15384101.2026.2688663
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42365589/
+
+中文摘要：血管内皮功能障碍在动脉粥样硬化的发展中起着至关重要的作用。然而，内皮细胞导致斑块不稳定的机制仍不完全清楚。在这项研究中，我们对单细胞 RNA 测序 (scRNA-seq) 和批量 RNA-seq 数据进行了综合分析，以表征与颈动脉斑块不稳定相关的内皮细胞异质性。通过聚类分析、基因集变异分析（GSVA）、差异基因表达分析和 KEGG 通路富集来识别关键的内皮细胞亚群及其功能特征。我们鉴定了三个内皮细胞亚群（亚群 9、10 和 11），它们在不稳定斑块中显着富集，并表现出多种促炎细胞因子的上调。通路分析显示，这些亚群与 PI3K - Akt 信号通路和其他炎症相关通路的激活相关。此外，研究结果在载脂蛋白 E 缺陷 (ApoE-/-) 小鼠模型中得到验证，在动脉粥样硬化病变中观察到胎盘生长因子 (PGF) 表达增加和 PGF 阳性内皮细胞比例较高。总之，本研究揭示了动脉粥样硬化斑块中内皮细胞的异质性，并鉴定了可能与斑块不稳定相关的促炎内皮亚群，为动脉粥样硬化的发病机制提供了新的见解。 试验注册：本研究经贵州中医药大学实验动物伦理委员会批准（批准号：2,024,010）。
+
+英文摘要：Vascular endothelial dysfunction plays a critical role in the development of atherosclerosis; however, the mechanisms by which endothelial cells contribute to plaque instability remain incompletely understood. In this study, we performed an integrated analysis of single-cell RNA sequencing (scRNA-seq) and bulk RNA-seq data to characterize endothelial cell heterogeneity associated with carotid plaque instability. Clustering analysis, gene set variation analysis (GSVA), differential gene expression analysis, and KEGG pathway enrichment were conducted to identify key endothelial cell subsets and their functional characteristics. We identified three endothelial cell subsets (subsets 9, 10, and 11) that were significantly enriched in unstable plaques and exhibited upregulation of multiple pro-inflammatory cytokines. Pathway analysis revealed that these subsets were associated with activation of the PI3K - Akt signaling pathway and other inflammation-related pathways. Furthermore, findings were validated in an apolipoprotein E-deficient (ApoE-/-) mouse model, where increased expression of placental growth factor (PGF) and a higher proportion of PGF-positive endothelial cells were observed in atherosclerotic lesions. In conclusion, this study reveals the heterogeneity of endothelial cells in atherosclerotic plaques and identifies pro-inflammatory endothelial subsets potentially associated with plaque instability, providing new insights into the pathogenesis of atherosclerosis.Trial registration: This study was approved by the Experimental Animal Ethics Committee of Guizhou University of Chinese Medicine (approval number: 2,024,010).
+
+## 3. 温鼻内盐水冲洗可减少功能性内窥镜鼻窦手术期间的术中失血：一项倾向评分匹配队列研究。
 
 - 英文题目：Warm intranasal saline irrigation reduces intraoperative blood loss during functional endoscopic sinus surgery: a propensity score-matched cohort study.
 - 主题：全球学术热点
@@ -390,7 +409,7 @@
 
 英文摘要：BACKGROUND: To evaluate whether warm intranasal saline irrigation (38-40 °C) during functional endoscopic sinus surgery (FESS) is associated with reduced intraoperative bleeding compared with standard cold irrigation (18-21 °C). METHODS: We performed a single-centre retrospective cohort study of consecutive FESS procedures under inhalational general anaesthesia (January 2017-December 2022). After exclusions, 1,990 cases were eligible. One-to-one propensity score matching (age, sex, ASA class, and type of inhaled anaesthetic) yielded 409 warm and 409 cold cases. Primary outcomes were estimated blood loss and blood loss >50 mL. Secondary outcomes included anaesthesia duration, intraoperative medication requirements, and lowest recorded temperature. Multivariable logistic regression adjusted for BIS monitoring utilisation, intravenous fluid rate, and intraoperative antihypertensive medication use. RESULTS: Median blood loss was 50 mL (IQR 50-50) with warm irrigation versus 50 mL (IQR 50-100) with cold irrigation (p = 0.001). Blood loss >50 mL occurred in 18.6% versus 32.0%, respectively (p < 0.001). Warm irrigation remained independently associated with lower odds of blood loss >50 mL (adjusted OR 0.45, 95% CI 0.31-0.66; p < 0.001). BIS monitoring was also protective (adjusted OR 0.57, 95% CI 0.37-0.87; p = 0.009). Warm irrigation was associated with shorter anaesthesia duration (median 2.82 vs 3.38 h; p < 0.001) and a slightly higher nadir temperature (35.6 vs 35.5 °C; p = 0.007). CONCLUSIONS: Warm intranasal saline irrigation at 38-40 °C was associated with fewer clinically significant bleeding events during routine FESS and may represent a simple, low-cost adjunct to perioperative haemostatic management.
 
-## 3. SEC61G 研究进展：从 ER 易位子亚基到新兴的泛癌致癌作用。
+## 4. SEC61G 研究进展：从 ER 易位子亚基到新兴的泛癌致癌作用。
 
 - 英文题目：Advances in SEC61G research: from ER translocon subunit to emerging pan-cancer oncogenic roles.
 - 主题：全球学术热点
@@ -408,25 +427,6 @@
 中文摘要：SEC61G是Sec61易位子的γ亚基，长期以来被认为是染色体7p11.2上EGFR的乘客共扩增靶标。最近的研究揭示了其在多种癌症中的独立致癌功能。本综述提出了基于机制的 SEC61G 致癌活性分类：（1）通过经典易位进行免疫检查点调节； (2) 钙信号传导异常； (3) 独立于通道功能的非规范机制。我们进一步描绘了泛癌表达和 CRISPR-Cas9 依赖性景观，强调了宫颈鳞状细胞癌中的双重“高表达、高依赖性”特征。我们将当前的孔靶向 Sec61 抑制剂与亚基特异性策略区分开来，并提出了未来的方向，包括 PROTAC 降解剂和 PPI 抑制剂。我们的综述将 SEC61G 确定为泛癌预后生物标志物和免疫治疗反应预测因子，机制证据支持其在胶质母细胞瘤、非小细胞肺癌和结直肠癌中的驱动作用，而其他癌症中的关联仍然相关，需要进一步验证。
 
 英文摘要：SEC61G, the γ subunit of the Sec61 translocon, has long been regarded as a passenger co-amplification target of EGFR on chromosome 7p11.2. Recent studies have revealed its independent oncogenic functions across multiple cancers. This review proposes a mechanism-based classification of SEC61G oncogenic activities: (1) immune checkpoint regulation via canonical translocation; (2) aberrant calcium signaling; and (3) non-canonical mechanisms independent of channel functions. We further delineate the pan-cancer expression and CRISPR-Cas9 dependency landscape, highlighting a dual "high expression, high dependency" profile in cervical squamous cell carcinoma. We distinguish current pore-targeting Sec61 inhibitors from subunit-specific strategies and propose future directions including PROTAC degraders and PPI inhibitors. Our review identifies SEC61G as a pan‑cancer prognostic biomarker and immunotherapy response predictor, with mechanistic evidence supporting its driver roles in glioblastoma, non‑small cell lung cancer, and colorectal cancer, whereas associations in other cancers remain correlative and require further validation.
-
-## 4. 基于 NK 细胞的免疫疗法。
-
-- 英文题目：NK cell-based immunotherapy.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：Human vaccines & immunotherapeutics
-- 影响因子：3.5
-- 分区：JCR Q2 / CAS 3区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-12-01
-- 分数：47
-- PMID：42309519
-- DOI：10.1080/21645515.2026.2688610
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42309519/
-
-中文摘要：NK 细胞已迅速成为癌症免疫治疗的领先平台。与 T 细胞不同，NK 细胞通过来自抑制性和激活性受体的整合信号识别转化细胞，从而实现同种异体“现成”疗法，没有移植物抗宿主病的风险，细胞因子释放综合征和神经毒性的发生率也较低。对同种异体 NK 细胞（尤其是脐带血和诱导多能干细胞）来源的改进、离体激活和扩增、CAR 工程以及与新型接合剂的组合，已经产生了具有令人鼓舞的活性和出色安全性的临床适用产品。然而，障碍仍然存在，包括体内持久性有限、同种异体细胞的宿主排斥以及实体瘤运输效率低下。取得进展的领域包括多抗原和逻辑门控 CAR 平台、诱导安全开关、细胞因子装甲以及代谢和转录重连，以提高 NK 适应性。随着NK细胞疗法进入临床，探索检查点抑制剂、小分子激酶抑制剂、化疗、放疗的合理组合值得研究。 NK 细胞是先天免疫系统的一部分。它们与 T 细胞具有相同的细胞毒性机制，但与此相反，NK 细胞不需要事先接触抗原，其细胞毒性最终取决于每个 NK 细胞特有的一系列激活和抑制受体的平衡。本综述将研究用于治疗用途的 NK 细胞的来源以及如何修饰 NK 细胞以有效杀死癌细胞。我们将讨论开发有效的同种异体 NK 细胞疗法所面临的挑战。我们将回顾 NK 细胞的先进基因工程，以解决这些问题，特别关注 CAR-NK 细胞，以及未来的进展方向。
-
-英文摘要：NK cells have rapidly become a leading platform for cancer immunotherapy. Unlike T cells, NK cells recognize transformed cells through integrated signals from inhibitory and activating receptors, enabling allogeneic "off-the-shelf" therapies without risk of graft-versus-host disease and low rates of cytokine release syndrome and neurotoxicity. Refinement in sourcing of allogenic NK cells, especially umbilical cord blood and induced pluripotent stem cells, ex vivo activation and expansion, CAR engineering, and combinations with novel engagers have resulted in clinically applicable products with encouraging activity and excellent safety. However, barriers remain, including limited in vivo persistence, host rejection of allogeneic cells, and inefficient trafficking into solid tumors. Venues of progress include multiantigen and logic-gated CAR platforms, inducible safety switches, cytokine armoring, and metabolic and transcriptional rewiring to improve NK fitness. As NK cell therapies progress into the clinic, exploration of rational combinations with checkpoint inhibitors, small-molecule kinase inhibitors, chemotherapy, and radiotherapy warrant study. NK cells are part of the innate immune system. They share their cytotoxic mechanisms with T cells, but in contrast to these, NK cells don’t require a previous exposure to antigen and their cytotoxicity ultimately depends on the balance of an array of activating and inhibitory receptors that is unique to each NK cell. This review will examine the sources of the NK cells for therapeutic use and how NK cells have been modified to effectively kill cancer cells. The challenges to developing effective allogeneic NK cell-based therapy will be discussed. We will review advanced genetic engineering of the NK cells to address these problems with a particular focus on CAR-NK cells, and future directions of progress.
 
 ## 5. 肥胖代谢异质性与提示良性前列腺增生（LUTS/BPH）的下尿路症状的关联：纵向队列和横断面研究。
 
@@ -525,7 +525,26 @@
 
 英文摘要：A clinical trial is exploring whether high doses of vitamin B3 could give patients with glioblastoma a better chance against the aggressive brain cancer. Scientists found that niacin may help revive immune cells that tumors shut down, allowing them to attack cancer more effectively. Early results have been promising, with patients showing significantly better progression-free survival than expected.
 
-## 2. 每日益生菌可能有助于缓解抑郁和焦虑
+## 2. 新的维生素 B12 疗法有望对抗致命的脑癌
+
+- 英文题目：New vitamin B12 therapy shows promise against deadly brain cancer
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Sat, 27 Ju
+- 分数：50
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/06/260622091518.htm
+
+中文摘要：研究人员发现了一种基于维生素 B12 的化合物，可以穿过血脑屏障并瞄准胶质母细胞瘤。在动物研究中，该化合物优先在肿瘤组织中积累，并将持续的一氧化氮直接输送到癌细胞。它还与现有的胶质母细胞瘤治疗协同作用，显着增强其抗肿瘤效果。
+
+英文摘要：Researchers have identified a vitamin B12–based compound that can cross the blood-brain barrier and home in on glioblastoma tumors. In animal studies, the compound accumulated preferentially in tumor tissue and delivered sustained nitric oxide directly to cancer cells. It also worked synergistically with existing glioblastoma treatments, significantly enhancing their tumor-fighting effects.
+
+## 3. 每日益生菌可能有助于缓解抑郁和焦虑
 
 - 英文题目：A daily probiotic may help relieve depression and anxiety
 - 主题：国内外医学与医药新闻
@@ -544,7 +563,7 @@
 
 英文摘要：A small clinical trial suggests that probiotics may offer a surprising mental health boost for older adults with depression. Seniors who took a daily probiotic alongside their regular antidepressant treatment experienced slightly greater improvements in depression and anxiety symptoms than those who received a placebo.
 
-## 3. 克服内皮分选来治愈胶质母细胞瘤
+## 4. 克服内皮分选来治愈胶质母细胞瘤
 
 - 英文题目：Overcoming Endothelial Sorting to Cure Glioblastoma
 - 主题：国内外医学与医药新闻
@@ -563,7 +582,7 @@
 
 英文摘要：<a href="https://neurosciencenews.com/protein-corona-blood-brain-barrier-nanomedicine-30953/" rel="nofollow" title="Overcoming Endothelial Sorting to Cure Glioblastoma"><img alt="This shows a corona protein." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/06/corona-protein-BBB-brain-cancer-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Researchers present a shift in neuro-nanomedicine, reframing the "protein corona", the layer of blood proteins that coat nanoparticles, as a programmable, five-stage navigation interface capable of guiding therapeutics across the blood-brain barrier via receptor-mediated transcytosis.
 
-## 4. 新的大脑研究表明言语学习的工作方式与我们想象的不同
+## 5. 新的大脑研究表明言语学习的工作方式与我们想象的不同
 
 - 英文题目：New brain study reveals speech learning works differently than we thought
 - 主题：国内外医学与医药新闻
@@ -582,7 +601,7 @@
 
 英文摘要：A new study suggests that learning and remembering speech relies more on how the brain processes sounds and sensations than on the areas that control mouth and face movements. The discovery could reshape speech therapy and help improve future brain-based communication technologies.
 
-## 5. 这种常见的维生素缺乏症可以模拟正常的衰老过程
+## 6. 这种常见的维生素缺乏症可以模拟正常的衰老过程
 
 - 英文题目：This common vitamin deficiency can mimic normal aging
 - 主题：国内外医学与医药新闻
@@ -597,11 +616,11 @@
 - DOI：N/A
 - PubMed/原文链接：https://www.sciencedaily.com/releases/2026/06/260623083116.htm
 
-中文摘要：维生素 B12 的需求量极小，但缺乏会对健康和能量产生重大影响。大约 100 年前，这种维生素首次被用于治疗恶性贫血的挽救生命的肝脏治疗方法。如今，研究人员发现 B12 还可能有助于保持称为线粒体的细胞发电站正常运转。这可以解释为什么有些人甚至在传统的缺乏迹象出现之前就感到疲劳和脑雾。
+中文摘要：维生素 B12 的需求量极小，但缺乏会对健康和能量产生重大影响。大约 100 年前，这种维生素首次被用于治疗恶性贫血的挽救生命的肝脏治疗方法。如今，研究人员发现 B12 还可能有助于保持称为线粒体的细胞发电站正常运转。这可以解释为什么有些人甚至在传统的缺乏症状出现之前就感到疲劳和脑雾。
 
 英文摘要：Vitamin B12 is needed in microscopic amounts, but a shortage can have major effects on health and energy. The vitamin was first linked to a lifesaving liver treatment for pernicious anemia nearly 100 years ago. Today, researchers are finding that B12 may also help keep cellular powerhouses called mitochondria functioning properly. This could explain why some people experience fatigue and brain fog even before traditional signs of deficiency show up.
 
-## 6. FDA 批准的药物可能最终有助于免疫疗法战胜罕见肝癌
+## 7. FDA 批准的药物可能最终有助于免疫疗法战胜罕见肝癌
 
 - 英文题目：FDA-approved drug may finally help immunotherapy defeat rare liver cancer
 - 主题：国内外医学与医药新闻
@@ -620,7 +639,7 @@
 
 英文摘要：Researchers found that a rare liver cancer evades immunotherapy by luring immune T cells away from the tumor and trapping them in nearby fibrous tissue. An FDA-approved drug called AMD3100 freed those T cells to attack the cancer, significantly improving the effectiveness of immunotherapy in tumor samples.
 
-## 7. 犬的认知能力下降会改变步态
+## 8. 犬的认知能力下降会改变步态
 
 - 英文题目：Canine Cognitive Decline Alters Gait
 - 主题：国内外医学与医药新闻
@@ -638,25 +657,6 @@
 中文摘要：<a href="https://neurosciencenews.com/dog-dementia-gait-stride-length-30955/" rel="nofollow" title="犬类认知能力下降改变步态"><img alt="这显示狗在走路。" class =“webfeedsFeaturedVisual wp-post-image”height =“770”src =“https://neurosciencenews.com/files/2026/06/canine-gait-cognitive-decline-neuroscience-1155x770.jpg”style =“浮动：左；边距右：5px；” width="1155" /></a>研究人员发现，犬类认知能力下降与犬类前肢步幅缩短直接相关。由于胸肢需要大量的皮质控制来保持平衡和空间意识，因此它们的步幅缩短可以作为大脑衰退的早期行为生物标志物。
 
 英文摘要：<a href="https://neurosciencenews.com/dog-dementia-gait-stride-length-30955/" rel="nofollow" title="Canine Cognitive Decline Alters Gait"><img alt="This shows dogs walking." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/06/canine-gait-cognitive-decline-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Researchers established that canine cognitive decline is directly associated with a shortened stride length in dogs' front limbs. Because thoracic limbs require heavy cortical control for balance and spatial awareness, their shortened stride serves as an early behavioral biomarker for brain decline.
-
-## 8. 铜药物可清除有毒的阿尔茨海默氏症蛋白质并恢复记忆
-
-- 英文题目：Copper drug clears toxic Alzheimer’s proteins and restores memory
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Mind Brain
-- 期刊/平台：ScienceDaily Mind Brain
-- 影响因子：10+
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：内置参考表
-- 日期：Mon, 15 Ju
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/06/260615033835.htm
-
-中文摘要：一种铜基化合物恢复了大脑清除有毒阿尔茨海默氏症蛋白质的能力，显着减少了淀粉样蛋白的积累，并在实验室实验中改善了记忆力。这些发现指出了一种可能快速发展的新治疗策略，因为该药物已经在人体中针对其他神经系统疾病进行了测试。
-
-英文摘要：A copper-based compound restored the brain’s ability to clear toxic Alzheimer’s proteins, dramatically reducing amyloid buildup and improving memory in laboratory experiments. The findings point to a potentially fast-tracked new treatment strategy because the drug has already been tested in humans for other neurological conditions.
 
 ## 9. 混合 VR 和神经刺激使中风恢复加倍
 
@@ -695,8 +695,3 @@
 中文摘要：在阿尔茨海默病模型中，一种新发现的名为 OLE 的分子有助于将大脑的免疫细胞恢复到更具保护性的状态。这种治疗减少了有毒斑块的积聚并改善了记忆力，为新的治疗方法带来了希望。
 
 英文摘要：A newly identified molecule called OLE helped restore the brain’s immune cells to a more protective state in Alzheimer’s models. The treatment reduced toxic plaque buildup and improved memory, raising hopes for a new therapeutic approach.
-
-## 抓取提示
-
-- biorxiv: 503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/biorxiv/2026-06-21/2026-06-28/0
-- medrxiv: 503 Server Error: Service Unavailable for url: https://api.biorxiv.org/details/medrxiv/2026-06-21/2026-06-28/0
