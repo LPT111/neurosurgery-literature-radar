@@ -1,6 +1,6 @@
 # 神外文献日报 V2
 
-生成时间：2026-08-30 09:40:34
+生成时间：2026-08-31 09:37:55
 核心神外文献数量：10
 全部条目数量：36
 
@@ -28,7 +28,7 @@
 ## 2. 论文标题：Early Retinal UCHL1 Dysregulation Coupled With Synaptic Loss Reflects Alzheimer's Disease Severity.
 
 - 英文题目：Early Retinal UCHL1 Dysregulation Coupled With Synaptic Loss Reflects Alzheimer's Disease Severity.
-- 主题：创伤性脑损伤
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
 - 期刊/平台：Advanced science (Weinheim, Baden-Wurttemberg, Germany)
 - 影响因子：14.1
@@ -44,7 +44,26 @@
 
 英文摘要：Synaptic dysfunction is a major driver of cognitive decline in Alzheimer's disease (AD), yet its extent and molecular basis in the retina remain poorly defined. We integrated postmortem retinal and matched brain histopathology with ultrastructural, proteomic, biochemical, and machine-learning analyses across cognitively normal, mild cognitive impairment, and AD cohorts. Retinal glutamatergic synapses exhibited early, progressive degeneration, marked by loss of presynaptic vesicular glutamate transporter 1 (VGLUT1) and synaptophysin and postsynaptic density protein 95 (PSD95) and N-methyl-D-aspartate receptor subunit 2A (NMDAR2A), along with ribbon synapse ultrastructural disruption. Synaptic deficits correlated with amyloid-β42 (Aβ42), pathogenic tau, oxidative stress, the Aβ-binding p75 neurotrophin receptor, and glial activation that paralleled disease progression. Proteomics revealed widespread synaptic remodeling accompanied by disease-associated microglia, astrocyte-mediated excitotoxicity, and pyroptotic pathways. The synapse-enriched deubiquitinase ubiquitin C-terminal hydrolase L1 (UCHL1) was dysregulated early, particularly in horizontal and bipolar interneurons, and strongly associated with synaptic loss and neuroinflammation. Mechanistically, fibrillar Aβ42 induced rapid UCHL1 and synaptic depletion in human and murine neurons before overt neurodegeneration. Machine-learning models identified retinal UCHL1 as the strongest predictor of Braak stage and cognitive impairment. These findings establish the retina as an early site of AD synaptopathy and position UCHL1 as a candidate biomarker and mechanistic mediator linking amyloid pathology, neuroinflammation, and synaptic vulnerability.
 
-## 3. 论文标题：该内容涉及小胶质细胞。原文：Sex-specific effects of therapeutic hypothermia on short- and long-term microglial and astrocytic reactivity after severe neonatal hypoxia-ischemia.
+## 3. 论文标题：Does HIV-1 infection drive Alzheimer's disease pathobiology?
+
+- 英文题目：Does HIV-1 infection drive Alzheimer's disease pathobiology?
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Neuroscience and biobehavioral reviews
+- 影响因子：7.9
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-08-29
+- 分数：75
+- PMID：42667832
+- DOI：10.1016/j.neubiorev.2026.106932
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42667832/
+
+中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、炎症。原文：Lifelong antiretroviral therapy extends the lifespan of individuals with human immunodeficiency virus (HIV). However, HIV-associated neurocognitive disorders (HAND) remain with age-linked comorbidities. Despite viral suppression, the co-development of Alzheimer's disease (AD) remains a concern. Both HAND and AD share key mechanisms, including chronic neuroinflammation, glial dysfunction, and progressive neurodegeneration. Microglial activation is a key contributor that generates persistent proinflammatory neurotoxins, promoting amyloid-β aggregation, disrupting clearance, and accelerating neurodegeneration. Persistent viral reservoirs and low-level viral protein expression disrupt glial homeostasis, enhancing oxidative stress, tau hyperphosphorylation, and synaptic damage in the brain. This review highlights the intersections between both disorders and discusses emerging rodent models to investigate convergent pathways with the goal of improving therapeutic strategies to preserve cognitive health.
+
+英文摘要：Lifelong antiretroviral therapy extends the lifespan of individuals with human immunodeficiency virus (HIV). However, HIV-associated neurocognitive disorders (HAND) remain with age-linked comorbidities. Despite viral suppression, the co-development of Alzheimer's disease (AD) remains a concern. Both HAND and AD share key mechanisms, including chronic neuroinflammation, glial dysfunction, and progressive neurodegeneration. Microglial activation is a key contributor that generates persistent proinflammatory neurotoxins, promoting amyloid-β aggregation, disrupting clearance, and accelerating neurodegeneration. Persistent viral reservoirs and low-level viral protein expression disrupt glial homeostasis, enhancing oxidative stress, tau hyperphosphorylation, and synaptic damage in the brain. This review highlights the intersections between both disorders and discusses emerging rodent models to investigate convergent pathways with the goal of improving therapeutic strategies to preserve cognitive health.
+
+## 4. 论文标题：该内容涉及小胶质细胞。原文：Sex-specific effects of therapeutic hypothermia on short- and long-term microglial and astrocytic reactivity after severe neonatal hypoxia-ischemia.
 
 - 英文题目：Sex-specific effects of therapeutic hypothermia on short- and long-term microglial and astrocytic reactivity after severe neonatal hypoxia-ischemia.
 - 主题：创伤性脑损伤
@@ -62,25 +81,6 @@
 中文摘要：摘要要点：该内容涉及脑损伤、小胶质细胞、神经炎症、炎症。原文：Therapeutic hypothermia (TH) is the standard treatment to reduce mortality and neurological impairments after neonatal hypoxia-ischemia (HI). However, TH does not fully suppress neuroinflammation, leading to persistent neuroinflammatory responses that may exacerbate brain injury and limit TH efficacy. In addition, the influence of sexual dimorphism on these outcomes remains poorly understood. We investigated short- and long-term microglial and astrocytic reactivity in male and female neonatal rats following HI and TH treatment. At postnatal day 7 (PND7), male and female pups underwent right common carotid occlusion followed by exposure to hypoxia (8% O2). TH was induced by reducing body temperature to 32°C for 5 h. Brains were collected at PND8 or PND21 to assess brain injury volume, brain water content, and microglial and astrocytic reactivity based on Iba-1 and GFAP mean fluorescence intensity. Behavioral impairments were evaluated using negative geotaxis, olfactory discrimination, and cylinder tests. TH did not reduce injury volume but attenuated neuronal cell loss in males and reduced brain edema in females. In males, microglial reactivity was reduced by TH at PND8 and PND21 and astrocytic reactivity only at PND8. Olfactory discrimination was impaired in females and prevented by TH, whereas motor performance deficits and developmental impairments were not prevented by TH. Our results reinforce that the neuroprotective efficacy of TH is limited in severe HI injury and that, despite reducing early neuroinflammation, TH fails to prevent long-term neuroinflammatory responses. Notably, the early anti-inflammatory effects were only observed in males, underscoring the need for additional therapeutic strategies, particularly for females.
 
 英文摘要：Therapeutic hypothermia (TH) is the standard treatment to reduce mortality and neurological impairments after neonatal hypoxia-ischemia (HI). However, TH does not fully suppress neuroinflammation, leading to persistent neuroinflammatory responses that may exacerbate brain injury and limit TH efficacy. In addition, the influence of sexual dimorphism on these outcomes remains poorly understood. We investigated short- and long-term microglial and astrocytic reactivity in male and female neonatal rats following HI and TH treatment. At postnatal day 7 (PND7), male and female pups underwent right common carotid occlusion followed by exposure to hypoxia (8% O2). TH was induced by reducing body temperature to 32°C for 5 h. Brains were collected at PND8 or PND21 to assess brain injury volume, brain water content, and microglial and astrocytic reactivity based on Iba-1 and GFAP mean fluorescence intensity. Behavioral impairments were evaluated using negative geotaxis, olfactory discrimination, and cylinder tests. TH did not reduce injury volume but attenuated neuronal cell loss in males and reduced brain edema in females. In males, microglial reactivity was reduced by TH at PND8 and PND21 and astrocytic reactivity only at PND8. Olfactory discrimination was impaired in females and prevented by TH, whereas motor performance deficits and developmental impairments were not prevented by TH. Our results reinforce that the neuroprotective efficacy of TH is limited in severe HI injury and that, despite reducing early neuroinflammation, TH fails to prevent long-term neuroinflammatory responses. Notably, the early anti-inflammatory effects were only observed in males, underscoring the need for additional therapeutic strategies, particularly for females.
-
-## 4. 论文标题：该内容涉及神经炎症、炎症。原文：Intranasal bFGF‑Els alleviate doxorubicin‑induced cognitive deficits in mice by modulating the PI3K/AKT pathway and suppressing oxidative stress, neuroinflammation, and apoptosis.
-
-- 英文题目：Intranasal bFGF‑Els alleviate doxorubicin‑induced cognitive deficits in mice by modulating the PI3K/AKT pathway and suppressing oxidative stress, neuroinflammation, and apoptosis.
-- 主题：创伤性脑损伤
-- 来源：PubMed
-- 期刊/平台：Brain, behavior, and immunity
-- 影响因子：7.6
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-08-28
-- 分数：75
-- PMID：42665069
-- DOI：10.1016/j.bbi.2026.106983
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42665069/
-
-中文摘要：摘要要点：该内容涉及神经炎症、炎症。原文：Chemotherapy-induced cognitive impairment (CICI), a frequent consequence of doxorubicin (DOX) treatment in patients with breast cancer, currently lacks effective preventive measures. This work explored whether administering basic fibroblast growth factor (bFGF)-encapsulated elastic nanoliposomes (bFGF-Els) administered intranasally could mitigate DOX-induced cognitive impairment in a mouse model of triple-negative breast cancer. The optimized bFGF-Els were spherical and uniform, with a mean size of 110.8 nm, a polydispersity index of 0.079, a zeta potential of -32.6 mV, an encapsulation efficiency of 87.5%, and favorable deformability. Compared with those receiving DOX alone, mice receiving intranasal bFGF-Els showed markedly better cognitive performance, as evidenced by reduced escape latency and increased platform crossing and target quadrant time (all P < 0.01). Histological and biochemical analyses revealed that bFGF-Els attenuated hippocampal CA1 neuronal damage, decreased reactive oxygen species and malondialdehyde levels, restored superoxide dismutase and glutathione peroxidase activity, and reduced pro‑inflammatory cytokines (interleukin‑1β, interleukin‑6, and tumor necrosis factor‑α) (all P < 0.01). At the mechanistic level, bFGF-Els increased the ratios of phosphorylated PI3K to total PI3K and phosphorylated AKT to total AKT and increased the levels of nuclear Nrf2 (nuclear factor erythroid 2‑related factor 2), heme oxygenase‑1(HO-1), NAD(P)H:quinone oxidoreductase‑1(NQO1), and B‑cell lymphoma 2 (Bcl-2), while reducing nuclear factor‑κB (NF-κB), Bcl‑2‑associated X protein (Bax), and cleaved caspase‑3 (all P < 0.01). bFGF-Els did not affect the anti-tumor efficacy of DOX, as the tumor volume and weight were similar among all the groups treated with DOX (P > 0.05). In conclusion, intranasal bFGF-Els enable efficient bFGF transport to the brain and relieves DOX-triggered CICI by curbing oxidative stress, neuroinflammation, and apoptosis through the PI3K/AKT axis, all while preserving the antitumor activity of chemotherapy.
-
-英文摘要：Chemotherapy-induced cognitive impairment (CICI), a frequent consequence of doxorubicin (DOX) treatment in patients with breast cancer, currently lacks effective preventive measures. This work explored whether administering basic fibroblast growth factor (bFGF)-encapsulated elastic nanoliposomes (bFGF-Els) administered intranasally could mitigate DOX-induced cognitive impairment in a mouse model of triple-negative breast cancer. The optimized bFGF-Els were spherical and uniform, with a mean size of 110.8  nm, a polydispersity index of 0.079, a zeta potential of -32.6  mV, an encapsulation efficiency of 87.5%, and favorable deformability. Compared with those receiving DOX alone, mice receiving intranasal bFGF-Els showed markedly better cognitive performance, as evidenced by reduced escape latency and increased platform crossing and target quadrant time (all P < 0.01). Histological and biochemical analyses revealed that bFGF-Els attenuated hippocampal CA1 neuronal damage, decreased reactive oxygen species and malondialdehyde levels, restored superoxide dismutase and glutathione peroxidase activity, and reduced pro‑inflammatory cytokines (interleukin‑1β, interleukin‑6, and tumor necrosis factor‑α) (all P < 0.01). At the mechanistic level, bFGF-Els increased the ratios of phosphorylated PI3K to total PI3K and phosphorylated AKT to total AKT and increased the levels of nuclear Nrf2 (nuclear factor erythroid 2‑related factor 2), heme oxygenase‑1(HO-1), NAD(P)H:quinone oxidoreductase‑1(NQO1), and B‑cell lymphoma 2 (Bcl-2), while reducing nuclear factor‑κB (NF-κB), Bcl‑2‑associated X protein (Bax), and cleaved caspase‑3 (all P < 0.01). bFGF-Els did not affect the anti-tumor efficacy of DOX, as the tumor volume and weight were similar among all the groups treated with DOX (P > 0.05). In conclusion, intranasal bFGF-Els enable efficient bFGF transport to the brain and relieves DOX-triggered CICI by curbing oxidative stress, neuroinflammation, and apoptosis through the PI3K/AKT axis, all while preserving the antitumor activity of chemotherapy.
 
 ## 5. 论文标题：Molecular crosstalk between MAPK signaling and neuroprotective pathways in Parkinson's disease: from pathogenesis to therapeutic potential.
 
@@ -139,7 +139,26 @@
 
 英文摘要：Relapse remains the leading cause of treatment failure and mortality in pediatric acute myeloid leukemia (pAML), yet the early molecular features underlying relapse susceptibility remain poorly understood. Here, we leveraged our previously generated single-cell chromatin accessibility dataset comprising 177,500 cells from 16 diagnostic pAML samples with long-term clinical outcome data, spanning t(8;21), inv(16), and FLT3-ITD subtypes and stratified into relapse (RPS) and non-relapsed (NRPS) cases. We show that RPS patients harbor relapse-associated chromatin accessibility signatures already detectable at diagnosis across multiple molecular subtypes. These patients display heightened innate immune and inflammatory activation and expansion of HSC/MPP-like leukemic progenitors with stem cell-like regulatory features. Motif enrichment analyses identify AP-1 family members, together with RUNX1, SPI1, and ETS factors, as central regulators shaping the relapse-associated epigenetic state. Elevated expression of these regulators predicts inferior survival across independent AML cohorts. Collectively, these findings suggest that early epigenetic priming of innate immune and inflammatory programs is associated with a relapse-prone state and highlight this core transcriptional network as a candidate biomarker framework in pAML.
 
-## 8. 论文标题：Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.
+## 8. 论文标题：该内容涉及干细胞。原文：Peripheral neuropathy after allogeneic hematopoietic stem cell transplantation: incidence, risk factors, and electrophysiologic features.
+
+- 英文题目：Peripheral neuropathy after allogeneic hematopoietic stem cell transplantation: incidence, risk factors, and electrophysiologic features.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Transplantation and cellular therapy
+- 影响因子：4.4
+- 分区：JCR Q1 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-08-29
+- 分数：73
+- PMID：42668092
+- DOI：10.1016/j.jtct.2026.08.043
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42668092/
+
+中文摘要：摘要要点：该内容涉及干细胞。原文：BACKGROUND: Peripheral neuropathy (PN) is an uncommon but clinically significant complication after allogeneic hematopoietic stem cell transplantation (HSCT). However, the incidence, clinical features, risk factors, and electrophysiological characteristics of PN remain unclear. OBJECTIVE: To determine the incidence and risk factors of post-transplant PN (PTPN) and characterize its electrophysiological features using nerve conduction studies (NCS). STUDY DESIGN: We retrospectively analyzed consecutive patients aged ≥ 16 years who underwent first allogeneic HSCT at the Tokyo Metropolitan Cancer and Infectious Diseases Center, Komagome Hospital between January 2010 and December 2022. The primary endpoint was cumulative PTPN incidence. The cumulative incidence of PTPN was estimated with death treated as a competing event. Overall survival (OS) after PTPN onset was estimated using the Kaplan-Meier method. Risk factors for PTPN were evaluated using univariate and multivariate analyses using the Fine-Gray hazard model. Acute and chronic graft-versus-host disease (GVHD) were analyzed as time-dependent covariates. NCS findings were reviewed to characterize electrophysiological features and identify factors associated with reduced conduction parameters. RESULTS: Among 1,332 patients who underwent HSCT, 57 developed PTPN. The 3-year cumulative incidence was 3.9% (95% confidence interval [CI], 2.9-5.1). Median time from HSCT to PTPN onset was 195 days (range, 11-1,917). At PTPN onset, motor weakness and sensory disturbances were observed in 51 (89.5%) and 53 (93.0%) patients, respectively. Among 20 patients treated with intravenous immunoglobulin and/or methylprednisolone pulse therapy, only 2 (10.0%) showed symptomatic improvement. Multivariable analysis identified re-transplantation (hazard ratio [HR], 1.87; 95% CI, 1.05-3.34), grade II-IV acute GVHD (HR, 2.32; 95% CI, 1.34-4.00), and extensive chronic GVHD (HR, 4.27; 95% CI, 2.18-8.36) as independent risk factors for PTPN. Median survival after PTPN onset was 218 days (range, 5-3,106), and the 3-year overall survival rate after PTPN onset was 33.0% (95% CI, 20.9-45.6). NCS was performed in 55 patients and 53 (96.4%) show
+
+英文摘要：BACKGROUND: Peripheral neuropathy (PN) is an uncommon but clinically significant complication after allogeneic hematopoietic stem cell transplantation (HSCT). However, the incidence, clinical features, risk factors, and electrophysiological characteristics of PN remain unclear. OBJECTIVE: To determine the incidence and risk factors of post-transplant PN (PTPN) and characterize its electrophysiological features using nerve conduction studies (NCS). STUDY DESIGN: We retrospectively analyzed consecutive patients aged ≥ 16 years who underwent first allogeneic HSCT at the Tokyo Metropolitan Cancer and Infectious Diseases Center, Komagome Hospital between January 2010 and December 2022. The primary endpoint was cumulative PTPN incidence. The cumulative incidence of PTPN was estimated with death treated as a competing event. Overall survival (OS) after PTPN onset was estimated using the Kaplan-Meier method. Risk factors for PTPN were evaluated using univariate and multivariate analyses using the Fine-Gray hazard model. Acute and chronic graft-versus-host disease (GVHD) were analyzed as time-dependent covariates. NCS findings were reviewed to characterize electrophysiological features and identify factors associated with reduced conduction parameters. RESULTS: Among 1,332 patients who underwent HSCT, 57 developed PTPN. The 3-year cumulative incidence was 3.9% (95% confidence interval [CI], 2.9-5.1). Median time from HSCT to PTPN onset was 195 days (range, 11-1,917). At PTPN onset, motor weakness and sensory disturbances were observed in 51 (89.5%) and 53 (93.0%) patients, respectively. Among 20 patients treated with intravenous immunoglobulin and/or methylprednisolone pulse therapy, only 2 (10.0%) showed symptomatic improvement. Multivariable analysis identified re-transplantation (hazard ratio [HR], 1.87; 95% CI, 1.05-3.34), grade II-IV acute GVHD (HR, 2.32; 95% CI, 1.34-4.00), and extensive chronic GVHD (HR, 4.27; 95% CI, 2.18-8.36) as independent risk factors for PTPN. Median survival after PTPN onset was 218 days (range, 5-3,106), and the 3-year overall survival rate after PTPN onset was 33.0% (95% CI, 20.9-45.6). NCS was performed in 55 patients and 53 (96.4%) showed axonal-type neuropathy. Motor and sensory amplitudes were generally lower in the lower extremities than in the upper extremities. Median ulnar motor nerve conduction velocity and compound muscle action potential amplitude were 47.7 m/s and 3.4 mV, respectively, whereas the corresponding tibial values were 37.6 m/s and 2.2 mV. Median ulnar sensory nerve conduction velocity and sensory nerve action potential amplitude were 48.4 m/s and 12.2 μV, respectively, whereas the corresponding sural values were 42.7 m/s and 4.2 μV. Older age (≥ 50 years), male sex, re-transplantation, and PTPN onset within 200 days after HSCT were associated with reduced nerve conduction velocities or amplitudes. CONCLUSION(S): PTPN was associated with GVHD and re-transplantation and was characterized predominantly by axonal neuropathy. The electrophysiological pattern suggests that PTPN may represent a distinct neurological complication rather than classical immune-mediated demyelinating neuropathy. Further studies are needed to clarify its pathophysiology and develop transplant-specific diagnostic and treatment strategies.
+
+## 9. 论文标题：Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.
 
 - 英文题目：Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.
 - 主题：干细胞与外泌体
@@ -157,25 +176,6 @@
 中文摘要：摘要要点：该内容涉及随机。原文：Treatment-resistant depression (TRD) remains a highly burdensome clinical condition, and improvement in depressive severity does not necessarily imply parallel modification of maladaptive cognitive-affective processes such as rumination. We compared 6-month trajectories of depressive symptoms and depressive rumination across three active treatment conditions in routine clinical care: intranasal esketamine-based treatment without depression-specific metacognitive training (ESK), depression-specific metacognitive training without esketamine exposure (D-MCT), and combined esketamine plus D-MCT (D-MCT + ESK). Of 65 screened patients, 12 were excluded because of at least one absolute contraindication and 53 were enrolled (ESK n = 15, D-MCT n = 12, D-MCT + ESK n = 26). Seven participants did not complete the 6-month endpoint assessment (six in ESK and one in D-MCT + ESK), yielding a complete-case analysis set of 46 patients (ESK n = 9, D-MCT n = 12, D-MCT + ESK n = 25). Generalized estimating equations showed significant time effects and time-by-group interactions for both MADRS and RRS total scores. Endpoint ANCOVA models adjusting for baseline outcome value showed significant group effects at 6 months for MADRS (F(2,42) = 24.97, p<.001) and RRS (F(2,42) = 5.59, p=.007). Six-month MADRS response among completers was 3/9 (33.3%) in ESK, 4/12 (33.3%) in D-MCT, and 23/25 (92.0%) in D-MCT + ESK; corresponding intention-to-treat estimates using non-responder imputation were 3/15 (20.0%), 4/12 (33.3%), and 23/26 (88.5%). Concomitant treatment profiles showed marked imbalance in previous non-pharmacological treatment exposure, representing an important potential confounder. Findings support a cautious, hypothesis-generating interpretation because allocation was nonrandomized, assessment was open-label, the sample was modest, and baseline rumination was higher in the combined group.
 
 英文摘要：Treatment-resistant depression (TRD) remains a highly burdensome clinical condition, and improvement in depressive severity does not necessarily imply parallel modification of maladaptive cognitive-affective processes such as rumination. We compared 6-month trajectories of depressive symptoms and depressive rumination across three active treatment conditions in routine clinical care: intranasal esketamine-based treatment without depression-specific metacognitive training (ESK), depression-specific metacognitive training without esketamine exposure (D-MCT), and combined esketamine plus D-MCT (D-MCT + ESK). Of 65 screened patients, 12 were excluded because of at least one absolute contraindication and 53 were enrolled (ESK n = 15, D-MCT n = 12, D-MCT + ESK n = 26). Seven participants did not complete the 6-month endpoint assessment (six in ESK and one in D-MCT + ESK), yielding a complete-case analysis set of 46 patients (ESK n = 9, D-MCT n = 12, D-MCT + ESK n = 25). Generalized estimating equations showed significant time effects and time-by-group interactions for both MADRS and RRS total scores. Endpoint ANCOVA models adjusting for baseline outcome value showed significant group effects at 6 months for MADRS (F(2,42) = 24.97, p<.001) and RRS (F(2,42) = 5.59, p=.007). Six-month MADRS response among completers was 3/9 (33.3%) in ESK, 4/12 (33.3%) in D-MCT, and 23/25 (92.0%) in D-MCT + ESK; corresponding intention-to-treat estimates using non-responder imputation were 3/15 (20.0%), 4/12 (33.3%), and 23/26 (88.5%). Concomitant treatment profiles showed marked imbalance in previous non-pharmacological treatment exposure, representing an important potential confounder. Findings support a cautious, hypothesis-generating interpretation because allocation was nonrandomized, assessment was open-label, the sample was modest, and baseline rumination was higher in the combined group.
-
-## 9. 论文标题：该内容涉及干细胞。原文：Mechanistic Study of m5C Modification in Stem Cell Differentiation and Disease Regulation.
-
-- 英文题目：Mechanistic Study of m5C Modification in Stem Cell Differentiation and Disease Regulation.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Stem cell reviews and reports
-- 影响因子：4.2
-- 分区：JCR Q2 / CAS 3区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-08-29
-- 分数：73
-- PMID：42665759
-- DOI：10.1007/s12015-026-11222-5
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42665759/
-
-中文摘要：摘要要点：该内容涉及干细胞、临床试验。原文：m5C (5-methylcytosine) modification is a significant epigenetic modification in RNA that has garnered substantial attention in recent years in stem cell biology and disease research. The dynamic regulation of m5C involves methyltransferases, demethylases, and specific binding proteins, which collectively influence RNA stability, translation efficiency, and cellular function. Especially in stem cell differentiation, m5C modification not only affects stem cell self-renewal and differentiation fate but is also closely associated with the onset and progression of various diseases. This review explores the mechanisms of m5C modification in stem cell differentiation and related diseases, highlighting its emerging roles in gene expression regulation and disease pathogenesis. CLINICAL TRIAL NUMBER: Not applicable.
-
-英文摘要：m5C (5-methylcytosine) modification is a significant epigenetic modification in RNA that has garnered substantial attention in recent years in stem cell biology and disease research. The dynamic regulation of m5C involves methyltransferases, demethylases, and specific binding proteins, which collectively influence RNA stability, translation efficiency, and cellular function. Especially in stem cell differentiation, m5C modification not only affects stem cell self-renewal and differentiation fate but is also closely associated with the onset and progression of various diseases. This review explores the mechanisms of m5C modification in stem cell differentiation and related diseases, highlighting its emerging roles in gene expression regulation and disease pathogenesis. CLINICAL TRIAL NUMBER: Not applicable.
 
 ## 10. 论文标题：Donor-derived distinct neutrophil subsets in the G-CSF-mobilized peripheral blood grafts predict acute GVHD development.
 
@@ -352,26 +352,7 @@
 
 # 全球热点话题｜学术界值得关注
 
-## 1. 论文标题：Household and occupational air pollution, and demographic drivers of COPD: a hospital-based cross-sectional study in a high-pollution urban setting.
-
-- 英文题目：Household and occupational air pollution, and demographic drivers of COPD: a hospital-based cross-sectional study in a high-pollution urban setting.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：Journal of environmental health science & engineering
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：2026-12-01
-- 分数：65
-- PMID：42625676
-- DOI：10.1007/s40201-026-01002-1
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42625676/
-
-中文摘要：摘要要点：UNLABELLED: Rapid urbanization and severe air pollution levels have increased the burden of chronic respiratory diseases such as chronic obstructive pulmonary disease (COPD). The present hospital-based cross-sectional study investigates demographic, behavioural, and environmental (household and occupational) determinants of COPD among 501 individuals visiting the respiratory outpatient department in Delhi, India. A structured questionnaire was used to collect data capturing socio-demographic, clinical, occupational, and household pollution-related variables, and these were analysed using univariate and multivariate logistic regression. COPD prevalence was 34.1%, with higher occurrence among older individuals (mean age 62.16 years vs. 50.0 years), males, ex-smokers, and those with lower Body Mass Index (BMI). The final multivariate model identified age (AOR = 1.08/year), male gender (AOR = 2.68), smoking status (never smoker: AOR = 0.05; passive smoker: AOR = 0.04), and BMI (AOR = 0.93/unit) as significant independent predictors. Household air pollution variables, such as polluting fuels for water heating like wooden stoves and poor kitchen ventilation, also showed higher odds of COPD prevalence. Occupational exposure further increased the COPD risk, highlighting the need for targeted interventions in high-risk workplace environments. The findings underscore that while traditional determinants such as smoking, age, and BMI are dominant predictors for COPD prevalence in this cohort, household and occupational pollution variables remain critical modifiers of respiratory risk. In areas with very high background pollution and high clean fuel adoption, interventions for indoor settings must prioritize structural household factors that improve kitchen ventilation and design, alongside smoking cessation, occupational safety, and targeted support for vulnerable subgroups to curb the respiratory health crisis in Delhi and similar megacities. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s40201-026-01002-1.
-
-英文摘要：UNLABELLED: Rapid urbanization and severe air pollution levels have increased the burden of chronic respiratory diseases such as chronic obstructive pulmonary disease (COPD). The present hospital-based cross-sectional study investigates demographic, behavioural, and environmental (household and occupational) determinants of COPD among 501 individuals visiting the respiratory outpatient department in Delhi, India. A structured questionnaire was used to collect data capturing socio-demographic, clinical, occupational, and household pollution-related variables, and these were analysed using univariate and multivariate logistic regression. COPD prevalence was 34.1%, with higher occurrence among older individuals (mean age 62.16 years vs. 50.0 years), males, ex-smokers, and those with lower Body Mass Index (BMI). The final multivariate model identified age (AOR = 1.08/year), male gender (AOR = 2.68), smoking status (never smoker: AOR = 0.05; passive smoker: AOR = 0.04), and BMI (AOR = 0.93/unit) as significant independent predictors. Household air pollution variables, such as polluting fuels for water heating like wooden stoves and poor kitchen ventilation, also showed higher odds of COPD prevalence. Occupational exposure further increased the COPD risk, highlighting the need for targeted interventions in high-risk workplace environments. The findings underscore that while traditional determinants such as smoking, age, and BMI are dominant predictors for COPD prevalence in this cohort, household and occupational pollution variables remain critical modifiers of respiratory risk. In areas with very high background pollution and high clean fuel adoption, interventions for indoor settings must prioritize structural household factors that improve kitchen ventilation and design, alongside smoking cessation, occupational safety, and targeted support for vulnerable subgroups to curb the respiratory health crisis in Delhi and similar megacities. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s40201-026-01002-1.
-
-## 2. 论文标题：The Gut Microbiome in Multiple Sclerosis.
+## 1. 论文标题：The Gut Microbiome in Multiple Sclerosis.
 
 - 英文题目：The Gut Microbiome in Multiple Sclerosis.
 - 主题：全球学术热点
@@ -389,6 +370,25 @@
 中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、炎症。原文：Multiple sclerosis (MS) is a chronic inflammatory demyelinating disease of the CNS whose risk and course are shaped by both genetic and environmental factors, among which the intestinal microbiota has emerged as a key, potentially modifiable contributor. People with MS frequently display altered gut microbiota, characterized by depletion of fiber-fermenting, short-chain fatty acid (SCFA)-producing commensals, and expansion of taxa associated with mucus degradation and proinflammatory metabolism. These compositional shifts are paralleled by broad changes in blood and CSF metabolites, including reduced SCFAs, tryptophan-derived aryl hydrocarbon receptor ligands, and secondary bile acids. In addition, several reports highlight the accumulation of aromatic amino acid-derived phenolic and indolic compounds and specific lipid mediators linked to neuroinflammation and neurodegeneration. In this up-to-date review, we synthesize evidence from experimental models and human studies showing how microbial metabolites can influence MS pathogenesis through converging mechanisms: modulation of gut and blood-brain barrier integrity; shaping of T-cell and B-cell responses; direct effects on microglia, astrocytes, and oligodendrocyte lineage cells after crossing into the CNS; and modulation of neural circuits, particularly those involving the vagus nerve. Finally, we highlight current gaps, including the need for longitudinal, harmonized multiomic cohorts, and mechanistic studies integrating microbiome, metabolome, and host readouts across gut, blood, and CNS. Overall, available data support a model in which coordinated disruption of the gut microbiota-metabolite axis, rather than any single pathogen, contributes to MS, opening avenues for microbiota-based and metabolite-based biomarkers and therapies aimed at restoring immune and neuroglial homeostasis.
 
 英文摘要：Multiple sclerosis (MS) is a chronic inflammatory demyelinating disease of the CNS whose risk and course are shaped by both genetic and environmental factors, among which the intestinal microbiota has emerged as a key, potentially modifiable contributor. People with MS frequently display altered gut microbiota, characterized by depletion of fiber-fermenting, short-chain fatty acid (SCFA)-producing commensals, and expansion of taxa associated with mucus degradation and proinflammatory metabolism. These compositional shifts are paralleled by broad changes in blood and CSF metabolites, including reduced SCFAs, tryptophan-derived aryl hydrocarbon receptor ligands, and secondary bile acids. In addition, several reports highlight the accumulation of aromatic amino acid-derived phenolic and indolic compounds and specific lipid mediators linked to neuroinflammation and neurodegeneration. In this up-to-date review, we synthesize evidence from experimental models and human studies showing how microbial metabolites can influence MS pathogenesis through converging mechanisms: modulation of gut and blood-brain barrier integrity; shaping of T-cell and B-cell responses; direct effects on microglia, astrocytes, and oligodendrocyte lineage cells after crossing into the CNS; and modulation of neural circuits, particularly those involving the vagus nerve. Finally, we highlight current gaps, including the need for longitudinal, harmonized multiomic cohorts, and mechanistic studies integrating microbiome, metabolome, and host readouts across gut, blood, and CNS. Overall, available data support a model in which coordinated disruption of the gut microbiota-metabolite axis, rather than any single pathogen, contributes to MS, opening avenues for microbiota-based and metabolite-based biomarkers and therapies aimed at restoring immune and neuroglial homeostasis.
+
+## 2. 论文标题：Corrigendum to "Mechanisms of tumor cell evasion from NK cell-mediated killing and advances in NK cell-based cancer immunotherapy" [Pharm. Sci. Adv. 4 (2026) 100109].
+
+- 英文题目：Corrigendum to "Mechanisms of tumor cell evasion from NK cell-mediated killing and advances in NK cell-based cancer immunotherapy" [Pharm. Sci. Adv. 4 (2026) 100109].
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Pharmaceutical science advances
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-12-01
+- 分数：57
+- PMID：42668505
+- DOI：10.1016/j.pscia.2026.100141
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42668505/
+
+中文摘要：摘要要点：[This corrects the article DOI: 10.1016/j.pscia.2026.100109.].
+
+英文摘要：[This corrects the article DOI: 10.1016/j.pscia.2026.100109.].
 
 ## 3. 论文标题：Medrecord-CLIP: enhancing fundus disease diagnosis via EHR-guided vision-language pre-training.
 
@@ -620,7 +620,26 @@
 
 英文摘要：Childhood criticism can leave people carrying a fear of failure long into adulthood, but new research suggests those emotional patterns may be surprisingly flexible. Young adults who revisited painful memories through imagery-based therapy showed lasting reductions in fear, guilt, sadness, and stress.
 
-## 7. 论文标题：Scientists discover why damaged nerves struggle to heal
+## 7. 论文标题：A cancer therapy put severe rheumatoid arthritis into remission
+
+- 英文题目：A cancer therapy put severe rheumatoid arthritis into remission
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Sat, 29 Au
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/08/260828082330.htm
+
+中文摘要：摘要要点：CAR T-cell therapy dramatically reduced disease activity in six people with severe rheumatoid arthritis that had resisted other treatments, with three achieving medication-free remission. The treatment may work by clearing out harmful immune cells and effectively rebooting part of the immune system, although much larger studies are still needed.
+
+英文摘要：CAR T-cell therapy dramatically reduced disease activity in six people with severe rheumatoid arthritis that had resisted other treatments, with three achieving medication-free remission. The treatment may work by clearing out harmful immune cells and effectively rebooting part of the immune system, although much larger studies are still needed.
+
+## 8. 论文标题：Scientists discover why damaged nerves struggle to heal
 
 - 英文题目：Scientists discover why damaged nerves struggle to heal
 - 主题：国内外医学与医药新闻
@@ -639,7 +658,7 @@
 
 英文摘要：Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with nerve or spinal cord injuries. The discovery could eventually point toward new treatments designed to shift neurons from simply surviving an injury to actively rebuilding themselves.
 
-## 8. 论文标题：Experimental eye drops help blind mice see again
+## 9. 论文标题：Experimental eye drops help blind mice see again
 
 - 英文题目：Experimental eye drops help blind mice see again
 - 主题：国内外医学与医药新闻
@@ -657,25 +676,6 @@
 中文摘要：摘要要点：Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising compounds worked when administered as eye drops, pointing toward a potentially simple new approach to restoring vision.
 
 英文摘要：Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising compounds worked when administered as eye drops, pointing toward a potentially simple new approach to restoring vision.
-
-## 9. 论文标题：What you eat before age 2 may affect your health 70 years later
-
-- 英文题目：What you eat before age 2 may affect your health 70 years later
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Wed, 26 Au
-- 分数：34
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/08/260824065522.htm
-
-中文摘要：摘要要点：Britain’s postwar sugar rationing created a rare natural experiment that let researchers examine how early sugar exposure might affect health decades later. People who experienced more rationing during their first 1,000 days had lower rates of several cancers and showed signs of slower biological aging. They were also still eating less sugar and maintaining healthier diets around age 50.
-
-英文摘要：Britain’s postwar sugar rationing created a rare natural experiment that let researchers examine how early sugar exposure might affect health decades later. People who experienced more rationing during their first 1,000 days had lower rates of several cancers and showed signs of slower biological aging. They were also still eating less sugar and maintaining healthier diets around age 50.
 
 ## 10. 论文标题：Childhood trauma may leave a lasting “scar” inside brain cells
 
@@ -698,4 +698,5 @@
 
 ## 抓取提示
 
+- arXiv neurosurgery_general: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
 - Medical news Neuroscience News: feed parse failed
