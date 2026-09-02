@@ -1,200 +1,200 @@
 # 神外文献日报 V2
 
-生成时间：2026-09-01 10:05:40
+生成时间：2026-09-02 09:26:18
 核心神外文献数量：10
 全部条目数量：36
 
 > 医学科研文献雷达；正式引用前请核对原文。
 
-## 1. 论文标题：该内容涉及炎症。原文：Cytokine-Driven Hyperinflammation in Long COVID: Mechanisms, Biomarkers, Complement Dysregulation, and Emerging Immunotherapies-A Narrative Review.
+## 1. 论文标题：Therapeutic Potential of Oxiracetam in Neurocognitive Disorders: A Narrative Review.
 
-- 英文题目：Cytokine-Driven Hyperinflammation in Long COVID: Mechanisms, Biomarkers, Complement Dysregulation, and Emerging Immunotherapies-A Narrative Review.
+- 英文题目：Therapeutic Potential of Oxiracetam in Neurocognitive Disorders: A Narrative Review.
 - 主题：创伤性脑损伤
 - 来源：PubMed
-- 期刊/平台：Health science reports
-- 影响因子：2.1
-- 分区：JCR Q2 / CAS 4区
+- 期刊/平台：Brain and behavior
+- 影响因子：2.7
+- 分区：JCR Q2 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-09-01
 - 分数：83
-- PMID：42657238
-- DOI：10.1002/hsr2.73082
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42657238/
+- PMID：42670207
+- DOI：10.1002/brb3.71727
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42670207/
 
-中文摘要：摘要要点：该内容涉及神经炎症、干细胞、间充质干细胞、炎症、临床试验、随机、系统综述。原文：BACKGROUND AND AIMS: Long COVID, also known as post-acute sequelae of SARS-CoV-2 infection (PASC), is a multisystem condition characterized by persistent symptoms that continue beyond the acute phase of infection. Growing evidence indicates that sustained immune dysregulation involving cytokine-mediated inflammation, complement activation, endothelial dysfunction, thromboinflammation, and viral antigen persistence contributes to its pathogenesis. This narrative review summarizes current evidence on the mechanisms underlying hyperinflammation in Long COVID, highlights emerging biomarkers, and evaluates evolving immunotherapeutic strategies. METHODS: A narrative literature search was conducted using PubMed, Scopus, Web of Science, Embase, and Google Scholar for studies published between 2020 and 2026. Priority was given to systematic reviews, meta-analyses, cohort studies, mechanistic investigations, and clinical trials examining immune dysregulation, inflammatory biomarkers, complement pathways, and targeted therapies in long COVID. RESULTS: Persistent elevation of pro-inflammatory cytokines, including interleukin-6, interleukin-1β, tumor necrosis factor-α, interferon-γ, and interleukin-17, together with activation of the alternative and lectin complement pathways, contributes to endothelial injury, microvascular thrombosis, neuroinflammation, fibrosis, and multisystem dysfunction. Emerging biomarkers include inflammatory cytokines, complement proteins, endothelial activation markers, coagulation indices, and multi-omics signatures that may improve disease stratification and therapeutic monitoring. Investigational therapies include cytokine-targeted biologics, complement inhibitors, Janus kinase inhibitors, mesenchymal stem cell therapy, microbiome-directed interventions, and precision immunotherapy. CONCLUSION: Long COVID results from complex interactions between persistent inflammation, complement dysregulation, vascular injury, and immune dysfunction. Integrating validated biomarkers with precision immunotherapeutic approaches may improve diagnosis, risk stratification, and individualized management. However, robust prospective studies and randomized clinical
+中文摘要：摘要要点：该内容涉及创伤性脑损伤、脑损伤、神经炎症、炎症、临床试验。原文：PURPOSE: Cognitive impairment is a growing global health concern associated with aging, neurodegenerative diseases, stroke, and traumatic brain injury. Existing pharmacological treatments, including cholinesterase inhibitors and memantine, provide limited and variable benefits. This review aims to evaluate the mechanistic basis, clinical efficacy, and safety profile of oxiracetam as a potential therapeutic agent for cognitive dysfunction across a range of neurological disorders. METHODS: A narrative review was conducted by synthesizing available preclinical and clinical literature on oxiracetam. Mechanistic studies evaluating its pharmacodynamics, including effects on cholinergic and glutamatergic pathways, synaptic plasticity, neuroinflammation, and oxidative stress, were analyzed. Clinical evidence from trials involving patients with traumatic brain injury, stroke, vascular cognitive impairment, and dementia was reviewed. FINDINGS: Oxiracetam demonstrates multimodal mechanisms of action, including enhancement of cholinergic neurotransmission, modulation of AMPA receptors, and promotion of synaptic plasticity and long-term potentiation. Additionally, it exhibits antioxidant and anti-inflammatory effects contributing to neuroprotection. Clinical studies suggest potential cognitive benefits in several neurological conditions; however, results are heterogeneous, with some trials showing significant improvement and others demonstrating no superiority over placebo. CONCLUSION: Oxiracetam is a promising neurocognitive modulator with a favorable safety profile and potential therapeutic applications across multiple neurological disorders. Nevertheless, current evidence is limited by methodological constraints and inconsistent outcomes. Further large-scale, multicenter clinical trials are required to establish its definitive efficacy and clinical utility.
 
-英文摘要：BACKGROUND AND AIMS: Long COVID, also known as post-acute sequelae of SARS-CoV-2 infection (PASC), is a multisystem condition characterized by persistent symptoms that continue beyond the acute phase of infection. Growing evidence indicates that sustained immune dysregulation involving cytokine-mediated inflammation, complement activation, endothelial dysfunction, thromboinflammation, and viral antigen persistence contributes to its pathogenesis. This narrative review summarizes current evidence on the mechanisms underlying hyperinflammation in Long COVID, highlights emerging biomarkers, and evaluates evolving immunotherapeutic strategies. METHODS: A narrative literature search was conducted using PubMed, Scopus, Web of Science, Embase, and Google Scholar for studies published between 2020 and 2026. Priority was given to systematic reviews, meta-analyses, cohort studies, mechanistic investigations, and clinical trials examining immune dysregulation, inflammatory biomarkers, complement pathways, and targeted therapies in long COVID. RESULTS: Persistent elevation of pro-inflammatory cytokines, including interleukin-6, interleukin-1β, tumor necrosis factor-α, interferon-γ, and interleukin-17, together with activation of the alternative and lectin complement pathways, contributes to endothelial injury, microvascular thrombosis, neuroinflammation, fibrosis, and multisystem dysfunction. Emerging biomarkers include inflammatory cytokines, complement proteins, endothelial activation markers, coagulation indices, and multi-omics signatures that may improve disease stratification and therapeutic monitoring. Investigational therapies include cytokine-targeted biologics, complement inhibitors, Janus kinase inhibitors, mesenchymal stem cell therapy, microbiome-directed interventions, and precision immunotherapy. CONCLUSION: Long COVID results from complex interactions between persistent inflammation, complement dysregulation, vascular injury, and immune dysfunction. Integrating validated biomarkers with precision immunotherapeutic approaches may improve diagnosis, risk stratification, and individualized management. However, robust prospective studies and randomized clinical trials remain essential to validate these strategies and optimize long-term clinical outcomes.
+英文摘要：PURPOSE: Cognitive impairment is a growing global health concern associated with aging, neurodegenerative diseases, stroke, and traumatic brain injury. Existing pharmacological treatments, including cholinesterase inhibitors and memantine, provide limited and variable benefits. This review aims to evaluate the mechanistic basis, clinical efficacy, and safety profile of oxiracetam as a potential therapeutic agent for cognitive dysfunction across a range of neurological disorders. METHODS: A narrative review was conducted by synthesizing available preclinical and clinical literature on oxiracetam. Mechanistic studies evaluating its pharmacodynamics, including effects on cholinergic and glutamatergic pathways, synaptic plasticity, neuroinflammation, and oxidative stress, were analyzed. Clinical evidence from trials involving patients with traumatic brain injury, stroke, vascular cognitive impairment, and dementia was reviewed. FINDINGS: Oxiracetam demonstrates multimodal mechanisms of action, including enhancement of cholinergic neurotransmission, modulation of AMPA receptors, and promotion of synaptic plasticity and long-term potentiation. Additionally, it exhibits antioxidant and anti-inflammatory effects contributing to neuroprotection. Clinical studies suggest potential cognitive benefits in several neurological conditions; however, results are heterogeneous, with some trials showing significant improvement and others demonstrating no superiority over placebo. CONCLUSION: Oxiracetam is a promising neurocognitive modulator with a favorable safety profile and potential therapeutic applications across multiple neurological disorders. Nevertheless, current evidence is limited by methodological constraints and inconsistent outcomes. Further large-scale, multicenter clinical trials are required to establish its definitive efficacy and clinical utility.
 
-## 2. 论文标题：Early Retinal UCHL1 Dysregulation Coupled With Synaptic Loss Reflects Alzheimer's Disease Severity.
+## 2. 论文标题：Comorbidity Mechanism and Management of Chronic Low Back Pain and Major Depressive Disorder: From Neural Circuit Remodeling to Precision Medicine.
 
-- 英文题目：Early Retinal UCHL1 Dysregulation Coupled With Synaptic Loss Reflects Alzheimer's Disease Severity.
+- 英文题目：Comorbidity Mechanism and Management of Chronic Low Back Pain and Major Depressive Disorder: From Neural Circuit Remodeling to Precision Medicine.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Brain and behavior
+- 影响因子：2.7
+- 分区：JCR Q2 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-09-01
+- 分数：83
+- PMID：42670051
+- DOI：10.1002/brb3.71713
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42670051/
+
+中文摘要：摘要要点：该内容涉及小胶质细胞、临床试验。原文：OBJECTIVE: This review systematically elaborates multi-system interactive mechanisms underlying comorbid chronic low back pain (CLBP) and major depressive disorder (MDD), synthesizes recent advances in diagnosis, treatment, and management, and proposes precision medicine directions to address clinical challenges, including missed diagnosis, treatment resistance, and poor prognosis. METHOD: We reviewed 86 studies published between 2015 and 2025 from the PubMed, Embase, and CNKI databases. We focused on basic research and clinical trials, integrating multi-omics data to construct mechanistic frameworks and therapeutic evidence. RESULT: The comorbid pathogenesis of CLBP and MDD is driven by dysregulation of the "neural-immune-endocrine-gut-brain axis" network. Spinal dorsal horn N-methyl-D-aspartate (NMDA) receptor NR2B phosphorylation amplifies pain signals 2- to 3-fold, while anterior cingulate cortex (ACC)-insula connectivity correlates positively with depression severity. Microglial toll-like receptor 4/nuclear factor-κB (TLR4/NF-κB) activation increases cerebrospinal fluid interleukin-6 (IL-6) and tumor necrosis factor-α (TNF-α) by 3.2- and 2.7-fold, respectively. Hypothalamic-pituitary-adrenal (HPA) axis dysfunction causes a flattened cortisol rhythm, with glucocorticoid receptor gene (NR3C1) hypermethylation reducing glucocorticoid sensitivity by 45%. Gut dysbiosis decreases short-chain fatty acids (SCFAs) by 30% and increases plasma lipopolysaccharide (LPS) by 2.3-fold, accompanied by abnormal proliferation of pro-inflammatory E. coli and Desulfovibrio as well as depletion of anti-inflammatory Prevotella. Duloxetine reduces visual analog scale (VAS) pain scores by 40% and Hamilton Depression Rating Scale (HAM-D) scores by 35% relative to placebo. Closed-loop spinal cord stimulation (SCS) improves treatment response rates to 68% compared with open-loop stimulation. Electroacupuncture at BL23/LR3 alleviates clinical symptoms in 75% of patients relative to sham acupuncture. At the 12-month follow-up, duloxetine's pain relief efficacy slightly declined from 40% to 38%, a phenomenon speculated to be linked to serotonin transporter upregulation. At the 1-year fol
+
+英文摘要：OBJECTIVE: This review systematically elaborates multi-system interactive mechanisms underlying comorbid chronic low back pain (CLBP) and major depressive disorder (MDD), synthesizes recent advances in diagnosis, treatment, and management, and proposes precision medicine directions to address clinical challenges, including missed diagnosis, treatment resistance, and poor prognosis. METHOD: We reviewed 86 studies published between 2015 and 2025 from the PubMed, Embase, and CNKI databases. We focused on basic research and clinical trials, integrating multi-omics data to construct mechanistic frameworks and therapeutic evidence. RESULT: The comorbid pathogenesis of CLBP and MDD is driven by dysregulation of the "neural-immune-endocrine-gut-brain axis" network. Spinal dorsal horn N-methyl-D-aspartate (NMDA) receptor NR2B phosphorylation amplifies pain signals 2- to 3-fold, while anterior cingulate cortex (ACC)-insula connectivity correlates positively with depression severity. Microglial toll-like receptor 4/nuclear factor-κB (TLR4/NF-κB) activation increases cerebrospinal fluid interleukin-6 (IL-6) and tumor necrosis factor-α (TNF-α) by 3.2- and 2.7-fold, respectively. Hypothalamic-pituitary-adrenal (HPA) axis dysfunction causes a flattened cortisol rhythm, with glucocorticoid receptor gene (NR3C1) hypermethylation reducing glucocorticoid sensitivity by 45%. Gut dysbiosis decreases short-chain fatty acids (SCFAs) by 30% and increases plasma lipopolysaccharide (LPS) by 2.3-fold, accompanied by abnormal proliferation of pro-inflammatory E. coli and Desulfovibrio as well as depletion of anti-inflammatory Prevotella. Duloxetine reduces visual analog scale (VAS) pain scores by 40% and Hamilton Depression Rating Scale (HAM-D) scores by 35% relative to placebo. Closed-loop spinal cord stimulation (SCS) improves treatment response rates to 68% compared with open-loop stimulation. Electroacupuncture at BL23/LR3 alleviates clinical symptoms in 75% of patients relative to sham acupuncture. At the 12-month follow-up, duloxetine's pain relief efficacy slightly declined from 40% to 38%, a phenomenon speculated to be linked to serotonin transporter upregulation. At the 1-year follow-up, closed-loop SCS efficacy decreases to 55%, which may be associated with secondary neural circuit re-remodeling. At the 6-month follow-up, electroacupuncture treatment carries a 22% symptom recurrence rate, which researchers hypothesize arises from secondary gut microbiota re-dysbiosis featuring reduced Prevotella abundance. CONCLUSION: Pathological progression of concurrent CLBP and MDD relies on multi-level remodeling of molecular, cellular, and systemic biological networks. Precision interventions targeting neural circuits, neuroinflammation, and the gut-brain axis, combined with multidisciplinary clinical collaboration, represent core strategies to break through current diagnostic and therapeutic bottlenecks.
+
+## 3. 论文标题：该内容涉及干细胞、胶质瘤。原文：The suppressor of cytokine signaling 3 regulates glioma stem cell maintenance and immune microenvironment through signal transducer and activator of transcription 3 signaling.
+
+- 英文题目：The suppressor of cytokine signaling 3 regulates glioma stem cell maintenance and immune microenvironment through signal transducer and activator of transcription 3 signaling.
 - 主题：小胶质细胞与 TREM2
 - 来源：PubMed
-- 期刊/平台：Advanced science (Weinheim, Baden-Wurttemberg, Germany)
-- 影响因子：14.1
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-08-29
-- 分数：83
-- PMID：42666080
-- DOI：10.1002/advs.202600020
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42666080/
-
-中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、炎症。原文：Synaptic dysfunction is a major driver of cognitive decline in Alzheimer's disease (AD), yet its extent and molecular basis in the retina remain poorly defined. We integrated postmortem retinal and matched brain histopathology with ultrastructural, proteomic, biochemical, and machine-learning analyses across cognitively normal, mild cognitive impairment, and AD cohorts. Retinal glutamatergic synapses exhibited early, progressive degeneration, marked by loss of presynaptic vesicular glutamate transporter 1 (VGLUT1) and synaptophysin and postsynaptic density protein 95 (PSD95) and N-methyl-D-aspartate receptor subunit 2A (NMDAR2A), along with ribbon synapse ultrastructural disruption. Synaptic deficits correlated with amyloid-β42 (Aβ42), pathogenic tau, oxidative stress, the Aβ-binding p75 neurotrophin receptor, and glial activation that paralleled disease progression. Proteomics revealed widespread synaptic remodeling accompanied by disease-associated microglia, astrocyte-mediated excitotoxicity, and pyroptotic pathways. The synapse-enriched deubiquitinase ubiquitin C-terminal hydrolase L1 (UCHL1) was dysregulated early, particularly in horizontal and bipolar interneurons, and strongly associated with synaptic loss and neuroinflammation. Mechanistically, fibrillar Aβ42 induced rapid UCHL1 and synaptic depletion in human and murine neurons before overt neurodegeneration. Machine-learning models identified retinal UCHL1 as the strongest predictor of Braak stage and cognitive impairment. These findings establish the retina as an early site of AD synaptopathy and position UCHL1 as a candidate biomarker and mechanistic mediator linking amyloid pathology, neuroinflammation, and synaptic vulnerability.
-
-英文摘要：Synaptic dysfunction is a major driver of cognitive decline in Alzheimer's disease (AD), yet its extent and molecular basis in the retina remain poorly defined. We integrated postmortem retinal and matched brain histopathology with ultrastructural, proteomic, biochemical, and machine-learning analyses across cognitively normal, mild cognitive impairment, and AD cohorts. Retinal glutamatergic synapses exhibited early, progressive degeneration, marked by loss of presynaptic vesicular glutamate transporter 1 (VGLUT1) and synaptophysin and postsynaptic density protein 95 (PSD95) and N-methyl-D-aspartate receptor subunit 2A (NMDAR2A), along with ribbon synapse ultrastructural disruption. Synaptic deficits correlated with amyloid-β42 (Aβ42), pathogenic tau, oxidative stress, the Aβ-binding p75 neurotrophin receptor, and glial activation that paralleled disease progression. Proteomics revealed widespread synaptic remodeling accompanied by disease-associated microglia, astrocyte-mediated excitotoxicity, and pyroptotic pathways. The synapse-enriched deubiquitinase ubiquitin C-terminal hydrolase L1 (UCHL1) was dysregulated early, particularly in horizontal and bipolar interneurons, and strongly associated with synaptic loss and neuroinflammation. Mechanistically, fibrillar Aβ42 induced rapid UCHL1 and synaptic depletion in human and murine neurons before overt neurodegeneration. Machine-learning models identified retinal UCHL1 as the strongest predictor of Braak stage and cognitive impairment. These findings establish the retina as an early site of AD synaptopathy and position UCHL1 as a candidate biomarker and mechanistic mediator linking amyloid pathology, neuroinflammation, and synaptic vulnerability.
-
-## 3. 论文标题：NADPH oxidases in immunometabolism and disease pathology: mechanistic networks, pollutant triggers, and therapeutic frontiers.
-
-- 英文题目：NADPH oxidases in immunometabolism and disease pathology: mechanistic networks, pollutant triggers, and therapeutic frontiers.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Cellular & molecular immunology
-- 影响因子：19.8
-- 分区：JCR Q1 / CAS 1区
+- 期刊/平台：Journal of cell communication and signaling
+- 影响因子：3.9
+- 分区：JCR Q2 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-09-01
 - 分数：75
-- PMID：42637892
-- DOI：10.1038/s41423-026-01447-2
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42637892/
+- PMID：42542877
+- DOI：10.1002/ccs3.70041
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42542877/
 
-中文摘要：摘要要点：该内容涉及细胞外囊泡、外泌体。原文：NADPH oxidases (NOXs) have emerged as central hubs that link environmental, metabolic, and immune cues through spatially organized redox signaling. However, their roles across tissues and disease states have not been comprehensively evaluated in an integrated manner. This review integrates recent advances in structural biology, immunometabolism, toxicology, and systems biology to provide an updated, comprehensive, and accessible view of NOX biology. Recent advances in high‑resolution cryo-EM, AlphaFold‑based modeling and molecular dynamics studies have provided new insights into NOX architecture, catalytic sites, post‑translational modifications and regulatory mechanisms, and docking interfaces for RAC1 and p47phox. Emerging evidence further indicates that cellular NOX-derived ROS can reprogram macrophage and T-cell metabolism, stabilize HIF-1α, and tune the balance between effector and regulatory states, thereby linking NOX activity to checkpoint control and tumor immune escape. A second focus is on how real‑world pollutants converge on NOX isoforms as proximal mediators of redox signaling across lung, vascular, hepatic, renal, and neural tissues. NOX activation during cellular injury may contribute to oxidative stress, mitochondrial dysfunction, inflammasome activation, and fibrotic signaling, through extracellular vesicles, lipid rafts, and noncoding RNAs. Finally, the review evaluates emerging therapeutic strategies, including isoform-selective/pan-NOX/peptide inhibitors, and nanozymes. It also discusses emerging approaches such as exosome-based biomarkers, network pharmacology, and machine learning for patient stratification and pharmacodynamic monitoring. By highlighting key mechanistic gaps and translational opportunities, this review establishes NOXs as actionable nodal regulators at the intersection of immunity, metabolism, environmental exposure, and human disease.
+中文摘要：摘要要点：该内容涉及小胶质细胞、干细胞、胶质瘤。原文：This study aims to elucidate the role of suppressor of cytokine signaling 3 (SOCS3) in glioma stem cells (GSCs) via single-cell RNA sequencing (scRNA-seq), focusing on its regulation of STAT3-mediated self-renewal, apoptosis resistance, and tumor microenvironment (TME) remodeling. ScRNA-seq data from 19 high-grade glioma patients were analyzed using Seurat, Harmony, and SingleR for clustering, annotation, and SOCS3 stratification (SOCS3-High: n = 4; SOCS3-Low: n = 15). Differential gene analysis, pathway enrichment, and CellChat were employed for TME characterization. In vitro, SOCS3-overexpressing/silenced GSC11 models were tested via MTT, TUNEL, neurosphere assays, and STAT3 pathway modulation (IL-6). In vivo, intracranial xenografts in nude mice evaluated tumor growth and survival. SOCS3 was downregulated in GSCs and neurons. SOCS3-Low GSCs exhibited 777 differentially expressed genes enriched in T-cell receptor, p53, and JAK-STAT axis, suppressed T-cell/microglia infiltration, and promoted oligodendrocyte precursor cell/astrocyte survival. SOCS3 overexpression reduced GSC proliferation, induced apoptosis, inhibited neurosphere formation, and suppressed STAT3 phosphorylation and stemness markers (OCT4/SOX2/NANOG). IL-6 reactivated STAT3, reversing SOCS3-mediated tumor suppression. In vivo, SOCS3 overexpression attenuated tumor growth and prolonged survival, counteracted by IL-6. Low SOCS3 expression contributes to glioma progression by promoting STAT3 activation and an immunosuppressive TME. Targeting the SOCS3-STAT3 axis may offer therapeutic potential.
 
-英文摘要：NADPH oxidases (NOXs) have emerged as central hubs that link environmental, metabolic, and immune cues through spatially organized redox signaling. However, their roles across tissues and disease states have not been comprehensively evaluated in an integrated manner. This review integrates recent advances in structural biology, immunometabolism, toxicology, and systems biology to provide an updated, comprehensive, and accessible view of NOX biology. Recent advances in high‑resolution cryo-EM, AlphaFold‑based modeling and molecular dynamics studies have provided new insights into NOX architecture, catalytic sites, post‑translational modifications and regulatory mechanisms, and docking interfaces for RAC1 and p47phox. Emerging evidence further indicates that cellular NOX-derived ROS can reprogram macrophage and T-cell metabolism, stabilize HIF-1α, and tune the balance between effector and regulatory states, thereby linking NOX activity to checkpoint control and tumor immune escape. A second focus is on how real‑world pollutants converge on NOX isoforms as proximal mediators of redox signaling across lung, vascular, hepatic, renal, and neural tissues. NOX activation during cellular injury may contribute to oxidative stress, mitochondrial dysfunction, inflammasome activation, and fibrotic signaling, through extracellular vesicles, lipid rafts, and noncoding RNAs. Finally, the review evaluates emerging therapeutic strategies, including isoform-selective/pan-NOX/peptide inhibitors, and nanozymes. It also discusses emerging approaches such as exosome-based biomarkers, network pharmacology, and machine learning for patient stratification and pharmacodynamic monitoring. By highlighting key mechanistic gaps and translational opportunities, this review establishes NOXs as actionable nodal regulators at the intersection of immunity, metabolism, environmental exposure, and human disease.
+英文摘要：This study aims to elucidate the role of suppressor of cytokine signaling 3 (SOCS3) in glioma stem cells (GSCs) via single-cell RNA sequencing (scRNA-seq), focusing on its regulation of STAT3-mediated self-renewal, apoptosis resistance, and tumor microenvironment (TME) remodeling. ScRNA-seq data from 19 high-grade glioma patients were analyzed using Seurat, Harmony, and SingleR for clustering, annotation, and SOCS3 stratification (SOCS3-High: n = 4; SOCS3-Low: n = 15). Differential gene analysis, pathway enrichment, and CellChat were employed for TME characterization. In vitro, SOCS3-overexpressing/silenced GSC11 models were tested via MTT, TUNEL, neurosphere assays, and STAT3 pathway modulation (IL-6). In vivo, intracranial xenografts in nude mice evaluated tumor growth and survival. SOCS3 was downregulated in GSCs and neurons. SOCS3-Low GSCs exhibited 777 differentially expressed genes enriched in T-cell receptor, p53, and JAK-STAT axis, suppressed T-cell/microglia infiltration, and promoted oligodendrocyte precursor cell/astrocyte survival. SOCS3 overexpression reduced GSC proliferation, induced apoptosis, inhibited neurosphere formation, and suppressed STAT3 phosphorylation and stemness markers (OCT4/SOX2/NANOG). IL-6 reactivated STAT3, reversing SOCS3-mediated tumor suppression. In vivo, SOCS3 overexpression attenuated tumor growth and prolonged survival, counteracted by IL-6. Low SOCS3 expression contributes to glioma progression by promoting STAT3 activation and an immunosuppressive TME. Targeting the SOCS3-STAT3 axis may offer therapeutic potential.
 
-## 4. 论文标题：该内容涉及小胶质细胞。原文：Sex-specific effects of therapeutic hypothermia on short- and long-term microglial and astrocytic reactivity after severe neonatal hypoxia-ischemia.
+## 4. 论文标题：RNA-seq Analysis Reveals Neuroimmune Remodeling and NTSR1-Related Neuroactive Signatures After Combined rTMS and Press-Tack Needle Stimulation in TBI Rats.
 
-- 英文题目：Sex-specific effects of therapeutic hypothermia on short- and long-term microglial and astrocytic reactivity after severe neonatal hypoxia-ischemia.
+- 英文题目：RNA-seq Analysis Reveals Neuroimmune Remodeling and NTSR1-Related Neuroactive Signatures After Combined rTMS and Press-Tack Needle Stimulation in TBI Rats.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Journal of molecular neuroscience : MN
+- 影响因子：2.7
+- 分区：JCR Q3 / CAS 4区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-09-01
+- 分数：73
+- PMID：42678571
+- DOI：10.1007/s12031-026-02590-1
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42678571/
+
+中文摘要：摘要要点：该内容涉及创伤性脑损伤、脑损伤。原文：Traumatic brain injury (TBI) is associated with complex transcriptional disturbances involving cortical suppression, neuroimmune responses, and altered neuroactive signaling. Although repetitive transcranial magnetic stimulation (rTMS) and acupuncture-related stimulation have been investigated as neuromodulatory strategies after brain injury, the transcriptomic features associated with combined rTMS and press-tack needle (PTN) stimulation remain incompletely understood. In this study, RNA sequencing was performed on prefrontal cortex tissue from Sham rats, TBI rats, and TBI rats treated with combined rTMS + PTN. Differentially expressed genes (DEGs), functional enrichment, pathway-gene interaction networks, protein-protein interaction networks, and gene set enrichment analysis (GSEA) were used to explore transcriptional alterations associated with TBI and combined intervention. TBI induced marked transcriptional changes in the prefrontal cortex, including genes enriched in neuroactive ligand-receptor interaction, calcium signaling, and injury-related pathways. Combined rTMS + PTN stimulation was associated with additional transcriptional remodeling, particularly involving immune-inflammatory pathways such as NF-κB signaling, IL-17 signaling, cytokine-cytokine receptor interaction, and Toll-like receptor signaling. Intersection analysis identified 55 shared TBI-associated and intervention-responsive genes as a candidate signature. Further PPI and GSEA analyses suggested that Nts/Ntsr1, Egr1, Drd1, and related neuroactive signaling molecules may participate in the transcriptional response to combined stimulation after TBI. These findings provide an exploratory RNA-seq-based framework for understanding NTSR1-associated neuroimmune and neuroactive molecular signatures after TBI. Targeted qRT-PCR assessment of selected neuroactive candidate genes, including Ntsrl, Egrl, and Drd1, provided complementary evidence of group-dependent expression differences in an independent animal cohort. Further protein-level and functional validation will be required to determine the causal relationships among these candidate molecules.
+
+英文摘要：Traumatic brain injury (TBI) is associated with complex transcriptional disturbances involving cortical suppression, neuroimmune responses, and altered neuroactive signaling. Although repetitive transcranial magnetic stimulation (rTMS) and acupuncture-related stimulation have been investigated as neuromodulatory strategies after brain injury, the transcriptomic features associated with combined rTMS and press-tack needle (PTN) stimulation remain incompletely understood. In this study, RNA sequencing was performed on prefrontal cortex tissue from Sham rats, TBI rats, and TBI rats treated with combined rTMS + PTN. Differentially expressed genes (DEGs), functional enrichment, pathway-gene interaction networks, protein-protein interaction networks, and gene set enrichment analysis (GSEA) were used to explore transcriptional alterations associated with TBI and combined intervention. TBI induced marked transcriptional changes in the prefrontal cortex, including genes enriched in neuroactive ligand-receptor interaction, calcium signaling, and injury-related pathways. Combined rTMS + PTN stimulation was associated with additional transcriptional remodeling, particularly involving immune-inflammatory pathways such as NF-κB signaling, IL-17 signaling, cytokine-cytokine receptor interaction, and Toll-like receptor signaling. Intersection analysis identified 55 shared TBI-associated and intervention-responsive genes as a candidate signature. Further PPI and GSEA analyses suggested that Nts/Ntsr1, Egr1, Drd1, and related neuroactive signaling molecules may participate in the transcriptional response to combined stimulation after TBI. These findings provide an exploratory RNA-seq-based framework for understanding NTSR1-associated neuroimmune and neuroactive molecular signatures after TBI. Targeted qRT-PCR assessment of selected neuroactive candidate genes, including Ntsrl, Egrl, and Drd1, provided complementary evidence of group-dependent expression differences in an independent animal cohort. Further protein-level and functional validation will be required to determine the causal relationships among these candidate molecules.
+
+## 5. 论文标题：该内容涉及创伤性脑损伤、脑损伤。原文：Analysis of the Relationship between Early Clinical Factors and Glasgow Outcome Scale in Patients With Traumatic Brain Injury.
+
+- 英文题目：Analysis of the Relationship between Early Clinical Factors and Glasgow Outcome Scale in Patients With Traumatic Brain Injury.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Brain and behavior
+- 影响因子：2.7
+- 分区：JCR Q2 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-09-01
+- 分数：73
+- PMID：42668428
+- DOI：10.1002/brb3.71703
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42668428/
+
+中文摘要：摘要要点：该内容涉及创伤性脑损伤、脑损伤。原文：OBJECTIVE: This study aimed to evaluate the association between early clinical factors and the Glasgow outcome scale (GOS) in patients with traumatic brain injury (TBI). METHODS: We conducted a retrospective analysis of 98 TBI patients who underwent emergency surgery between January 2021 and January 2024. Based on GOS scores at 6 months post-surgery, patients were classified into a favorable outcome group (GOS ≥ 4, defined as moderate disability or good recovery, n = 58) and an unfavorable outcome group (GOS < 4, i.e., death, persistent vegetative state, or severe disability, n = 40). Baseline and early clinical parameters were compared between groups. Statistically significant variables from univariate analysis were entered into a multivariate logistic regression model to identify independent prognostic factors. RESULTS: Significant intergroup differences were observed in age, time from injury to surgery, bleeding site, midline shift, Glasgow coma scale (GCS) score at admission, blood glucose level, and D-dimer level (all p < 0.05). Multivariate analysis confirmed that age, time from injury to surgery, GCS score, blood glucose, and D-dimer level were independent predictors of GOS (all p < 0.05). CONCLUSION: Early clinical factors, including age, time to surgery, GCS score, blood glucose, and D-dimer level, independently influence GOS in TBI patients. Time from injury to surgery emerged as a potentially modifiable factor in this cohort, suggesting that minimizing delays may improve outcomes.
+
+英文摘要：OBJECTIVE: This study aimed to evaluate the association between early clinical factors and the Glasgow outcome scale (GOS) in patients with traumatic brain injury (TBI). METHODS: We conducted a retrospective analysis of 98 TBI patients who underwent emergency surgery between January 2021 and January 2024. Based on GOS scores at 6 months post-surgery, patients were classified into a favorable outcome group (GOS ≥ 4, defined as moderate disability or good recovery, n = 58) and an unfavorable outcome group (GOS < 4, i.e., death, persistent vegetative state, or severe disability, n = 40). Baseline and early clinical parameters were compared between groups. Statistically significant variables from univariate analysis were entered into a multivariate logistic regression model to identify independent prognostic factors. RESULTS: Significant intergroup differences were observed in age, time from injury to surgery, bleeding site, midline shift, Glasgow coma scale (GCS) score at admission, blood glucose level, and D-dimer level (all p < 0.05). Multivariate analysis confirmed that age, time from injury to surgery, GCS score, blood glucose, and D-dimer level were independent predictors of GOS (all p < 0.05). CONCLUSION: Early clinical factors, including age, time to surgery, GCS score, blood glucose, and D-dimer level, independently influence GOS in TBI patients. Time from injury to surgery emerged as a potentially modifiable factor in this cohort, suggesting that minimizing delays may improve outcomes.
+
+## 6. 论文标题：该内容涉及小胶质细胞。原文：Microglial immunometabolism in Alzheimer's disease: A stage-resolved trajectory from adaptive remodeling to the metabolic paradox.
+
+- 英文题目：Microglial immunometabolism in Alzheimer's disease: A stage-resolved trajectory from adaptive remodeling to the metabolic paradox.
 - 主题：小胶质细胞与 TREM2
+- 来源：PubMed
+- 期刊/平台：Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-09-01
+- 分数：73
+- PMID：42570638
+- DOI：10.1016/j.biopha.2026.119841
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42570638/
+
+中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、TREM2、炎症。原文：Microglia are central regulators of the cellular phase of Alzheimer's disease (AD). Under chronic exposure to amyloid-β, pathological tau, and aging-associated bioenergetic decline, these cells undergo immunometabolic remodeling that may initially be adaptive. As stress persists, this remodeling can become maladaptive, marked by disordered glycolysis, disturbed lipid handling, mitochondrial dysfunction, and compensatory failure. In this review, we organize these changes as a stage-dependent trajectory from adaptive remodeling to functional decompensation. We introduce the "metabolic paradox" as an operational descriptor: a concurrent, same-cell mismatch between increased substrate uptake or inflammatory activation and declining bioenergetic efficiency and homeostatic function. Along this trajectory we examine neurovascular energy bottlenecks, substrate redistribution, triggering receptor expressed on myeloid cells 2 (TREM2)/apolipoprotein E (APOE)-dependent lipid homeostasis, mitochondrial and proteostatic collapse, and their links to persistent neuroinflammation, defective phagocytosis, aberrant synaptic pruning, and senescence-like dysfunction. We synthesize prior primary findings and stratify each major claim by evidentiary strength, avoiding the overinterpretation of model-specific results as patient-level mechanisms. Finally, we frame immunoprevention as mechanism-based, early-stage metabolic intervention to preserve homeostatic microglial function, a strategy whose clinical benefit remains a hypothesis requiring prospective testing.
+
+英文摘要：Microglia are central regulators of the cellular phase of Alzheimer's disease (AD). Under chronic exposure to amyloid-β, pathological tau, and aging-associated bioenergetic decline, these cells undergo immunometabolic remodeling that may initially be adaptive. As stress persists, this remodeling can become maladaptive, marked by disordered glycolysis, disturbed lipid handling, mitochondrial dysfunction, and compensatory failure. In this review, we organize these changes as a stage-dependent trajectory from adaptive remodeling to functional decompensation. We introduce the "metabolic paradox" as an operational descriptor: a concurrent, same-cell mismatch between increased substrate uptake or inflammatory activation and declining bioenergetic efficiency and homeostatic function. Along this trajectory we examine neurovascular energy bottlenecks, substrate redistribution, triggering receptor expressed on myeloid cells 2 (TREM2)/apolipoprotein E (APOE)-dependent lipid homeostasis, mitochondrial and proteostatic collapse, and their links to persistent neuroinflammation, defective phagocytosis, aberrant synaptic pruning, and senescence-like dysfunction. We synthesize prior primary findings and stratify each major claim by evidentiary strength, avoiding the overinterpretation of model-specific results as patient-level mechanisms. Finally, we frame immunoprevention as mechanism-based, early-stage metabolic intervention to preserve homeostatic microglial function, a strategy whose clinical benefit remains a hypothesis requiring prospective testing.
+
+## 7. 论文标题：Functional fractionation of large-scale brain networks in the human subcortex.
+
+- 英文题目：Functional fractionation of large-scale brain networks in the human subcortex.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Proceedings of the National Academy of Sciences of the United States of America
+- 影响因子：9.1
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-09-08
+- 分数：65
+- PMID：42673458
+- DOI：10.1073/pnas.2608875123
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42673458/
+
+中文摘要：摘要要点：该内容涉及创伤性脑损伤、脑损伤。原文：The human brain operates through large-scale networks whose subcortical components are critical for consciousness, emotion, and cognition. While cortical network connectivity has been mapped with increasing precision, subcortical network mapping has lagged far behind due to two fundamental barriers: the overlapping and correlated nature of brain networks, which conventional analytic methods cannot disentangle, and the inherently low signal-to-noise ratio of functional imaging data within the subcortex. As a result, no consensus or normative atlas for subcortical functional brain connectivity exists-a critical gap that has impeded both basic neuroscience and the development of targeted neuromodulatory therapies. In this work, we address these barriers using NASCAR, a tensor decomposition method explicitly designed to separate overlapping and correlated networks, applied to resting-state functional MRI data from 1,000 healthy individuals in the Human Connectome Project. This approach enabled us to fractionate four large-scale brain networks into 15 highly reproducible subnetworks spanning both cortical and subcortical structures, revealing their sites of neuroanatomic overlap and defining a normative whole-brain functional atlas grounded in subcortical connectivity. As proof of principle for the translational potential of this framework, we show that individual patterns of subnetworks predict levels of consciousness in patients with severe traumatic brain injury. By establishing a gold-standard, openly accessible reference for subcortical functional brain organization, this work expands the landscape of human brain network mapping and opens avenues for precision targeting in the treatment of a broad spectrum of neurological and psychiatric disorders.
+
+英文摘要：The human brain operates through large-scale networks whose subcortical components are critical for consciousness, emotion, and cognition. While cortical network connectivity has been mapped with increasing precision, subcortical network mapping has lagged far behind due to two fundamental barriers: the overlapping and correlated nature of brain networks, which conventional analytic methods cannot disentangle, and the inherently low signal-to-noise ratio of functional imaging data within the subcortex. As a result, no consensus or normative atlas for subcortical functional brain connectivity exists-a critical gap that has impeded both basic neuroscience and the development of targeted neuromodulatory therapies. In this work, we address these barriers using NASCAR, a tensor decomposition method explicitly designed to separate overlapping and correlated networks, applied to resting-state functional MRI data from 1,000 healthy individuals in the Human Connectome Project. This approach enabled us to fractionate four large-scale brain networks into 15 highly reproducible subnetworks spanning both cortical and subcortical structures, revealing their sites of neuroanatomic overlap and defining a normative whole-brain functional atlas grounded in subcortical connectivity. As proof of principle for the translational potential of this framework, we show that individual patterns of subnetworks predict levels of consciousness in patients with severe traumatic brain injury. By establishing a gold-standard, openly accessible reference for subcortical functional brain organization, this work expands the landscape of human brain network mapping and opens avenues for precision targeting in the treatment of a broad spectrum of neurological and psychiatric disorders.
+
+## 8. 论文标题：Hormone-dependent miRNA cascades converge on
+
+- 英文题目：Hormone-dependent miRNA cascades converge on
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Proceedings of the National Academy of Sciences of the United States of America
+- 影响因子：9.1
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-09-08
+- 分数：65
+- PMID：42679041
+- DOI：10.1073/pnas.2616112123
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42679041/
+
+中文摘要：摘要要点：该内容涉及外泌体。原文：Phenotypic plasticity enables organisms to adapt to changing environments, yet how environmental cues generate alternative phenotypes remains largely unclear. Aphid wing plasticity offers a tractable model for understanding at a molecular level how winged and wingless morphs are induced and determined. In aphids, endocrine signals such as juvenile hormone (JH) and insulin, together with miRNAs, have been implicated in regulating wing plasticity, but whether and how these regulatory layers are mechanistically connected remains unclear. Here, we identified two hormone-responsive miRNA cascades that converged on a common target, glycogen phosphorylase (GP), to regulate distinct phases of wing plasticity. Under high density, JH triggers RRP44 (exosome complex exonuclease RRP44)-mediated depletion of cytoplasmic pre-miR-317, reducing mature miR-317 and relieving GP repression, which in turn promotes winged offspring production. During wing development, insulin induces transcription factor Forkhead Fox D3, which represses miR-305, elevates GP, and promotes wing formation. Thus, the miR-317-GP axis governs wing dimorphism, whereas the miR-305-GP axis controls subsequent wing development. Functional assays confirmed that miR-317 and miR-305 both target GP but operate at different stages. Manipulation of miR-317 or JH treatment altered winged offspring production without causing detectable wing malformations, consistent with their role in wing dimorphism rather than wing development. GP knockdown impaired glycogen breakdown and lowered ATP levels, and the resulting wing defects suggest a metabolic requirement for wing development. Together, these findings define a miRNA network that couples population density and hormonal signaling to wing plasticity via GP-mediated energy control.
+
+英文摘要：Phenotypic plasticity enables organisms to adapt to changing environments, yet how environmental cues generate alternative phenotypes remains largely unclear. Aphid wing plasticity offers a tractable model for understanding at a molecular level how winged and wingless morphs are induced and determined. In aphids, endocrine signals such as juvenile hormone (JH) and insulin, together with miRNAs, have been implicated in regulating wing plasticity, but whether and how these regulatory layers are mechanistically connected remains unclear. Here, we identified two hormone-responsive miRNA cascades that converged on a common target, glycogen phosphorylase (GP), to regulate distinct phases of wing plasticity. Under high density, JH triggers RRP44 (exosome complex exonuclease RRP44)-mediated depletion of cytoplasmic pre-miR-317, reducing mature miR-317 and relieving GP repression, which in turn promotes winged offspring production. During wing development, insulin induces transcription factor Forkhead Fox D3, which represses miR-305, elevates GP, and promotes wing formation. Thus, the miR-317-GP axis governs wing dimorphism, whereas the miR-305-GP axis controls subsequent wing development. Functional assays confirmed that miR-317 and miR-305 both target GP but operate at different stages. Manipulation of miR-317 or JH treatment altered winged offspring production without causing detectable wing malformations, consistent with their role in wing dimorphism rather than wing development. GP knockdown impaired glycogen breakdown and lowered ATP levels, and the resulting wing defects suggest a metabolic requirement for wing development. Together, these findings define a miRNA network that couples population density and hormonal signaling to wing plasticity via GP-mediated energy control.
+
+## 9. 论文标题：Phosphatidylethanolamine-mediated metabolic membrane remodeling in obesity-associated Alzheimer's disease: mechanisms, neuroimmune crosstalk, and therapeutic potential.
+
+- 英文题目：Phosphatidylethanolamine-mediated metabolic membrane remodeling in obesity-associated Alzheimer's disease: mechanisms, neuroimmune crosstalk, and therapeutic potential.
+- 主题：创伤性脑损伤
 - 来源：PubMed
 - 期刊/平台：Metabolic brain disease
 - 影响因子：3.5
 - 分区：JCR Q2 / CAS 4区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-08-29
-- 分数：75
-- PMID：42667339
-- DOI：10.1007/s11011-026-01957-y
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42667339/
+- 日期：2026-09-01
+- 分数：65
+- PMID：42678458
+- DOI：10.1007/s11011-026-01960-3
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42678458/
 
-中文摘要：摘要要点：该内容涉及脑损伤、小胶质细胞、神经炎症、炎症。原文：Therapeutic hypothermia (TH) is the standard treatment to reduce mortality and neurological impairments after neonatal hypoxia-ischemia (HI). However, TH does not fully suppress neuroinflammation, leading to persistent neuroinflammatory responses that may exacerbate brain injury and limit TH efficacy. In addition, the influence of sexual dimorphism on these outcomes remains poorly understood. We investigated short- and long-term microglial and astrocytic reactivity in male and female neonatal rats following HI and TH treatment. At postnatal day 7 (PND7), male and female pups underwent right common carotid occlusion followed by exposure to hypoxia (8% O2). TH was induced by reducing body temperature to 32°C for 5 h. Brains were collected at PND8 or PND21 to assess brain injury volume, brain water content, and microglial and astrocytic reactivity based on Iba-1 and GFAP mean fluorescence intensity. Behavioral impairments were evaluated using negative geotaxis, olfactory discrimination, and cylinder tests. TH did not reduce injury volume but attenuated neuronal cell loss in males and reduced brain edema in females. In males, microglial reactivity was reduced by TH at PND8 and PND21 and astrocytic reactivity only at PND8. Olfactory discrimination was impaired in females and prevented by TH, whereas motor performance deficits and developmental impairments were not prevented by TH. Our results reinforce that the neuroprotective efficacy of TH is limited in severe HI injury and that, despite reducing early neuroinflammation, TH fails to prevent long-term neuroinflammatory responses. Notably, the early anti-inflammatory effects were only observed in males, underscoring the need for additional therapeutic strategies, particularly for females.
+中文摘要：摘要要点：该内容涉及小胶质细胞、铁死亡、炎症。原文：Alzheimer's disease is increasingly recognized as a multifactorial neurodegenerative disorder characterized by complex interactions among metabolic dysfunction, chronic inflammation, mitochondrial impairment, and lipid dysregulation. Although the amyloid cascade hypothesis has long dominated Alzheimer's disease research, limited clinical success of amyloid-targeted therapies has highlighted the need for broader mechanistic frameworks integrating systemic metabolic and cellular dysfunction. Emerging evidence suggests that obesity-associated phospholipid remodeling, particularly dysregulation of phosphatidylethanolamine (PE), may critically influence neurodegenerative progression through alterations in membrane dynamics, mitochondrial homeostasis, autophagy, oxidative stress, and neuroimmune signaling. This review critically examines the molecular and cellular mechanisms underlying PE-mediated adipose-brain crosstalk in obesity-associated Alzheimer's disease, with emphasis on mitochondrial dysfunction, blood-brain barrier disruption, ferroptosis, membrane remodeling, and microglial activation. The review further discusses how altered PE metabolism may impair synaptic integrity, promote lipotoxicity, and enhance neuronal vulnerability under chronic metabolic stress. Current evidence, however, remains constrained by methodological heterogeneity, inconsistent lipidomic findings, and substantial reliance on experimental animal models, limiting translational interpretation. In addition, this review proposes the concept of a "metabolic membrane remodeling axis" as an integrative framework linking obesity-driven phospholipid dysregulation with neuroimmune and neurodegenerative progression. A deeper understanding of PE-driven neuroimmunometabolic dysfunction may facilitate biomarker discovery and support the development of lipid-targeted therapeutic strategies for obesity-associated Alzheimer's disease.
 
-英文摘要：Therapeutic hypothermia (TH) is the standard treatment to reduce mortality and neurological impairments after neonatal hypoxia-ischemia (HI). However, TH does not fully suppress neuroinflammation, leading to persistent neuroinflammatory responses that may exacerbate brain injury and limit TH efficacy. In addition, the influence of sexual dimorphism on these outcomes remains poorly understood. We investigated short- and long-term microglial and astrocytic reactivity in male and female neonatal rats following HI and TH treatment. At postnatal day 7 (PND7), male and female pups underwent right common carotid occlusion followed by exposure to hypoxia (8% O2). TH was induced by reducing body temperature to 32°C for 5 h. Brains were collected at PND8 or PND21 to assess brain injury volume, brain water content, and microglial and astrocytic reactivity based on Iba-1 and GFAP mean fluorescence intensity. Behavioral impairments were evaluated using negative geotaxis, olfactory discrimination, and cylinder tests. TH did not reduce injury volume but attenuated neuronal cell loss in males and reduced brain edema in females. In males, microglial reactivity was reduced by TH at PND8 and PND21 and astrocytic reactivity only at PND8. Olfactory discrimination was impaired in females and prevented by TH, whereas motor performance deficits and developmental impairments were not prevented by TH. Our results reinforce that the neuroprotective efficacy of TH is limited in severe HI injury and that, despite reducing early neuroinflammation, TH fails to prevent long-term neuroinflammatory responses. Notably, the early anti-inflammatory effects were only observed in males, underscoring the need for additional therapeutic strategies, particularly for females.
+英文摘要：Alzheimer's disease is increasingly recognized as a multifactorial neurodegenerative disorder characterized by complex interactions among metabolic dysfunction, chronic inflammation, mitochondrial impairment, and lipid dysregulation. Although the amyloid cascade hypothesis has long dominated Alzheimer's disease research, limited clinical success of amyloid-targeted therapies has highlighted the need for broader mechanistic frameworks integrating systemic metabolic and cellular dysfunction. Emerging evidence suggests that obesity-associated phospholipid remodeling, particularly dysregulation of phosphatidylethanolamine (PE), may critically influence neurodegenerative progression through alterations in membrane dynamics, mitochondrial homeostasis, autophagy, oxidative stress, and neuroimmune signaling. This review critically examines the molecular and cellular mechanisms underlying PE-mediated adipose-brain crosstalk in obesity-associated Alzheimer's disease, with emphasis on mitochondrial dysfunction, blood-brain barrier disruption, ferroptosis, membrane remodeling, and microglial activation. The review further discusses how altered PE metabolism may impair synaptic integrity, promote lipotoxicity, and enhance neuronal vulnerability under chronic metabolic stress. Current evidence, however, remains constrained by methodological heterogeneity, inconsistent lipidomic findings, and substantial reliance on experimental animal models, limiting translational interpretation. In addition, this review proposes the concept of a "metabolic membrane remodeling axis" as an integrative framework linking obesity-driven phospholipid dysregulation with neuroimmune and neurodegenerative progression. A deeper understanding of PE-driven neuroimmunometabolic dysfunction may facilitate biomarker discovery and support the development of lipid-targeted therapeutic strategies for obesity-associated Alzheimer's disease.
 
-## 5. 论文标题：Single-cell chromatin profiling reveals relapse-related priming in pediatric acute myeloid leukemia.
+## 10. 论文标题：Music and Exercise in Concert: Uncovering Synergistic Mechanisms for Enhancing Brain Health and Cognitive Resilience-A Narrative Review.
 
-- 英文题目：Single-cell chromatin profiling reveals relapse-related priming in pediatric acute myeloid leukemia.
-- 主题：干细胞与外泌体
+- 英文题目：Music and Exercise in Concert: Uncovering Synergistic Mechanisms for Enhancing Brain Health and Cognitive Resilience-A Narrative Review.
+- 主题：创伤性脑损伤
 - 来源：PubMed
-- 期刊/平台：Life science alliance
-- 影响因子：2.9
+- 期刊/平台：Brain and behavior
+- 影响因子：2.7
 - 分区：JCR Q2 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-11-01
-- 分数：73
-- PMID：42637517
-- DOI：10.26508/lsa.202603746
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42637517/
+- 日期：2026-09-01
+- 分数：65
+- PMID：42670179
+- DOI：10.1002/brb3.71735
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42670179/
 
-中文摘要：摘要要点：该内容涉及干细胞。原文：Relapse remains the leading cause of treatment failure and mortality in pediatric acute myeloid leukemia (pAML), yet the early molecular features underlying relapse susceptibility remain poorly understood. Here, we leveraged our previously generated single-cell chromatin accessibility dataset comprising 177,500 cells from 16 diagnostic pAML samples with long-term clinical outcome data, spanning t(8;21), inv(16), and FLT3-ITD subtypes and stratified into relapse (RPS) and non-relapsed (NRPS) cases. We show that RPS patients harbor relapse-associated chromatin accessibility signatures already detectable at diagnosis across multiple molecular subtypes. These patients display heightened innate immune and inflammatory activation and expansion of HSC/MPP-like leukemic progenitors with stem cell-like regulatory features. Motif enrichment analyses identify AP-1 family members, together with RUNX1, SPI1, and ETS factors, as central regulators shaping the relapse-associated epigenetic state. Elevated expression of these regulators predicts inferior survival across independent AML cohorts. Collectively, these findings suggest that early epigenetic priming of innate immune and inflammatory programs is associated with a relapse-prone state and highlight this core transcriptional network as a candidate biomarker framework in pAML.
+中文摘要：摘要要点：该内容涉及神经炎症、炎症。原文：AIM: As the cornerstone of cognition, emotion, and social well-being, brain health faces escalating threats from aging, neurodegenerative diseases, and sedentary lifestyles. Non-pharmacological interventions have attracted growing interest owing to their favorable safety profiles and potential for widespread implementation. This review aims to examine the individual and synergistic effects of music and exercise on brain health. METHODS: This narrative review integrates literature identified through searches of PubMed and Web of Science using terms related to music, exercise or physical activity, and brain health and offers a concept-driven synthesis of the underlying neurobiological mechanisms and potential combined effects. FINDINGS: Music modulates neurotransmitters and neural oscillations via reward and emotion networks, while exercise enhances neuroplasticity by improving energy metabolism, neurotrophic signaling, and cerebrovascular function. Their potential synergistic interaction may arise from music's capacity to temporally structure and modulate the neurochemical and metabolic states induced by exercise. Combined interventions may further enhance synaptic plasticity and network integration by mitigating neuroinflammation and oxidative stress. They may offer additional benefits for cognition, mood, and motor control beyond either intervention alone. Dance, a prototypical integration of music and movement, activates multisensory and social networks and has shown potential benefits in Alzheimer's disease, Parkinson's disease, depression, and autism. CONCLUSION: Music and exercise may engage convergent and potentially interacting mechanisms, including neuroplasticity, metabolic regulation, and neuroinflammatory modulation, forming an integrated framework for brain health. Dance exemplifies this music-movement integration by engaging multisensory and socio-emotional networks, highlighting its translational potential for promoting brain function.
 
-英文摘要：Relapse remains the leading cause of treatment failure and mortality in pediatric acute myeloid leukemia (pAML), yet the early molecular features underlying relapse susceptibility remain poorly understood. Here, we leveraged our previously generated single-cell chromatin accessibility dataset comprising 177,500 cells from 16 diagnostic pAML samples with long-term clinical outcome data, spanning t(8;21), inv(16), and FLT3-ITD subtypes and stratified into relapse (RPS) and non-relapsed (NRPS) cases. We show that RPS patients harbor relapse-associated chromatin accessibility signatures already detectable at diagnosis across multiple molecular subtypes. These patients display heightened innate immune and inflammatory activation and expansion of HSC/MPP-like leukemic progenitors with stem cell-like regulatory features. Motif enrichment analyses identify AP-1 family members, together with RUNX1, SPI1, and ETS factors, as central regulators shaping the relapse-associated epigenetic state. Elevated expression of these regulators predicts inferior survival across independent AML cohorts. Collectively, these findings suggest that early epigenetic priming of innate immune and inflammatory programs is associated with a relapse-prone state and highlight this core transcriptional network as a candidate biomarker framework in pAML.
-
-## 6. 论文标题：Multitargeted drug strategies for Alzheimer's and Parkinson's diseases.
-
-- 英文题目：Multitargeted drug strategies for Alzheimer's and Parkinson's diseases.
-- 主题：创伤性脑损伤
-- 来源：PubMed
-- 期刊/平台：Zeitschrift fur Naturforschung. C, Journal of biosciences
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：2026-08-31
-- 分数：73
-- PMID：42666058
-- DOI：10.1515/znc-2026-0116
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42666058/
-
-中文摘要：摘要要点：该内容涉及神经炎症、炎症、临床试验。原文：Neurodegenerative diseases, including Alzheimer's disease (AD) and Parkinson's disease (PD), are multifactorial diseases that are characterized by several interconnected pathological mechanisms, such as the aggregation of amyloid-beta (Aβ), hyperphosphorylation of tau, accumulation of α-synuclein, oxidative stress, mitochondrial dysfunction, neuroinflammation, and neurotransmitter imbalance. Conventional single-target therapies failed to produce significant clinical effects due to the fact that they target only individual disease pathways. Thus, the multitarget-directed ligand (MTDL) strategy has become an attractive therapeutic option, and MTDLs can act on several pathological targets simultaneously. Recent advances in multitarget drug development for AD and PD targeting compounds targeting Aβ, BACE1, MAO-B, cholinesterases, metal-ion dyshomeostasis, oxidative stress, and inflammatory pathways are reviewed. A few potential candidates, such as GV-971, Prasinezumab, Huperzine A, curcumin derivatives, and hybrids of MAO-B inhibitors, have shown neuroprotective and cognitive effects in preclinical and clinical studies. There are significant advances in the clinical pipeline, with over 180 clinical trials for AD and over 130 clinical trials for PD testing multitarget or disease-modifying strategies. The review also highlights the growing importance of computer-aided drug design (CADD), artificial intelligence (AI), and machine learning (ML) in speeding up the discovery of MTDL, optimizing their pharmacokinetic profiles, and predicting multitarget interactions. However, there are still major obstacles to be overcome, such as the ability to cross the blood-brain barrier, optimizing the pharmacokinetics, the difficulties of transferring from the animal to the human model, and the complexity of the regulatory process. New strategies based on nanomedicine, biomarker-driven trials, personalized medicine, and drug repurposing will enhance therapeutic precision and clinical success.
-
-英文摘要：Neurodegenerative diseases, including Alzheimer's disease (AD) and Parkinson's disease (PD), are multifactorial diseases that are characterized by several interconnected pathological mechanisms, such as the aggregation of amyloid-beta (Aβ), hyperphosphorylation of tau, accumulation of α-synuclein, oxidative stress, mitochondrial dysfunction, neuroinflammation, and neurotransmitter imbalance. Conventional single-target therapies failed to produce significant clinical effects due to the fact that they target only individual disease pathways. Thus, the multitarget-directed ligand (MTDL) strategy has become an attractive therapeutic option, and MTDLs can act on several pathological targets simultaneously. Recent advances in multitarget drug development for AD and PD targeting compounds targeting Aβ, BACE1, MAO-B, cholinesterases, metal-ion dyshomeostasis, oxidative stress, and inflammatory pathways are reviewed. A few potential candidates, such as GV-971, Prasinezumab, Huperzine A, curcumin derivatives, and hybrids of MAO-B inhibitors, have shown neuroprotective and cognitive effects in preclinical and clinical studies. There are significant advances in the clinical pipeline, with over 180 clinical trials for AD and over 130 clinical trials for PD testing multitarget or disease-modifying strategies. The review also highlights the growing importance of computer-aided drug design (CADD), artificial intelligence (AI), and machine learning (ML) in speeding up the discovery of MTDL, optimizing their pharmacokinetic profiles, and predicting multitarget interactions. However, there are still major obstacles to be overcome, such as the ability to cross the blood-brain barrier, optimizing the pharmacokinetics, the difficulties of transferring from the animal to the human model, and the complexity of the regulatory process. New strategies based on nanomedicine, biomarker-driven trials, personalized medicine, and drug repurposing will enhance therapeutic precision and clinical success.
-
-## 7. 论文标题：Neurovascular Actions of Dipeptidyl Peptidase-4 Inhibitors and Their Implications for Cognitive Dysfunction in Type 2 Diabetes Mellitus.
-
-- 英文题目：Neurovascular Actions of Dipeptidyl Peptidase-4 Inhibitors and Their Implications for Cognitive Dysfunction in Type 2 Diabetes Mellitus.
-- 主题：创伤性脑损伤
-- 来源：PubMed
-- 期刊/平台：Clinical psychopharmacology and neuroscience : the official scientific journal of the Korean College of Neuropsychopharmacology
-- 影响因子：2.7
-- 分区：JCR Q2 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-08-31
-- 分数：73
-- PMID：42528342
-- DOI：10.9758/cpn.26.1403
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42528342/
-
-中文摘要：摘要要点：该内容涉及神经炎症、铁死亡、炎症、随机。原文：Type 2 diabetes mellitus is a major contributor to cognitive dysfunction and neurodegeneration, driven by complex metabolic, vascular, and inflammatory disturbances. Although conventional antidiabetic therapies primarily focus on glycemic control, few effectively preserve the integrity of the neurovascular unit (NVU), a critical determinant of brain health. This review examines the neuroprotective potential of dipeptidyl peptidase-4 (DPP-4) inhibitors, highlighting their unique ability to link metabolic regulation with neural and vascular preservation. A literature search was conducted in PubMed and Google Scholar for English-language articles published up to December 2025, using keywords related to cognitive dysfunction, DPP-4 inhibitors, incretins, glucagon-like peptide-1, and the nervous system. Eligible studies included original research, randomized trials, meta-analyses, animal studies, reviews, and mechanistic investigations addressing the effects of DPP-4 inhibitors on NVU stability. Editorials and studies lacking relevance to diabetes-related cognitive impairment or clear biological mechanisms were excluded. Evidence indicates that DPP-4 inhibitors exert dual neuroprotective actions by enhancing incretin signaling (GLP-1/GIP), which supports synaptic plasticity and attenuates neuroinflammation, and by preserving stromal cell-derived factor-1α, thereby activating the CXCR4 pathway to promote endothelial repair. Additional benefits include modulation of the Nrf2/GPX4 axis, reducing oxidative stress and ferroptosis in neural tissue. Comparative analyses suggest potential advantages over other antidiabetic classes, although clinical data on dementia risk remain heterogeneous. Overall, DPP-4 inhibitors emerge as promising agents for stabilizing the NVU beyond glucose lowering, supporting their repositioning in the management of diabetes-associated cognitive dysfunction.
-
-英文摘要：Type 2 diabetes mellitus is a major contributor to cognitive dysfunction and neurodegeneration, driven by complex metabolic, vascular, and inflammatory disturbances. Although conventional antidiabetic therapies primarily focus on glycemic control, few effectively preserve the integrity of the neurovascular unit (NVU), a critical determinant of brain health. This review examines the neuroprotective potential of dipeptidyl peptidase-4 (DPP-4) inhibitors, highlighting their unique ability to link metabolic regulation with neural and vascular preservation. A literature search was conducted in PubMed and Google Scholar for English-language articles published up to December 2025, using keywords related to cognitive dysfunction, DPP-4 inhibitors, incretins, glucagon-like peptide-1, and the nervous system. Eligible studies included original research, randomized trials, meta-analyses, animal studies, reviews, and mechanistic investigations addressing the effects of DPP-4 inhibitors on NVU stability. Editorials and studies lacking relevance to diabetes-related cognitive impairment or clear biological mechanisms were excluded. Evidence indicates that DPP-4 inhibitors exert dual neuroprotective actions by enhancing incretin signaling (GLP-1/GIP), which supports synaptic plasticity and attenuates neuroinflammation, and by preserving stromal cell-derived factor-1α, thereby activating the CXCR4 pathway to promote endothelial repair. Additional benefits include modulation of the Nrf2/GPX4 axis, reducing oxidative stress and ferroptosis in neural tissue. Comparative analyses suggest potential advantages over other antidiabetic classes, although clinical data on dementia risk remain heterogeneous. Overall, DPP-4 inhibitors emerge as promising agents for stabilizing the NVU beyond glucose lowering, supporting their repositioning in the management of diabetes-associated cognitive dysfunction.
-
-## 8. 论文标题：该内容涉及细胞外囊泡。原文：Understanding extracellular vesicles in antiaging.
-
-- 英文题目：Understanding extracellular vesicles in antiaging.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Periodontology 2000
-- 影响因子：15.7
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-08-31
-- 分数：73
-- PMID：42670765
-- DOI：10.1111/prd.70070
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42670765/
-
-中文摘要：摘要要点：该内容涉及细胞外囊泡、外泌体、干细胞、炎症。原文：BACKGROUND: Aging is a multifactorial process marked by gradual cellular dysregulation, regulated by hallmarks, including genomic instability, mitochondrial dysregulation, and chronic inflammation. Extracellular vesicles (EVs), especially exosomes, have emerged as pivotal mediators of cell-to-cell communication with potential roles in both enhancing and alleviating aging. This review aimed to synthesize existing literature on the mechanistic and therapeutic role of EVs in aging and age-associated disorders. METHODS: A comprehensive narrative review was performed utilizing Web of Science, Scopus, and PubMed databases. Studies assessing EVs in aging, cellular senescence, regenerative biology, and age-related disorders were included. Both preclinical and clinical studies were qualitatively examined, emphasizing EV origin, molecular pathways, and treatment outcomes. RESULTS: EVs derived from young or stem cells show strong antiaging features across multiple systems, such as the immune, musculoskeletal, cardiovascular, and nervous systems. These impacts are regulated via mitigating cellular senescence, reestablishing mitochondrial activity, restoring mitophagic and autophagic signaling, regulating inflammatory signaling, and improving tissue regeneration. Contrarily, EVs from diseases or aged cells improve pro-aging phenotypes, such as inflammation, fibrosis, and metabolic dysregulation, underscoring their context-mediated duality. Preclinical evidence consistently supports EV-mediated therapies; nonetheless, clinical translation remains restricted owing to heterogeneity in EV subpopulations, lack of standardized isolation protocols, and variability in bioactive payload. CONCLUSION: EVs represent promising therapeutic agents and biomarkers in aging biology, with the potential to regulate multiple hallmarks of aging concurrently. Prospective research should prioritize standardization, targeted bioengineering, and rigorous clinical validation to allow successful antiaging interventions.
-
-英文摘要：BACKGROUND: Aging is a multifactorial process marked by gradual cellular dysregulation, regulated by hallmarks, including genomic instability, mitochondrial dysregulation, and chronic inflammation. Extracellular vesicles (EVs), especially exosomes, have emerged as pivotal mediators of cell-to-cell communication with potential roles in both enhancing and alleviating aging. This review aimed to synthesize existing literature on the mechanistic and therapeutic role of EVs in aging and age-associated disorders. METHODS: A comprehensive narrative review was performed utilizing Web of Science, Scopus, and PubMed databases. Studies assessing EVs in aging, cellular senescence, regenerative biology, and age-related disorders were included. Both preclinical and clinical studies were qualitatively examined, emphasizing EV origin, molecular pathways, and treatment outcomes. RESULTS: EVs derived from young or stem cells show strong antiaging features across multiple systems, such as the immune, musculoskeletal, cardiovascular, and nervous systems. These impacts are regulated via mitigating cellular senescence, reestablishing mitochondrial activity, restoring mitophagic and autophagic signaling, regulating inflammatory signaling, and improving tissue regeneration. Contrarily, EVs from diseases or aged cells improve pro-aging phenotypes, such as inflammation, fibrosis, and metabolic dysregulation, underscoring their context-mediated duality. Preclinical evidence consistently supports EV-mediated therapies; nonetheless, clinical translation remains restricted owing to heterogeneity in EV subpopulations, lack of standardized isolation protocols, and variability in bioactive payload. CONCLUSION: EVs represent promising therapeutic agents and biomarkers in aging biology, with the potential to regulate multiple hallmarks of aging concurrently. Prospective research should prioritize standardization, targeted bioengineering, and rigorous clinical validation to allow successful antiaging interventions.
-
-## 9. 论文标题：Donor-derived distinct neutrophil subsets in the G-CSF-mobilized peripheral blood grafts predict acute GVHD development.
-
-- 英文题目：Donor-derived distinct neutrophil subsets in the G-CSF-mobilized peripheral blood grafts predict acute GVHD development.
-- 主题：脑积水与脑脊液循环
-- 来源：PubMed
-- 期刊/平台：Transplantation and cellular therapy
-- 影响因子：4.4
-- 分区：JCR Q1 / CAS 3区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-08-28
-- 分数：73
-- PMID：42665018
-- DOI：10.1016/j.jtct.2026.08.042
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42665018/
-
-中文摘要：摘要要点：该内容涉及干细胞、炎症。原文：Acute graft-versus-host disease (GVHD) is a life-threatening complication of allogeneic hematopoietic stem cell transplantation (allo-HSCT). However, although the diverse roles of neutrophils in inflammation and cancer have been recognized, the specific contributions of distinct neutrophil subsets to acute GVHD remain unclear. Herein, we performed a prospective clinical study to investigate the role of distinct neutrophil subsets in G-CSF-mobilized peripheral blood (PB) graft on acute GVHD and to establish statistical prediction models. Our study demonstrated that the early committed neutrophil progenitor (proNeu1) was a risk factor, whereas immature neutrophil (immatureNeu) was a protective factor for grade Ⅱ-Ⅳ acute GVHD. The prediction model based on donor age, proNeu1 and immatureNeu showed significant accuracy for Ⅱ-Ⅳ acute GVHD diagnosis, with an area under the curve (AUC) of 0.782 (95% CI, 0.67-0.88) for the training set and an AUC of 0.771 (95% CI, 0.63-0.91) for the validation set. In addition, Decision Curve Analysis (DCA) indicated that the prediction model possessed high clinical utility. High risk group based on the prediction model is correlated with higher 100-day cumulative incidence of acute GVHD and 1-year cumulative incidence of chronic GVHD. The prediction model based on proNeu1 and immatureNeu subsets provides a risk assessment tool for clinicians to better predict and manage the course of acute GVHD. Moreover, we demonstrated that donor-derived CD10-immature neutrophils in the G-CSF-mobilized PB grafts as an immunoregulatory neutrophil were associated with attenuated acute GVHD, potentially through increased Reactive Oxygen Species (ROS) levels.
-
-英文摘要：Acute graft-versus-host disease (GVHD) is a life-threatening complication of allogeneic hematopoietic stem cell transplantation (allo-HSCT). However, although the diverse roles of neutrophils in inflammation and cancer have been recognized, the specific contributions of distinct neutrophil subsets to acute GVHD remain unclear. Herein, we performed a prospective clinical study to investigate the role of distinct neutrophil subsets in G-CSF-mobilized peripheral blood (PB) graft on acute GVHD and to establish statistical prediction models. Our study demonstrated that the early committed neutrophil progenitor (proNeu1) was a risk factor, whereas immature neutrophil (immatureNeu) was a protective factor for grade Ⅱ-Ⅳ acute GVHD. The prediction model based on donor age, proNeu1 and immatureNeu showed significant accuracy for Ⅱ-Ⅳ acute GVHD diagnosis, with an area under the curve (AUC) of 0.782 (95% CI, 0.67-0.88) for the training set and an AUC of 0.771 (95% CI, 0.63-0.91) for the validation set. In addition, Decision Curve Analysis (DCA) indicated that the prediction model possessed high clinical utility. High risk group based on the prediction model is correlated with higher 100-day cumulative incidence of acute GVHD and 1-year cumulative incidence of chronic GVHD. The prediction model based on proNeu1 and immatureNeu subsets provides a risk assessment tool for clinicians to better predict and manage the course of acute GVHD. Moreover, we demonstrated that donor-derived CD10-immature neutrophils in the G-CSF-mobilized PB grafts as an immunoregulatory neutrophil were associated with attenuated acute GVHD, potentially through increased Reactive Oxygen Species (ROS) levels.
-
-## 10. 论文标题：Lack of cathepsin B increases severity in Niemann-pick disease, type C1 mice.
-
-- 英文题目：Lack of cathepsin B increases severity in Niemann-pick disease, type C1 mice.
-- 主题：小胶质细胞与 TREM2
-- 来源：PubMed
-- 期刊/平台：Neuroscience letters
-- 影响因子：2.0
-- 分区：JCR Q4 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-08-29
-- 分数：69
-- PMID：42668108
-- DOI：10.1016/j.neulet.2026.138716
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42668108/
-
-中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、炎症。原文：Neurodegeneration is a hallmark of Niemann-Pick disease type C1 (NPC1). One component in the pathology of neurodegeneration is increased lysosomal membrane permeability, especially in microglia. Leakage of lysosomal proteases, such as cathepsin B, into the cytoplasm and ultimately into the interstitial space can lead to activation of apoptosis and neuroinflammation. In line with previous reports showing the involvement of cathepsin B in neurodegeneration and the benefit of inhibiting cathepsin B to prevent neurodegeneration, we tested whether disease severity would be reduced in NPC1 mutant mice devoid of cathepsin B. Contrary to our expectation, the double mutant mice exhibited a more severe disease phenotype as measured by disease severity phenotypic scoring, beam walk latency test and a reduction in life expectancy. This highlights the importance of cathepsin B during postnatal development in the context of NPC1.
-
-英文摘要：Neurodegeneration is a hallmark of Niemann-Pick disease type C1 (NPC1). One component in the pathology of neurodegeneration is increased lysosomal membrane permeability, especially in microglia. Leakage of lysosomal proteases, such as cathepsin B, into the cytoplasm and ultimately into the interstitial space can lead to activation of apoptosis and neuroinflammation. In line with previous reports showing the involvement of cathepsin B in neurodegeneration and the benefit of inhibiting cathepsin B to prevent neurodegeneration, we tested whether disease severity would be reduced in NPC1 mutant mice devoid of cathepsin B. Contrary to our expectation, the double mutant mice exhibited a more severe disease phenotype as measured by disease severity phenotypic scoring, beam walk latency test and a reduction in life expectancy. This highlights the importance of cathepsin B during postnatal development in the context of NPC1.
+英文摘要：AIM: As the cornerstone of cognition, emotion, and social well-being, brain health faces escalating threats from aging, neurodegenerative diseases, and sedentary lifestyles. Non-pharmacological interventions have attracted growing interest owing to their favorable safety profiles and potential for widespread implementation. This review aims to examine the individual and synergistic effects of music and exercise on brain health. METHODS: This narrative review integrates literature identified through searches of PubMed and Web of Science using terms related to music, exercise or physical activity, and brain health and offers a concept-driven synthesis of the underlying neurobiological mechanisms and potential combined effects. FINDINGS: Music modulates neurotransmitters and neural oscillations via reward and emotion networks, while exercise enhances neuroplasticity by improving energy metabolism, neurotrophic signaling, and cerebrovascular function. Their potential synergistic interaction may arise from music's capacity to temporally structure and modulate the neurochemical and metabolic states induced by exercise. Combined interventions may further enhance synaptic plasticity and network integration by mitigating neuroinflammation and oxidative stress. They may offer additional benefits for cognition, mood, and motor control beyond either intervention alone. Dance, a prototypical integration of music and movement, activates multisensory and social networks and has shown potential benefits in Alzheimer's disease, Parkinson's disease, depression, and autism. CONCLUSION: Music and exercise may engage convergent and potentially interacting mechanisms, including neuroplasticity, metabolic regulation, and neuroinflammatory modulation, forming an integrated framework for brain health. Dance exemplifies this music-movement integration by engaging multisensory and socio-emotional networks, highlighting its translational potential for promoting brain function.
 
 # 顶刊神经科学
 
@@ -217,26 +217,7 @@
 
 英文摘要：Neuroinflammation and synapse loss are associated with cognitive decline in Alzheimer's disease (AD). Although microglial hyperphagocytic activity has been implicated in synapse loss1-4, the mechanisms underlying these pathologies remain obscure. Here we demonstrate that, during AD progression in mice, astrocytes and microglia increase phagocytic elimination of excitatory synapses while reducing elimination of inhibitory synapses, suggesting that neuroinflammation alone may be dispensable for early AD synapse loss. Instead, single-nucleus RNA-sequencing analysis identified the emergence of early-responsive excitatory neurons (EREN), characterized by expression of ectopic Erb-B2 receptor tyrosine kinase 4 (Erbb4), as one of the earliest major alterations in AD mouse models. Selective Erbb4 deletion in AD excitatory neurons abrogated abnormal neuronal network activities and synapse loss, as well as reactive gliosis, amyloid plaque deposition and cognitive deficits. Conversely, Erbb4 overexpression in wild-type excitatory neurons recapitulated these core AD-like phenotypes without amyloid plaques. Mechanistically, these effects required mammalian target of rapamycin (mTOR) signalling downstream of ERBB4. Subsequent transcriptomic analyses showed that excitatory neuronal Erbb4 is both necessary and sufficient to induce EREN and reactive gliosis. Directed mediation analysis of human AD transcriptomic data further support a model in which excitatory neuronal ERBB4 contributes to a pathogenic cascade that links amyloid pathology to tau propagation and cognitive decline. These findings identify aberrant Erbb4 expression in excitatory neurons as an early driver of AD pathophysiology and a potential therapeutic target across neurodegenerative diseases.
 
-## 2. 论文标题：The critical role of the endogenous immune compartment after CAR T cell therapy in recurrent GBM.
-
-- 英文题目：The critical role of the endogenous immune compartment after CAR T cell therapy in recurrent GBM.
-- 主题：顶刊神经科学
-- 来源：PubMed
-- 期刊/平台：Cell
-- 影响因子：42.5
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-08-20
-- 分数：81
-- PMID：42296961
-- DOI：10.1016/j.cell.2026.05.026
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42296961/
-
-中文摘要：摘要要点：该内容涉及胶质母细胞瘤。原文：Glioblastoma (GBM) is the most common primary malignant brain tumor in adults, with a median survival of under 15 months and no effective treatment after recurrence. A recent phase 1 trial of intracerebroventricular bivalent chimeric antigen receptor (CAR) T cells in recurrent GBM, registered at ClinicalTrials.gov (NCT05168423), showed promising responses, including tumor reduction and prolonged survival. However, relapse remains common. We performed in-depth profiling of longitudinal cerebrospinal fluid (CSF) and tumor samples from responders and non-responders to characterize immune dynamics following infusion. Our study reveals that, although CAR T cells activate post infusion across all patients, outcomes were defined by divergent remodeling of the endogenous immune landscape. Cytotoxic natural killer cell expansion characterized responders, whereas regulatory T cell expansion and abundant baseline immunosuppressive scavenger myeloid cells characterized non-responders. These findings indicate that host immune cells play a critical role in CAR T cell therapy for GBM, suggesting that combinatorial strategies modulating the endogenous immune compartment could improve next-generation treatments.
-
-英文摘要：Glioblastoma (GBM) is the most common primary malignant brain tumor in adults, with a median survival of under 15 months and no effective treatment after recurrence. A recent phase 1 trial of intracerebroventricular bivalent chimeric antigen receptor (CAR) T cells in recurrent GBM, registered at ClinicalTrials.gov (NCT05168423), showed promising responses, including tumor reduction and prolonged survival. However, relapse remains common. We performed in-depth profiling of longitudinal cerebrospinal fluid (CSF) and tumor samples from responders and non-responders to characterize immune dynamics following infusion. Our study reveals that, although CAR T cells activate post infusion across all patients, outcomes were defined by divergent remodeling of the endogenous immune landscape. Cytotoxic natural killer cell expansion characterized responders, whereas regulatory T cell expansion and abundant baseline immunosuppressive scavenger myeloid cells characterized non-responders. These findings indicate that host immune cells play a critical role in CAR T cell therapy for GBM, suggesting that combinatorial strategies modulating the endogenous immune compartment could improve next-generation treatments.
-
-## 3. 论文标题：该内容涉及临床试验、随机。原文：Tirofiban for Branch Atheromatous Disease-Related Stroke: The STRATEGY Randomized Clinical Trial.
+## 2. 论文标题：该内容涉及临床试验、随机。原文：Tirofiban for Branch Atheromatous Disease-Related Stroke: The STRATEGY Randomized Clinical Trial.
 
 - 英文题目：Tirofiban for Branch Atheromatous Disease-Related Stroke: The STRATEGY Randomized Clinical Trial.
 - 主题：顶刊神经科学
@@ -255,7 +236,7 @@
 
 英文摘要：IMPORTANCE: Patients with branch atheromatous disease (BAD)-related stroke are predisposed to early neurological deterioration (END) and disability. However, large-scale clinical trials focused on the prevention of the deterioration and recurrent stroke in this population are currently lacking. OBJECTIVE: To evaluate the efficacy and safety of intensive antiplatelet therapy combining the tirofiban with aspirin for patients with BAD-related stroke. DESIGN, SETTING, AND PARTICIPANTS: This randomized clinical trial was the multicenter, double-blind, randomized, placebo-controlled STRATEGY trial, conducted across 38 hospitals in China. Participants were patients with BAD-related acute ischemic stroke confirmed by magnetic resonance imaging within 48 hours of symptom onset were eligible for enrollment. Enrollment occurred from November 15, 2022, to November 19, 2024, with a 90-day follow-up period for all participants. Investigators, patients, and outcome assessors were blinded to treatment assignment. INTERVENTIONS: Eligible participants were randomized to receive either intravenous tirofiban or placebo (0.4 µg/kg/min for 30 minutes followed by 0.1 µg/kg/min for 24 hours). All patients received a 300-mg loading dose of aspirin on the day of randomization, followed by 100 mg daily until day 90. MAIN OUTCOMES AND MEASURES: The primary efficacy end point was END within 7 days or new stroke within 90 days. The primary safety end point was moderate or severe bleeding. RESULTS: Of 1378 patients with acute ischemic stroke screened for eligibility, 408 were excluded for ineligible imaging findings, other exclusion criteria, lack of consent, or additional reasons, leaving 970 participants who underwent randomization (486 assigned to tirofiban plus aspirin, 484 to placebo plus aspirin). The median (IQR) age was 63.0 (56.0-70.0) years; 607 patients (62.6%) were male and 363 (37.4%) female. The incidence of the primary efficacy end point was 79 patients (17.1%) in the tirofiban group and 89 (19.6%) in the placebo group (hazard ratio, 0.88; 95% CI, 0.65-1.19; P = .39). The incidence of the primary safety end point was 1 of 486 patients (0.2%) in the tirofiban group and 0 patients in the placebo group (P > .99). CONCLUSIONS AND RELEVANCE: This study found that in patients with BAD-related stroke, intravenous tirofiban combined with aspirin did not significantly reduce the risk of END or stroke compared with aspirin alone, nor was it associated with an increased risk of moderate or severe bleeding. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05310968.
 
-## 4. 论文标题：AGG repeat expansion and aggregation of BIN1 in multiple system atrophy.
+## 3. 论文标题：AGG repeat expansion and aggregation of BIN1 in multiple system atrophy.
 
 - 英文题目：AGG repeat expansion and aggregation of BIN1 in multiple system atrophy.
 - 主题：顶刊神经科学
@@ -274,7 +255,7 @@
 
 英文摘要：Multiple system atrophy is a fatal, sporadic α-synucleinopathy characterized by glial cytoplasmic inclusions in oligodendrocytes. No causative gene for multiple system atrophy has been identified to date. Whole-genome sequencing was performed for a patient with familial multiple system atrophy, in whom an AGG repeat expansion in BIN1 was identified. Based on this finding, we screened for the AGG repeat expansion in BIN1 in a cohort comprising 224 patients with clinically diagnosed multiple system atrophy, 67 patients with pathologically confirmed multiple system atrophy, and control groups including 574 blood samples and 65 brain samples from neurologically healthy individuals. The pathological analysis was performed for four cases with the repeat expansion and five cases without the repeat expansion. The biochemical analysis was performed for nine control subjects, ten cases without the repeat expansion, and eight cases with the repeat expansion. Long-read sequencing identified an AGG repeat expansion in the first intron of BIN1 in the proband. Patients with multiple system atrophy carried a higher frequency of repeat expansions exceeding 80 repeats in the pathological multiple system atrophy group compared to the brain control group (frequency: 13.4% vs. 0%; odds ratio: infinity; 95% confidence interval [CI], 2.1 to infinity; P = 0.003, Fisher's exact test). In contrast, the difference of frequency did not reach statistical significance in the clinical multiple system atrophy group compared to the blood control group (frequency: 4.5% vs 2.4%; odds ratio: 1.87; 95% CI, 0.8 to 4.5; P = 0.16, Fisher's exact test). Neuropathological analysis revealed BIN1-positive glial cytoplasmic inclusions more frequently in the brains of patients with repeat expansions. In immunoblot analysis, insoluble BIN1 were increased in the brains of multiple system atrophy irrespective of repeat status. Our findings indicate that the AGG repeat expansion in BIN1 and BIN1 protein aggregation plays an important role in the pathogenesis of multiple system atrophy.
 
-## 5. 论文标题：Cell-type-specific eQTLs underlie the genetic architecture of complex traits.
+## 4. 论文标题：Cell-type-specific eQTLs underlie the genetic architecture of complex traits.
 
 - 英文题目：Cell-type-specific eQTLs underlie the genetic architecture of complex traits.
 - 主题：顶刊神经科学
@@ -293,7 +274,7 @@
 
 英文摘要：Genetic effects on complex traits primarily act by regulating gene expression; however, this process is not well understood1. Studies of genetic effects on gene expression (expression quantitative trait loci (eQTLs)) can inform as to the gene regulatory layer between genetic variants and complex traits2. However, previous studies have not effectively captured cell-type-specific eQTLs, which are likely to be important for complex traits. Here we unbiasedly characterized cell-type-specific eQTLs by applying a variance component model to population-scale single-cell RNA-sequencing (RNA-seq) data. Using peripheral blood mononuclear cells from the OneK1K cohort, we demonstrated that cell-type-specific eQTLs enrich for complex trait heritability, which we did not observe for cell-type-shared eQTLs. We also found that eQTL specificity is associated with genes that have greater selective constraint, enhancer complexity and gene network connectivity, three features enriched in complex traits relative to known eQTLs3,4. Transcriptome-wide, trans eQTLs were mostly cell-type-specific (60% specific) whereas cis eQTLs were mostly shared (30% specific). We used a second single-cell RNA-seq dataset to replicate our findings and demonstrate that cell-type-shared and cell-type-specific eQTLs are consistent across ancestries. Our results establish eQTL cell-type specificity as a key feature of gene regulation and partly explain why known eQTLs are depleted in gene regulatory effects on complex traits.
 
-## 6. 论文标题：该内容涉及随机。原文：A multi-faceted hospital-based intervention for intrapartum care in sub-Saharan Africa: a stepped-wedge cluster-randomized trial.
+## 5. 论文标题：该内容涉及随机。原文：A multi-faceted hospital-based intervention for intrapartum care in sub-Saharan Africa: a stepped-wedge cluster-randomized trial.
 
 - 英文题目：A multi-faceted hospital-based intervention for intrapartum care in sub-Saharan Africa: a stepped-wedge cluster-randomized trial.
 - 主题：顶刊神经科学
@@ -312,7 +293,7 @@
 
 英文摘要：Around three million babies are stillborn or die shortly after birth each year worldwide, underscoring a persistent and unacceptable burden on families and health systems. To help address this challenge, we developed the facility-based, multi-faceted Action Leveraging Evidence to reduce perinatal Mortality and Morbidity (ALERT) intervention. ALERT promoted essential practices of intrapartum childbirth using (i) co-design, (ii) training, (iii) quality improvement and (iv) leadership mentoring. We evaluated ALERT using a stepped-wedge cluster-randomized trial with five 6-month periods across 16 hospitals in Benin, Malawi, Tanzania and Uganda. Among 134,630 women (including 139,300 neonates), the intervention was associated with 22% lower odds of the composite co-primary outcome, early perinatal mortality, defined as fresh stillbirth and 24 h neonatal mortality (adjusted odds ratio 0.78, 95% confidence interval 0.65-0.94), but not with the co-primary outcome, fresh stillbirth (adjusted odds ratio 0.88, 95% confidence interval 0.68-1.13). Despite the limitation of only including 16 hospitals, the diversity of settings across four sub-Saharan African countries supports the finding that early perinatal mortality and morbidity could be reduced through implementation of multi-faceted, context-specific strategies to build maternity provider capacities. Pan African Clinical Trial Registry: 202006793783148 .
 
-## 7. 论文标题：Urogenital immune signatures are associated with birth outcomes after maternal urinary tract infection.
+## 6. 论文标题：Urogenital immune signatures are associated with birth outcomes after maternal urinary tract infection.
 
 - 英文题目：Urogenital immune signatures are associated with birth outcomes after maternal urinary tract infection.
 - 主题：顶刊神经科学
@@ -331,7 +312,7 @@
 
 英文摘要：Preterm birth is the leading cause of infant mortality, resulting in more than 1 million neonatal deaths globally each year. Maternal urinary tract infection (UTI) during pregnancy increases risk for preterm birth; however, biological processes mediating UTI-associated preterm birth are not well described. We established a murine maternal UTI model in which challenge with uropathogenic Escherichia coli (UPEC) initiated preterm labor and birth in about half of dams. Although bacterial burdens were similar, dams experiencing preterm birth displayed excessive bladder inflammation, elevated placental and decidual cytokines, higher proportions of male fetuses, and lower maternal serum interleukin-10 (IL-10) compared with nonlaboring dams. Exogenous IL-10 or lymph node sequestration of T cells reduced placental type 17 T helper cells (TH17 cells) and abrogated preterm birth. In a human pregnancy cohort, we correlated urinary cytokines with birth outcomes and urine culture status. These analyses yielded an exploratory, noninvasive culture-agnostic system for evaluating preterm birth risk, implicating T cell-related cytokines including IL-10, IL-15, GM-CSF, and RANTES. These findings demonstrate that our murine model provides a platform to investigate immunological and microbial factors governing UTI-associated preterm birth and, coupled with patient samples, may be used to identify candidate biomarkers and mechanistic targets for future investigation.
 
-## 8. 论文标题：Tissue corticosteroid rhythms are dysregulated predominantly during sleep in primary aldosteronism.
+## 7. 论文标题：Tissue corticosteroid rhythms are dysregulated predominantly during sleep in primary aldosteronism.
 
 - 英文题目：Tissue corticosteroid rhythms are dysregulated predominantly during sleep in primary aldosteronism.
 - 主题：顶刊神经科学
@@ -350,28 +331,28 @@
 
 英文摘要：Primary aldosteronism affects 5 to 20% of the hypertensive population and is associated with increased cardiovascular and metabolic risk compared with primary hypertension. Alterations in the dynamics of aldosterone secretion are key, but these are not well captured by current diagnostic pathways, and the disease is often missed. In this proof-of-concept study, we used ambulatory microdialysis sampling to continuously monitor tissue corticosteroid dynamics in primary aldosteronism over 24 hours. In a cohort of 60 patients, we found pulsatile nocturnal hypersecretion of aldosterone and the hybrid steroids 18-hydroxycortisol and 18-oxocortisol with a preserved daily rhythm. This was most prominent in unilateral disease, with normalization after adrenalectomy. Our findings confirm that a key pathophysiological feature of primary aldosteronism is disruption of corticosteroid rhythms rather than persistent elevation of hormones. We show that ambulatory dynamic hormone profiling is a viable technique that offers substantially more information than current diagnostic approaches relying on single-time point hormone measurements. In the future, this offers the opportunity to investigate more subtle dynamic phenotypes and potentially earlier detection of disease.
 
+## 8. 论文标题：De novo chromatin remodelling variants in sporadic Chiari 1 malformation.
+
+- 英文题目：De novo chromatin remodelling variants in sporadic Chiari 1 malformation.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Brain : a journal of neurology
+- 影响因子：11.7
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-08-25
+- 分数：79
+- PMID：42640505
+- DOI：10.1093/brain/awag282
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42640505/
+
+中文摘要：摘要要点：Chiari 1 malformation (CM1) is the most common congenital malformation of the human hindbrain. Although prior studies have implicated chromatin-remodeling genes in CM1, the de novo genetic architecture and underlying neurodevelopmental mechanisms remain incompletely defined. To investigate the molecular genetics of a novel familial form of CM1 linked with syringomyelia and tethered cord and determine whether rare, damaging de novo variants (DNVs) contribute to sporadic CM1 risk with gene- and pathway-level resolution, we performed whole-exome sequencing in an ultra-rare multigenerational family with CM1 and associated spinal pathology, and in the largest assembled trio-based cohort to date, comprising 1,585 proband-parent trios with sporadic, idiopathic CM1 (2017-2025). The comparison cohort included 1,798 unaffected control siblings. Clinical phenotyping was by systematic medical record review. Structural domain mapping, in silico modeling, and integration with single-cell transcriptomic data from developing human cerebellum was conducted to assess biological plausibility. A heterozygous loss-of-function variant in CHD3 segregated with CM1 and syringomyelia in a multigenerational family. In the trio-based cohort, rare protein-altering DNVs were significantly enriched across multiple chromodomain helicase DNA-binding (CHD) genes, including CHD1, CHD3, CHD4, and CHD8, exceeding gene-specific mutation expectations (protein-damaging variants: P = 1.3 × 10-9; predicted loss-of-function variants: P = 8.6 × 10-5). CHD1 contained two pathogenic DNVs (p.A999D and p.E984K). CHD4 (p.D744N, p.T1813P, and p.I1102T) and CHD8 (p.R1402X, p.R1472X, and p.R2035X) each contained three new DNVs. Variants clustered within conserved ATPase, helicase, and chromodomain regions essential for chromatin remodeling, and these patients frequently had comorbid developmental delay and related neurodevelopmental features. Single-cell transcriptomic analyses demonstrated enrichment in Purkinje cells and inhibitory neurons of midgestational cerebellum, where CHD gene products form a coherent chromatin-regulatory network. Rare, large-effect DNVs that disrupt chromatin-remodeling programs contrib
+
+英文摘要：Chiari 1 malformation (CM1) is the most common congenital malformation of the human hindbrain. Although prior studies have implicated chromatin-remodeling genes in CM1, the de novo genetic architecture and underlying neurodevelopmental mechanisms remain incompletely defined. To investigate the molecular genetics of a novel familial form of CM1 linked with syringomyelia and tethered cord and determine whether rare, damaging de novo variants (DNVs) contribute to sporadic CM1 risk with gene- and pathway-level resolution, we performed whole-exome sequencing in an ultra-rare multigenerational family with CM1 and associated spinal pathology, and in the largest assembled trio-based cohort to date, comprising 1,585 proband-parent trios with sporadic, idiopathic CM1 (2017-2025). The comparison cohort included 1,798 unaffected control siblings. Clinical phenotyping was by systematic medical record review. Structural domain mapping, in silico modeling, and integration with single-cell transcriptomic data from developing human cerebellum was conducted to assess biological plausibility. A heterozygous loss-of-function variant in CHD3 segregated with CM1 and syringomyelia in a multigenerational family. In the trio-based cohort, rare protein-altering DNVs were significantly enriched across multiple chromodomain helicase DNA-binding (CHD) genes, including CHD1, CHD3, CHD4, and CHD8, exceeding gene-specific mutation expectations (protein-damaging variants: P = 1.3 × 10-9; predicted loss-of-function variants: P = 8.6 × 10-5). CHD1 contained two pathogenic DNVs (p.A999D and p.E984K). CHD4 (p.D744N, p.T1813P, and p.I1102T) and CHD8 (p.R1402X, p.R1472X, and p.R2035X) each contained three new DNVs. Variants clustered within conserved ATPase, helicase, and chromodomain regions essential for chromatin remodeling, and these patients frequently had comorbid developmental delay and related neurodevelopmental features. Single-cell transcriptomic analyses demonstrated enrichment in Purkinje cells and inhibitory neurons of midgestational cerebellum, where CHD gene products form a coherent chromatin-regulatory network. Rare, large-effect DNVs that disrupt chromatin-remodeling programs contribute to sporadic CM1, implicating genetically encoded dysregulation of cerebellar development as a central disease mechanism. Exome sequencing may complement surgical evaluation of children with sporadic CM1, particularly when accompanied by neurodevelopmental concerns, informing prognosis and family counseling.
+
 # 全球热点话题｜学术界值得关注
 
-## 1. 论文标题：Single-cell chromatin profiling reveals relapse-related priming in pediatric acute myeloid leukemia.
-
-- 英文题目：Single-cell chromatin profiling reveals relapse-related priming in pediatric acute myeloid leukemia.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：Life science alliance
-- 影响因子：2.9
-- 分区：JCR Q2 / CAS 3区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-11-01
-- 分数：75
-- PMID：42637517
-- DOI：10.26508/lsa.202603746
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42637517/
-
-中文摘要：摘要要点：该内容涉及干细胞。原文：Relapse remains the leading cause of treatment failure and mortality in pediatric acute myeloid leukemia (pAML), yet the early molecular features underlying relapse susceptibility remain poorly understood. Here, we leveraged our previously generated single-cell chromatin accessibility dataset comprising 177,500 cells from 16 diagnostic pAML samples with long-term clinical outcome data, spanning t(8;21), inv(16), and FLT3-ITD subtypes and stratified into relapse (RPS) and non-relapsed (NRPS) cases. We show that RPS patients harbor relapse-associated chromatin accessibility signatures already detectable at diagnosis across multiple molecular subtypes. These patients display heightened innate immune and inflammatory activation and expansion of HSC/MPP-like leukemic progenitors with stem cell-like regulatory features. Motif enrichment analyses identify AP-1 family members, together with RUNX1, SPI1, and ETS factors, as central regulators shaping the relapse-associated epigenetic state. Elevated expression of these regulators predicts inferior survival across independent AML cohorts. Collectively, these findings suggest that early epigenetic priming of innate immune and inflammatory programs is associated with a relapse-prone state and highlight this core transcriptional network as a candidate biomarker framework in pAML.
-
-英文摘要：Relapse remains the leading cause of treatment failure and mortality in pediatric acute myeloid leukemia (pAML), yet the early molecular features underlying relapse susceptibility remain poorly understood. Here, we leveraged our previously generated single-cell chromatin accessibility dataset comprising 177,500 cells from 16 diagnostic pAML samples with long-term clinical outcome data, spanning t(8;21), inv(16), and FLT3-ITD subtypes and stratified into relapse (RPS) and non-relapsed (NRPS) cases. We show that RPS patients harbor relapse-associated chromatin accessibility signatures already detectable at diagnosis across multiple molecular subtypes. These patients display heightened innate immune and inflammatory activation and expansion of HSC/MPP-like leukemic progenitors with stem cell-like regulatory features. Motif enrichment analyses identify AP-1 family members, together with RUNX1, SPI1, and ETS factors, as central regulators shaping the relapse-associated epigenetic state. Elevated expression of these regulators predicts inferior survival across independent AML cohorts. Collectively, these findings suggest that early epigenetic priming of innate immune and inflammatory programs is associated with a relapse-prone state and highlight this core transcriptional network as a candidate biomarker framework in pAML.
-
-## 2. 论文标题：The Gut Microbiome in Multiple Sclerosis.
+## 1. 论文标题：The Gut Microbiome in Multiple Sclerosis.
 
 - 英文题目：The Gut Microbiome in Multiple Sclerosis.
 - 主题：全球学术热点
@@ -389,6 +370,25 @@
 中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、炎症。原文：Multiple sclerosis (MS) is a chronic inflammatory demyelinating disease of the CNS whose risk and course are shaped by both genetic and environmental factors, among which the intestinal microbiota has emerged as a key, potentially modifiable contributor. People with MS frequently display altered gut microbiota, characterized by depletion of fiber-fermenting, short-chain fatty acid (SCFA)-producing commensals, and expansion of taxa associated with mucus degradation and proinflammatory metabolism. These compositional shifts are paralleled by broad changes in blood and CSF metabolites, including reduced SCFAs, tryptophan-derived aryl hydrocarbon receptor ligands, and secondary bile acids. In addition, several reports highlight the accumulation of aromatic amino acid-derived phenolic and indolic compounds and specific lipid mediators linked to neuroinflammation and neurodegeneration. In this up-to-date review, we synthesize evidence from experimental models and human studies showing how microbial metabolites can influence MS pathogenesis through converging mechanisms: modulation of gut and blood-brain barrier integrity; shaping of T-cell and B-cell responses; direct effects on microglia, astrocytes, and oligodendrocyte lineage cells after crossing into the CNS; and modulation of neural circuits, particularly those involving the vagus nerve. Finally, we highlight current gaps, including the need for longitudinal, harmonized multiomic cohorts, and mechanistic studies integrating microbiome, metabolome, and host readouts across gut, blood, and CNS. Overall, available data support a model in which coordinated disruption of the gut microbiota-metabolite axis, rather than any single pathogen, contributes to MS, opening avenues for microbiota-based and metabolite-based biomarkers and therapies aimed at restoring immune and neuroglial homeostasis.
 
 英文摘要：Multiple sclerosis (MS) is a chronic inflammatory demyelinating disease of the CNS whose risk and course are shaped by both genetic and environmental factors, among which the intestinal microbiota has emerged as a key, potentially modifiable contributor. People with MS frequently display altered gut microbiota, characterized by depletion of fiber-fermenting, short-chain fatty acid (SCFA)-producing commensals, and expansion of taxa associated with mucus degradation and proinflammatory metabolism. These compositional shifts are paralleled by broad changes in blood and CSF metabolites, including reduced SCFAs, tryptophan-derived aryl hydrocarbon receptor ligands, and secondary bile acids. In addition, several reports highlight the accumulation of aromatic amino acid-derived phenolic and indolic compounds and specific lipid mediators linked to neuroinflammation and neurodegeneration. In this up-to-date review, we synthesize evidence from experimental models and human studies showing how microbial metabolites can influence MS pathogenesis through converging mechanisms: modulation of gut and blood-brain barrier integrity; shaping of T-cell and B-cell responses; direct effects on microglia, astrocytes, and oligodendrocyte lineage cells after crossing into the CNS; and modulation of neural circuits, particularly those involving the vagus nerve. Finally, we highlight current gaps, including the need for longitudinal, harmonized multiomic cohorts, and mechanistic studies integrating microbiome, metabolome, and host readouts across gut, blood, and CNS. Overall, available data support a model in which coordinated disruption of the gut microbiota-metabolite axis, rather than any single pathogen, contributes to MS, opening avenues for microbiota-based and metabolite-based biomarkers and therapies aimed at restoring immune and neuroglial homeostasis.
+
+## 2. 论文标题：From dysbiosis to precision oncology: translational role of the microbiome in gastrointestinal cancer.
+
+- 英文题目：From dysbiosis to precision oncology: translational role of the microbiome in gastrointestinal cancer.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Cell cycle (Georgetown, Tex.)
+- 影响因子：3.4
+- 分区：JCR Q3 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-12-01
+- 分数：57
+- PMID：42677508
+- DOI：10.1080/15384101.2026.2725418
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42677508/
+
+中文摘要：摘要要点：该内容涉及炎症。原文：Gastrointestinal (GI) cancers, including colorectal, gastric, pancreatic, hepatocellular, and esophageal malignancies, remain a leading cause of cancer-related mortality worldwide. Emerging evidence identifies the gut microbiome as a critical regulator of GI carcinogenesis, influencing tumor initiation, immune evasion, therapeutic response, and clinical outcomes through inflammation, genotoxicity, metabolic reprogramming, and epithelial barrier disruption. Importantly, biological rationale, clinical evidence, and translational opportunities differ across GI tumor types. Specific taxa, including Fusobacterium nucleatum, enterotoxigenic Bacteroides fragilis, pks+ Escherichia coli, and Helicobacter pylori, exhibit tumor-specific oncogenic roles with causal evidence ranging from associative to guideline-validated. Microbiome-based biomarkers, including composite multi-taxon models and signatures predictive of immune checkpoint inhibitor response, are evaluated using a four-tier framework (preclinical, associative, near-clinical, and validated). Microbiome-targeted therapies, including probiotics, fecal microbiota transplantation, dietary modulation, and engineered microbial therapeutics, are critically appraised according to clinical evidence and translational readiness. Advances in spatial microbiomics, single-cell analysis, multi-omics, and artificial intelligence may further accelerate microbiome-based precision oncology. This review provides a translationally stratified synthesis of microbiome-GI cancer interactions and their implications for precision oncology.
+
+英文摘要：Gastrointestinal (GI) cancers, including colorectal, gastric, pancreatic, hepatocellular, and esophageal malignancies, remain a leading cause of cancer-related mortality worldwide. Emerging evidence identifies the gut microbiome as a critical regulator of GI carcinogenesis, influencing tumor initiation, immune evasion, therapeutic response, and clinical outcomes through inflammation, genotoxicity, metabolic reprogramming, and epithelial barrier disruption. Importantly, biological rationale, clinical evidence, and translational opportunities differ across GI tumor types. Specific taxa, including Fusobacterium nucleatum, enterotoxigenic Bacteroides fragilis, pks+ Escherichia coli, and Helicobacter pylori, exhibit tumor-specific oncogenic roles with causal evidence ranging from associative to guideline-validated. Microbiome-based biomarkers, including composite multi-taxon models and signatures predictive of immune checkpoint inhibitor response, are evaluated using a four-tier framework (preclinical, associative, near-clinical, and validated). Microbiome-targeted therapies, including probiotics, fecal microbiota transplantation, dietary modulation, and engineered microbial therapeutics, are critically appraised according to clinical evidence and translational readiness. Advances in spatial microbiomics, single-cell analysis, multi-omics, and artificial intelligence may further accelerate microbiome-based precision oncology. This review provides a translationally stratified synthesis of microbiome-GI cancer interactions and their implications for precision oncology.
 
 ## 3. 论文标题：Corrigendum to "Mechanisms of tumor cell evasion from NK cell-mediated killing and advances in NK cell-based cancer immunotherapy" [Pharm. Sci. Adv. 4 (2026) 100109].
 
@@ -409,45 +409,7 @@
 
 英文摘要：[This corrects the article DOI: 10.1016/j.pscia.2026.100109.].
 
-## 4. 论文标题：Medrecord-CLIP: enhancing fundus disease diagnosis via EHR-guided vision-language pre-training.
-
-- 英文题目：Medrecord-CLIP: enhancing fundus disease diagnosis via EHR-guided vision-language pre-training.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：Health information science and systems
-- 影响因子：3.4
-- 分区：JCR Q2 / CAS 2区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-12-01
-- 分数：57
-- PMID：42632973
-- DOI：10.1007/s13755-026-00476-5
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42632973/
-
-中文摘要：摘要要点：Automated analysis of Color Fundus Photography (CFP) is essential for large-scale retinal disease screening. However, conventional vision-only models often rely on rigid categorical labels, neglecting the rich clinical nuances found in medical narratives. While existing Vision-Language Pre-training (VLP) frameworks have explored text-based supervision, they frequently overlook individualized patient contexts within Electronic Health Records (EHRs). To bridge this gap, we construct MedRecordFundus, a large-scale multimodal dataset pairing 21,290 CFP images with expert-curated EHR narratives across four clinical dimensions. Leveraging this resource, we propose MedRecord-CLIP, a knowledge-enhanced foundation model featuring a diagnosis-guided cross-attention mechanism to adaptively extract and fuse salient patient history with diagnostic representations. To improve representation robustness against highly similar clinical descriptions, we introduce a symmetric Multi-Positive InfoNCE objective. Extensive experiments on four public benchmarks-RFMiD, ODIR, APTOS 2019, and IDRiD-demonstrate that MedRecord-CLIP yields statistically significant improvements over state-of-the-art baselines like RETFound and FLAIR on the multi-disease benchmarks (RFMiD and ODIR), and also leads on the IDRiD grading benchmark, while performing on par with the strongest baseline on APTOS 2019. Our approach highlights the critical value of integrating personalized clinical context to enhance the generalizability and interpretability of fundus foundation models.
-
-英文摘要：Automated analysis of Color Fundus Photography (CFP) is essential for large-scale retinal disease screening. However, conventional vision-only models often rely on rigid categorical labels, neglecting the rich clinical nuances found in medical narratives. While existing Vision-Language Pre-training (VLP) frameworks have explored text-based supervision, they frequently overlook individualized patient contexts within Electronic Health Records (EHRs). To bridge this gap, we construct MedRecordFundus, a large-scale multimodal dataset pairing 21,290 CFP images with expert-curated EHR narratives across four clinical dimensions. Leveraging this resource, we propose MedRecord-CLIP, a knowledge-enhanced foundation model featuring a diagnosis-guided cross-attention mechanism to adaptively extract and fuse salient patient history with diagnostic representations. To improve representation robustness against highly similar clinical descriptions, we introduce a symmetric Multi-Positive InfoNCE objective. Extensive experiments on four public benchmarks-RFMiD, ODIR, APTOS 2019, and IDRiD-demonstrate that MedRecord-CLIP yields statistically significant improvements over state-of-the-art baselines like RETFound and FLAIR on the multi-disease benchmarks (RFMiD and ODIR), and also leads on the IDRiD grading benchmark, while performing on par with the strongest baseline on APTOS 2019. Our approach highlights the critical value of integrating personalized clinical context to enhance the generalizability and interpretability of fundus foundation models.
-
-## 5. 论文标题：Interleukin-1 mediates innate immune signaling and antiviral defense in islets.
-
-- 英文题目：Interleukin-1 mediates innate immune signaling and antiviral defense in islets.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：Life science alliance
-- 影响因子：2.9
-- 分区：JCR Q2 / CAS 3区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-11-01
-- 分数：57
-- PMID：42642325
-- DOI：10.26508/lsa.202603795
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42642325/
-
-中文摘要：摘要要点：Based on in vitro studies, cytokines are believed to contribute to the pathogenesis of type 1 diabetes by directly causing β-cell damage. In this study, the effects of endogenously produced cytokines, following lipopolysaccharide (LPS) administration to mice, on gene expression in islet cells were evaluated by single-cell RNA sequencing (scRNA-seq). In response to LPS, there is an increase in antiviral and antibacterial genes and repression of genes associated with identity in all endocrine cell populations. While islet-resident non-lymphoid hematopoietic cells were not classically activated, antiviral and antibacterial gene expression was increased. Antipathogen gene expression was also increased in the islet endothelium, while genes associated with transcription, cell migration, and adhesion were decreased. IL-1 was identified as the primary mediator of changes in β-cell gene expression, and we show that IL-1 limits picornavirus replication in islets. Overall, these findings support a role for IL-1-stimulated antipathogen gene expression in β-cells as a physiologically relevant immune-endocrine signaling axis that functions to enhance fitness and reduce susceptibility of these essential cells to virus-mediated damage.
-
-英文摘要：Based on in vitro studies, cytokines are believed to contribute to the pathogenesis of type 1 diabetes by directly causing β-cell damage. In this study, the effects of endogenously produced cytokines, following lipopolysaccharide (LPS) administration to mice, on gene expression in islet cells were evaluated by single-cell RNA sequencing (scRNA-seq). In response to LPS, there is an increase in antiviral and antibacterial genes and repression of genes associated with identity in all endocrine cell populations. While islet-resident non-lymphoid hematopoietic cells were not classically activated, antiviral and antibacterial gene expression was increased. Antipathogen gene expression was also increased in the islet endothelium, while genes associated with transcription, cell migration, and adhesion were decreased. IL-1 was identified as the primary mediator of changes in β-cell gene expression, and we show that IL-1 limits picornavirus replication in islets. Overall, these findings support a role for IL-1-stimulated antipathogen gene expression in β-cells as a physiologically relevant immune-endocrine signaling axis that functions to enhance fitness and reduce susceptibility of these essential cells to virus-mediated damage.
-
-## 6. 论文标题：该内容涉及干细胞。原文：Incorporation of selinexor into conditioning regimens prior to allogeneic hematopoietic stem cell transplantation: a single-center clinical study.
+## 4. 论文标题：该内容涉及干细胞。原文：Incorporation of selinexor into conditioning regimens prior to allogeneic hematopoietic stem cell transplantation: a single-center clinical study.
 
 - 英文题目：Incorporation of selinexor into conditioning regimens prior to allogeneic hematopoietic stem cell transplantation: a single-center clinical study.
 - 主题：全球学术热点
@@ -466,7 +428,7 @@
 
 英文摘要：OBJECTIVE: Clinical data on incorporating selinexor into conditioning regimens before allogeneic hematopoietic stem cell transplantation (allo-HSCT) remain limited. We evaluated the feasibility and safety of selinexor-containing conditioning in patients with high-risk myeloid malignancies. METHODS: This retrospective single-center case series included 12 consecutive patients receiving selinexor-containing conditioning before allo-HSCT. Toxicities, engraftment, graft-versus-host disease (GVHD), relapse, non-relapse mortality (NRM), and survival were descriptively evaluated. PFS and OS were estimated using Kaplan-Meier methods; competing-risk methods were used for relapse, NRM, and GVHD; and follow-up was estimated using reverse Kaplan-Meier. RESULTS: All patients completed planned selinexor administration, with manageable toxicity and no unexpected organ toxicity. Neutrophil engraftment was achieved in all evaluable patients and platelet engraftment in the majority. Median follow-up was 42 months (95% CI, 25-42 months). Median PFS and OS were 9.0 months (95% CI, 2.0-25 months) and 10.0 months (95% CI, 2-30 months), respectively. At 12 months, the cumulative incidences of relapse and NRM were both 33.3% (95% CI, 10.3%-58.8%). Day + 100 overall aGVHD incidence was 41.7% (95% CI, 15.2%-66.5%), and 12-month overall cGVHD incidence was 25.0% (95% CI, 6.0%-50.5%). CONCLUSION: In this single-center retrospective experience, incorporation of selinexor into conditioning regimens prior to allo-HSCT was feasible and associated with manageable toxicity in in selected patients with high-risk myeloid malignancies. Given the small sample size and absence of a comparator cohort, these findings should be interpreted cautiously. Prospective studies are warranted to further define the role of selinexor in the transplant setting.
 
-## 7. 论文标题：Shrunken pore syndrome increased the risk of acute kidney injury after cardiac surgery: a cohort study.
+## 5. 论文标题：Shrunken pore syndrome increased the risk of acute kidney injury after cardiac surgery: a cohort study.
 
 - 英文题目：Shrunken pore syndrome increased the risk of acute kidney injury after cardiac surgery: a cohort study.
 - 主题：全球学术热点
@@ -485,7 +447,7 @@
 
 英文摘要：BACKGROUND: Shrunken pore syndrome (SPS), as a selective glomerular hypofiltration syndrome, has received increasing attention. Therefore, we hypothesised that patients with SPS have a high risk of postoperative acute kidney injury (AKI). METHODS: This trial was a retrospective cohort study. Patients who received isolated coronary artery bypass grafting (CABG) in the Affiliated Hospital of Qingdao University were continuously reviewed. Estimated glomerular filtration rates (eGFRs) were calculated by Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equations. The SPS was defined as an eGFR based on cystatin C < 70% of the eGFR based on creatinine. Postoperative AKI was diagnosed according to the Kidney Disease: Improving Global Outcomes (KDIGO) criteria, and the occurrence of AKI within seven days after surgery was followed up. RESULTS: A total of 1277 patients were included, and the incidence of postoperative AKI was 23.2% (296/1277), and 12.8% (164/1277) patients were diagnosed with SPS before surgery. The incidence of AKI in the SPS group was significantly higher than that in the non-SPS group (33.5% vs. 21.7%, adjOR = 1.613, 95%CI 1.121-2.322, p = 0.010). Sensitivity analysis: E-value = 2.175 and Fragility Index = 8. The results remained robust across all subgroups. After propensity score matching, the incidence of AKI in SPS group was still significantly higher than that in the non-SPS group (33.5% vs. 22.9%, adjOR = 1.702, 95%CI 1.131-2.560, p = 0.011). CONCLUSIONS: SPS is an independent risk factor for AKI after CABG. It will bring a new insight for an accurate clinical assessment of the risk of postoperative AKI.
 
-## 8. 论文标题：Clinical Prognostic Factors Associated With Relapsing Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease: A Multicenter Cohort Study.
+## 6. 论文标题：Clinical Prognostic Factors Associated With Relapsing Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease: A Multicenter Cohort Study.
 
 - 英文题目：Clinical Prognostic Factors Associated With Relapsing Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease: A Multicenter Cohort Study.
 - 主题：全球学术热点
@@ -503,6 +465,44 @@
 中文摘要：摘要要点：该内容涉及神经炎症、炎症、荟萃分析。原文：BACKGROUND AND OBJECTIVES: It is currently difficult to accurately predict who, after the index event of myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD), will develop relapsing disease (R-MOGAD). Several clinical features have been reported as possibly predictive, but none have been validated in clinical practice. We used a prospectively designed analysis to assess a combined model of reported clinical prognosticators for developing R-MOGAD in 101 patients with MOGAD (86% with onset in adulthood) from 3 UK specialist centers. METHODS: A multivariable binary logistic regression model using variables identified from a scoping literature review was fitted in a retrospective clinical data set of patients with MOGAD (Nottingham MS & Neuroinflammation Centre [NUH]), with validation analysis in 2 independent data sets (Walton NMOSD Specialist Centre [WSC]; Imperial College London [ICL]). Secondary analysis investigated time to first relapse using Cox proportional hazards on the combined cohort. Results from the significant variables from the initial analysis were further examined in a meta-analysis of relevant literature studies. RESULTS: In the Neuroinflammation - Nottingham University Hospitals NHS Trust data set (n = 33), treatment with steroids ≥10 mg for ≥ 3 months after the index event was significantly associated with a lower likelihood of developing R-MOGAD (p = 0.006) with sensitivity 83% (95% CI 59-96) and specificity 73% (95% CI 45-92). A persistently positive MOG-IgG status, age at onset, optic neuritis at onset, and sex were not significant predictors of developing R-MOGAD. To assess generalizability, this predictor was tested in 2 independent data sets. In Walton Centre Liverpool (n = 39), not receiving prednisolone ≥10 mg ≥ 3 months was associated with R-MOGAD (OR = 9.7; 95% CI 2.1-45.4; sensitivity 63%; 95% CI 38-84; specificity 85%; 95% CI 62-97). In ICL (n = 29), the association was directionally consistent but inconclusive, with wide confidence intervals crossing unity (OR = 2.7; 95% CI 0.5-13.4; sensitivity 73%; 95% CI 39-94; specificity 50%; 95% CI 26-74). For the combined cohort (n = 101), not receiving prednisolone ≥ 10 mg
 
 英文摘要：BACKGROUND AND OBJECTIVES: It is currently difficult to accurately predict who, after the index event of myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD), will develop relapsing disease (R-MOGAD). Several clinical features have been reported as possibly predictive, but none have been validated in clinical practice. We used a prospectively designed analysis to assess a combined model of reported clinical prognosticators for developing R-MOGAD in 101 patients with MOGAD (86% with onset in adulthood) from 3 UK specialist centers. METHODS: A multivariable binary logistic regression model using variables identified from a scoping literature review was fitted in a retrospective clinical data set of patients with MOGAD (Nottingham MS & Neuroinflammation Centre [NUH]), with validation analysis in 2 independent data sets (Walton NMOSD Specialist Centre [WSC]; Imperial College London [ICL]). Secondary analysis investigated time to first relapse using Cox proportional hazards on the combined cohort. Results from the significant variables from the initial analysis were further examined in a meta-analysis of relevant literature studies. RESULTS: In the Neuroinflammation - Nottingham University Hospitals NHS Trust data set (n = 33), treatment with steroids ≥10 mg for ≥ 3 months after the index event was significantly associated with a lower likelihood of developing R-MOGAD (p = 0.006) with sensitivity 83% (95% CI 59-96) and specificity 73% (95% CI 45-92). A persistently positive MOG-IgG status, age at onset, optic neuritis at onset, and sex were not significant predictors of developing R-MOGAD. To assess generalizability, this predictor was tested in 2 independent data sets. In Walton Centre Liverpool (n = 39), not receiving prednisolone ≥10 mg ≥ 3 months was associated with R-MOGAD (OR = 9.7; 95% CI 2.1-45.4; sensitivity 63%; 95% CI 38-84; specificity 85%; 95% CI 62-97). In ICL (n = 29), the association was directionally consistent but inconclusive, with wide confidence intervals crossing unity (OR = 2.7; 95% CI 0.5-13.4; sensitivity 73%; 95% CI 39-94; specificity 50%; 95% CI 26-74). For the combined cohort (n = 101), not receiving prednisolone ≥ 10 mg for ≥3 months was associated with increased odds of developing R-MOGAD (OR = 6.2; 95% CI 2.6-14.8; p < 0.0001). Conversely, prednisolone ≥10 mg ≥ 3 months was associated with a lower hazard of relapse (HR = 0.47; 95% CI 0.24-0.91; p = 0.024). Median follow-up for monophasic patients was 42 months (IQR: 17.5-64.5). DISCUSSION: Prednisolone ≥10 mg for ≥ 3 months after the index event was associated with a lower likelihood of relapsing MOGAD. This association was supported in first external cohort and directionally consistent but inconclusive in a second, smaller cohort. Further prospective multicenter studies are required to assess the reproducibility and clinical utility of this association.
+
+## 7. 论文标题：Surgfm-Slam: robust surgical scene reconstruction via 3D foundation adaptation model.
+
+- 英文题目：Surgfm-Slam: robust surgical scene reconstruction via 3D foundation adaptation model.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Health information science and systems
+- 影响因子：3.4
+- 分区：JCR Q2 / CAS 2区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-12-01
+- 分数：51
+- PMID：42643674
+- DOI：10.1007/s13755-026-00478-3
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42643674/
+
+中文摘要：摘要要点：Surgical scene reconstruction is a critical prerequisite for intraoperative navigation in robotic surgery. Although deep neural networks (DNNs) have advanced surgical scene reconstruction, their performance degrades severely when confronted with texture-sparse biological tissues and dynamic illumination changes. To this end, we develop an end-to-end SurgFM-SLAM framework for surgical scene reconstruction by exploring geometric representation priors of pretrained 3D foundation models (FMs) and SLAM. To be specific, we first design a frame-similarity sampling strategy to keep surgical scene consistency among sampled frames, and then develop a surgical foundation model (SurgFM) by employing a low-rank adaptation (LoRA) method to mine 3D strong structural geometry representations from 3D FMs with the aid of parameter-efficient finetuning techniques, aiming to effectively capture dynamic illumination conditions and informative textures from surgical environments. Finally, we embed SurgFM into the SLAM backend to construct SurgFM-SLAM to perform robust surgical scene reconstruction in an end-to-end manner, including tracking, mapping, and relocalization. Extensive experiments on the SimCol dataset demonstrate that SurgFM-SLAM achieves competitive performance across depth estimation, camera pose estimation, and 3D reconstruction through comparisons to state-of-the-art methods. Additionally, zero-shot generalization test on the C3VD and SCARED datasets manifests the generalization of SurgFM-SLAM. The project of this paper is available at: https://gumlau.github.io/SurgFM-SLAM/.
+
+英文摘要：Surgical scene reconstruction is a critical prerequisite for intraoperative navigation in robotic surgery. Although deep neural networks (DNNs) have advanced surgical scene reconstruction, their performance degrades severely when confronted with texture-sparse biological tissues and dynamic illumination changes. To this end, we develop an end-to-end SurgFM-SLAM framework for surgical scene reconstruction by exploring geometric representation priors of pretrained 3D foundation models (FMs) and SLAM. To be specific, we first design a frame-similarity sampling strategy to keep surgical scene consistency among sampled frames, and then develop a surgical foundation model (SurgFM) by employing a low-rank adaptation (LoRA) method to mine 3D strong structural geometry representations from 3D FMs with the aid of parameter-efficient finetuning techniques, aiming to effectively capture dynamic illumination conditions and informative textures from surgical environments. Finally, we embed SurgFM into the SLAM backend to construct SurgFM-SLAM to perform robust surgical scene reconstruction in an end-to-end manner, including tracking, mapping, and relocalization. Extensive experiments on the SimCol dataset demonstrate that SurgFM-SLAM achieves competitive performance across depth estimation, camera pose estimation, and 3D reconstruction through comparisons to state-of-the-art methods. Additionally, zero-shot generalization test on the C3VD and SCARED datasets manifests the generalization of SurgFM-SLAM. The project of this paper is available at: https://gumlau.github.io/SurgFM-SLAM/.
+
+## 8. 论文标题：Prolonged brain cytokine elevation and microgliosis following exposure to World Trade Center dust particulate matter in male spontaneously hypertensive rats.
+
+- 英文题目：Prolonged brain cytokine elevation and microgliosis following exposure to World Trade Center dust particulate matter in male spontaneously hypertensive rats.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Journal of immunotoxicology
+- 影响因子：3.1
+- 分区：JCR Q2 / CAS 4区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-12-01
+- 分数：47
+- PMID：42669197
+- DOI：10.1080/1547691X.2026.2722654
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42669197/
+
+中文摘要：摘要要点：该内容涉及小胶质细胞。原文：Exposure to World Trade Center (WTC) dust following the September 11, 2001 attacks has been linked to numerous negative health outcomes in First Responders, including cognitive impairment disproportionately impacting First Responders with aging. However, the mechanisms underlying neurocognitive decline remain poorly characterized. This investigation examined the effects of WTC dust exposure on myelin integrity and neuroinflammatory signaling in twelve-week old male spontaneously hypertensive rats. To model Ground Zero exposure in First Responders, WTC dust was intratracheally administered for two consecutive days (2.43 [± 0.78] mg/day). It was hypothesized that WTC dust exposure would enhance neuroinflammatory signaling and promote an earlier, progressive decline of myelin abundance. Rats were euthanized at 3 and 12 mo post-exposure. Changes in myelin abundance (Black-Gold II), myelin basic protein (MBP) and 2',3'-cyclic nucleotide 3'-phosphodiesterase (CNPase), and microglial responses (ionized calcium-binding protein; Iba1) were assessed through immunohistochemical staining, and cytokines were measured in brain homogenates. WTC dust exposure resulted in increased Black-Gold II staining at 3 mo despite no changes in MBP or CNPase. In contrast, microglial activation and IL-1β concentrations were elevated in dust-exposed rats at 12 mo. Collectively, these data suggest WTC dust exposure induces sustained neuroinflammatory signaling and may elicit a compensatory myelin response indicative of early neurodegeneration.
+
+英文摘要：Exposure to World Trade Center (WTC) dust following the September 11, 2001 attacks has been linked to numerous negative health outcomes in First Responders, including cognitive impairment disproportionately impacting First Responders with aging. However, the mechanisms underlying neurocognitive decline remain poorly characterized. This investigation examined the effects of WTC dust exposure on myelin integrity and neuroinflammatory signaling in twelve-week old male spontaneously hypertensive rats. To model Ground Zero exposure in First Responders, WTC dust was intratracheally administered for two consecutive days (2.43 [± 0.78] mg/day).  It was hypothesized that WTC dust exposure would enhance neuroinflammatory signaling and promote an earlier, progressive decline of myelin abundance. Rats were euthanized at 3 and 12 mo post-exposure. Changes in myelin abundance (Black-Gold II), myelin basic protein (MBP) and 2',3'-cyclic nucleotide 3'-phosphodiesterase (CNPase), and microglial responses (ionized calcium-binding protein; Iba1) were assessed through immunohistochemical staining, and cytokines were measured in brain homogenates. WTC dust exposure resulted in increased Black-Gold II staining at 3 mo despite no changes in MBP or CNPase. In contrast, microglial activation and IL-1β concentrations were elevated in dust-exposed rats at 12 mo. Collectively, these data suggest WTC dust exposure induces sustained neuroinflammatory signaling and may elicit a compensatory myelin response indicative of early neurodegeneration.
 
 # 国内外医学与医药新闻
 
@@ -529,11 +529,11 @@
 
 - 英文题目：Smart nanoparticles light up brain cancer and destroy what surgery misses
 - 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
+- 来源：ScienceDaily Mind Brain
+- 期刊/平台：ScienceDaily Mind Brain
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
 - 日期：Thu, 27 Au
 - 分数：50
 - PMID：N/A
@@ -563,7 +563,26 @@
 
 英文摘要：A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All three groups lost about 10% of their body weight, but keto reduced liver fat by 67%, compared with 45% for the other diets. About half of the keto group also no longer qualified as having prediabetes after four to five months.
 
-## 4. 论文标题：Youth Protein TIMP2 Restores Immune Function in the Aging Brain
+## 4. 论文标题：Scientists find a human-only gene that may help explain our brainpower
+
+- 英文题目：Scientists find a human-only gene that may help explain our brainpower
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Mon, 31 Au
+- 分数：44
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/08/260831015141.htm
+
+中文摘要：摘要要点：该内容涉及小胶质细胞。原文：Scientists discovered that human microglia, immune cells that help shape developing brain circuits, can take four to eight years to mature instead of just weeks as they do in mice. The unusually slow process may help explain how the human brain develops its remarkable complexity and cognitive abilities.
+
+英文摘要：Scientists discovered that human microglia, immune cells that help shape developing brain circuits, can take four to eight years to mature instead of just weeks as they do in mice. The unusually slow process may help explain how the human brain develops its remarkable complexity and cognitive abilities.
+
+## 5. 论文标题：Youth Protein TIMP2 Restores Immune Function in the Aging Brain
 
 - 英文题目：Youth Protein TIMP2 Restores Immune Function in the Aging Brain
 - 主题：国内外医学与医药新闻
@@ -581,25 +600,6 @@
 中文摘要：摘要要点：该内容涉及小胶质细胞。原文：<a href="https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/" rel="nofollow" title="Youth Protein TIMP2 Restores Immune Function in the Aging Brain"><img alt="Rejuvenation of Microglia by Youth Protein TIMP2 in the Aging Brain" class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.
 
 英文摘要：<a href="https://neurosciencenews.com/youth-protein-timp2-restores-immune-function-aging-brain-31207/" rel="nofollow" title="Youth Protein TIMP2 Restores Immune Function in the Aging Brain"><img alt="Rejuvenation of Microglia by Youth Protein TIMP2 in the Aging Brain" class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/08/youth-protein-timp2-microglia-rejuvenation-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Researchers discovered that the youth-associated protein TIMP2 restores healthy immune function in the aging brain by rejuvenating microglia.
-
-## 5. 论文标题：AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND
-
-- 英文题目：AI-designed “intrabodies” could unlock new treatments for Alzheimer’s, Parkinson’s and MND
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Mind Brain
-- 期刊/平台：ScienceDaily Mind Brain
-- 影响因子：10+
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：内置参考表
-- 日期：Wed, 19 Au
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/08/260819041242.htm
-
-中文摘要：摘要要点：Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease.
-
-英文摘要：Researchers have developed a new way to turn ordinary antibodies into tiny disease-fighting molecules that can work inside human cells, potentially opening new paths for treating Alzheimer’s, Parkinson’s, Huntington’s disease, and motor neurone disease.
 
 ## 6. 论文标题：Depression may shut down the brain’s ability to make new neurons
 
@@ -620,7 +620,26 @@
 
 英文摘要：A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad molecular changes that could open the door to new treatments tailored to different biological forms of depression.
 
-## 7. 论文标题：A cancer therapy put severe rheumatoid arthritis into remission
+## 7. 论文标题：Goodbye CPAP? New sleep apnea pill cuts breathing events by 44%
+
+- 英文题目：Goodbye CPAP? New sleep apnea pill cuts breathing events by 44%
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Tue, 01 Se
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/08/260831015203.htm
+
+中文摘要：摘要要点：A once-nightly pill cut breathing interruptions by about 44% in a major phase 3 sleep apnea trial, while improving oxygen levels and disease severity. By strengthening the muscles that keep the airway open during sleep, AD109 could offer a new option for people unable to tolerate CPAP.
+
+英文摘要：A once-nightly pill cut breathing interruptions by about 44% in a major phase 3 sleep apnea trial, while improving oxygen levels and disease severity. By strengthening the muscles that keep the airway open during sleep, AD109 could offer a new option for people unable to tolerate CPAP.
+
+## 8. 论文标题：A cancer therapy put severe rheumatoid arthritis into remission
 
 - 英文题目：A cancer therapy put severe rheumatoid arthritis into remission
 - 主题：国内外医学与医药新闻
@@ -639,7 +658,7 @@
 
 英文摘要：CAR T-cell therapy dramatically reduced disease activity in six people with severe rheumatoid arthritis that had resisted other treatments, with three achieving medication-free remission. The treatment may work by clearing out harmful immune cells and effectively rebooting part of the immune system, although much larger studies are still needed.
 
-## 8. 论文标题：Scientists discover why damaged nerves struggle to heal
+## 9. 论文标题：Scientists discover why damaged nerves struggle to heal
 
 - 英文题目：Scientists discover why damaged nerves struggle to heal
 - 主题：国内外医学与医药新闻
@@ -658,7 +677,7 @@
 
 英文摘要：Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with nerve or spinal cord injuries. The discovery could eventually point toward new treatments designed to shift neurons from simply surviving an injury to actively rebuilding themselves.
 
-## 9. 论文标题：Experimental eye drops help blind mice see again
+## 10. 论文标题：Experimental eye drops help blind mice see again
 
 - 英文题目：Experimental eye drops help blind mice see again
 - 主题：国内外医学与医药新闻
@@ -677,26 +696,10 @@
 
 英文摘要：Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the most promising compounds worked when administered as eye drops, pointing toward a potentially simple new approach to restoring vision.
 
-## 10. 论文标题：Childhood trauma may leave a lasting “scar” inside brain cells
-
-- 英文题目：Childhood trauma may leave a lasting “scar” inside brain cells
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Mind Brain
-- 期刊/平台：ScienceDaily Mind Brain
-- 影响因子：10+
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：内置参考表
-- 日期：Wed, 26 Au
-- 分数：34
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/08/260823094151.htm
-
-中文摘要：摘要要点：Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.
-
-英文摘要：Early-life stress may physically alter how DNA is packaged in the brain, leaving stress-related genes primed to activate more easily years later. In mice, researchers were able to block this effect, preventing the heightened anxiety and stress sensitivity that otherwise appeared in adulthood.
-
 ## 抓取提示
 
-- PubMed glioma_spinal: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-- biorxiv: HTTPSConnectionPool(host='api.biorxiv.org', port=443): Read timed out. (read timeout=30)
+- arXiv traumatic_brain_injury: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
+- arXiv hydrocephalus: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
+- arXiv stem_cell_exosome: 429 Client Error: Unknown Error for url: https://export.arxiv.org/api/query?search_query=all%3A%22stem+cell%22+OR+all%3A%22mesenchymal+stem+cell%22+OR+all%3A%22MSC%22+OR+all%3A%22exosome%22+OR+all%3A%22extracellular+vesicles%22+OR+all%3A%22intranasal%22&start=0&max_results=25&sortBy=submittedDate&sortOrder=descending
+- arXiv microglia_trem2: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
+- arXiv neurosurgery_general: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
