@@ -1,6 +1,6 @@
 # 神外文献日报 V2
 
-生成时间：2026-09-20 09:39:52
+生成时间：2026-09-21 09:41:31
 核心神外文献数量：10
 全部条目数量：36
 
@@ -25,48 +25,29 @@
 
 英文摘要：BACKGROUND: Autism Spectrum Disorder (ASD) is an intricate neurodevelopmental condition distinguished by challenges in social interaction, repetitive behavioral patterns, and neuroinflammation, with limited effective treatments. Mesenchymal stem cell-derived extracellular vesicles (MSC-EVs) offer a promising cell-free therapy due to their immunomodulatory and regenerative properties. This study evaluates their therapeutic efficacy in preclinical ASD models. METHODS: Following PRISMA guidelines, we conducted a systematic review and meta-analysis, searching PubMed, Embase, Scopus, and Web of Science. The SYRCLE tool assessed risk of bias. Standardized mean difference (SMD) was calculated using a random-effects model to evaluate MSC-EV effects on sociability, repetitive behaviors, and inflammatory cytokines. Subgroup analysis, sensitivity analysis, and publication bias assessment addressed heterogeneity. RESULTS: Five studies (2018-2024) were included. MSC-EV-treated mice showed significant improvements in sociability (SMD =1.34, 95% CI:0.68-2.76), reduced repetitive behaviors (SMD =-1.12, 95% CI:-0.65 to -1.59), and modulated neuroinflammation, with decreased pro-inflammatory cytokines (IL-1, SMD = -2.28, 95% CI:-0.33 to -4.24 and TNF-a, SMD = -1.22, 95% CI:-0.47 to -1.97 and IL-6, SMD = -1.03, 95% CI:-0.38 to -1.68) and increased IL-10 (SMD =0.58, 95% CI:0.03 to 1.13). Subgroup analysis indicated umbilical cord- and adipose-derived MSC-EVs had superior efficacy. CONCLUSION: MSC-EVs demonstrate significant therapeutic potential in preclinical ASD models by improving core symptoms and modulating inflammation. However, limited studies and heterogeneity highlight the need for standardized protocols and further preclinical research to facilitate clinical translation.
 
-## 2. 论文标题：该内容涉及外泌体。原文：Exosomes in Alzheimer's Disease: From Pathological Mechanisms to Biomarker Potential and Therapeutic Applications.
+## 2. 论文标题：该内容涉及脑损伤、神经炎症、炎症。原文：Role of gut microbiome modulation in the attenuation of aging-related neuroinflammation in early brain injury after subarachnoid hemorrhage.
 
-- 英文题目：Exosomes in Alzheimer's Disease: From Pathological Mechanisms to Biomarker Potential and Therapeutic Applications.
-- 主题：小胶质细胞与 TREM2
+- 英文题目：Role of gut microbiome modulation in the attenuation of aging-related neuroinflammation in early brain injury after subarachnoid hemorrhage.
+- 主题：创伤性脑损伤
 - 来源：PubMed
-- 期刊/平台：Molecular neurobiology
-- 影响因子：4.3
-- 分区：JCR Q1 / CAS 2区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-09-17
-- 分数：85
-- PMID：42753025
-- DOI：10.1007/s12035-026-06191-2
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42753025/
-
-中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、细胞外囊泡、外泌体、干细胞、间充质干细胞、炎症。原文：Exosomes are small extracellular vesicles that mediate communication between cells by carrying proteins, lipids, nucleic acids, and other biologically active molecules. In Alzheimer's disease (AD), their role appears to be complex and context-dependent. Evidence suggests that exosomes may contribute to disease progression by supporting the intercellular spread of amyloid-β and tau pathology. At the same time, they are increasingly being investigated as blood-based biomarkers and as potential therapeutic delivery systems. This review summarizes current evidence on the involvement of exosomes in AD biology. Particular attention is given to their role in amyloid-β and tau propagation, microglia-driven neuroinflammation, and the Pellino-1 (Peli1)-related communication between microglia and astrocytes. The review also discusses the diagnostic value of neuron- and astrocyte-derived exosomes as minimally invasive biomarkers. In addition, the therapeutic potential of mesenchymal stem cell-derived exosomes is evaluated, especially in relation to amyloid clearance, neuroinflammation, synaptic repair, and blood-brain barrier crossing. Although preclinical and early clinical findings are encouraging, several barriers still limit clinical translation. These include the lack of standardized isolation methods, cargo heterogeneity, large-scale production difficulties, and insufficient long-term safety and efficacy data. Overall, exosome-based strategies represent a promising but still developing field in AD research, with potential relevance for early diagnosis, disease monitoring, and future therapeutic applications.
-
-英文摘要：Exosomes are small extracellular vesicles that mediate communication between cells by carrying proteins, lipids, nucleic acids, and other biologically active molecules. In Alzheimer's disease (AD), their role appears to be complex and context-dependent. Evidence suggests that exosomes may contribute to disease progression by supporting the intercellular spread of amyloid-β and tau pathology. At the same time, they are increasingly being investigated as blood-based biomarkers and as potential therapeutic delivery systems. This review summarizes current evidence on the involvement of exosomes in AD biology. Particular attention is given to their role in amyloid-β and tau propagation, microglia-driven neuroinflammation, and the Pellino-1 (Peli1)-related communication between microglia and astrocytes. The review also discusses the diagnostic value of neuron- and astrocyte-derived exosomes as minimally invasive biomarkers. In addition, the therapeutic potential of mesenchymal stem cell-derived exosomes is evaluated, especially in relation to amyloid clearance, neuroinflammation, synaptic repair, and blood-brain barrier crossing. Although preclinical and early clinical findings are encouraging, several barriers still limit clinical translation. These include the lack of standardized isolation methods, cargo heterogeneity, large-scale production difficulties, and insufficient long-term safety and efficacy data. Overall, exosome-based strategies represent a promising but still developing field in AD research, with potential relevance for early diagnosis, disease monitoring, and future therapeutic applications.
-
-## 3. 论文标题：该内容涉及创伤性脑损伤、脑损伤。原文：Clinical effects of adjuvant basal cisternostomy in traumatic brain injury: a pragmatic single-centre randomised controlled trial.
-
-- 英文题目：Clinical effects of adjuvant basal cisternostomy in traumatic brain injury: a pragmatic single-centre randomised controlled trial.
-- 主题：脑积水与脑脊液循环
-- 来源：PubMed
-- 期刊/平台：Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia
-- 影响因子：1.8
+- 期刊/平台：Brain research
+- 影响因子：2.6
 - 分区：JCR Q3 / CAS 4区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-09-17
-- 分数：83
-- PMID：42753532
-- DOI：10.1016/j.jocn.2026.112296
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42753532/
+- 日期：2026-09-19
+- 分数：75
+- PMID：42762960
+- DOI：10.1016/j.brainres.2026.150559
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42762960/
 
-中文摘要：摘要要点：该内容涉及创伤性脑损伤、脑损伤、脑积水、随机。原文：OBJECTIVES: Basal cisternostomy has emerged as a promising adjunct to decompressive craniectomy (DC) for traumatic brain injury (TBI), with the potential to improve cerebrospinal fluid dynamics and intracranial pressure (ICP) control. However, prospective randomized evidence evaluating its effectiveness under routine clinical conditions remains limited. We compared the clinical and physiological effects of adjuvant basal cisternostomy (ABC) with standard DC in patients undergoing surgery for TBI, with follow-up until 6 months. METHODS: This pragmatic, single-centre, parallel-group randomised controlled trial enrolled 50 patients undergoing emergency surgery for TBI between September 2023 and July 2026 (25 ABC, 25 DC). Neurosurgical residents in training performed the surgeries under consultant supervision. The primary outcome was Glasgow Outcome Scale-Extended (GOS-E) at discharge; GOS-E at three and six months, serial intracranial pressure (ICP), complications and mortality were secondary outcomes. RESULTS: Baseline characteristics were comparable. Cisternal opening lowered ICP by a further 4.1 ± 2.8 mmHg beyond bony and dural decompression (p < 0.001), but ICP at the end of the operation was identical between arms (10.24 ± 2.93 (ABC) vs 9.35 ± 2.94 (DC) mmHg; p = 0.387). Mean GOS-E at discharge was 3.40 ± 2.16 after ABC and 2.84 ± 1.70 after DC (p = 0.31); by six months the arms had converged (4.08 ± 2.95 (ABC) vs 4.20 ± 2.65 (DC); p = 0.774), with favourable outcomes in 50.0% (ABC) and 52.0% (DC). ABC required 78 min more operating time (p < 0.001) and 276 mL more blood loss (p = 0.029). Hydrocephalus requiring diversion occurred in 8% versus 24% and CSF leak in 0% versus 12%, both favouring ABC; unplanned reoperation was more frequent after ABC (24% vs 12%). CONCLUSIONS: ABC is feasible and safe when performed by supervised trainees in a controlled neurosurgical training environment and reproducibly lowers ICP at the moment of cisternal opening. However, this physiological advantage conferred no significant functional benefit up to six months and came at a cost of increased operative duration and blood loss. Future multicentre trials are warranted to establi
+中文摘要：摘要要点：该内容涉及脑损伤、小胶质细胞、神经炎症、炎症。原文：Early brain injury (EBI) critically determines post-subarachnoid hemorrhage (SAH) outcome, with worse prognosis in older patients. Aging confers exaggerated inflammation, possibly via gut microbiome (GM) alterations. We investigated whether GM alterations contribute to aging-related worsening of post-SAH EBI and whether GM modulation can reduce this inflammatory vulnerability. Young (8-12 weeks) and aged (17-20 months) male C57BL/6 mice underwent experimental SAH. Neurological scores, brain water content, neuronal degeneration, blood-brain barrier permeability, and inflammation were assessed. A combined GM modulation protocol consisting of antibiotic pretreatment, fecal microbiota gavage from young donors, and subsequent co-housing with young mice was performed in aged recipient mice. Compared to young mice, aged mice exhibited higher mortality, worse neurological scores, increased neuronal degeneration, and enhanced neutrophil infiltration, neutrophil extracellular trap (NET) formation, and microglial TNF-α expression. Absolute brain water content was lower in aged mice than in young mice, with a similar age-related difference also observed in sham animals. GM analysis revealed reduced diversity, decreasedFirmicutes, and increasedProteobacteriain aged mice. The GM modulation intervention shifted the GM composition toward that of young mice and was associated with reduced neuronal injury, neutrophil infiltration, NET formation, and microglial inflammation; however, neurological scores and brain water content did not improve at 24 h. These findings indicate that aging is associated with greater post-SAH vulnerability and enhanced neuroinflammation, while GM modulation reduces specific neuroinflammatory and neurodegenerative components of EBI without demonstrating improvement in overall functional outcome at 24 h. The gut-brain axis constitutes a potential therapeutic target for improved SAH outcomes in older adults.
 
-英文摘要：OBJECTIVES: Basal cisternostomy has emerged as a promising adjunct to decompressive craniectomy (DC) for traumatic brain injury (TBI), with the potential to improve cerebrospinal fluid dynamics and intracranial pressure (ICP) control. However, prospective randomized evidence evaluating its effectiveness under routine clinical conditions remains limited. We compared the clinical and physiological effects of adjuvant basal cisternostomy (ABC) with standard DC in patients undergoing surgery for TBI, with follow-up until 6 months. METHODS: This pragmatic, single-centre, parallel-group randomised controlled trial enrolled 50 patients undergoing emergency surgery for TBI between September 2023 and July 2026 (25 ABC, 25 DC). Neurosurgical residents in training performed the surgeries under consultant supervision. The primary outcome was Glasgow Outcome Scale-Extended (GOS-E) at discharge; GOS-E at three and six months, serial intracranial pressure (ICP), complications and mortality were secondary outcomes. RESULTS: Baseline characteristics were comparable. Cisternal opening lowered ICP by a further 4.1 ± 2.8 mmHg beyond bony and dural decompression (p < 0.001), but ICP at the end of the operation was identical between arms (10.24 ± 2.93 (ABC) vs 9.35 ± 2.94 (DC) mmHg; p = 0.387). Mean GOS-E at discharge was 3.40 ± 2.16 after ABC and 2.84 ± 1.70 after DC (p = 0.31); by six months the arms had converged (4.08 ± 2.95 (ABC) vs 4.20 ± 2.65 (DC); p = 0.774), with favourable outcomes in 50.0% (ABC) and 52.0% (DC). ABC required 78 min more operating time (p < 0.001) and 276 mL more blood loss (p = 0.029). Hydrocephalus requiring diversion occurred in 8% versus 24% and CSF leak in 0% versus 12%, both favouring ABC; unplanned reoperation was more frequent after ABC (24% vs 12%). CONCLUSIONS: ABC is feasible and safe when performed by supervised trainees in a controlled neurosurgical training environment and reproducibly lowers ICP at the moment of cisternal opening. However, this physiological advantage conferred no significant functional benefit up to six months and came at a cost of increased operative duration and blood loss. Future multicentre trials are warranted to establish ABC's definitive role in the TBI management algorithm, if any.
+英文摘要：Early brain injury (EBI) critically determines post-subarachnoid hemorrhage (SAH) outcome, with worse prognosis in older patients. Aging confers exaggerated inflammation, possibly via gut microbiome (GM) alterations. We investigated whether GM alterations contribute to aging-related worsening of post-SAH EBI and whether GM modulation can reduce this inflammatory vulnerability. Young (8-12 weeks) and aged (17-20 months) male C57BL/6 mice underwent experimental SAH. Neurological scores, brain water content, neuronal degeneration, blood-brain barrier permeability, and inflammation were assessed. A combined GM modulation protocol consisting of antibiotic pretreatment, fecal microbiota gavage from young donors, and subsequent co-housing with young mice was performed in aged recipient mice. Compared to young mice, aged mice exhibited higher mortality, worse neurological scores, increased neuronal degeneration, and enhanced neutrophil infiltration, neutrophil extracellular trap (NET) formation, and microglial TNF-α expression. Absolute brain water content was lower in aged mice than in young mice, with a similar age-related difference also observed in sham animals. GM analysis revealed reduced diversity, decreasedFirmicutes, and increasedProteobacteriain aged mice. The GM modulation intervention shifted the GM composition toward that of young mice and was associated with reduced neuronal injury, neutrophil infiltration, NET formation, and microglial inflammation; however, neurological scores and brain water content did not improve at 24 h. These findings indicate that aging is associated with greater post-SAH vulnerability and enhanced neuroinflammation, while GM modulation reduces specific neuroinflammatory and neurodegenerative components of EBI without demonstrating improvement in overall functional outcome at 24 h. The gut-brain axis constitutes a potential therapeutic target for improved SAH outcomes in older adults.
 
-## 4. 论文标题：该内容涉及小胶质细胞。原文：Single-nucleus transcriptomics reveals cell type-specific remodeling and epilepsy-associated microglia.
+## 3. 论文标题：该内容涉及小胶质细胞。原文：Single-nucleus transcriptomics reveals cell type-specific remodeling and epilepsy-associated microglia.
 
 - 英文题目：Single-nucleus transcriptomics reveals cell type-specific remodeling and epilepsy-associated microglia.
-- 主题：创伤性脑损伤
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
 - 期刊/平台：iScience
 - 影响因子：4.1
@@ -82,24 +63,43 @@
 
 英文摘要：Temporal lobe epilepsy (TLE) is the most common acquired epilepsy, causing refractory seizures and cognitive deficits. We performed single-nucleus RNA sequencing on hippocampal tissue from mice 3 and 6 weeks following pilocarpine-induced status epilepticus, a robust model of TLE. Epilepsy samples showed reductions in Cck and Lamp5-Lhx6 interneuron subclusters, alongside increases in Cajal-Retzius cells, dentate granule (DG) cell precursors, and a mature DG cell subcluster. Among glia, an astrocyte subcluster and a markedly expanded microglia sublcuster were increased. We term this microglia population epilepsy-associated microglia (EAM). The transcriptomic profile of EAM overlaps with microglia described in models of Alzheimer's disease and traumatic brain injury, including enrichment of Myo1e and Igf1. EAM display amoeboid morphology, can be found in clumps around pyramidal and granule cell body layers, and exhibit enlarged vesicles and mitochondria. Cell-cell interaction analysis predicts DG cells as their primary interaction partners. This dataset defines transcriptomic programs underlying key cellular alterations in TLE, enabling mechanistic dissection of epileptogenesis.
 
-## 5. 论文标题：该内容涉及神经炎症、炎症。原文：Cell-surface glycoRNAs put the brakes on neuroinflammation.
+## 4. 论文标题：该内容涉及外泌体、干细胞。原文：Adipose-Derived Stem Cell Exosomes in Diabetic Wound Repair: Molecular Crosstalk, Bioengineering Strategies, and Translational Challenges.
 
-- 英文题目：Cell-surface glycoRNAs put the brakes on neuroinflammation.
-- 主题：小胶质细胞与 TREM2
+- 英文题目：Adipose-Derived Stem Cell Exosomes in Diabetic Wound Repair: Molecular Crosstalk, Bioengineering Strategies, and Translational Challenges.
+- 主题：干细胞与外泌体
 - 来源：PubMed
-- 期刊/平台：Cell chemical biology
-- 影响因子：7.2
-- 分区：JCR Q1 / CAS 1区
+- 期刊/平台：Stem cells international
+- 影响因子：3.3
+- 分区：JCR Q3 / CAS 4区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-09-17
+- 日期：2026-01-01
 - 分数：75
-- PMID：42753699
-- DOI：10.1016/j.chembiol.2026.07.014
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42753699/
+- PMID：42761902
+- DOI：10.1155/sci/4151678
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42761902/
 
-中文摘要：摘要要点：该内容涉及小胶质细胞。原文：Cell-surface glycoRNAs are emerging as neuroimmune signals. In this issue of Cell Chemical Biology, Wang et al. showed in co-culture that neuronal glycoRNAs engaged microglial Siglec-11, increased SHP1 phosphorylation, suppressed NF-κB-dependent cytokine production, and improved neuronal-cell survival, establishing signaling direction, downstream mechanism, and protective function for a glycoRNA-Siglec pathway.1.
+中文摘要：摘要要点：该内容涉及外泌体、干细胞、炎症。原文：Diabetic wounds are sustained by persistent inflammation, impaired angiogenesis, abnormal extracellular matrix (ECM) remodeling, and delayed re-epithelialization. Adipose-derived stem cell exosomes (ADSC-Exos) offer a cell-free strategy because their multicomponent cargo can modulate immune responses, vascular regeneration, fibroblast activity, and epidermal repair. Mechanistic studies suggest that ADSC-Exos promote macrophage immunometabolic reprogramming, restore pro-angiogenic signaling, improve matrix homeostasis, and protect keratinocytes from oxidative injury. Engineering approaches and biomaterial-based delivery systems may further improve local retention, controlled release, and therapeutic activity. Distinct from existing ADSC-Exos reviews, this review adopts a pathology-to-translation framework that connects the major pathological features of diabetic wounds with ADSC-Exos mechanisms, engineering strategies, delivery optimization, and clinical translation. Particular emphasis is placed on donor- and process-dependent heterogeneity, potency assessment, GMP-compatible manufacturing, biodistribution, long-term safety, and regulation. Overall, ADSC-Exos represent a mechanistically compelling preclinical platform, but clinical translation will require reproducible product quality, standardized potency criteria, scalable manufacturing, and rigorous clinical validation.
 
-英文摘要：Cell-surface glycoRNAs are emerging as neuroimmune signals. In this issue of Cell Chemical Biology, Wang et al. showed in co-culture that neuronal glycoRNAs engaged microglial Siglec-11, increased SHP1 phosphorylation, suppressed NF-κB-dependent cytokine production, and improved neuronal-cell survival, establishing signaling direction, downstream mechanism, and protective function for a glycoRNA-Siglec pathway.1.
+英文摘要：Diabetic wounds are sustained by persistent inflammation, impaired angiogenesis, abnormal extracellular matrix (ECM) remodeling, and delayed re-epithelialization. Adipose-derived stem cell exosomes (ADSC-Exos) offer a cell-free strategy because their multicomponent cargo can modulate immune responses, vascular regeneration, fibroblast activity, and epidermal repair. Mechanistic studies suggest that ADSC-Exos promote macrophage immunometabolic reprogramming, restore pro-angiogenic signaling, improve matrix homeostasis, and protect keratinocytes from oxidative injury. Engineering approaches and biomaterial-based delivery systems may further improve local retention, controlled release, and therapeutic activity. Distinct from existing ADSC-Exos reviews, this review adopts a pathology-to-translation framework that connects the major pathological features of diabetic wounds with ADSC-Exos mechanisms, engineering strategies, delivery optimization, and clinical translation. Particular emphasis is placed on donor- and process-dependent heterogeneity, potency assessment, GMP-compatible manufacturing, biodistribution, long-term safety, and regulation. Overall, ADSC-Exos represent a mechanistically compelling preclinical platform, but clinical translation will require reproducible product quality, standardized potency criteria, scalable manufacturing, and rigorous clinical validation.
+
+## 5. 论文标题：Prognostic Associations of Molecular MRD and Genomic Features in ZNF384-Rearranged B-ALL Undergoing Allo-HSCT.
+
+- 英文题目：Prognostic Associations of Molecular MRD and Genomic Features in ZNF384-Rearranged B-ALL Undergoing Allo-HSCT.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Transplantation and cellular therapy
+- 影响因子：4.4
+- 分区：JCR Q1 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-09-19
+- 分数：73
+- PMID：42763069
+- DOI：10.1016/j.jtct.2026.09.008
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42763069/
+
+中文摘要：摘要要点：该内容涉及干细胞。原文：ZNF384-rearranged (ZNF384-r) B-cell acute lymphoblastic leukemia (B-ALL) is a rare subtype in which the prognostic significance of persistent molecular measurable residual disease (MRD), particularly isolated ZNF384 transcript positivity with negative multiparameter flow cytometric (MFC) MRD, before allogeneic hematopoietic stem cell transplantation (allo-HSCT) remains unclear. We retrospectively analyzed 60 patients with ZNF384-r B-ALL who underwent allo-HSCT in complete remission (CR) between April 2020 and December 2024. Pre-transplant MRD was assessed by MFC and RT-qPCR targeting ZNF384 fusion transcripts. The most common fusion partners were EP300::ZNF384 (43.3%) and TCF3::ZNF384 (31.7%); 58.3% of patients harbored kinase/RAS pathway mutations. Diagnostic immunophenotyping confirmed the characteristic ZNF384-r phenotype, with more frequent uniform CD33 expression in EP300::ZNF384 and other fusion subgroups than in TCF3::ZNF384 (P<0.05). After a median follow-up of 28.2 months, the 3-year overall survival (OS), leukemia-free survival (LFS), cumulative incidence of relapse (CIR), and non-relapse mortality (NRM) were 81.9%, 78.7%, 10.0%, and 11.3%, respectively. Molecular MRD remained detectable in 12 patients (20.0%), including 9 (15.0%) with discordant MFC-negative/molecular-positive (MFC-/Mol+) MRD. All nine discordant cases were alive at last follow-up, with 3-year OS and LFS of 100% and 80.0%, respectively. Molecular MRD positivity was not associated with inferior OS (83.3% vs 81.8%; P = 0.806), LFS (66.7% vs 80.5%; P = 0.516), or CIR (25.0% vs 7.3%; P = 0.255). Similarly, recurrent genomic alterations, including kinase/RAS pathway, IKZF1, ETV6, and KMT2A/D abnormalities, were not significantly associated with post-transplant survival (all P>0.05). Among patients who achieved CR and proceeded to allo-HSCT, favorable outcomes were observed across molecular MRD and genomic subgroups. In particular, isolated pre-transplant ZNF384 transcript positivity with MFC-MRD negativity was not significantly associated with inferior post-transplant outcomes, although these findings are exploratory and require validation in larger, preferably multicenter cohorts.
+
+英文摘要：ZNF384-rearranged (ZNF384-r) B-cell acute lymphoblastic leukemia (B-ALL) is a rare subtype in which the prognostic significance of persistent molecular measurable residual disease (MRD), particularly isolated ZNF384 transcript positivity with negative multiparameter flow cytometric (MFC) MRD, before allogeneic hematopoietic stem cell transplantation (allo-HSCT) remains unclear. We retrospectively analyzed 60 patients with ZNF384-r B-ALL who underwent allo-HSCT in complete remission (CR) between April 2020 and December 2024. Pre-transplant MRD was assessed by MFC and RT-qPCR targeting ZNF384 fusion transcripts. The most common fusion partners were EP300::ZNF384 (43.3%) and TCF3::ZNF384 (31.7%); 58.3% of patients harbored kinase/RAS pathway mutations. Diagnostic immunophenotyping confirmed the characteristic ZNF384-r phenotype, with more frequent uniform CD33 expression in EP300::ZNF384 and other fusion subgroups than in TCF3::ZNF384 (P<0.05). After a median follow-up of 28.2 months, the 3-year overall survival (OS), leukemia-free survival (LFS), cumulative incidence of relapse (CIR), and non-relapse mortality (NRM) were 81.9%, 78.7%, 10.0%, and 11.3%, respectively. Molecular MRD remained detectable in 12 patients (20.0%), including 9 (15.0%) with discordant MFC-negative/molecular-positive (MFC-/Mol+) MRD. All nine discordant cases were alive at last follow-up, with 3-year OS and LFS of 100% and 80.0%, respectively. Molecular MRD positivity was not associated with inferior OS (83.3% vs 81.8%; P = 0.806), LFS (66.7% vs 80.5%; P = 0.516), or CIR (25.0% vs 7.3%; P = 0.255). Similarly, recurrent genomic alterations, including kinase/RAS pathway, IKZF1, ETV6, and KMT2A/D abnormalities, were not significantly associated with post-transplant survival (all P>0.05). Among patients who achieved CR and proceeded to allo-HSCT, favorable outcomes were observed across molecular MRD and genomic subgroups. In particular, isolated pre-transplant ZNF384 transcript positivity with MFC-MRD negativity was not significantly associated with inferior post-transplant outcomes, although these findings are exploratory and require validation in larger, preferably multicenter cohorts.
 
 ## 6. 论文标题：该内容涉及干细胞、间充质干细胞。原文：Effect of intrathecal injection of mesenchymal stem cell-neural progenitors on cerebrospinal fluid biomarkers in progressive multiple sclerosis.
 
@@ -139,62 +139,62 @@
 
 英文摘要：Histone modifications and cotranscriptional processing play fundamental roles in regulating eukaryotic gene transcription. Active histone modifications and efficient cotranscriptional mRNA processing act in concert to promote transcription, whereas repressive histone marks are normally depleted from active genes. However, the localization of repressive histone marks at transcribing genes and the regulatory mechanism in mRNA transcription are largely unclear. Here, we show that in Arabidopsis thaliana, the chromodomain H3K27me3 reader LIKE HETEROCHROMATIN PROTEIN1 binds nascent precursor mRNA through its middle intrinsically disordered region at H3K27me3-coated chromatin loci, thereby attenuating transcription efficiency. This interaction is subsequently disrupted by mRNA cap-binding complex to complete transcription. We illustrate how this interplay fine-tunes WUSCHEL transcription in the shoot apical meristem region to maintain stem cell homeostasis. Our findings uncover a distinct mechanism implemented by Polycomb repression and elucidates an interdependent crosstalk linking repressive histone modification and cotranscriptional mRNA processing to transcription regulation.
 
-## 8. 论文标题：该内容涉及干细胞、炎症。原文：Olfactory Tuft Cells Are Critical to Basal Inflammation, Innate Immune Response to Viral Infection, and Modulation of Quiescent Stem Cell Activation, Proliferation and Differentiation.
+## 8. 论文标题：The gut-liver-brain axis in alcohol use disorder: The emerging role of bile acid dysregulation.
 
-- 英文题目：Olfactory Tuft Cells Are Critical to Basal Inflammation, Innate Immune Response to Viral Infection, and Modulation of Quiescent Stem Cell Activation, Proliferation and Differentiation.
-- 主题：干细胞与外泌体
+- 英文题目：The gut-liver-brain axis in alcohol use disorder: The emerging role of bile acid dysregulation.
+- 主题：创伤性脑损伤
 - 来源：PubMed
-- 期刊/平台：Cell proliferation
-- 影响因子：5.6
-- 分区：JCR Q2 / CAS 1区
+- 期刊/平台：Behavioural brain research
+- 影响因子：2.3
+- 分区：JCR Q2 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-09-19
 - 分数：65
-- PMID：42760864
-- DOI：10.1111/cpr.70281
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42760864/
+- PMID：42763054
+- DOI：10.1016/j.bbr.2026.116487
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42763054/
 
-中文摘要：摘要要点：该内容涉及干细胞、炎症。原文：The olfactory mucosa serves as both a sensory organ and an immune barrier to protect against bacterial and viral invasion and other insults. It is unclear how different types of olfactory mucosal cells coordinate and contribute to these two functions. We set out to reveal the critical roles of a subset of microvillous cells of the mucosa, olfactory tuft cells, in protecting and reconstructing this vital olfactory sensory organ. We first validated the expression of canonical gustatory signalling proteins and other molecular markers in olfactory tuft cells. Genetic disruption of the Gng13 and Trpm5 genes that encode the two gustatory signalling proteins, G protein subunit Gγ13 and transient receptor potential ion channel Trpm5, respectively, resulted in elevated basal inflammation and enhanced activation of the quiescent stem cells-horizontal basal cells (HBCs) in the mucosa. Nasal infection of H1N1 influenza virus further exacerbated the inflammation and delayed the resolution of inflammation in the mutant mucosa, including more immune cell infiltration, augmented cytokine production and cell death, increased HBC proliferation and direct differentiation into tuft cells, and prolonged olfactory tuft cell hyperplasia. Cytokine treatment of the cultured olfactory epithelial organoids indicated that the cytokines that were found to be elevated in the mutant mucosa, including interleukin-4 (IL-4), IL-13 and interferon-γ (INF-γ), are able to stimulate HBC activation. Together, our results indicate that olfactory tuft cells play an important role in maintaining the baseline inflammation under the steady-state condition, and altering inflammatory magnitude and modulating HBC activation and differentiation in the olfactory mucosa following the viral infection. Our findings shed light on new roles of olfactory tuft cells in innate immune response, quiescent stem cell activation and neuroimmune interactions, and provide novel therapeutic targets for preventing and treating stem cell-related olfactory disorders such as chronic rhinosinusitis and long COVID.
+中文摘要：摘要要点：该内容涉及神经炎症、炎症。原文：Alcohol use disorder (AUD) is a chronic, relapsing neuropsychiatric disorder with limited treatment options. The gut-liver-brain axis has emerged as an important contributor to alcohol addiction. Within this axis, bile acids, important signaling molecules that connect the gut, liver, and central nervous system (CNS), have received increasing attention, as their metabolic dysregulation is closely associated with AUD. This review systematically elucidates the physiological metabolic processes of bile acids and the mechanisms by which chronic alcohol consumption disrupts their homeostasis. We propose a bidirectional pathological cycle model in which chronic alcohol consumption disrupts bile acid homeostasis via multiple pathways, resulting in a dysregulated bile acid profile characterized by an increase in total bile acids, a significant reduction in the proportion of secondary bile acids (SBAs), and an increased proportion of hydrophobic species. This disrupted profile impairs intestinal barrier integrity, triggering systemic inflammation and neuroinflammation via Toll-like receptor 4 (TLR4) signaling, and promotes blood-brain barrier (BBB) dysfunction. Critically, these brain dysfunctions drive compulsive alcohol-seeking behavior, thereby resulting in excessive alcohol consumption, which in turn exacerbates bile acid dysregulation, thus forming a self-reinforcing cycle that accelerates the progression of AUD. Furthermore, we evaluated the therapeutic potential of bile acid-related interventions, including farnesoid X receptor (FXR)/Takeda G protein-coupled receptor 5 (TGR5) agonists and gut microbiota modulation. This review provides an integrated framework for understanding AUD pathophysiology from a gut-liver-brain axis perspective.
 
-英文摘要：The olfactory mucosa serves as both a sensory organ and an immune barrier to protect against bacterial and viral invasion and other insults. It is unclear how different types of olfactory mucosal cells coordinate and contribute to these two functions. We set out to reveal the critical roles of a subset of microvillous cells of the mucosa, olfactory tuft cells, in protecting and reconstructing this vital olfactory sensory organ. We first validated the expression of canonical gustatory signalling proteins and other molecular markers in olfactory tuft cells. Genetic disruption of the Gng13 and Trpm5 genes that encode the two gustatory signalling proteins, G protein subunit Gγ13 and transient receptor potential ion channel Trpm5, respectively, resulted in elevated basal inflammation and enhanced activation of the quiescent stem cells-horizontal basal cells (HBCs) in the mucosa. Nasal infection of H1N1 influenza virus further exacerbated the inflammation and delayed the resolution of inflammation in the mutant mucosa, including more immune cell infiltration, augmented cytokine production and cell death, increased HBC proliferation and direct differentiation into tuft cells, and prolonged olfactory tuft cell hyperplasia. Cytokine treatment of the cultured olfactory epithelial organoids indicated that the cytokines that were found to be elevated in the mutant mucosa, including interleukin-4 (IL-4), IL-13 and interferon-γ (INF-γ), are able to stimulate HBC activation. Together, our results indicate that olfactory tuft cells play an important role in maintaining the baseline inflammation under the steady-state condition, and altering inflammatory magnitude and modulating HBC activation and differentiation in the olfactory mucosa following the viral infection. Our findings shed light on new roles of olfactory tuft cells in innate immune response, quiescent stem cell activation and neuroimmune interactions, and provide novel therapeutic targets for preventing and treating stem cell-related olfactory disorders such as chronic rhinosinusitis and long COVID.
+英文摘要：Alcohol use disorder (AUD) is a chronic, relapsing neuropsychiatric disorder with limited treatment options. The gut-liver-brain axis has emerged as an important contributor to alcohol addiction. Within this axis, bile acids, important signaling molecules that connect the gut, liver, and central nervous system (CNS), have received increasing attention, as their metabolic dysregulation is closely associated with AUD. This review systematically elucidates the physiological metabolic processes of bile acids and the mechanisms by which chronic alcohol consumption disrupts their homeostasis. We propose a bidirectional pathological cycle model in which chronic alcohol consumption disrupts bile acid homeostasis via multiple pathways, resulting in a dysregulated bile acid profile characterized by an increase in total bile acids, a significant reduction in the proportion of secondary bile acids (SBAs), and an increased proportion of hydrophobic species. This disrupted profile impairs intestinal barrier integrity, triggering systemic inflammation and neuroinflammation via Toll-like receptor 4 (TLR4) signaling, and promotes blood-brain barrier (BBB) dysfunction. Critically, these brain dysfunctions drive compulsive alcohol-seeking behavior, thereby resulting in excessive alcohol consumption, which in turn exacerbates bile acid dysregulation, thus forming a self-reinforcing cycle that accelerates the progression of AUD. Furthermore, we evaluated the therapeutic potential of bile acid-related interventions, including farnesoid X receptor (FXR)/Takeda G protein-coupled receptor 5 (TGR5) agonists and gut microbiota modulation. This review provides an integrated framework for understanding AUD pathophysiology from a gut-liver-brain axis perspective.
 
-## 9. 论文标题：Small-Conductance Ca
+## 9. 论文标题：该内容涉及创伤性脑损伤、脑损伤。原文：Repeated impacts induce acute neurobehavioral and molecular deficits in a mouse model of traumatic brain injury.
 
-- 英文题目：Small-Conductance Ca
+- 英文题目：Repeated impacts induce acute neurobehavioral and molecular deficits in a mouse model of traumatic brain injury.
 - 主题：创伤性脑损伤
 - 来源：PubMed
-- 期刊/平台：Neuroscience bulletin
-- 影响因子：5.8
-- 分区：JCR Q1 / CAS 2区
+- 期刊/平台：Experimental brain research
+- 影响因子：1.6
+- 分区：JCR Q4 / CAS 4区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-09-18
+- 日期：2026-09-19
 - 分数：65
-- PMID：42758261
-- DOI：10.1007/s12264-026-01715-1
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42758261/
+- PMID：42762327
+- DOI：10.1007/s00221-026-07399-3
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42762327/
 
-中文摘要：摘要要点：该内容涉及创伤性脑损伤、脑损伤。原文：Dyshomeostasis of the autonomic nervous system (ANS) drives chronic illnesses including hypertension, heart failure, diabetes mellitus, metabolic syndrome, Parkinson's disease, and traumatic brain injury. Abnormal neuronal excitability within central nervous system (CNS) nuclei is a major cause of ANS dysfunction. Small-conductance calcium-activated potassium (SK) channels govern excitability in central autonomic nuclei, sustaining neuronal excitation-inhibition balance via medium afterhyperpolarization potentials (mAHP)-mediated negative feedback. This review describes SK channels' molecular structure and electrophysiology, maps central sympathetic-parasympathetic neuroanatomical pathways, and highlights pathological impacts of the dysfunction of SK channels among the hypothalamic paraventricular nucleus (PVN) and nucleus ambiguus (NA). It also summarizes SK channels-centered regulatory approaches: epigenetics (DNA methylation, miRNA modulation), post-translational modification (phosphorylation, ubiquitination), protein interaction, metabolites, and synthetic exogenous agonists and antagonists. These results offer a theoretical basis and candidate targets to decode the neurogenic hypertension and diabetes mechanisms and facilitate bench-to-clinic translation.
+中文摘要：摘要要点：该内容涉及创伤性脑损伤、脑损伤。原文：Redox stress is a significant contributor to the molecular dysfunction associated with traumatic brain injury (TBI). Each of the canonical molecular biomarkers of TBI, including GFAP and UCHL1, demonstrate a clear relationship with redox stress via protein oxidation and enzymatic inhibition. Additionally, several markers of redox stress have demonstrated utility in assessing preclinical and clinical TBI, including F2-isoprostanes, generated from the oxidation of arachidonic acid. Thus, we investigated the role of urinary 8-isoprostane as a biomarker for delineating between sham and impacted mice. In this study, male and female mice (n = 19) subjected to five daily impacts using a repeated impact acceleration (rIA) model were evaluated against sham mice for neurological deficits. Impacted mice exhibited behavioral deficits, with increases in righting reflex (RR) times (p < 0.0001), and time-course increases in modified neurological severity scores (mNSS) (p < 0.01). Urine collected immediately following (day 5) and 72 h post-rIA (day 8) revealed time-course increases in 8-isoprostane levels (p < 0.05). Tissue-based protein expression for several markers of molecular dysfunction was assessed using immunoblotting in a two stage discovery based strategy, for which GFAP expression significantly differed with respect to treatment (p < 0.0001) and sex (p < 0.01). Pooled, unadjusted analysis identified a significant relationship between GFAP and urinary 8-isoprostane levels at day 8 (R2 = 0.75; p < 0.0001) with a non-significant, attenuated within-group relationship (R2 = 0.08; p > 0.05). Overall, these results suggest repeated impacts using a preclinical TBI mouse model induce acute neurobehavioral deficits, assessed via RR and mNSS, and molecular deficits, including increases in GFAP and urinary 8-isoprostane.
 
-英文摘要：Dyshomeostasis of the autonomic nervous system (ANS) drives chronic illnesses including hypertension, heart failure, diabetes mellitus, metabolic syndrome, Parkinson's disease, and traumatic brain injury. Abnormal neuronal excitability within central nervous system (CNS) nuclei is a major cause of ANS dysfunction. Small-conductance calcium-activated potassium (SK) channels govern excitability in central autonomic nuclei, sustaining neuronal excitation-inhibition balance via medium afterhyperpolarization potentials (mAHP)-mediated negative feedback. This review describes SK channels' molecular structure and electrophysiology, maps central sympathetic-parasympathetic neuroanatomical pathways, and highlights pathological impacts of the dysfunction of SK channels among the hypothalamic paraventricular nucleus (PVN) and nucleus ambiguus (NA). It also summarizes SK channels-centered regulatory approaches: epigenetics (DNA methylation, miRNA modulation), post-translational modification (phosphorylation, ubiquitination), protein interaction, metabolites, and synthetic exogenous agonists and antagonists. These results offer a theoretical basis and candidate targets to decode the neurogenic hypertension and diabetes mechanisms and facilitate bench-to-clinic translation.
+英文摘要：Redox stress is a significant contributor to the molecular dysfunction associated with traumatic brain injury (TBI). Each of the canonical molecular biomarkers of TBI, including GFAP and UCHL1, demonstrate a clear relationship with redox stress via protein oxidation and enzymatic inhibition. Additionally, several markers of redox stress have demonstrated utility in assessing preclinical and clinical TBI, including F2-isoprostanes, generated from the oxidation of arachidonic acid. Thus, we investigated the role of urinary 8-isoprostane as a biomarker for delineating between sham and impacted mice. In this study, male and female mice (n = 19) subjected to five daily impacts using a repeated impact acceleration (rIA) model were evaluated against sham mice for neurological deficits. Impacted mice exhibited behavioral deficits, with increases in righting reflex (RR) times (p < 0.0001), and time-course increases in modified neurological severity scores (mNSS) (p < 0.01). Urine collected immediately following (day 5) and 72 h post-rIA (day 8) revealed time-course increases in 8-isoprostane levels (p < 0.05). Tissue-based protein expression for several markers of molecular dysfunction was assessed using immunoblotting in a two stage discovery based strategy, for which GFAP expression significantly differed with respect to treatment (p < 0.0001) and sex (p < 0.01). Pooled, unadjusted analysis identified a significant relationship between GFAP and urinary 8-isoprostane levels at day 8 (R2 = 0.75; p < 0.0001) with a non-significant, attenuated within-group relationship (R2 = 0.08; p > 0.05). Overall, these results suggest repeated impacts using a preclinical TBI mouse model induce acute neurobehavioral deficits, assessed via RR and mNSS, and molecular deficits, including increases in GFAP and urinary 8-isoprostane.
 
-## 10. 论文标题：该内容涉及干细胞。原文：Zfp462 Regulates the Pluripotency of Embryonic Stem Cells by Cooperating with the Core Transcriptional Network.
+## 10. 论文标题：该内容涉及干细胞。原文：Nitric Oxide and Redox Signaling Networks Governing Plant Stem Cell Homeostasis.
 
-- 英文题目：Zfp462 Regulates the Pluripotency of Embryonic Stem Cells by Cooperating with the Core Transcriptional Network.
+- 英文题目：Nitric Oxide and Redox Signaling Networks Governing Plant Stem Cell Homeostasis.
 - 主题：干细胞与外泌体
 - 来源：PubMed
-- 期刊/平台：Cellular reprogramming
-- 影响因子：1.7
-- 分区：JCR Q3 / CAS 4区
+- 期刊/平台：Plant science : an international journal of experimental plant biology
+- 影响因子：4.1
+- 分区：JCR Q1 / CAS 2区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-09-18
+- 日期：2026-09-19
 - 分数：65
-- PMID：42760772
-- DOI：10.1177/21524971261489113
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42760772/
+- PMID：42763003
+- DOI：10.1016/j.plantsci.2026.113464
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42763003/
 
-中文摘要：摘要要点：该内容涉及干细胞。原文：Zinc finger PBX1-interacting protein (Zfp462/Zfpip), a vertebrate-specific C2H2-type transcription factor, plays an essential role in early embryogenesis and the maintenance of embryonic stem cell (ESC) pluripotency. While previous studies have largely focused on its repressive functions, its potential role in transcriptional activation has remained unclear. In this study, we demonstrate that Zfp462 knockout (KO) impairs ESC self-renewal and disrupts the expression of pluripotency-associated and developmental genes. Luciferase reporter assays showed that Zfp462 overexpression increased Oct4 (also known as Pou5f1) promoter activity, whereas Zfp462 KO reduced its activity, supporting a role for Zfp462 in transcriptional activation. Integrative multiomics analyses reveal that Zfp462 is functionally integrated into the ESC core pluripotency module and cooperates with Oct4, Sox2, and Nanog to activate pluripotency-associated genes. Together, these findings reveal a critical role for Zfp462 in ESC pluripotency and establish it as a novel regulator within the pluripotency gene regulatory network.
+中文摘要：摘要要点：该内容涉及干细胞。原文：Sustained plant growth depends on stem cell populations in the shoot and root apical meristems (SAM and RAM), where coordinated regulation of self-renewal, proliferation, quiescence, and differentiation support continuous organ formation. Nitric oxide (NO) and reactive oxygen species (ROS) constitute an interconnected redox signaling system that links metabolism and environmental perception with stem cell regulation. Their spatial and temporal dynamics establish distinct redox environments within meristems, contributing to the organization of proliferative and differentiation domains. In RAM, superoxide and hydrogen peroxide show contrasting spatial patterns, whereas redox regulation in SAM is integrated with stem cell maintenance and developmental transitions. NO further influences stem cell behavior through transcriptional regulation, S-nitrosylation and other redox-dependent post-translational modifications, and interactions with antioxidant and redox-buffering systems. These mechanisms intersect with key regulators including PLT, WUS, UPB1, and transcriptional networks, linking redox status with cell-cycle progression and stem cell fate. Crosstalk with auxin, cytokinin, gibberellin, abscisic acid, and other hormonal pathways integrate NO-ROS signaling with developmental programs. Mitochondrial function, energy status, nutrient availability, and TOR-associated growth regulation further shape the redox environment of meristematic cells. Environmental conditions, including hypoxia, nutrient limitation, salinity, and heavy-metal stress, remodel NO-ROS dynamics and thereby influence meristem activity and stress adaptation. Redox regulation also intersects with epigenetic processes such as DNA methylation, connecting transient signals with longer-term developmental responses. These relationships reveal NO-ROS signaling as a central interface between redox homeostasis, developmental regulation, and environmental adaptation, with potential implications for maintaining meristem resilience, regenerative capacity, and crop performance.
 
-英文摘要：Zinc finger PBX1-interacting protein (Zfp462/Zfpip), a vertebrate-specific C2H2-type transcription factor, plays an essential role in early embryogenesis and the maintenance of embryonic stem cell (ESC) pluripotency. While previous studies have largely focused on its repressive functions, its potential role in transcriptional activation has remained unclear. In this study, we demonstrate that Zfp462 knockout (KO) impairs ESC self-renewal and disrupts the expression of pluripotency-associated and developmental genes. Luciferase reporter assays showed that Zfp462 overexpression increased Oct4 (also known as Pou5f1) promoter activity, whereas Zfp462 KO reduced its activity, supporting a role for Zfp462 in transcriptional activation. Integrative multiomics analyses reveal that Zfp462 is functionally integrated into the ESC core pluripotency module and cooperates with Oct4, Sox2, and Nanog to activate pluripotency-associated genes. Together, these findings reveal a critical role for Zfp462 in ESC pluripotency and establish it as a novel regulator within the pluripotency gene regulatory network.
+英文摘要：Sustained plant growth depends on stem cell populations in the shoot and root apical meristems (SAM and RAM), where coordinated regulation of self-renewal, proliferation, quiescence, and differentiation support continuous organ formation. Nitric oxide (NO) and reactive oxygen species (ROS) constitute an interconnected redox signaling system that links metabolism and environmental perception with stem cell regulation. Their spatial and temporal dynamics establish distinct redox environments within meristems, contributing to the organization of proliferative and differentiation domains. In RAM, superoxide and hydrogen peroxide show contrasting spatial patterns, whereas redox regulation in SAM is integrated with stem cell maintenance and developmental transitions. NO further influences stem cell behavior through transcriptional regulation, S-nitrosylation and other redox-dependent post-translational modifications, and interactions with antioxidant and redox-buffering systems. These mechanisms intersect with key regulators including PLT, WUS, UPB1, and transcriptional networks, linking redox status with cell-cycle progression and stem cell fate. Crosstalk with auxin, cytokinin, gibberellin, abscisic acid, and other hormonal pathways integrate NO-ROS signaling with developmental programs. Mitochondrial function, energy status, nutrient availability, and TOR-associated growth regulation further shape the redox environment of meristematic cells. Environmental conditions, including hypoxia, nutrient limitation, salinity, and heavy-metal stress, remodel NO-ROS dynamics and thereby influence meristem activity and stress adaptation. Redox regulation also intersects with epigenetic processes such as DNA methylation, connecting transient signals with longer-term developmental responses. These relationships reveal NO-ROS signaling as a central interface between redox homeostasis, developmental regulation, and environmental adaptation, with potential implications for maintaining meristem resilience, regenerative capacity, and crop performance.
 
 # 顶刊神经科学
 
@@ -371,26 +371,7 @@
 
 英文摘要：AIMS: Cryptorchidism is a common congenital male genitourinary anomaly with multifactorial etiology. Data on parental age, consanguinity, parity, and delivery mode among affected children in Middle Eastern populations remain limited. This study evaluated the distribution of these factors among children undergoing orchidopexy in Northern Jordan. PATIENTS AND METHODS: A retrospective study was conducted at Princess Rahma Teaching Hospital, Northern Jordan, including males aged 1-11 years who underwent orchidopexy for cryptorchidism between January 2016 and July 2024. Data were obtained from medical records and supplemented by structured telephone interviews. RESULTS: The study included 446 patients. Mean paternal and maternal ages were 34.5 ± 7 and 28.5 ± 6.6 years, respectively. Consanguinity was reported in 27.6% of families, 58.3% of births were vaginal deliveries, and 53.6% of families had ≥3 children. Fathers aged ≥40 years accounted for 24% of the cohort, whereas mothers aged ≥35 years represented 18.2%. Consanguineous families had lower paternal age (p = 0.044) and more frequently had parity >5 (11% vs. 3%, p = 0.013). CONCLUSIONS: Distinct demographic patterns involving consanguinity, paternal age, and parity were observed among children with cryptorchidism in Northern Jordan, supporting the need for further controlled regional studies. Undescended testis, also called cryptorchidism, is a condition in which one or both testicles do not move into the scrotum as expected during development. If the testicle remains undescended, treatment may be needed to reduce the risk of future health problems.We studied 446 boys aged 1–11 years who underwent surgery to treat an undescended testis at Princess Rahma Teaching Hospital in Northern Jordan between 2016 and 2024. We looked at the ages of their parents, whether their parents were related by blood, the number of children in their family, and whether they were born by vaginal delivery or cesarean section.We found that 27.6% of the boys had parents who were related by blood. The average age of the fathers was 34.5 years, while the average age of the mothers was 28.5 years. More than half of the families had three or more children, and 41.7% of the children were born by cesarean section.Among families in which the parents were related by blood, fathers were slightly younger on average, and families with more than five children were more common.Because this study did not include a comparison group, these findings cannot show that any of these factors cause undescended testis or increase its risk. The findings provide useful information about families of children undergoing treatment for this condition in Northern Jordan and may help guide future research.
 
-## 2. 论文标题：Modulation of spatial learning and memory by cannabinoid-estrogen interaction in an AD-like cognitive impairment: The role of cannabinoid receptors and BDNF protein.
-
-- 英文题目：Modulation of spatial learning and memory by cannabinoid-estrogen interaction in an AD-like cognitive impairment: The role of cannabinoid receptors and BDNF protein.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：IBRO neuroscience reports
-- 影响因子：2.9
-- 分区：JCR Q2 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-12-01
-- 分数：57
-- PMID：42756662
-- DOI：10.1016/j.ibneur.2026.09.002
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42756662/
-
-中文摘要：摘要要点：Alzheimer's disease (AD) is an increasingly prevalent neurodegenerative disorder worldwide, with women showing a higher risk of developing the disease. The decline in steroid hormones after menopause may contribute to the increased susceptibility of women to neurodegenerative conditions. In parallel, cannabis-derived compounds have been reported to alleviate certain symptoms associated with neurological disorders. The present study was designed to investigate the effects of marijuana extract on cognitive impairment and hippocampal molecular markers in an ovariectomized AD-like rat model, and to evaluate whether co-administration with estradiol modifies these effects. The marijuana extract used in this study was characterized by HPLC and was found to contain 8.5% Δ9-THC. AD-like cognitive impairment pathology was induced by intra-hippocampal administration of Aβ25-35 in OVX rats. Animals were treated with marijuana extract (60 mg/kg/day, corresponding to approximately 5.1 mg/kg/day Δ9-THC) either alone or in combination with 17β-estradiol (1 mg/kg every 4 days) for 28 days. Cognitive performance was evaluated using the Morris water maze (MWM). In addition, hippocampal CB1/CB2 receptor expression and BDNF protein levels were measured to examine potential molecular associations. Our findings showed that chronic administration of the marijuana extract improved Aβ25-35-induced deficits in spatial learning and memory. Alterations in CB1 receptor expression and BDNF levels accompanied these behavioral effects. Notably, co-treatment with estradiol did not produce a synergistic effect, suggesting a complex interaction between cannabinoid-related and estrogen-related signaling pathways. These preclinical findings suggest that a THC-standardized marijuana extract may exert neuroprotective-like effects in an AD-like cognitive impairment model. However, because the extract was not fully phytochemically characterized and the mechanistic analyses were correlational, the results should be interpreted cautiously. Further studies are needed to clarify the underlying mechanisms and translational relevance of these findings.
-
-英文摘要：Alzheimer's disease (AD) is an increasingly prevalent neurodegenerative disorder worldwide, with women showing a higher risk of developing the disease. The decline in steroid hormones after menopause may contribute to the increased susceptibility of women to neurodegenerative conditions. In parallel, cannabis-derived compounds have been reported to alleviate certain symptoms associated with neurological disorders. The present study was designed to investigate the effects of marijuana extract on cognitive impairment and hippocampal molecular markers in an ovariectomized AD-like rat model, and to evaluate whether co-administration with estradiol modifies these effects. The marijuana extract used in this study was characterized by HPLC and was found to contain 8.5% Δ9-THC. AD-like cognitive impairment pathology was induced by intra-hippocampal administration of Aβ25-35 in OVX rats. Animals were treated with marijuana extract (60 mg/kg/day, corresponding to approximately 5.1 mg/kg/day Δ9-THC) either alone or in combination with 17β-estradiol (1 mg/kg every 4 days) for 28 days. Cognitive performance was evaluated using the Morris water maze (MWM). In addition, hippocampal CB1/CB2 receptor expression and BDNF protein levels were measured to examine potential molecular associations. Our findings showed that chronic administration of the marijuana extract improved Aβ25-35-induced deficits in spatial learning and memory. Alterations in CB1 receptor expression and BDNF levels accompanied these behavioral effects. Notably, co-treatment with estradiol did not produce a synergistic effect, suggesting a complex interaction between cannabinoid-related and estrogen-related signaling pathways. These preclinical findings suggest that a THC-standardized marijuana extract may exert neuroprotective-like effects in an AD-like cognitive impairment model. However, because the extract was not fully phytochemically characterized and the mechanistic analyses were correlational, the results should be interpreted cautiously. Further studies are needed to clarify the underlying mechanisms and translational relevance of these findings.
-
-## 3. 论文标题：Hybrid quaternion-based denoising and deep feature fusion for early Alzheimer's prognosis.
+## 2. 论文标题：Hybrid quaternion-based denoising and deep feature fusion for early Alzheimer's prognosis.
 
 - 英文题目：Hybrid quaternion-based denoising and deep feature fusion for early Alzheimer's prognosis.
 - 主题：全球学术热点
@@ -409,7 +390,7 @@
 
 英文摘要：Alzheimer's Disease (AD) is one of the most common neurodegenerative diseases that causes irreversible cognitive impairment and agnosia. Early detection is extremely valuable in diagnostics, but diagnostic procedures continue to rely on subjective approaches as well as traditional neuroimaging biomarkers, which frequently exhibit low tolerance to noise interference and imprecise structure localization. Traditional approaches also have difficulty combining multi-modal scans (MRI and PET) and detecting early-stage Alzheimer's disease characteristics (e.g., hippocampal atrophy). Some critical limitations of the current state-of-the-art include: (1) extreme sensitivity to noise; (2) poor spatio-temporal feature fusion; and (3) a lack of biomarker prioritization during disease progression. This problem is difficult to solve because the stages of Alzheimer's disease (AD) are not well differentiated. To address the aforementioned challenges, we propose a new study using the Hybrid Quaternion-Based Denoising and Deep Feature Fusion (HQD-FF) framework. The architecture will include a Quaternion Non-Local Means (QNLM) denoising procedure to suppress Rician/Rayleigh noise while keeping the structure intact. Following that, a hybrid CNN-RNN architecture will be used to extract spatial and temporal features using an attention-based fusion technique, allowing the identification of important biomarkers such as cortical thinning. The evaluation was carried out using the public multi-modal neuroimaging ADNI and OASIS datasets, as well as a private set of MRI and PET images. The experimental results show that HQD-FF achieves a PSNR of 23.47 dB and SSIM of 0.745, which is 12-15% better than traditional denoising techniques. HQD-FF also achieves 93.4% classification accuracy, outperforming current baselines by 6.2% in terms of AD diagnosis and stage differentiation (EMCI, LMCI, and AD). The proposed framework was also tested for robustness and statistical significance using ROC analysis, Area Under the Curve analysis, Confusion matrix analysis, and the Wilcoxon signed-rank statistical test. HQD-FF provides a robust, interpretable, and scalable framework for Alzheimer's diagnosis, with the potential to support early intervention and personalized medicine. The generalizable framework may pave the way for multimodal disease classification in broader neurodegenerative research.
 
-## 4. 论文标题：Drug-induced metabolic remodeling promotes antimicrobial activity in macrophages and extends longevity in vivo.
+## 3. 论文标题：Drug-induced metabolic remodeling promotes antimicrobial activity in macrophages and extends longevity in vivo.
 
 - 英文题目：Drug-induced metabolic remodeling promotes antimicrobial activity in macrophages and extends longevity in vivo.
 - 主题：全球学术热点
@@ -428,7 +409,7 @@
 
 英文摘要：Multiple immune mechanisms must be coordinated to defend against a broad range of pathogens; however, the mechanisms by which broad-spectrum antipathogens act remain largely elusive. Here, we used systems biology approaches to understand the organization of human immune cells at the single-cell level and their reorganization in response to K21, a silane derivative effective against viral, bacterial, and fungal infections. K21 effectively reduced the infectivity of Enterococcus faecalis within macrophages while improving bacterial phagocytosis by human monocyte-derived macrophages, in a manner similar to that of known mitophagy inducers. K21 induced pro-inflammatory pathways in M1 and M2 macrophages without altering cytokine secretion, decreased a specific subtype of M1 macrophages and M2c macrophages, and improved mitochondrial health by enhancing mitochondrial recycling via mitophagy. Similar treatment of the model organism C. elegans induced mitophagy and extended lifespan, suggesting an evolutionarily conserved mechanism. Our work demonstrates that a drug that remodels mitochondrial metabolism can reshape the immune cell repertoire, potentially aiding the development of more effective antimicrobials and helping to prevent the emergence of drug-resistant pathogens.
 
-## 5. 论文标题：Visualizing the Golgi apparatus and Golgiphagy in vivo.
+## 4. 论文标题：Visualizing the Golgi apparatus and Golgiphagy in vivo.
 
 - 英文题目：Visualizing the Golgi apparatus and Golgiphagy in vivo.
 - 主题：全球学术热点
@@ -447,7 +428,7 @@
 
 英文摘要：The Golgi apparatus is essential for protein secretion and cellular homeostasis, yet its organization and turnover in living tissues remain poorly understood. Golgiphagy, the selective autophagic degradation of the Golgi, has emerged as a key quality control pathway, but its physiological regulation in vivo remains largely unknown. Here, we generated two reporter mouse lines for constitutive or Cre-dependent visualization of Golgi architecture and Golgiphagy, enabling quantitative single-cell analysis across tissues. These models revealed striking cell type- and tissue-specific heterogeneity in basal Golgiphagy, including higher activity in renal proximal than distal tubules and in cerebellar than cortical neurons. Starvation and lipopolysaccharide-induced inflammation also promoted Golgi remodeling and Golgiphagy in multiple organs, particularly the liver, spleen, and kidney. Together, these reporter mice provide a powerful genetic toolkit for studying Golgi dynamics in vivo and establish that Golgiphagy is a spatially heterogeneous and stress-responsive process under physiological conditions.
 
-## 6. 论文标题：Impact of defibrotide on survival in sinusoidal obstruction syndrome / veno-occlusive disease: a retrospective cohort study comparing two sequential treatment eras.
+## 5. 论文标题：Impact of defibrotide on survival in sinusoidal obstruction syndrome / veno-occlusive disease: a retrospective cohort study comparing two sequential treatment eras.
 
 - 英文题目：Impact of defibrotide on survival in sinusoidal obstruction syndrome / veno-occlusive disease: a retrospective cohort study comparing two sequential treatment eras.
 - 主题：全球学术热点
@@ -466,7 +447,7 @@
 
 英文摘要：BACKGROUND: Sinusoidal obstruction syndrome/veno-occlusive disease (SOS/VOD) is a serious endothelial injury syndrome following allogeneic hematopoietic stem cell transplantation (allo-HSCT) requiring early diagnosis and treatment. We retrospectively evaluated clinical characteristics, treatments, and outcomes of patients who developed SOS/VOD after allo-HSCT. METHODS: We included all consecutive patients who developed SOS/VOD after allo-HSCT between January 2010 and October 2023. SOS/VOD was diagnosed according to Seattle, Baltimore, or EBMT criteria, and severity was classified using the EBMT criteria. Patients treated with recombinant thrombomodulin (rTM) between January 2010 and August 2019 were compared with those treated with defibrotide between September 2019 and October 2023. RESULTS: Among 755 cases, 48 developed SOS/VOD: 15 treated with rTM and 33 with defibrotide. Median ages were 50 years in rTM group and 55 years in defibrotide group, and median days to onset were 13 and 17, respectively. There was no significant difference in disease stage at transplantation or SOS/VOD severity at diagnosis. At 100 days post-onset, overall survival (OS), non-relapse mortality, and SOS/VOD mortality were 20.0% vs 46.9% (p = 0.17), 66.7% vs 54.5% (p = 0.609), and 46.7% vs 31.2% (p = 0.364) in the rTM and defibrotide groups, respectively. In multivariate analysis adjusted for age and conditioning intensity, defibrotide treatment was associated with improved OS (hazard ratio, 0.41; 95% confidence interval, 0.18-0.92, p = 0.032). Review of most severe cases suggested an association between inflammatory status and the clinical course of SOS/VOD. CONCLUSION: Defibrotide treatment was associated with improved outcome in SOS/VOD. Inflammatory status appeared to be related to disease onset and resolution.
 
-## 7. 论文标题：该内容涉及脑损伤。原文：Youth Football and the Epidemic of Pediatric Brain Injury: Neurologic and Psychiatric Outcomes in a Cohort of 72,025 Concussions.
+## 6. 论文标题：该内容涉及脑损伤。原文：Youth Football and the Epidemic of Pediatric Brain Injury: Neurologic and Psychiatric Outcomes in a Cohort of 72,025 Concussions.
 
 - 英文题目：Youth Football and the Epidemic of Pediatric Brain Injury: Neurologic and Psychiatric Outcomes in a Cohort of 72,025 Concussions.
 - 主题：全球学术热点
@@ -485,7 +466,7 @@
 
 英文摘要：BACKGROUND AND OBJECTIVES: Sports-related traumatic brain injury (TBI) is among the most common causes of long-term neurologic and psychiatric morbidity in children and young adults. Football, in particular, has been implicated as a leading source of TBI, yet large-scale comparative studies across sports and developmental stages are limited. The objective of this study was to quantify the burden of football-related TBI in youth compared with other sports and recreational activities, and to evaluate long-term neurologic and psychiatric outcomes across developmental stages. METHODS: This retrospective cohort study used the TriNetX Research Network, encompassing >150 million patients. Children and young adults (≤25 years) with a first TBI and activity cause of morbidity recorded on the day of injury were identified based on ICD-10 codes. Patients with TBI were compared with patients with lower leg fractures in the same activity with no recorded TBI on neurologic, psychiatric, and developmental outcomes. Attributable risks were calculated between TBI and lower leg fracture patients matched 1:1 on age category and sex. Prevalent cases were excluded. Multivariate Cox proportional hazard models adjusted for age category, sex, and activity compared the risk of each outcome across activities. RESULTS: Compared with other sports, football had the greatest quantity and severity of TBIs. Football accounted for 19.4% of 72,025 identified activity-related TBIs (mean age, 13.9 years; 32% female). Repeat TBI occurred in 37% of football injuries (32% overall). Attributable risks of football TBIs included neurologic outcomes (chronic headache, 23%; visual impairment and blindness, 5%; and neurodevelopmental disorders, 0.5%) and psychiatric outcomes (anxiety disorders, 5%; depressive disorders, 3%; substance use disorders, 1%; and violence and suicidality, 0.5%). TBIs at early ages were associated with mood and developmental disorders, while TBIs at later ages were associated with substance use disorders. DISCUSSION: Football is the single leading source of pediatric sports-related TBI, associated with high recurrence rates, substantial neurologic and psychiatric sequelae, and altered developmental trajectories. These findings highlight football as a critical public health priority and support stronger preventive measures, including delaying tackle football participation and regulating institutional promotion of youth football.
 
-## 8. 论文标题：Platelet-rich plasma as an adjuvant therapy for intrauterine adhesions: a narrative review of mechanisms, clinical efficacy and combination strategies.
+## 7. 论文标题：Platelet-rich plasma as an adjuvant therapy for intrauterine adhesions: a narrative review of mechanisms, clinical efficacy and combination strategies.
 
 - 英文题目：Platelet-rich plasma as an adjuvant therapy for intrauterine adhesions: a narrative review of mechanisms, clinical efficacy and combination strategies.
 - 主题：全球学术热点
@@ -503,6 +484,25 @@
 中文摘要：摘要要点：该内容涉及干细胞、间充质干细胞。原文：BACKGROUND: Intrauterine adhesions (IUA), particularly moderate to severe cases, is a leading cause of decreased menstrual flow and secondary infertility in women, affecting an estimated 2.8%∼46% of infertile women. Hysteroscopy remains the gold standard for diagnosis, with high sensitivity and specificity (both exceeding 90%), while three-dimensional ultrasonography offers a non-invasive alternative with a reported sensitivity of 86% and specificity of 90% for detecting intrauterine abnormalities. The success of surgical management via transcervical resection of adhesions (TCRA) is primarily gauged by the resumption of normal menstrual flow and the absence of significant adhesions on second-look hysteroscopy or ultrasonography. However, the high recurrence rate postoperatively, especially in severe cases (up to 60%), and the persistently thin endometrium significantly impair patients' reproductive outcomes. Existing adjuvant treatments such as high-dose oestrogen, uterine stents and hydrogels have failed to substantially improve patients' fertility outcomes. Platelet-rich plasma (PRP), as an autologous biological preparation rich in various growth factors, has demonstrated remarkable application prospects in recent years for the adjuvant and combined treatment of IUA due to its potent pro-angiogenic, anti-inflammatory and tissue repair/regeneration-promoting properties. OBJECTIVE: This review aims to summarize the mechanisms and clinical efficacy of PRP as an adjuvant therapy for IUA, providing new perspectives for the comprehensive management of this condition. DISCUSSION: We explore the mechanisms of action and clinical outcomes of PRP monotherapy following IUA surgery and evaluate the safety and application advantages of PRP and autologous PRP. The mechanisms of the synergistic effects of PRP combined with mesenchymal stem cells(MSCs), uterine scaffolds and hydrogels, as well as the efficacy of these combination therapies, were discussed. In most studies, favourable feedback was obtained, while a few studies suggested that PRP alone or in combination failed to improve the reproductive outcomes of IUA patients. CONCLUSION: Current evidence suggests that PRP,
 
 英文摘要：BACKGROUND: Intrauterine adhesions (IUA), particularly moderate to severe cases, is a leading cause of decreased menstrual flow and secondary infertility in women, affecting an estimated 2.8%∼46% of infertile women. Hysteroscopy remains the gold standard for diagnosis, with high sensitivity and specificity (both exceeding 90%), while three-dimensional ultrasonography offers a non-invasive alternative with a reported sensitivity of 86% and specificity of 90% for detecting intrauterine abnormalities. The success of surgical management via transcervical resection of adhesions (TCRA) is primarily gauged by the resumption of normal menstrual flow and the absence of significant adhesions on second-look hysteroscopy or ultrasonography. However, the high recurrence rate postoperatively, especially in severe cases (up to 60%), and the persistently thin endometrium significantly impair patients' reproductive outcomes. Existing adjuvant treatments such as high-dose oestrogen, uterine stents and hydrogels have failed to substantially improve patients' fertility outcomes. Platelet-rich plasma (PRP), as an autologous biological preparation rich in various growth factors, has demonstrated remarkable application prospects in recent years for the adjuvant and combined treatment of IUA due to its potent pro-angiogenic, anti-inflammatory and tissue repair/regeneration-promoting properties. OBJECTIVE: This review aims to summarize the mechanisms and clinical efficacy of PRP as an adjuvant therapy for IUA, providing new perspectives for the comprehensive management of this condition. DISCUSSION: We explore the mechanisms of action and clinical outcomes of PRP monotherapy following IUA surgery and evaluate the safety and application advantages of PRP and autologous PRP. The mechanisms of the synergistic effects of PRP combined with mesenchymal stem cells(MSCs), uterine scaffolds and hydrogels, as well as the efficacy of these combination therapies, were discussed. In most studies, favourable feedback was obtained, while a few studies suggested that PRP alone or in combination failed to improve the reproductive outcomes of IUA patients. CONCLUSION: Current evidence suggests that PRP, both as a standalone and adjunctive therapy, shows promise in promoting endometrial regeneration and improving certain clinical outcomes, such as endometrial thickness and menstrual flow, in patients with IUA. However, the clinical efficacy remains inconclusive due to significant heterogeneity in study designs, patient populations and PRP preparation protocols. High-quality, large-scale randomized controlled trials with standardized methodologies and long-term follow-up are urgently needed to definitively establish its impact on critical reproductive outcomes, such as live birth rates, before its widespread clinical adoption can be recommended.
+
+## 8. 论文标题：Differential pathogenesis and antiviral treatment outcomes of MPXV clade Ib and clade IIb in a BALB/c mouse model.
+
+- 英文题目：Differential pathogenesis and antiviral treatment outcomes of MPXV clade Ib and clade IIb in a BALB/c mouse model.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Emerging microbes & infections
+- 影响因子：7.5
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-12-01
+- 分数：47
+- PMID：42748357
+- DOI：10.1080/22221751.2026.2724633
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42748357/
+
+中文摘要：摘要要点：The global emergence of monkeypox virus (MPXV) clade IIb since 2022, together with the recent spread of clade Ib, underscores the continuing public health threat posed by MPXV. Clinical and epidemiological observations suggest that clade Ib infection may differ from clade IIb infection, but the biological basis of these differences remains insufficiently defined. In this study, we established an intranasal BALB/c mouse model of MPXV clade Ib infection and compared its pathogenicity with that of clade IIb. Clade Ib caused lethal disease at an inoculation dose approximately ten-fold lower than that required for clade IIb. Compared with clade IIb, clade Ib infection showed faster disease progression, higher pulmonary viral burden at later stages of infection, and more severe lung pathology. Single-cell transcriptome and cytokine response analyses further uncovered clade-specific differences in pulmonary immune cell landscapes, the distribution of MPXV-positive cells, and the expression patterns of key inflammatory mediators at specific time points. Antiviral evaluation showed that tecovirimat and cidofovir were active against both clades, although a higher dose of cidofovir was required to achieve protection in the clade Ib infection model. Together, these findings establish a susceptible BALB/c mouse model for MPXV clade Ib and provide experimental evidence for clade-dependent differences in MPXV pathogenicity and antiviral treatment outcomes.
+
+英文摘要：The global emergence of monkeypox virus (MPXV) clade IIb since 2022, together with the recent spread of clade Ib, underscores the continuing public health threat posed by MPXV. Clinical and epidemiological observations suggest that clade Ib infection may differ from clade IIb infection, but the biological basis of these differences remains insufficiently defined. In this study, we established an intranasal BALB/c mouse model of MPXV clade Ib infection and compared its pathogenicity with that of clade IIb. Clade Ib caused lethal disease at an inoculation dose approximately ten-fold lower than that required for clade IIb. Compared with clade IIb, clade Ib infection showed faster disease progression, higher pulmonary viral burden at later stages of infection, and more severe lung pathology. Single-cell transcriptome and cytokine response analyses further uncovered clade-specific differences in pulmonary immune cell landscapes, the distribution of MPXV-positive cells, and the expression patterns of key inflammatory mediators at specific time points. Antiviral evaluation showed that tecovirimat and cidofovir were active against both clades, although a higher dose of cidofovir was required to achieve protection in the clade Ib infection model. Together, these findings establish a susceptible BALB/c mouse model for MPXV clade Ib and provide experimental evidence for clade-dependent differences in MPXV pathogenicity and antiviral treatment outcomes.
 
 # 国内外医学与医药新闻
 
@@ -563,26 +563,7 @@
 
 英文摘要：Scientists are testing a counterintuitive way to fight mesothelioma, an aggressive asbestos-linked cancer with few effective treatments. A new experimental mesothelioma drug kills cancer cells by disabling PRX3, an antioxidant defense that tumors use to survive intense oxidative stress. In an early clinical trial, it controlled disease progression in 67% of patients and produced encouraging survival results, raising hopes that the strategy could eventually be used against other cancers.
 
-## 4. 论文标题：Nearly 10,000 patients reveal what works best for knee arthritis pain relief
-
-- 英文题目：Nearly 10,000 patients reveal what works best for knee arthritis pain relief
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Mon, 14 Se
-- 分数：48
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/09/260913082208.htm
-
-中文摘要：摘要要点：该内容涉及临床试验。原文：A major analysis of 139 clinical trials involving nearly 10,000 people suggests that some of the simplest treatments may work best for knee osteoarthritis. Knee braces ranked highest overall for reducing pain, stiffness, and mobility problems, while water-based therapy was especially effective for pain and regular exercise consistently improved both pain and physical function. More high-tech approaches, including ultrasound, generally performed worse.
-
-英文摘要：A major analysis of 139 clinical trials involving nearly 10,000 people suggests that some of the simplest treatments may work best for knee osteoarthritis. Knee braces ranked highest overall for reducing pain, stiffness, and mobility problems, while water-based therapy was especially effective for pain and regular exercise consistently improved both pain and physical function. More high-tech approaches, including ultrasound, generally performed worse.
-
-## 5. 论文标题：Scientists reveal the hidden instructions that build the human brain
+## 4. 论文标题：Scientists reveal the hidden instructions that build the human brain
 
 - 英文题目：Scientists reveal the hidden instructions that build the human brain
 - 主题：国内外医学与医药新闻
@@ -601,7 +582,7 @@
 
 英文摘要：UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depending on how they process glucose and on physical contact with signals arriving from the thalamus. Those signals can alter which types of neurons are produced, including upper-layer neurons that are especially prominent in humans.
 
-## 6. 论文标题：Hidden “immune organ” in the skull may help fight brain cancer
+## 5. 论文标题：Hidden “immune organ” in the skull may help fight brain cancer
 
 - 英文题目：Hidden “immune organ” in the skull may help fight brain cancer
 - 主题：国内外医学与医药新闻
@@ -620,7 +601,7 @@
 
 英文摘要：Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directly.
 
-## 7. 论文标题：Scientists find a hidden retinal defense against vision loss
+## 6. 论文标题：Scientists find a hidden retinal defense against vision loss
 
 - 英文题目：Scientists find a hidden retinal defense against vision loss
 - 主题：国内外医学与医药新闻
@@ -639,26 +620,7 @@
 
 英文摘要：A naturally occurring molecule called erucamide may help the retina fight back against diseases that cause progressive vision loss. Restoring the molecule activated protective immune responses that helped stabilize retinal tissue and slow aspects of degeneration in preclinical models.
 
-## 8. 论文标题：Scientists discover strange link between low vitamin D and pain
-
-- 英文题目：Scientists discover strange link between low vitamin D and pain
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Mon, 14 Se
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/09/260914042053.htm
-
-中文摘要：摘要要点：Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy. Patients with vitamin D deficiency were three times more likely to experience moderate to severe pain during the first 24 hours after surgery and also used substantially more of the opioid painkiller tramadol. They received slightly more fentanyl during surgery and experienced more postoperative nausea as well.
-
-英文摘要：Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy. Patients with vitamin D deficiency were three times more likely to experience moderate to severe pain during the first 24 hours after surgery and also used substantially more of the opioid painkiller tramadol. They received slightly more fentanyl during surgery and experienced more postoperative nausea as well.
-
-## 9. 论文标题：These blood thinners may have an unexpected benefit for Alzheimer’s patients
+## 7. 论文标题：These blood thinners may have an unexpected benefit for Alzheimer’s patients
 
 - 英文题目：These blood thinners may have an unexpected benefit for Alzheimer’s patients
 - 主题：国内外医学与医药新闻
@@ -677,7 +639,7 @@
 
 英文摘要：Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or no blood thinners. The effect was modest each year but could add up over time.
 
-## 10. 论文标题：Scientists discover cells that cheat death and rebuild damaged tissue
+## 8. 论文标题：Scientists discover cells that cheat death and rebuild damaged tissue
 
 - 英文题目：Scientists discover cells that cheat death and rebuild damaged tissue
 - 主题：国内外医学与医药新闻
@@ -696,6 +658,46 @@
 
 英文摘要：Scientists discovered a population of cells that can start the process of programmed cell death, survive it, and then help rapidly rebuild damaged tissue. Their descendants become far more resistant to future damage, revealing a mechanism that could improve healing but may also help cancers return after treatment.
 
+## 9. 论文标题：该内容涉及干细胞。原文：Activated donor immune cells may prevent severe complication after allogeneic stem cell transplantation
+
+- 英文题目：Activated donor immune cells may prevent severe complication after allogeneic stem cell transplantation
+- 主题：国内外医学与医药新闻
+- 来源：Medical Xpress
+- 期刊/平台：Medical Xpress
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Sun, 20 Se
+- 分数：38
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://medicalxpress.com/news/2026-09-donor-immune-cells-severe-complication.html
+
+中文摘要：摘要要点：该内容涉及干细胞、临床试验。原文：Researchers have successfully conducted the first clinical trial using activated regulatory T cells (ATregs, Actileucel)—derived from white blood cells of healthy blood donors. This novel cell therapy aims to prevent graft-versus-host disease (GvHD) following an allogeneic stem cell transplant. The Phase I/II study has yielded extremely encouraging results: ATregs can be produced within 24 hours and injected immediately afterward; administration is safe and well-tolerated by patients—a significant step toward a widely available cell therapy. The research is published in Transplantation and Cellular Therapy.
+
+英文摘要：Researchers have successfully conducted the first clinical trial using activated regulatory T cells (ATregs, Actileucel)—derived from white blood cells of healthy blood donors. This novel cell therapy aims to prevent graft-versus-host disease (GvHD) following an allogeneic stem cell transplant. The Phase I/II study has yielded extremely encouraging results: ATregs can be produced within 24 hours and injected immediately afterward; administration is safe and well-tolerated by patients—a significant step toward a widely available cell therapy. The research is published in Transplantation and Cellular Therapy.
+
+## 10. 论文标题：Scientists recreated what mice saw from brain activity alone
+
+- 英文题目：Scientists recreated what mice saw from brain activity alone
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Mind Brain
+- 期刊/平台：ScienceDaily Mind Brain
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
+- 日期：Wed, 16 Se
+- 分数：34
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/09/260914102449.htm
+
+中文摘要：摘要要点：Scientists reconstructed videos from the brain activity of mice, producing 10-second clips based only on signals from neurons in the visual cortex. The breakthrough could help reveal how the brain reshapes what we see before it becomes our perception of reality.
+
+英文摘要：Scientists reconstructed videos from the brain activity of mice, producing 10-second clips based only on signals from neurons in the visual cortex. The breakthrough could help reveal how the brain reshapes what we see before it becomes our perception of reality.
+
 ## 抓取提示
 
+- biorxiv: Expecting value: line 1 column 1 (char 0)
+- medrxiv: Expecting value: line 1 column 1 (char 0)
 - Medical news Neuroscience News: feed parse failed
