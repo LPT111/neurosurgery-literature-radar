@@ -1,6 +1,6 @@
 # 神外文献日报 V2
 
-生成时间：2026-09-24 09:40:05
+生成时间：2026-09-25 09:55:45
 核心神外文献数量：10
 全部条目数量：36
 
@@ -28,7 +28,7 @@
 ## 2. 论文标题：该内容涉及小胶质细胞。原文：Exploring the remodeling of the microglial communication network and the role of CADM1 in vascular dementia based on single-nucleus transcriptomics.
 
 - 英文题目：Exploring the remodeling of the microglial communication network and the role of CADM1 in vascular dementia based on single-nucleus transcriptomics.
-- 主题：创伤性脑损伤
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
 - 期刊/平台：The International journal of neuroscience
 - 影响因子：1.5
@@ -44,64 +44,45 @@
 
 英文摘要：INTRODUCTION: Vascular dementia (VaD) is characterized by neurovascular unit dysfunction and neuroinflammation. However, the molecular regulators linking microglial activation to remodeling of intercellular communication remain incompletely understood. METHODS: The human postmortem single-nucleus RNA-sequencing dataset GSE282111 was analyzed using Seurat-based dimensionality reduction and clustering, differential-expression analysis, CellChat, and functional enrichment. Candidate genes associated with microglial polarization were screened. An oxygen-glucose deprivation (OGD) model in murine BV2 microglial cells combined with CADM1 knockdown was used for in vitro validation of microglial marker expression and TNF-pathway components. RESULTS: Six major brain cell populations were identified, and cell-type proportions differed between control and VaD samples. CADM1, CYTIP, and MSR1 were identified as candidate genes associated with microglial polarization and were upregulated in VaD. CellChat analysis indicated remodeling of microglia-centered communication, including altered SPP1 and TGFβ signaling. In the OGD model, CADM1 silencing reduced CD16 expression and TNF-pathway components while increasing CD206 expression, indicating that CADM1 modulates microglial activation-related marker patterns and inflammatory signaling under ischemic stress. CONCLUSION: CADM1 emerges as a candidate regulator associated with microglial activation and TNF signaling in VaD. These exploratory findings support further investigation of the CADM1-TNF axis; however, independent clinical cohorts, chronic in vivo VaD models, and additional gain-of-function or rescue studies are required before diagnostic or therapeutic relevance can be established.
 
-## 3. 论文标题：该内容涉及外泌体。原文：Combined photobiomodulation and exosome therapy for muscle and tendon regeneration: an experimental rabbit study.
+## 3. 论文标题：该内容涉及炎症。原文：Dexmedetomidine Attenuates Sepsis-Associated Inflammation and Encephalopathy by Modulating the MeCP2/NLGN1 Pathway.
 
-- 英文题目：Combined photobiomodulation and exosome therapy for muscle and tendon regeneration: an experimental rabbit study.
-- 主题：干细胞与外泌体
+- 英文题目：Dexmedetomidine Attenuates Sepsis-Associated Inflammation and Encephalopathy by Modulating the MeCP2/NLGN1 Pathway.
+- 主题：创伤性脑损伤
 - 来源：PubMed
-- 期刊/平台：Lasers in medical science
-- 影响因子：2.4
-- 分区：JCR Q1 / CAS 4区
+- 期刊/平台：Brain research bulletin
+- 影响因子：3.7
+- 分区：JCR Q2 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-09-23
 - 分数：75
-- PMID：42776298
-- DOI：10.1007/s10103-026-05040-x
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42776298/
+- PMID：42778070
+- DOI：10.1016/j.brainresbull.2026.112135
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42778070/
 
-中文摘要：摘要要点：该内容涉及外泌体、干细胞、间充质干细胞、炎症。原文：Achilles tendon injuries are common, especially among athletes, and their treatment remains challenging. Reduced muscle strength and immobility can exacerbate tendon stiffness, leading to disability. This study investigated the effects of adipose tissue-derived mesenchymal stem cell exosomes and low-level laser therapy (LLLT) on muscle and Achilles tendon elasticity in a rabbit model. Twelve New Zealand white rabbits underwent ultrasound imaging of Achilles tendons and gastrocnemius muscles with a 40 MHz probe during flexion and dorsiflexion. Foot stress during movement was measured. To create a partial tendon injury, a 5 mm longitudinal incision, 3 mm deep, was made in the Achilles tendon. Male rabbits were randomly divided into four groups: control, LLLT (830 nm, 15 mW, 3 J/cm²), exosome injection (200 µg/mL), and combined LLLT with exosomes. Treatments were applied on days 1, 8, and 15. Ultrasound evaluations were performed before injury, immediately after, and on days 8 and 21. Tendon and muscle samples were analyzed histologically with hematoxylin-eosin staining. On day 21, the force applied to induce flexion and dorsiflexion of the Achilles tendon and gastrocnemius muscle significantly increased in the combined treatment group compared to the others (P < 0.05). The thickness strain of both muscle and tendon improved significantly with combination therapy (P < 0.05). Histology showed compact, parallel collagen fibers and a well-organized extracellular matrix in tendons treated with LLLT and exosomes. No inflammation was observed, and muscle atrophy was reduced. Combining low-level laser therapy with exosomes derived from ADSCs enhanced the histological, ultrasound-derived, and mechanical aspects related to Achilles tendon repair. This included improvements in tendon and gastrocnemius strain, as well as flexion and dorsiflexion force.
+中文摘要：摘要要点：该内容涉及小胶质细胞。原文：PURPOSE: Sepsis-associated encephalopathy (SAE) is a common and serious complication in septic patients that significantly reduces quality of life. Besides its sedative and analgesic effects, dexmedetomidine has been suggested to have potential neuroprotective benefits. This study aims to determine whether dexmedetomidine guards against cognitive dysfunction in a murine model of sepsis and to investigate the possible role of the MeCP2/NLGN1 signaling pathway in this neuroprotection. METHODS: An animal model of SAE was established by cecal ligation and puncture (CLP). Sham-operated mice underwent the same surgical procedure but without ligation or puncture. Mice in the Dex-treated group received intraperitoneal administration of Dex (25µg/kg) once daily for three consecutive days, starting immediately after CLP. Selective knockdown of MeCP2 in the hippocampal CA1 region was achieved via adeno‑associated virus (AAV)‑mediated RNA interference. Between postoperative days 14 and 17, a series of behavioral tests-including the open field, novel object recognition, and Y-maze tests-were conducted to evaluate locomotor activity and cognitive function. Hippocampal expression of MeCP2 and NLGN1 proteins was analyzed by Western blot. Immunofluorescence staining was used to assess microglia activation and neuronal activity. Levels of inflammatory cytokines in the serum and hippocampus were measured by enzyme-linked immunosorbent assay (ELISA). In addition, dendritic spine density and morphology were assessed using Golgi staining. RESULTS: In mice subjected to CLP, cognitive deficits were associated with increased levels of inflammatory factors in both the serum and hippocampus, aberrant microglial activation, upregulation of MeCP2 protein, and downregulation of NLGN1. These alterations contributed to reduced neuronal activity and a decrease in dendritic spine density. Selective knockdown of MeCP2 in the hippocampal CA1 region reversed NLGN1 downregulation and ameliorated cognitive dysfunction, confirming the pathogenic role of the MeCP2/NLGN1 pathway in SAE‑associated cognitive impairment. Treatment with Dex attenuated the inflammatory response, normalized MeCP2/NLGN1 expres
 
-英文摘要：Achilles tendon injuries are common, especially among athletes, and their treatment remains challenging. Reduced muscle strength and immobility can exacerbate tendon stiffness, leading to disability. This study investigated the effects of adipose tissue-derived mesenchymal stem cell exosomes and low-level laser therapy (LLLT) on muscle and Achilles tendon elasticity in a rabbit model. Twelve New Zealand white rabbits underwent ultrasound imaging of Achilles tendons and gastrocnemius muscles with a 40 MHz probe during flexion and dorsiflexion. Foot stress during movement was measured. To create a partial tendon injury, a 5 mm longitudinal incision, 3 mm deep, was made in the Achilles tendon. Male rabbits were randomly divided into four groups: control, LLLT (830 nm, 15 mW, 3 J/cm²), exosome injection (200 µg/mL), and combined LLLT with exosomes. Treatments were applied on days 1, 8, and 15. Ultrasound evaluations were performed before injury, immediately after, and on days 8 and 21. Tendon and muscle samples were analyzed histologically with hematoxylin-eosin staining. On day 21, the force applied to induce flexion and dorsiflexion of the Achilles tendon and gastrocnemius muscle significantly increased in the combined treatment group compared to the others (P < 0.05). The thickness strain of both muscle and tendon improved significantly with combination therapy (P < 0.05). Histology showed compact, parallel collagen fibers and a well-organized extracellular matrix in tendons treated with LLLT and exosomes. No inflammation was observed, and muscle atrophy was reduced. Combining low-level laser therapy with exosomes derived from ADSCs enhanced the histological, ultrasound-derived, and mechanical aspects related to Achilles tendon repair. This included improvements in tendon and gastrocnemius strain, as well as flexion and dorsiflexion force.
+英文摘要：PURPOSE: Sepsis-associated encephalopathy (SAE) is a common and serious complication in septic patients that significantly reduces quality of life. Besides its sedative and analgesic effects, dexmedetomidine has been suggested to have potential neuroprotective benefits. This study aims to determine whether dexmedetomidine guards against cognitive dysfunction in a murine model of sepsis and to investigate the possible role of the MeCP2/NLGN1 signaling pathway in this neuroprotection. METHODS: An animal model of SAE was established by cecal ligation and puncture (CLP). Sham-operated mice underwent the same surgical procedure but without ligation or puncture. Mice in the Dex-treated group received intraperitoneal administration of Dex (25µg/kg) once daily for three consecutive days, starting immediately after CLP. Selective knockdown of MeCP2 in the hippocampal CA1 region was achieved via adeno‑associated virus (AAV)‑mediated RNA interference. Between postoperative days 14 and 17, a series of behavioral tests-including the open field, novel object recognition, and Y-maze tests-were conducted to evaluate locomotor activity and cognitive function. Hippocampal expression of MeCP2 and NLGN1 proteins was analyzed by Western blot. Immunofluorescence staining was used to assess microglia activation and neuronal activity. Levels of inflammatory cytokines in the serum and hippocampus were measured by enzyme-linked immunosorbent assay (ELISA). In addition, dendritic spine density and morphology were assessed using Golgi staining. RESULTS: In mice subjected to CLP, cognitive deficits were associated with increased levels of inflammatory factors in both the serum and hippocampus, aberrant microglial activation, upregulation of MeCP2 protein, and downregulation of NLGN1. These alterations contributed to reduced neuronal activity and a decrease in dendritic spine density. Selective knockdown of MeCP2 in the hippocampal CA1 region reversed NLGN1 downregulation and ameliorated cognitive dysfunction, confirming the pathogenic role of the MeCP2/NLGN1 pathway in SAE‑associated cognitive impairment. Treatment with Dex attenuated the inflammatory response, normalized MeCP2/NLGN1 expression, and reversed the aforementioned pathological changes. CONCLUSION: The neuroprotective effects of Dex, which include the attenuation of neuroinflammation and improvement of synaptic plasticity and cognitive function in SAE mice, are associated with the regulation of the hippocampal MeCP2/NLGN1 signaling pathway.
 
-## 4. 论文标题：该内容涉及小胶质细胞、炎症。原文：Systemic inflammation exacerbates ischemic stroke in association with dysregulation of the microglial Wnt/β-catenin/CD36 axis and impaired efferocytosis.
+## 4. 论文标题：该内容涉及创伤性脑损伤、脑损伤。原文：Mild traumatic brain injury recovery: a qualitative study of noise sensitivity, vestibular issues and anxiety interactions.
 
-- 英文题目：Systemic inflammation exacerbates ischemic stroke in association with dysregulation of the microglial Wnt/β-catenin/CD36 axis and impaired efferocytosis.
-- 主题：小胶质细胞与 TREM2
+- 英文题目：Mild traumatic brain injury recovery: a qualitative study of noise sensitivity, vestibular issues and anxiety interactions.
+- 主题：创伤性脑损伤
 - 来源：PubMed
-- 期刊/平台：Neuroscience
-- 影响因子：2.8
+- 期刊/平台：Brain impairment : a multidisciplinary journal of the Australian Society for the Study of Brain Impairment
+- 影响因子：1.4
 - 分区：JCR Q3 / CAS 4区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-09-21
-- 分数：75
-- PMID：42767546
-- DOI：10.1016/j.neuroscience.2026.09.031
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42767546/
+- 日期：2026-09-24
+- 分数：73
+- PMID：42586573
+- DOI：10.1071/IB25095
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42586573/
 
-中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、炎症。原文：Systemic inflammation is associated with worse outcomes after ischemic stroke, but the underlying mechanisms remain poorly understood. Microglial efferocytosis limits post-stroke inflammation and promotes recovery, whereas Wnt/β-catenin signaling has been implicated in neuroprotection and in regulation of CD36, a key efferocytotic receptor. Here, we investigated whether systemic inflammation is associated with alterations in microglial Wnt/β-catenin/CD36 axis and efferocytosis during ischemic injury. Mice were pretreated with lipopolysaccharide (LPS) before transient middle cerebral artery occlusion/reperfusion (tMCAO/R), and BV2 microglia were exposed to LPS before oxygen-glucose deprivation/reoxygenation (OGD/R). LPS pretreatment markedly increased infarct volume, worsened neurological deficits, and amplified post-ischemic neuroinflammatory responses. These effects were accompanied by enhanced microglial NF-κB signaling, increased p65/β-catenin interaction, and reduced nuclear β-catenin, consistent with suppression of Wnt/β-catenin signaling. Reduced CD36 expression and impaired microglial efferocytosis were observed in parallel. Notably, pharmacological activation of Wnt/β-catenin signaling with lithium chloride (LiCl) restored CD36 expression and microglial efferocytosis under LPS-pretreated conditions, and was accompanied by smaller infarcts, improved neurological function, and attenuated neuroinflammation. Collectively, these findings show that LPS pretreatment exacerbates ischemic stroke and is associated with enhanced microglial NF-κB signaling, dysregulation of the Wnt/β-catenin/CD36 axis, and impaired microglial efferocytosis. These results support defective microglial efferocytosis as a potential biological link between systemic inflammation and aggravated ischemic injury and identify Wnt/β-catenin signaling as a candidate pathway for further therapeutic investigation.
+中文摘要：摘要要点：该内容涉及创伤性脑损伤、脑损伤。原文：BACKGROUND: Mild traumatic brain injury (mTBI) is a common public health issue, and a substantial minority of individuals experience persistent symptoms that disrupt everyday functioning. Although vestibular symptoms, noise sensitivity and anxiety are each recognised following mTBI, little is known about how people make sense of these symptom experiences or perceive their interaction during recovery. METHODS: This qualitative study explored the lived experiences of 14 adults recovering from mTBI, purposively sampled from a larger longitudinal cohort. Equal numbers had short (<6 months) or prolonged recovery. Semi-structured interviews were conducted 8-12 months post-injury and analysed using inductive thematic analysis informed by a critical realist framework. RESULTS: Three themes were identified. 'Noise really hurts' described distressing sensitivity to layered or unexpected noise and strategies to seek quiet. 'Broken spirit level' captured vestibular disturbance, including balance, spatial orientation and visual difficulty. 'Amplified apprehension' reflected heightened anxiety, and avoidance of symptom-provoking activities. Although most participants reported one or more symptoms, a minority explicitly described perceived relationships between them. Noise sensitivity was particularly prominent among those with prolonged recovery. CONCLUSION: Symptom experiences following mTBI are context dependent and can meaningfully constrain participation. Greater clinical attention to vestibular symptoms, noise sensitivity, and anxiety/fear-avoidance may support more responsive assessment and rehabilitation following mTBI.
 
-英文摘要：Systemic inflammation is associated with worse outcomes after ischemic stroke, but the underlying mechanisms remain poorly understood. Microglial efferocytosis limits post-stroke inflammation and promotes recovery, whereas Wnt/β-catenin signaling has been implicated in neuroprotection and in regulation of CD36, a key efferocytotic receptor. Here, we investigated whether systemic inflammation is associated with alterations in microglial Wnt/β-catenin/CD36 axis and efferocytosis during ischemic injury. Mice were pretreated with lipopolysaccharide (LPS) before transient middle cerebral artery occlusion/reperfusion (tMCAO/R), and BV2 microglia were exposed to LPS before oxygen-glucose deprivation/reoxygenation (OGD/R). LPS pretreatment markedly increased infarct volume, worsened neurological deficits, and amplified post-ischemic neuroinflammatory responses. These effects were accompanied by enhanced microglial NF-κB signaling, increased p65/β-catenin interaction, and reduced nuclear β-catenin, consistent with suppression of Wnt/β-catenin signaling. Reduced CD36 expression and impaired microglial efferocytosis were observed in parallel. Notably, pharmacological activation of Wnt/β-catenin signaling with lithium chloride (LiCl) restored CD36 expression and microglial efferocytosis under LPS-pretreated conditions, and was accompanied by smaller infarcts, improved neurological function, and attenuated neuroinflammation. Collectively, these findings show that LPS pretreatment exacerbates ischemic stroke and is associated with enhanced microglial NF-κB signaling, dysregulation of the Wnt/β-catenin/CD36 axis, and impaired microglial efferocytosis. These results support defective microglial efferocytosis as a potential biological link between systemic inflammation and aggravated ischemic injury and identify Wnt/β-catenin signaling as a candidate pathway for further therapeutic investigation.
+英文摘要：BACKGROUND: Mild traumatic brain injury (mTBI) is a common public health issue, and a substantial minority of individuals experience persistent symptoms that disrupt everyday functioning. Although vestibular symptoms, noise sensitivity and anxiety are each recognised following mTBI, little is known about how people make sense of these symptom experiences or perceive their interaction during recovery. METHODS: This qualitative study explored the lived experiences of 14 adults recovering from mTBI, purposively sampled from a larger longitudinal cohort. Equal numbers had short (<6 months) or prolonged recovery. Semi-structured interviews were conducted 8-12 months post-injury and analysed using inductive thematic analysis informed by a critical realist framework. RESULTS: Three themes were identified. 'Noise really hurts' described distressing sensitivity to layered or unexpected noise and strategies to seek quiet. 'Broken spirit level' captured vestibular disturbance, including balance, spatial orientation and visual difficulty. 'Amplified apprehension' reflected heightened anxiety, and avoidance of symptom-provoking activities. Although most participants reported one or more symptoms, a minority explicitly described perceived relationships between them. Noise sensitivity was particularly prominent among those with prolonged recovery. CONCLUSION: Symptom experiences following mTBI are context dependent and can meaningfully constrain participation. Greater clinical attention to vestibular symptoms, noise sensitivity, and anxiety/fear-avoidance may support more responsive assessment and rehabilitation following mTBI.
 
-## 5. 论文标题：该内容涉及小胶质细胞、神经炎症、炎症。原文：DRAM1 activates microglial pyroptosis and neuroinflammation through TMEM9-mediated lysosomal membrane permeabilization after spinal cord injury.
-
-- 英文题目：DRAM1 activates microglial pyroptosis and neuroinflammation through TMEM9-mediated lysosomal membrane permeabilization after spinal cord injury.
-- 主题：小胶质细胞与 TREM2
-- 来源：PubMed
-- 期刊/平台：Cellular signalling
-- 影响因子：3.7
-- 分区：JCR Q2 / CAS 2区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-09-21
-- 分数：75
-- PMID：42767541
-- DOI：10.1016/j.cellsig.2026.112907
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42767541/
-
-中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、炎症。原文：Spinal cord injury (SCI) is a devastating condition characterized by severe neuroinflammation and microglial pyroptosis, yet the underlying mechanisms remain incompletely understood. In this study, the role of DRAM1, a lysosomal membrane protein, in SCI pathogenesis was investigated. Single-cell RNA sequencing, an in vivo SCI mouse model, and in vitro LPS-stimulated BV2 microglial cells were employed, combined with histopathological assessments, locomotor function tests, and molecular interaction assays. Our results demonstrated that DRAM1 expression was significantly upregulated in microglia after SCI. Mechanistically, DRAM1 interacted with TMEM9 to regulate the expression of the V-ATPase accessory subunit ATP6AP2, thereby inducing lysosomal membrane permeabilization (LMP) and impairing autophagic flux, and facilitating microglial pyroptosis-mediated neuroinflammation after SCI. Moreover, IGF2BP3 functioned as an m6A reader that recognized and stabilized m6A-modified DRAM1 mRNA, thus enhancing DRAM1 expression in activated microglia. Knockdown of DRAM1 or IGF2BP3 attenuated microglial pyroptosis and inflammatory responses in vitro. Consistently, in vivo experiments showed that AAV-mediated DRAM1 knockdown improved locomotor recovery, reduced spinal cord lesion area, and suppressed neuroinflammatory responses in SCI mice. Collectively, these findings reveal that DRAM1 promotes microglial pyroptosis and neuroinflammation after SCI via the TMEM9-dependent induction of LMP and autophagic flux impairment, with its expression tightly regulated by IGF2BP3 in an m6A-dependent manner. Taken together, our study identifies DRAM1 as a novel therapeutic target for SCI.
-
-英文摘要：Spinal cord injury (SCI) is a devastating condition characterized by severe neuroinflammation and microglial pyroptosis, yet the underlying mechanisms remain incompletely understood. In this study, the role of DRAM1, a lysosomal membrane protein, in SCI pathogenesis was investigated. Single-cell RNA sequencing, an in vivo SCI mouse model, and in vitro LPS-stimulated BV2 microglial cells were employed, combined with histopathological assessments, locomotor function tests, and molecular interaction assays. Our results demonstrated that DRAM1 expression was significantly upregulated in microglia after SCI. Mechanistically, DRAM1 interacted with TMEM9 to regulate the expression of the V-ATPase accessory subunit ATP6AP2, thereby inducing lysosomal membrane permeabilization (LMP) and impairing autophagic flux, and facilitating microglial pyroptosis-mediated neuroinflammation after SCI. Moreover, IGF2BP3 functioned as an m6A reader that recognized and stabilized m6A-modified DRAM1 mRNA, thus enhancing DRAM1 expression in activated microglia. Knockdown of DRAM1 or IGF2BP3 attenuated microglial pyroptosis and inflammatory responses in vitro. Consistently, in vivo experiments showed that AAV-mediated DRAM1 knockdown improved locomotor recovery, reduced spinal cord lesion area, and suppressed neuroinflammatory responses in SCI mice. Collectively, these findings reveal that DRAM1 promotes microglial pyroptosis and neuroinflammation after SCI via the TMEM9-dependent induction of LMP and autophagic flux impairment, with its expression tightly regulated by IGF2BP3 in an m6A-dependent manner. Taken together, our study identifies DRAM1 as a novel therapeutic target for SCI.
-
-## 6. 论文标题：Urine-Derived Neuronal Extracellular Vesicle α-Synuclein Seed Amplification Assay for Synucleinopathies: A Non-Invasive Biomarker Study.
+## 5. 论文标题：Urine-Derived Neuronal Extracellular Vesicle α-Synuclein Seed Amplification Assay for Synucleinopathies: A Non-Invasive Biomarker Study.
 
 - 英文题目：Urine-Derived Neuronal Extracellular Vesicle α-Synuclein Seed Amplification Assay for Synucleinopathies: A Non-Invasive Biomarker Study.
 - 主题：脑积水与脑脊液循环
@@ -120,7 +101,45 @@
 
 英文摘要：BACKGROUND: α-Synuclein aggregation is a pathological hallmark of synucleinopathies, including Parkinson's disease (PD) and multiple system atrophy (MSA). Although pathogenic α-synuclein seeds can be detected by real-time quaking-induced conversion (RT-QuIC), current assays primarily rely on cerebrospinal fluid, whose invasiveness limits repeated and large-scale applications. We therefore evaluated the feasibility of detecting pathogenic α-synuclein using urine-derived neuronal extracellular vesicles (NEVs). METHODS: Urine-derived NEVs were enriched by direct immunoprecipitation using L1CAM-conjugated magnetic beads. The RT-QuIC assay was performed in 26 patients with PD, 13 with MSA, and 25 disease controls, including 16 healthy controls (HC), 4 with progressive supranuclear palsy (PSP), and 5 with normal pressure hydrocephalus (NPH). RESULTS: Urine-derived NEVs exhibited characteristic neuronal and exosomal markers and a typical extracellular vesicle size distribution. The urine-based RT-QuIC assay distinguished PD from disease controls with 73.1% sensitivity and 84% specificity, and MSA from disease controls with 76.9% sensitivity and 84% specificity. When compared with HC alone, sensitivity and specificity were 73.1% and 93.8% for PD, and 76.9% and 93.8% for MSA, respectively. Kinetic analysis showed higher maximum fluorescence intensity and area under the curve (AUC) in PD compared with both disease controls and HC (P < 0.001 in all). MSA also demonstrated higher maximum fluorescence intensity than HC and increased AUC compared with both disease controls and HC (P < 0.05 in all). CONCLUSIONS: We developed and optimized a completely non-invasive urine-derived NEV α-synuclein RT-QuIC assay that demonstrates high specificity and moderate sensitivity for synucleinopathies. This approach warrants further validation in larger cohorts. © 2026 International Parkinson and Movement Disorder Society.
 
-## 7. 论文标题：Spatial organization of AQP4 water channel expression in the human brain.
+## 6. 论文标题：该内容涉及细胞外囊泡。原文：Targetome-defined miR-181c signaling from extracellular vesicles governs periodontal MSC fate via RNF150-MAP3K5.
+
+- 英文题目：Targetome-defined miR-181c signaling from extracellular vesicles governs periodontal MSC fate via RNF150-MAP3K5.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Cell communication and signaling : CCS
+- 影响因子：8.9
+- 分区：JCR Q1 / CAS 2区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-09-23
+- 分数：69
+- PMID：42778936
+- DOI：10.1186/s12964-026-03153-y
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42778936/
+
+中文摘要：摘要要点：该内容涉及干细胞。原文：BACKGROUND: In regenerative settings, robust differentiation of human mesenchymal stromal cells (hMSCs) requires precise coupling between post-transcriptional regulation and kinase-driven pathways to achieve optimal therapeutic efficacy. miRNA-mediated regulation is widely implicated in stem cell fate control, yet its mechanistic contribution to lineage commitment remains incompletely defined. METHODS: Multi-conditioned periodontal ligament-derived hMSCs were developed as the regenerative model for alveolar bone. Extracellular vesicle (EV)-encapsulated miRNAs were delineated through microarrays. AGO2 RNA-immunoprecipitation sequencing with transcriptome profiling was integrated to establish the miRISC-associated targetome. Protein-protein interactions and signaling hierarchy were examined by Co-IP, WB, and IFC under knockdown/overexpression with pharmacological interventions. The translational efficacy of EV and miRNA was validated using a mouse ligature-induced periodontitis model, followed by µCT and histological analyses. RESULTS: EVs produced by hMSCs with higher intrinsic osteogenic capacity exhibited enhanced osteo-inductivity, traced to the enrichment of miR-181c. miR-181c was consistently upregulated during osteogenesis, with gain- and loss-of-function producing concordant effects. Mechanistically, the E3 ubiquitin ligase RNF150 emerged as the main target, whose repression reduced MAP3K5 ubiquitin-mediated proteolysis and enabled p38 activation. Local administration of EVs and miR-181c both promoted alveolar bone regeneration process in vivo. CONCLUSION: Collectively, EV-miR-181c-RNF150-MAP3K5-p38 axis was proposed linking miRNA-mediated repression to kinase activation and lineage commitment. This work provides the framework for how EV-delivered miRNAs gate hMSCs' fate decision, with significance for acellular therapeutic modalities in periodontal and skeletal tissues.
+
+英文摘要：BACKGROUND: In regenerative settings, robust differentiation of human mesenchymal stromal cells (hMSCs) requires precise coupling between post-transcriptional regulation and kinase-driven pathways to achieve optimal therapeutic efficacy. miRNA-mediated regulation is widely implicated in stem cell fate control, yet its mechanistic contribution to lineage commitment remains incompletely defined. METHODS: Multi-conditioned periodontal ligament-derived hMSCs were developed as the regenerative model for alveolar bone. Extracellular vesicle (EV)-encapsulated miRNAs were delineated through microarrays. AGO2 RNA-immunoprecipitation sequencing with transcriptome profiling was integrated to establish the miRISC-associated targetome. Protein-protein interactions and signaling hierarchy were examined by Co-IP, WB, and IFC under knockdown/overexpression with pharmacological interventions. The translational efficacy of EV and miRNA was validated using a mouse ligature-induced periodontitis model, followed by µCT and histological analyses. RESULTS: EVs produced by hMSCs with higher intrinsic osteogenic capacity exhibited enhanced osteo-inductivity, traced to the enrichment of miR-181c. miR-181c was consistently upregulated during osteogenesis, with gain- and loss-of-function producing concordant effects. Mechanistically, the E3 ubiquitin ligase RNF150 emerged as the main target, whose repression reduced MAP3K5 ubiquitin-mediated proteolysis and enabled p38 activation. Local administration of EVs and miR-181c both promoted alveolar bone regeneration process in vivo. CONCLUSION: Collectively, EV-miR-181c-RNF150-MAP3K5-p38 axis was proposed linking miRNA-mediated repression to kinase activation and lineage commitment. This work provides the framework for how EV-delivered miRNAs gate hMSCs' fate decision, with significance for acellular therapeutic modalities in periodontal and skeletal tissues.
+
+## 7. 论文标题：Proteomics of heterogeneous megakaryocytes identifies JI051 as an enhancer of platelet biogenesis.
+
+- 英文题目：Proteomics of heterogeneous megakaryocytes identifies JI051 as an enhancer of platelet biogenesis.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Life science alliance
+- 影响因子：2.9
+- 分区：JCR Q2 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-12-01
+- 分数：65
+- PMID：42778423
+- DOI：10.26508/lsa.202603636
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42778423/
+
+中文摘要：摘要要点：该内容涉及干细胞。原文：Induced pluripotent stem cell-derived immortalized megakaryocyte cell lines (imMKCLs) exhibit substantial heterogeneity, which poses a major barrier to efficient ex vivo production of platelet-like particles (PLPs). In this study, we combined proteomic profiling with principal component analysis to uncover regulatory factors influencing imMKCL maturation. Through correlation-based omics screening, prohibitin 2 (PHB2) was identified as a putative inhibitory node, and JI051, a small molecule previously reported to bind PHB2, was found to enhance PLP production. JI051 accelerated proplatelet-like extensions and increased PLP yield without affecting basic functional markers. Transcriptomic analysis showed that JI051 induced transcriptional changes consistent with megakaryocyte maturation and PLP biogenesis. Together, these findings identify JI051 as an enhancer of platelet biogenesis and provide a strategy to mitigate cellular heterogeneity in imMKCL megakaryocytes for scalable artificial platelet production, with potential benefits for emergency blood supply and cost-effective bioproduction.
+
+英文摘要：Induced pluripotent stem cell-derived immortalized megakaryocyte cell lines (imMKCLs) exhibit substantial heterogeneity, which poses a major barrier to efficient ex vivo production of platelet-like particles (PLPs). In this study, we combined proteomic profiling with principal component analysis to uncover regulatory factors influencing imMKCL maturation. Through correlation-based omics screening, prohibitin 2 (PHB2) was identified as a putative inhibitory node, and JI051, a small molecule previously reported to bind PHB2, was found to enhance PLP production. JI051 accelerated proplatelet-like extensions and increased PLP yield without affecting basic functional markers. Transcriptomic analysis showed that JI051 induced transcriptional changes consistent with megakaryocyte maturation and PLP biogenesis. Together, these findings identify JI051 as an enhancer of platelet biogenesis and provide a strategy to mitigate cellular heterogeneity in imMKCL megakaryocytes for scalable artificial platelet production, with potential benefits for emergency blood supply and cost-effective bioproduction.
+
+## 8. 论文标题：Spatial organization of AQP4 water channel expression in the human brain.
 
 - 英文题目：Spatial organization of AQP4 water channel expression in the human brain.
 - 主题：创伤性脑损伤
@@ -139,62 +158,43 @@
 
 英文摘要：Aquaporin-4 (AQP4) water channels support the glymphatic system, a brain-wide pathway that clears cerebral waste products. Here, we use AQP4 gene expression to reconstruct a whole-brain glymphatic-related topography and link it to vascular physiology, glioma, and vulnerability to neurodegenerative diseases. We find that AQP4 expression is highly organized across the brain, peaking in subcortical, ventral, and periventricular territories, consistent with a clearance axis near cerebrospinal fluid reservoirs and perivascular interfaces. Linking AQP4 expression to vascular organization, AQP4-enriched regions show lower normative blood perfusion, but lie close to areas commonly affected by cerebral small vessel disease. Turning to neurodegeneration, we find that atrophy patterns colocalize with AQP4 expression, most strongly for tau and TDP-43 proteinopathies, and high-atrophy regions lie close to AQP4 hotspots in anatomical and structural connectome space. Normative positron emission tomography markers of neuroinflammation strengthen the spatial alignment between AQP4 expression and disease atrophy. Last, we show that glioma is most frequent in AQP4-enriched regions. Collectively, this work highlights how AQP4 expression relates to brain physiology and vulnerability.
 
-## 8. 论文标题：该内容涉及干细胞。原文：piRNA-mediated silencing of exogenous retrovirus in mouse spermatogonial stem cells.
+## 9. 论文标题：该内容涉及创伤性脑损伤、脑损伤。原文：Factors associated with variability in recovery after mild traumatic brain injury among adults referred to outpatient concussion clinics.
 
-- 英文题目：piRNA-mediated silencing of exogenous retrovirus in mouse spermatogonial stem cells.
-- 主题：干细胞与外泌体
+- 英文题目：Factors associated with variability in recovery after mild traumatic brain injury among adults referred to outpatient concussion clinics.
+- 主题：创伤性脑损伤
 - 来源：PubMed
-- 期刊/平台：Cell reports
-- 影响因子：6.9
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-09-23
-- 分数：65
-- PMID：42776838
-- DOI：10.1016/j.celrep.2026.117992
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42776838/
-
-中文摘要：摘要要点：该内容涉及干细胞。原文：Viral integration into germline cells poses a transgenerational threat to genome stability, yet protective mechanisms remain unclear. We demonstrate that Trp53 and PIWI-interacting RNAs (piRNAs) are essential for antiviral defense through regulation of the cancer-testis antigen MAGEA5. Transient viral infection in spermatogonial stem cells (SSCs) induces piRNAs, which are perturbed in Trp53-or Piwil2-deficient SSCs. This disruption increases viral expression and reduces histone H3 lysine 9 trimethylation and DNA methylation at long terminal repeats. Antisense piRNA production is largely absent in stably infected SSCs, suggesting that piRNA expression patterns reflect prior viral exposure. Additionally, cancer testis antigens that form complexes with TRIM28 and inhibit TRP53 are downregulated in Trp53-or Piwil2-deficient SSCs via increased microRNAs, facilitating viral gene expression and integration. Furthermore, Trp53 deficiency enhances lentiviral transmission through the germline. Our findings uncover a piRNA-MAGEA5-TRP53 axis as a key molecular safeguard that restricts viral invasion and preserves germline integrity.
-
-英文摘要：Viral integration into germline cells poses a transgenerational threat to genome stability, yet protective mechanisms remain unclear. We demonstrate that Trp53 and PIWI-interacting RNAs (piRNAs) are essential for antiviral defense through regulation of the cancer-testis antigen MAGEA5. Transient viral infection in spermatogonial stem cells (SSCs) induces piRNAs, which are perturbed in Trp53-or Piwil2-deficient SSCs. This disruption increases viral expression and reduces histone H3 lysine 9 trimethylation and DNA methylation at long terminal repeats. Antisense piRNA production is largely absent in stably infected SSCs, suggesting that piRNA expression patterns reflect prior viral exposure. Additionally, cancer testis antigens that form complexes with TRIM28 and inhibit TRP53 are downregulated in Trp53-or Piwil2-deficient SSCs via increased microRNAs, facilitating viral gene expression and integration. Furthermore, Trp53 deficiency enhances lentiviral transmission through the germline. Our findings uncover a piRNA-MAGEA5-TRP53 axis as a key molecular safeguard that restricts viral invasion and preserves germline integrity.
-
-## 9. 论文标题：该内容涉及干细胞。原文：Bridging the gap between knowledge and barriers: evaluating healthcare professionals' perspectives on hematopoietic stem cell transplantation.
-
-- 英文题目：Bridging the gap between knowledge and barriers: evaluating healthcare professionals' perspectives on hematopoietic stem cell transplantation.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Cell and tissue banking
-- 影响因子：2.0
+- 期刊/平台：Brain impairment : a multidisciplinary journal of the Australian Society for the Study of Brain Impairment
+- 影响因子：1.4
 - 分区：JCR Q3 / CAS 4区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-09-23
+- 日期：2026-09-24
 - 分数：65
-- PMID：42773356
-- DOI：10.1007/s10561-026-10253-z
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42773356/
+- PMID：42732996
+- DOI：10.1071/IB26011
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42732996/
 
-中文摘要：摘要要点：该内容涉及干细胞。原文：Hematopoietic stem cell transplantation (HSCT) is an essential treatment for various malignant and non-malignant hematological disorders. Healthcare professionals play a vital role in this process through their attitudes toward donation and their support of patients and their relatives in the decision-making process. This study was performed to examine the correlation between the knowledge and attitudes of healthcare professionals regarding HSC donation. A cross-sectional survey was conducted between September 2025 and January 2026 after ethical approval was obtained from the Council of the Faculty of Applied Medical Sciences in Rabigh at King Abdulaziz University. Data were collected via online surveys administered to medical students and healthcare professionals in both government and private tertiary hospitals. Of the 507 validated respondents, 44.8% expressed willingness to donate HSCs, whereas 55.2% indicated unwillingness. Participants willing to donate had higher knowledge scores (mean = 75.7%) and attitude scores (mean = 3.12) than those who were unwilling. A strong association was observed between higher knowledge, direct clinical exposure to HSCT, and completion of formal training (p < 0.05). The main barriers to HSC donation were time commitment, lack of knowledge, and fear of the process, with mean scores of 3.88, 3.80, and 3.79, respectively. Knowledge is an important factor but is not sufficient on its own to motivate donation. The findings indicate that direct clinical exposure and targeted educational training play a key role in fostering positive attitudes by addressing concerns related to time commitment and fear of the donation process.
+中文摘要：摘要要点：该内容涉及创伤性脑损伤、脑损伤。原文：BACKGROUND: To understand factors associated with symptom and disability recovery trajectories among adults referred to outpatient clinics after mild traumatic brain injury. METHODS: Adults (n = 110; mean age 39 years, 36% men), were assessed at clinic intake (baseline mean 6.5 weeks), and monthly thereafter for 6 months. Validated questionnaires assessed distress, fear avoidance and catastrophising at baseline, and mild traumatic brain injury symptoms and disability. Using correlations and linear mixed modelling, we explored associations between demographic characteristics (age, gender), baseline psychological factors and recovery as a function of time. RESULTS: The models predicted improvement in symptoms (R2 = 0.22) and disability (R2 = 0.37). After adjusting for baseline severity of symptoms and disability, higher distress was associated with slower recovery and greater variability for symptoms (P = 0.06) and disability (P < 0.01). Higher baseline catastrophising predicted less symptom improvement (P = 0.02). Those with higher fear avoidance behaviour at baseline showed greater variability in disability outcomes (P = 0.02), even when other psychological variables were accounted for. CONCLUSIONS: Participants showed improvements on average, in both symptoms and disability. Variability and rates of recovery were associated with distress, catastrophising and fear avoidance. Clinicians can target such psychological factors in treatment and anticipate recovery fluctuations, normalising these while maintaining cautiously optimistic messaging regarding expected good prognosis after mild traumatic brain injury.
 
-英文摘要：Hematopoietic stem cell transplantation (HSCT) is an essential treatment for various malignant and non-malignant hematological disorders. Healthcare professionals play a vital role in this process through their attitudes toward donation and their support of patients and their relatives in the decision-making process. This study was performed to examine the correlation between the knowledge and attitudes of healthcare professionals regarding HSC donation. A cross-sectional survey was conducted between September 2025 and January 2026 after ethical approval was obtained from the Council of the Faculty of Applied Medical Sciences in Rabigh at King Abdulaziz University. Data were collected via online surveys administered to medical students and healthcare professionals in both government and private tertiary hospitals. Of the 507 validated respondents, 44.8% expressed willingness to donate HSCs, whereas 55.2% indicated unwillingness. Participants willing to donate had higher knowledge scores (mean = 75.7%) and attitude scores (mean = 3.12) than those who were unwilling. A strong association was observed between higher knowledge, direct clinical exposure to HSCT, and completion of formal training (p < 0.05). The main barriers to HSC donation were time commitment, lack of knowledge, and fear of the process, with mean scores of 3.88, 3.80, and 3.79, respectively. Knowledge is an important factor but is not sufficient on its own to motivate donation. The findings indicate that direct clinical exposure and targeted educational training play a key role in fostering positive attitudes by addressing concerns related to time commitment and fear of the donation process.
+英文摘要：BACKGROUND: To understand factors associated with symptom and disability recovery trajectories among adults referred to outpatient clinics after mild traumatic brain injury. METHODS: Adults (n = 110; mean age 39 years, 36% men), were assessed at clinic intake (baseline mean 6.5 weeks), and monthly thereafter for 6 months. Validated questionnaires assessed distress, fear avoidance and catastrophising at baseline, and mild traumatic brain injury symptoms and disability. Using correlations and linear mixed modelling, we explored associations between demographic characteristics (age, gender), baseline psychological factors and recovery as a function of time. RESULTS: The models predicted improvement in symptoms (R2 = 0.22) and disability (R2 = 0.37). After adjusting for baseline severity of symptoms and disability, higher distress was associated with slower recovery and greater variability for symptoms (P = 0.06) and disability (P < 0.01). Higher baseline catastrophising predicted less symptom improvement (P = 0.02). Those with higher fear avoidance behaviour at baseline showed greater variability in disability outcomes (P = 0.02), even when other psychological variables were accounted for. CONCLUSIONS: Participants showed improvements on average, in both symptoms and disability. Variability and rates of recovery were associated with distress, catastrophising and fear avoidance. Clinicians can target such psychological factors in treatment and anticipate recovery fluctuations, normalising these while maintaining cautiously optimistic messaging regarding expected good prognosis after mild traumatic brain injury.
 
-## 10. 论文标题：该内容涉及铁死亡。原文：Ferroptosis-Pyroptosis Crosstalk in Spinal Cord Injury: Molecular Mechanisms, Emerging Connectors, and Staged Therapeutic Perspectives.
+## 10. 论文标题：ROS function during the early phase of vascular regeneration in Arabidopsis.
 
-- 英文题目：Ferroptosis-Pyroptosis Crosstalk in Spinal Cord Injury: Molecular Mechanisms, Emerging Connectors, and Staged Therapeutic Perspectives.
-- 主题：小胶质细胞与 TREM2
+- 英文题目：ROS function during the early phase of vascular regeneration in Arabidopsis.
+- 主题：干细胞与外泌体
 - 来源：PubMed
-- 期刊/平台：Journal of molecular neuroscience : MN
-- 影响因子：2.7
-- 分区：JCR Q3 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-09-23
+- 期刊/平台：Plant & cell physiology
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：2026-09-24
 - 分数：65
-- PMID：42776323
-- DOI：10.1007/s12031-026-02604-y
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42776323/
+- PMID：42778193
+- DOI：10.1093/pcp/pcag120
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42778193/
 
-中文摘要：摘要要点：该内容涉及小胶质细胞、铁死亡。原文：Secondary injury after spinal cord injury (SCI) develops through intertwined oxidative, metabolic and inflammatory processes that engage several programmes of regulated cell death. Ferroptosis and pyroptosis are both implicated in experimental SCI, but their relationship across cellular compartments and injury phases remains incompletely understood. Ferroptotic injury is prominent in neurons, oligodendrocyte-lineage cells and vascular endothelium. Inflammasome-gasdermin signalling is concentrated mainly in microglia and infiltrating myeloid cells. Their partial cellular separation raises the possibility that coupling occurs through shared lesion stress and communication between neighbouring populations. This review examines how metabolic, redox and inflammatory disturbances shape ferroptosis-pyroptosis coupling across cells and over time, and distinguishes common upstream regulation from direct cross-pathway control. The emerging picture is one of context-dependent metabolic-inflammatory coupling, with the strength and direction of interaction likely to vary across lesion compartments and injury phases. Clinical translation will depend on identifying where and when each pathway is active and on developing biomarkers and treatment strategies matched to lesion biology.
+中文摘要：摘要要点：该内容涉及干细胞。原文：When vascular tissues are damaged, plants induce site-specific formation of vascular stem cells that proliferate and differentiate into xylem and phloem, restoring vascular continuity. In addition, reactive oxygen species (ROS) are rapidly generated at wound sites in response to damage. However, the role of ROS during vascular regeneration remains largely unknown. Here, we investigated the role of ROS using an Arabidopsis inflorescence stem incision model and the vascular cell induction culture system (VISUAL). During tissue reunion of incised inflorescence stems, scavenging ROS with potassium iodide (KI) suppressed the proliferation of cambial cell layers. Consistently, the expression of cambium- and xylem-related genes, including TDR/PXY and VND7, was significantly reduced by KI treatment. Furthermore, mutation in respiratory burst oxidase homolog D (RBOHD), which encodes an ROS-producing enzyme, suppressed the proliferation of cambial cell layers. In VISUAL, KI treatment inhibited ectopic xylem formation and reduced the expression of vascular stem cell-related genes. Temporal analyses further indicated that ROS functions during the early phase of induction, as the expression of dedifferentiation-related genes such as WAK1 and ACS6 decreased under KI treatment. Notably, the expression of Arabidopsis NAC domain-containing protein 071 (ANAC071) and ANAC096 was not suppressed by KI in incised stems, and estradiol-induced expression of ANAC071 failed to rescue vascular differentiation in VISUAL under KI treatment. These findings demonstrated that ROS act prior to ANAC function during the early phase of vascular regeneration.
 
-英文摘要：Secondary injury after spinal cord injury (SCI) develops through intertwined oxidative, metabolic and inflammatory processes that engage several programmes of regulated cell death. Ferroptosis and pyroptosis are both implicated in experimental SCI, but their relationship across cellular compartments and injury phases remains incompletely understood. Ferroptotic injury is prominent in neurons, oligodendrocyte-lineage cells and vascular endothelium. Inflammasome-gasdermin signalling is concentrated mainly in microglia and infiltrating myeloid cells. Their partial cellular separation raises the possibility that coupling occurs through shared lesion stress and communication between neighbouring populations. This review examines how metabolic, redox and inflammatory disturbances shape ferroptosis-pyroptosis coupling across cells and over time, and distinguishes common upstream regulation from direct cross-pathway control. The emerging picture is one of context-dependent metabolic-inflammatory coupling, with the strength and direction of interaction likely to vary across lesion compartments and injury phases. Clinical translation will depend on identifying where and when each pathway is active and on developing biomarkers and treatment strategies matched to lesion biology.
+英文摘要：When vascular tissues are damaged, plants induce site-specific formation of vascular stem cells that proliferate and differentiate into xylem and phloem, restoring vascular continuity. In addition, reactive oxygen species (ROS) are rapidly generated at wound sites in response to damage. However, the role of ROS during vascular regeneration remains largely unknown. Here, we investigated the role of ROS using an Arabidopsis inflorescence stem incision model and the vascular cell induction culture system (VISUAL). During tissue reunion of incised inflorescence stems, scavenging ROS with potassium iodide (KI) suppressed the proliferation of cambial cell layers. Consistently, the expression of cambium- and xylem-related genes, including TDR/PXY and VND7, was significantly reduced by KI treatment. Furthermore, mutation in respiratory burst oxidase homolog D (RBOHD), which encodes an ROS-producing enzyme, suppressed the proliferation of cambial cell layers. In VISUAL, KI treatment inhibited ectopic xylem formation and reduced the expression of vascular stem cell-related genes. Temporal analyses further indicated that ROS functions during the early phase of induction, as the expression of dedifferentiation-related genes such as WAK1 and ACS6 decreased under KI treatment. Notably, the expression of Arabidopsis NAC domain-containing protein 071 (ANAC071) and ANAC096 was not suppressed by KI in incised stems, and estradiol-induced expression of ANAC071 failed to rescue vascular differentiation in VISUAL under KI treatment. These findings demonstrated that ROS act prior to ANAC function during the early phase of vascular regeneration.
 
 # 顶刊神经科学
 
@@ -236,7 +236,26 @@
 
 英文摘要：There is no clinically relevant blood-based assay for the detection of early-stage pancreatic ductal adenocarcinoma (PDAC), a solid malignancy characterized by poor outcomes. Here we developed, validated and tested a blood-based microRNA (miRNA) assay (which included hsa-miR-142-3p, hsa-miR-30c-5p, hsa-miR-335-5p, hsa-miR-340-5p, hsa-miR-200b-3p, hsa-miR-1260b, hsa-miR-145-3p, hsa-miR-145-5p, hsa-miR-429 and hsa-miR-200a-3p) and a composite score, PANXEON (PANcreatic cancer eXosome Early detectiON), that integrates the miRNA signature with carbohydrate antigen 19-9 for the detection of early-stage PDAC. We conducted an international, multicenter, observational, prospective biomarker study that involved 1,785 individuals with and without PDAC from four countries. The miRNA signature achieved an area under the receiver operating characteristic curve of 88.6% in the testing cohort, with a sensitivity of 83.8% for early-stage PDAC, while showing minimal cross-reactivity with other gastrointestinal cancers. In a cohort of 19 individuals, the miRNA signature levels decreased during neoadjuvant chemotherapy and after surgery and increased before disease recurrence. When combined with carbohydrate antigen 19-9 levels, this blood assay demonstrated a sensitivity of 86.8% for stage I-II PDAC, false-positive rates of 3.2% in low-risk controls and 15.6% in high-risk controls in the testing cohort. PANXEON demonstrates potential for detecting high-grade dysplasia in individuals with high-risk pancreatic cysts (64.3%). Collectively, we present a composite biomarker that may complement existing strategies for the detection of early-stage PDAC and warrants further large-scale prospective studies. ClinicalTrials.gov registration: NCT06388967 .
 
-## 3. 论文标题：SCRMP-mediated SUMOylation of CSNK2B facilitates DNA damage repair to promote cisplatin resistance in small cell lung cancer.
+## 3. 论文标题：AI-based characterization of Alzheimer's disease phenotypes from population-scale single-cell data.
+
+- 英文题目：AI-based characterization of Alzheimer's disease phenotypes from population-scale single-cell data.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Nature medicine
+- 影响因子：50.0
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-09-23
+- 分数：81
+- PMID：42778763
+- DOI：10.1038/s41591-025-04128-1
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42778763/
+
+中文摘要：摘要要点：该内容涉及小胶质细胞、炎症。原文：The complexity of Alzheimer's disease (AD) manifests in diverse clinical phenotypes, including cognitive impairment and neuropsychiatric symptoms. However, the etiology of these phenotypes remains elusive. To address this, the PsychAD project generated a population-level single-nucleus RNA sequencing dataset comprising over 6 million nuclei from the prefrontal cortex of >1,000 individual brains, covering a variety of disease phenotypes. Here, leveraging this dataset, we developed a computational framework, called Phenotype Associated Single Cell encoder (PASCode), to score single-cell phenotype associations, and identified ∼1.5 million phenotype-associated cells (PACs) from 584 donors with AD-related phenotypes. PASCode ensembles multiple statistical methods into a graph neural model for robust scoring. Comparing PACs within 27 brain cell subclasses, we prioritized cell subpopulations and their expressed genes for various AD phenotypes. For instance, we identified microglia subpopulations implicated in AD pathology; reactive astrocyte subtypes with altered neuroprotective and neurotoxic gene expression that likely confer cognitive resilience; and enhanced excitatory/inhibitory imbalance and mitochondrial dysfunction in cognitively impaired AD donors. We also identified many PACs for multiple phenotypes, including the astrocytes between AD and depression showing specific gene expression patterns such as inflammation and endoplasmic reticulum stress pathways. These prioritized subpopulations, genes and pathways potentially offer valuable insights for precision diagnostic and therapeutic development. We also validated our findings in external population-scale datasets including AD and major depressive disorder, compiled an AD-phenotypic single-cell atlas and delivered the framework as an open-source tool with pre-trained models and a web application for community use.
+
+英文摘要：The complexity of Alzheimer's disease (AD) manifests in diverse clinical phenotypes, including cognitive impairment and neuropsychiatric symptoms. However, the etiology of these phenotypes remains elusive. To address this, the PsychAD project generated a population-level single-nucleus RNA sequencing dataset comprising over 6 million nuclei from the prefrontal cortex of >1,000 individual brains, covering a variety of disease phenotypes. Here, leveraging this dataset, we developed a computational framework, called Phenotype Associated Single Cell encoder (PASCode), to score single-cell phenotype associations, and identified ∼1.5 million phenotype-associated cells (PACs) from 584 donors with AD-related phenotypes. PASCode ensembles multiple statistical methods into a graph neural model for robust scoring. Comparing PACs within 27 brain cell subclasses, we prioritized cell subpopulations and their expressed genes for various AD phenotypes. For instance, we identified microglia subpopulations implicated in AD pathology; reactive astrocyte subtypes with altered neuroprotective and neurotoxic gene expression that likely confer cognitive resilience; and enhanced excitatory/inhibitory imbalance and mitochondrial dysfunction in cognitively impaired AD donors. We also identified many PACs for multiple phenotypes, including the astrocytes between AD and depression showing specific gene expression patterns such as inflammation and endoplasmic reticulum stress pathways. These prioritized subpopulations, genes and pathways potentially offer valuable insights for precision diagnostic and therapeutic development. We also validated our findings in external population-scale datasets including AD and major depressive disorder, compiled an AD-phenotypic single-cell atlas and delivered the framework as an open-source tool with pre-trained models and a web application for community use.
+
+## 4. 论文标题：SCRMP-mediated SUMOylation of CSNK2B facilitates DNA damage repair to promote cisplatin resistance in small cell lung cancer.
 
 - 英文题目：SCRMP-mediated SUMOylation of CSNK2B facilitates DNA damage repair to promote cisplatin resistance in small cell lung cancer.
 - 主题：顶刊神经科学
@@ -255,7 +274,7 @@
 
 英文摘要：Small cell lung cancer (SCLC) represents the most lethal subtype of lung carcinoma. Platinum-based agents, such as cisplatin and carboplatin, remain the cornerstone of first-line therapy for patients with SCLC, whether administered as chemotherapy alone or in combination with immunotherapy. However, patients frequently develop platinum resistance within a short time frame, leading to therapeutic failure. The molecular mechanisms underlying platinum resistance in SCLC require further investigation, given that effective intervention strategies remain elusive. Through multiomic analysis integrating transcriptomic data from cisplatin-resistant PDX tissues and the IMpower133 SCLC cohort study and translatomic data from SCLC cells, we identified a platinum resistance-associated noncanonical open reading frame derived from MIR7-3HG. This noncanonical ORF encodes an unannotated 128-amino acid protein, designated SCRMP (SCLC cisplatin resistance-associated microprotein). SCRMP was up-regulated in cisplatin-resistant SCLC tissues and cell lines, and its elevated expression strongly correlated with impaired platinum response and unfavorable survival outcomes in patients. CRISPR-Cas9-mediated SCRMP knockout restored cisplatin sensitivity and promoted apoptosis in SCLC cells, platinum-resistant patient-derived organoids in vitro, and patient-derived xenografts in vivo. Mechanistically, SCRMP potentiated platinum resistance by mediating SUMOylation and nuclear translocation of CSNK2B, which stabilized the RBBP4-p300 complex. This stabilization activated transcription of RAD51C and associated DNA damage repair genes through histone acetylation, ultimately promoting therapeutic resistance. Our study systematically elucidates the biological function of SCRMP in SCLC platinum resistance and delineates its specific molecular mechanism in regulating DNA damage repair, thereby providing theoretical foundations and potential intervention strategies for overcoming platinum resistance in SCLC.
 
-## 4. 论文标题：Preclinical and clinical evaluation of systemic danegaptide for the treatment of nonproliferative diabetic retinopathy.
+## 5. 论文标题：Preclinical and clinical evaluation of systemic danegaptide for the treatment of nonproliferative diabetic retinopathy.
 
 - 英文题目：Preclinical and clinical evaluation of systemic danegaptide for the treatment of nonproliferative diabetic retinopathy.
 - 主题：顶刊神经科学
@@ -274,7 +293,7 @@
 
 英文摘要：Nonproliferative diabetic retinopathy (NPDR) is a serious and vision-threatening manifestation of diabetic eye disease. Most patients with diabetic eye disease have NPDR. Intravitreal vascular endothelial growth factor (VEGF)-neutralizing agents are able to suppress increased vascular leakage caused by poor glycemic control and are fundamental in controlling progression to vision loss. However, despite the efficacy of such treatments, the invasive nature and short interval between injections have not yielded widespread adoption in patients with NPDR. Here, we describe the effect of an orally available medication, danegaptide, in regulating retinal vascular permeability in preclinical animal models of disease and report safety and early efficacy data from an early-stage phase 1b clinical trial in patients with NPDR and mild center-involved macular edema. As an orally available gap junction modifier, danegaptide improved inner blood-retina barrier (iBRB) function through a direct connexin-43 mechanism and by working as a functional antagonist of VEGF in human retinal microvascular endothelial cells. Bulk RNA sequencing showed that danegaptide attenuated the VEGF-induced suppression of TNFSF15, an endogenous antagonist of VEGF activity in human retinal microvascular endothelial cells. In addition, targeted suppression of TNFSF15 using small interfering RNA or inhibition of its activity using a neutralizing antibody prevented VEGF-induced permeability in vitro and neovascular lesion development in vivo. No serious adverse events related to oral danegaptide were found in an early-stage phase 1b clinical trial in 24 patients with NPDR and mild center-involved macular edema. These findings support larger clinical trials to test efficacy.
 
-## 5. 论文标题：The nucleoside analog kamuvudine-9 shows protective and therapeutic efficacy in a mouse model of multiple sclerosis.
+## 6. 论文标题：The nucleoside analog kamuvudine-9 shows protective and therapeutic efficacy in a mouse model of multiple sclerosis.
 
 - 英文题目：The nucleoside analog kamuvudine-9 shows protective and therapeutic efficacy in a mouse model of multiple sclerosis.
 - 主题：顶刊神经科学
@@ -293,7 +312,7 @@
 
 英文摘要：Innate immune signaling through inflammasome activation has been implicated in the pathogenesis of multiple sclerosis (MS). We previously demonstrated that nucleoside reverse transcriptase inhibitors (NRTIs), drugs approved to treat HIV and hepatitis B virus infections, and kamuvudines, safer NRTI derivatives, both inhibit inflammasome activation. Here, we report that in the experimental autoimmune encephalitis mouse model of MS, treatment with kamuvudine-9 (K-9), an NRTI derivative with an enhanced safety profile, prevented further neurological deficits and reversed preexisting paralysis and vision loss. K-9 promoted myelin and axonal preservation in the mouse spinal cord and abolished the increase in serum neurofilament light (NfL) chain. K-9 disrupted interactions between nucleotide-binding domain leucine-rich repeat (NLR) pyrin domain-containing protein 3 (NLRP3) and NIMA-related kinase 7 (NEK7) and between NLRP3 and NLR CARD domain containing 4 (NLRC4), inhibiting dual inflammasome activation. K-9 also exhibited appropriate safety and pharmacokinetic characteristics and biodistribution. In three distinct human cohorts, there was a lower incidence of MS in those individuals receiving NRTIs for HIV infection, preexposure prophylaxis for HIV, or hepatitis B virus infection. NRTI use was also associated with a reduction in relapse rate in individuals with MS. These findings provide a rationale for further investigating K-9 for treating MS.
 
-## 6. 论文标题：Imaging subtypes reveal distinct biological substrates and disability profiles in multiple sclerosis.
+## 7. 论文标题：Imaging subtypes reveal distinct biological substrates and disability profiles in multiple sclerosis.
 
 - 英文题目：Imaging subtypes reveal distinct biological substrates and disability profiles in multiple sclerosis.
 - 主题：顶刊神经科学
@@ -312,7 +331,7 @@
 
 英文摘要：Multiple sclerosis is characterized by marked biological heterogeneity that is only partly captured by conventional clinical phenotypes and age-at-onset categories. MRI can detect focal lesions, diffuse microstructural damage and atrophy, but these measures are usually considered separately. We therefore aimed to use Subtype and Stage Inference (SuStaIn), an unsupervised machine learning framework, to identify biologically meaningful MRI subtypes of multiple sclerosis and determine their associations with disability, age at onset, cognition, genetic susceptibility to more severe disease, and relapse-independent progression. We applied SuStaIn to multimodal 3T brain MRI data from 1017 multiple sclerosis patients and 548 healthy controls. Imaging features included T2-hyperintense white matter lesion volume, mean diffusivity in white matter lesions and major white matter tracts, and cortical and deep gray matter volumes. Cognitive testing was available in 501 patients, genetic profiling in 650, and longitudinal clinical follow-up in 645 (median follow-up=6.57 years). An independent validation cohort included 247 multiple sclerosis patients and 141 healthy controls. SuStaIn identified four MRI subtypes: lesion-led (44%), cortex-led (23%), tract-led (23%), and deep gray matter/cerebellar-led (10%). Cortex-led and deep gray matter/cerebellar-led subtypes were enriched in progressive disease (47% and 56%), whereas lesion-led and tract-led subtypes were predominantly relapsing-remitting disease (66% and 71%) (p<0.001). Tract-led subtype was overrepresented in pediatric-onset disease (38%) and underrepresented in adult-onset disease (19%); lesion-led subtype predominated in adult-onset disease (48%), and deep gray matter/cerebellar-led subtype was more frequent in late-onset disease (14%) (p<0.001). Expanded Disability Status Scale scores ≥4.0 and ≥6.0 were more frequent in cortex-led and deep gray matter/cerebellar-led disease than in lesion-led or tract-led disease (45.3% and 55.6% versus 34.3% and 31.9%, and 27.8% and 29.3% versus 20.0% and 18.7%; p<0.001). Relapse-independent progression-free survival differed across subtypes (p=0.04) and was 1.67 and 1.93 years shorter in cortex-led and deep gray matter/cerebellar-led disease, respectively, than in lesion-led disease (p<0.001). Cognitive performance and genetic risk scores for multiple sclerosis severity did not differ across subtypes, but within each subtype advancing SuStaIn stage was associated with worse global and domain-specific cognitive performance (all p≤0.030). The four-subtype structure was reproduced in the independent validation cohort. Multimodal MRI analysed with SuStaIn identified reproducible subtypes of multiple sclerosis with clinically meaningful differences in phenotype, age at onset, disability, and relapse-independent progression, while cognitive impairment was related to advancing SuStaIn stage within each subtype. This framework may support biologically informed patient stratification and more mechanism-based prognostic and therapeutic approaches in multiple sclerosis.
 
-## 7. 论文标题：Blood proteomics of menopause map to brain aging and dementia risk.
+## 8. 论文标题：Blood proteomics of menopause map to brain aging and dementia risk.
 
 - 英文题目：Blood proteomics of menopause map to brain aging and dementia risk.
 - 主题：顶刊神经科学
@@ -331,28 +350,28 @@
 
 英文摘要：Menopause is a hallmark process in biological aging that has been implicated in later neurodegenerative risk, but the pathways underlying this connection remain unclear. Here we used blood proteomics data from several cohorts to identify biological changes associated with menopause and its links to brain aging. In n = 80 rigorously staged (STRAW+10) pre-, peri- and postmenopausal women (aged 43-58 years) with serum NULISAseq proteomics, we show that spontaneous menopause is characterized by dysregulation in inflammatory, synaptic, metabolic and Alzheimer's disease biologic processes, which tracked more strongly with hormones than with age. Validation analyses in age-matched pre-/peri- and postmenopausal women (n = 2,814) with plasma Olink proteomics replicated the observed proteomic shifts and revealed broader menopause-related upregulation of inflammatory and catabolic processes plus accelerated organ and cell aging, including brain aging. In four independent cohorts of older women (average age, 60.7-72.1 years; total n = 11,925), higher menopause proteomic scores associated consistently with cognitive aging and dementia risk. The molecular signatures of menopause may inform the selection of biomarkers or therapeutic targets for brain health in midlife women.
 
-## 8. 论文标题：Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence.
-
-- 英文题目：Large-scale esophageal cancer screening through noncontrast computed tomography and artificial intelligence.
-- 主题：顶刊神经科学
-- 来源：PubMed
-- 期刊/平台：Nature medicine
-- 影响因子：50.0
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-09-22
-- 分数：79
-- PMID：42773211
-- DOI：10.1038/s41591-026-04656-4
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42773211/
-
-中文摘要：摘要要点：The absence of accurate, noninvasive, scalable screening tools keeps early esophageal cancer (EC) detection a global health challenge. Although noncontrast computed tomography (NC CT) is widely accessible, the esophagus is a hollow tubular structure prone to collapse and motion artifacts, making small early malignant lesions difficult to distinguish from normal tissue. Here we developed the Esophageal AI-Guided malignant Lesion Evaluation (EAGLE) model to detect precancerous lesions and cancer from chest NC CT, a task historically considered impossible. EAGLE was trained on 6,813 patients from two centers and validated across 12 centers in three countries involving 80,612 patients in opportunistic and population-based screening settings. For opportunistic screening on existing CT scans, multicenter external test cohorts (eight centers, n = 11,466) achieved 98.5% specificity, with 90.0% sensitivity for cancer and 52.5% for precancerous lesions; low-dose CT (LDCT) validation (two centers, n = 1,607) showed comparable performance, supporting EC screening through lung-cancer screening programs. Calibration in a real-world cohort (three centers, n = 35,402) reduced false positives by 72.7% while preserving sensitivity; prospective hospital validation (n = 17,446) achieved a 42.2% PPV, and real-world low-dose screening (n = 10,959) reached 99.94% specificity. EAGLE also detected precancerous lesions-in paired CT-endoscopy cohorts (two centers, n = 702), sensitivities were 65.0% for precancerous lesions and 78.4% for stage I EC at a higher-sensitivity operating point. Exploratory analyses of a prospectively enrolled cohort suggest that referring high-risk individuals for endoscopy could improve screening efficiency. In conclusion, EAGLE has the potential to serve as a scalable tool for early EC screening. Chictr.org.cn identifier: ChiCTR2300074806 .
-
-英文摘要：The absence of accurate, noninvasive, scalable screening tools keeps early esophageal cancer (EC) detection a global health challenge. Although noncontrast computed tomography (NC CT) is widely accessible, the esophagus is a hollow tubular structure prone to collapse and motion artifacts, making small early malignant lesions difficult to distinguish from normal tissue. Here we developed the Esophageal AI-Guided malignant Lesion Evaluation (EAGLE) model to detect precancerous lesions and cancer from chest NC CT, a task historically considered impossible. EAGLE was trained on 6,813 patients from two centers and validated across 12 centers in three countries involving 80,612 patients in opportunistic and population-based screening settings. For opportunistic screening on existing CT scans, multicenter external test cohorts (eight centers, n = 11,466) achieved 98.5% specificity, with 90.0% sensitivity for cancer and 52.5% for precancerous lesions; low-dose CT (LDCT) validation (two centers, n = 1,607) showed comparable performance, supporting EC screening through lung-cancer screening programs. Calibration in a real-world cohort (three centers, n = 35,402) reduced false positives by 72.7% while preserving sensitivity; prospective hospital validation (n = 17,446) achieved a 42.2% PPV, and real-world low-dose screening (n = 10,959) reached 99.94% specificity. EAGLE also detected precancerous lesions-in paired CT-endoscopy cohorts (two centers, n = 702), sensitivities were 65.0% for precancerous lesions and 78.4% for stage I EC at a higher-sensitivity operating point. Exploratory analyses of a prospectively enrolled cohort suggest that referring high-risk individuals for endoscopy could improve screening efficiency. In conclusion, EAGLE has the potential to serve as a scalable tool for early EC screening. Chictr.org.cn identifier: ChiCTR2300074806 .
-
 # 全球热点话题｜学术界值得关注
 
-## 1. 论文标题：该内容涉及荟萃分析。原文：Meta-analysis of NPC2-mediated cholesterol transport in human cancers as a prognostic biomarker with therapeutic implications.
+## 1. 论文标题：Age-related remodeling of the intestinal mucus barrier in pigs: implications for post-weaning diarrhea.
+
+- 英文题目：Age-related remodeling of the intestinal mucus barrier in pigs: implications for post-weaning diarrhea.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Veterinary and animal science
+- 影响因子：2.2
+- 分区：JCR Q1 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-12-01
+- 分数：65
+- PMID：42781056
+- DOI：10.1016/j.vas.2026.100867
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42781056/
+
+中文摘要：摘要要点：The intestinal mucus barrier plays a central role in maintaining intestinal integrity, yet its development during early life and weaning in pigs remain incompletely understood. This study characterized age-related changes in goblet cell populations and mucus properties and investigated their association with diarrhea. Thirty Danish crossbred piglets from a longitudinal cohort were stratified by age (4, 14, 25, 49, and 67 days) and diarrhea status (cases vs. controls). Jejunal and colonic tissues were evaluated by histology and immunohistochemistry for MUC2 and MUC5AC, while mucus glycosylation was assessed using the bacteria-derived mucin-binding probe X409. Digital image analysis was performed at crypt level. Marked age-dependent remodeling occurred in both intestinal segments. Crypt-villus unit depth and goblet cell abundance generally increased with age, accompanied by age-related changes in MUC2 and X409-labeling. X409 staining intensity varied with age and position along the crypt-villus axis, indicating age-dependent changes in the spatial distribution of mucus-associated O-glycosylation. Disease-associated differences were limited. In jejunum at 67 days of age, cases had fewer luminal goblet cells and reduced X409 labeling than controls, while colonic crypt depth differed between cases and controls at selected ages. No MUC5AC expression was observed. These findings demonstrate substantial age-dependent quantitative and qualitative remodeling of the intestinal mucus barrier during postnatal development. Limited disease-associated differences suggest that diarrhea was not characterized by widespread alterations in mucus properties, although localized differences, particularly in older piglets, may be associated with intestinal vulnerability. These results highlight the importance of mucus barrier maturation during the developmental period arround weaning.
+
+英文摘要：The intestinal mucus barrier plays a central role in maintaining intestinal integrity, yet its development during early life and weaning in pigs remain incompletely understood. This study characterized age-related changes in goblet cell populations and mucus properties and investigated their association with diarrhea. Thirty Danish crossbred piglets from a longitudinal cohort were stratified by age (4, 14, 25, 49, and 67 days) and diarrhea status (cases vs. controls). Jejunal and colonic tissues were evaluated by histology and immunohistochemistry for MUC2 and MUC5AC, while mucus glycosylation was assessed using the bacteria-derived mucin-binding probe X409. Digital image analysis was performed at crypt level. Marked age-dependent remodeling occurred in both intestinal segments. Crypt-villus unit depth and goblet cell abundance generally increased with age, accompanied by age-related changes in MUC2 and X409-labeling. X409 staining intensity varied with age and position along the crypt-villus axis, indicating age-dependent changes in the spatial distribution of mucus-associated O-glycosylation. Disease-associated differences were limited. In jejunum at 67 days of age, cases had fewer luminal goblet cells and reduced X409 labeling than controls, while colonic crypt depth differed between cases and controls at selected ages. No MUC5AC expression was observed. These findings demonstrate substantial age-dependent quantitative and qualitative remodeling of the intestinal mucus barrier during postnatal development. Limited disease-associated differences suggest that diarrhea was not characterized by widespread alterations in mucus properties, although localized differences, particularly in older piglets, may be associated with intestinal vulnerability. These results highlight the importance of mucus barrier maturation during the developmental period arround weaning.
+
+## 2. 论文标题：该内容涉及荟萃分析。原文：Meta-analysis of NPC2-mediated cholesterol transport in human cancers as a prognostic biomarker with therapeutic implications.
 
 - 英文题目：Meta-analysis of NPC2-mediated cholesterol transport in human cancers as a prognostic biomarker with therapeutic implications.
 - 主题：全球学术热点
@@ -371,7 +390,7 @@
 
 英文摘要：NPC2 is a lysosomal cholesterol transporter involved in intracellular lipid trafficking and cholesterol homeostasis, processes that have been increasingly implicated in cancer biology. To quantify the clinical impact of NPC2 expression across human malignancies, we analyzed survival data from 2,097 patients evaluated for NPC2 expression in tumor tissues. We conducted a random-effects meta-analysis of four eligible studies assessing NPC2 expression by mRNA (RNA-seq, qRT-PCR) and protein-based methods (immunohistochemistry, Western blot).The cohort included 756 patients with gastric cancer (36.0%), 374 with hepatocellular carcinoma (17.8%), and 967 with gliomas (46.2%). Pooled analyses demonstrated that elevated NPC2 expression was significantly associated with worse overall survival across cancers (HR 1.29, 95% CI 1.10-1.52, p = 0.001; I2 = 56%). In gastric cancer, this association was stronger and highly consistent (HR 1.37, 95% CI 1.18-1.60, p < 0.001; I2 = 0%). These results suggest that NPC2 overexpression identifies a subset of tumors with increased aggressiveness and adverse clinical outcomes. Collectively, these findings support NPC2 as a candidate adverse prognostic biomarker and highlight lysosomal cholesterol trafficking as a pathway of translational interest in cancer biology. Further mechanistic and clinical studies are warranted to clarify the biological role of NPC2 and its potential therapeutic implications.
 
-## 2. 论文标题：Parental age, consanguinity, parity, and mode of delivery among children undergoing orchidopexy for cryptorchidism: a retrospective cohort study from Northern Jordan.
+## 3. 论文标题：Parental age, consanguinity, parity, and mode of delivery among children undergoing orchidopexy for cryptorchidism: a retrospective cohort study from Northern Jordan.
 
 - 英文题目：Parental age, consanguinity, parity, and mode of delivery among children undergoing orchidopexy for cryptorchidism: a retrospective cohort study from Northern Jordan.
 - 主题：全球学术热点
@@ -390,7 +409,7 @@
 
 英文摘要：AIMS: Cryptorchidism is a common congenital male genitourinary anomaly with multifactorial etiology. Data on parental age, consanguinity, parity, and delivery mode among affected children in Middle Eastern populations remain limited. This study evaluated the distribution of these factors among children undergoing orchidopexy in Northern Jordan. PATIENTS AND METHODS: A retrospective study was conducted at Princess Rahma Teaching Hospital, Northern Jordan, including males aged 1-11 years who underwent orchidopexy for cryptorchidism between January 2016 and July 2024. Data were obtained from medical records and supplemented by structured telephone interviews. RESULTS: The study included 446 patients. Mean paternal and maternal ages were 34.5 ± 7 and 28.5 ± 6.6 years, respectively. Consanguinity was reported in 27.6% of families, 58.3% of births were vaginal deliveries, and 53.6% of families had ≥3 children. Fathers aged ≥40 years accounted for 24% of the cohort, whereas mothers aged ≥35 years represented 18.2%. Consanguineous families had lower paternal age (p = 0.044) and more frequently had parity >5 (11% vs. 3%, p = 0.013). CONCLUSIONS: Distinct demographic patterns involving consanguinity, paternal age, and parity were observed among children with cryptorchidism in Northern Jordan, supporting the need for further controlled regional studies. Undescended testis, also called cryptorchidism, is a condition in which one or both testicles do not move into the scrotum as expected during development. If the testicle remains undescended, treatment may be needed to reduce the risk of future health problems.We studied 446 boys aged 1–11 years who underwent surgery to treat an undescended testis at Princess Rahma Teaching Hospital in Northern Jordan between 2016 and 2024. We looked at the ages of their parents, whether their parents were related by blood, the number of children in their family, and whether they were born by vaginal delivery or cesarean section.We found that 27.6% of the boys had parents who were related by blood. The average age of the fathers was 34.5 years, while the average age of the mothers was 28.5 years. More than half of the families had three or more children, and 41.7% of the children were born by cesarean section.Among families in which the parents were related by blood, fathers were slightly younger on average, and families with more than five children were more common.Because this study did not include a comparison group, these findings cannot show that any of these factors cause undescended testis or increase its risk. The findings provide useful information about families of children undergoing treatment for this condition in Northern Jordan and may help guide future research.
 
-## 3. 论文标题：Hybrid quaternion-based denoising and deep feature fusion for early Alzheimer's prognosis.
+## 4. 论文标题：Hybrid quaternion-based denoising and deep feature fusion for early Alzheimer's prognosis.
 
 - 英文题目：Hybrid quaternion-based denoising and deep feature fusion for early Alzheimer's prognosis.
 - 主题：全球学术热点
@@ -409,7 +428,7 @@
 
 英文摘要：Alzheimer's Disease (AD) is one of the most common neurodegenerative diseases that causes irreversible cognitive impairment and agnosia. Early detection is extremely valuable in diagnostics, but diagnostic procedures continue to rely on subjective approaches as well as traditional neuroimaging biomarkers, which frequently exhibit low tolerance to noise interference and imprecise structure localization. Traditional approaches also have difficulty combining multi-modal scans (MRI and PET) and detecting early-stage Alzheimer's disease characteristics (e.g., hippocampal atrophy). Some critical limitations of the current state-of-the-art include: (1) extreme sensitivity to noise; (2) poor spatio-temporal feature fusion; and (3) a lack of biomarker prioritization during disease progression. This problem is difficult to solve because the stages of Alzheimer's disease (AD) are not well differentiated. To address the aforementioned challenges, we propose a new study using the Hybrid Quaternion-Based Denoising and Deep Feature Fusion (HQD-FF) framework. The architecture will include a Quaternion Non-Local Means (QNLM) denoising procedure to suppress Rician/Rayleigh noise while keeping the structure intact. Following that, a hybrid CNN-RNN architecture will be used to extract spatial and temporal features using an attention-based fusion technique, allowing the identification of important biomarkers such as cortical thinning. The evaluation was carried out using the public multi-modal neuroimaging ADNI and OASIS datasets, as well as a private set of MRI and PET images. The experimental results show that HQD-FF achieves a PSNR of 23.47 dB and SSIM of 0.745, which is 12-15% better than traditional denoising techniques. HQD-FF also achieves 93.4% classification accuracy, outperforming current baselines by 6.2% in terms of AD diagnosis and stage differentiation (EMCI, LMCI, and AD). The proposed framework was also tested for robustness and statistical significance using ROC analysis, Area Under the Curve analysis, Confusion matrix analysis, and the Wilcoxon signed-rank statistical test. HQD-FF provides a robust, interpretable, and scalable framework for Alzheimer's diagnosis, with the potential to support early intervention and personalized medicine. The generalizable framework may pave the way for multimodal disease classification in broader neurodegenerative research.
 
-## 4. 论文标题：Drug-induced metabolic remodeling promotes antimicrobial activity in macrophages and extends longevity in vivo.
+## 5. 论文标题：Drug-induced metabolic remodeling promotes antimicrobial activity in macrophages and extends longevity in vivo.
 
 - 英文题目：Drug-induced metabolic remodeling promotes antimicrobial activity in macrophages and extends longevity in vivo.
 - 主题：全球学术热点
@@ -428,7 +447,7 @@
 
 英文摘要：Multiple immune mechanisms must be coordinated to defend against a broad range of pathogens; however, the mechanisms by which broad-spectrum antipathogens act remain largely elusive. Here, we used systems biology approaches to understand the organization of human immune cells at the single-cell level and their reorganization in response to K21, a silane derivative effective against viral, bacterial, and fungal infections. K21 effectively reduced the infectivity of Enterococcus faecalis within macrophages while improving bacterial phagocytosis by human monocyte-derived macrophages, in a manner similar to that of known mitophagy inducers. K21 induced pro-inflammatory pathways in M1 and M2 macrophages without altering cytokine secretion, decreased a specific subtype of M1 macrophages and M2c macrophages, and improved mitochondrial health by enhancing mitochondrial recycling via mitophagy. Similar treatment of the model organism C. elegans induced mitophagy and extended lifespan, suggesting an evolutionarily conserved mechanism. Our work demonstrates that a drug that remodels mitochondrial metabolism can reshape the immune cell repertoire, potentially aiding the development of more effective antimicrobials and helping to prevent the emergence of drug-resistant pathogens.
 
-## 5. 论文标题：Visualizing the Golgi apparatus and Golgiphagy in vivo.
+## 6. 论文标题：Visualizing the Golgi apparatus and Golgiphagy in vivo.
 
 - 英文题目：Visualizing the Golgi apparatus and Golgiphagy in vivo.
 - 主题：全球学术热点
@@ -447,45 +466,7 @@
 
 英文摘要：The Golgi apparatus is essential for protein secretion and cellular homeostasis, yet its organization and turnover in living tissues remain poorly understood. Golgiphagy, the selective autophagic degradation of the Golgi, has emerged as a key quality control pathway, but its physiological regulation in vivo remains largely unknown. Here, we generated two reporter mouse lines for constitutive or Cre-dependent visualization of Golgi architecture and Golgiphagy, enabling quantitative single-cell analysis across tissues. These models revealed striking cell type- and tissue-specific heterogeneity in basal Golgiphagy, including higher activity in renal proximal than distal tubules and in cerebellar than cortical neurons. Starvation and lipopolysaccharide-induced inflammation also promoted Golgi remodeling and Golgiphagy in multiple organs, particularly the liver, spleen, and kidney. Together, these reporter mice provide a powerful genetic toolkit for studying Golgi dynamics in vivo and establish that Golgiphagy is a spatially heterogeneous and stress-responsive process under physiological conditions.
 
-## 6. 论文标题：Dopamine modulation of motor and implicit learning contributions to auditory temporal attention.
-
-- 英文题目：Dopamine modulation of motor and implicit learning contributions to auditory temporal attention.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：iScience
-- 影响因子：4.1
-- 分区：JCR Q1 / CAS 2区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-16
-- 分数：57
-- PMID：42774941
-- DOI：10.1016/j.isci.2026.117541
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42774941/
-
-中文摘要：摘要要点：Auditory periodic temporal attention operates optimally around 1.5 Hz when temporal structure is judged explicitly. Synchronized rhythmic movements further enhance its efficacy, an effect thought to depend on basal ganglia dopamine, crucial for both motor and temporal processing. However, whether dopamine underpins the relationship between auditory temporal attention and motor activity remains unclear. Using an auditory temporal attention task in Parkinson's disease (PD) patients ON versus OFF the dopaminergic medication L-DOPA, alongside healthy controls, we found no evidence that dopamine modulates the ∼1.5 Hz optimal sampling rate of auditory temporal attention. However, dopamine enables motor synchronization to the auditory stream and is hence crucial for the motor benefits of auditory temporal attention. Performing the first session ON L-DOPA also improved performance in the following session. These findings underscore a selective role for dopamine in audio-motor interaction, with no evidence that the intrinsic rhythm of auditory attention depends on dopamine.
-
-英文摘要：Auditory periodic temporal attention operates optimally around 1.5 Hz when temporal structure is judged explicitly. Synchronized rhythmic movements further enhance its efficacy, an effect thought to depend on basal ganglia dopamine, crucial for both motor and temporal processing. However, whether dopamine underpins the relationship between auditory temporal attention and motor activity remains unclear. Using an auditory temporal attention task in Parkinson's disease (PD) patients ON versus OFF the dopaminergic medication L-DOPA, alongside healthy controls, we found no evidence that dopamine modulates the ∼1.5 Hz optimal sampling rate of auditory temporal attention. However, dopamine enables motor synchronization to the auditory stream and is hence crucial for the motor benefits of auditory temporal attention. Performing the first session ON L-DOPA also improved performance in the following session. These findings underscore a selective role for dopamine in audio-motor interaction, with no evidence that the intrinsic rhythm of auditory attention depends on dopamine.
-
-## 7. 论文标题：High-resolution spatial transcriptomics of irradiated submandibular glands treated with fortified fibrin hydrogels.
-
-- 英文题目：High-resolution spatial transcriptomics of irradiated submandibular glands treated with fortified fibrin hydrogels.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：iScience
-- 影响因子：4.1
-- 分区：JCR Q1 / CAS 2区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-16
-- 分数：57
-- PMID：42774929
-- DOI：10.1016/j.isci.2026.117494
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42774929/
-
-中文摘要：摘要要点：Previous studies showed that fortified fibrin hydrogel (Ep-FH), generated by conjugating laminin-1 peptides (A99 and YIGSR) and growth factors (FGF7 and FGF10) to fibrin hydrogels, improves epithelial organization and secretory function in irradiated mouse submandibular glands (SMG). To define the cell type-specific mechanisms underlying these effects, we generated high-resolution spatial transcriptomic profiles using the Xenium Prime Mouse Pan Tissue and Pathways Panel (5,000 genes). Treatment with Ep-FH partially reactivated secretory- and polarity-related genes, shifted stromal and immune transcriptional programs toward the non-irradiated state, and reduced profibrotic signaling. Integrative clustering further showed increased similarity of acinar, stromal, immune, and myoepithelial populations to non-irradiated controls, whereas ductal, endothelial, and glial cells showed limited responses. These findings indicate that Ep-FH partially restores transcriptional programs in selected cell populations, suggesting that further optimization may improve regeneration throughout the irradiated SMG.
-
-英文摘要：Previous studies showed that fortified fibrin hydrogel (Ep-FH), generated by conjugating laminin-1 peptides (A99 and YIGSR) and growth factors (FGF7 and FGF10) to fibrin hydrogels, improves epithelial organization and secretory function in irradiated mouse submandibular glands (SMG). To define the cell type-specific mechanisms underlying these effects, we generated high-resolution spatial transcriptomic profiles using the Xenium Prime Mouse Pan Tissue and Pathways Panel (5,000 genes). Treatment with Ep-FH partially reactivated secretory- and polarity-related genes, shifted stromal and immune transcriptional programs toward the non-irradiated state, and reduced profibrotic signaling. Integrative clustering further showed increased similarity of acinar, stromal, immune, and myoepithelial populations to non-irradiated controls, whereas ductal, endothelial, and glial cells showed limited responses. These findings indicate that Ep-FH partially restores transcriptional programs in selected cell populations, suggesting that further optimization may improve regeneration throughout the irradiated SMG.
-
-## 8. 论文标题：该内容涉及脑损伤。原文：Youth Football and the Epidemic of Pediatric Brain Injury: Neurologic and Psychiatric Outcomes in a Cohort of 72,025 Concussions.
+## 7. 论文标题：该内容涉及脑损伤。原文：Youth Football and the Epidemic of Pediatric Brain Injury: Neurologic and Psychiatric Outcomes in a Cohort of 72,025 Concussions.
 
 - 英文题目：Youth Football and the Epidemic of Pediatric Brain Injury: Neurologic and Psychiatric Outcomes in a Cohort of 72,025 Concussions.
 - 主题：全球学术热点
@@ -503,6 +484,25 @@
 中文摘要：摘要要点：该内容涉及创伤性脑损伤、脑损伤。原文：BACKGROUND AND OBJECTIVES: Sports-related traumatic brain injury (TBI) is among the most common causes of long-term neurologic and psychiatric morbidity in children and young adults. Football, in particular, has been implicated as a leading source of TBI, yet large-scale comparative studies across sports and developmental stages are limited. The objective of this study was to quantify the burden of football-related TBI in youth compared with other sports and recreational activities, and to evaluate long-term neurologic and psychiatric outcomes across developmental stages. METHODS: This retrospective cohort study used the TriNetX Research Network, encompassing >150 million patients. Children and young adults (≤25 years) with a first TBI and activity cause of morbidity recorded on the day of injury were identified based on ICD-10 codes. Patients with TBI were compared with patients with lower leg fractures in the same activity with no recorded TBI on neurologic, psychiatric, and developmental outcomes. Attributable risks were calculated between TBI and lower leg fracture patients matched 1:1 on age category and sex. Prevalent cases were excluded. Multivariate Cox proportional hazard models adjusted for age category, sex, and activity compared the risk of each outcome across activities. RESULTS: Compared with other sports, football had the greatest quantity and severity of TBIs. Football accounted for 19.4% of 72,025 identified activity-related TBIs (mean age, 13.9 years; 32% female). Repeat TBI occurred in 37% of football injuries (32% overall). Attributable risks of football TBIs included neurologic outcomes (chronic headache, 23%; visual impairment and blindness, 5%; and neurodevelopmental disorders, 0.5%) and psychiatric outcomes (anxiety disorders, 5%; depressive disorders, 3%; substance use disorders, 1%; and violence and suicidality, 0.5%). TBIs at early ages were associated with mood and developmental disorders, while TBIs at later ages were associated with substance use disorders. DISCUSSION: Football is the single leading source of pediatric sports-related TBI, associated with high recurrence rates, substantial neurologic and psychiatric sequelae, and alt
 
 英文摘要：BACKGROUND AND OBJECTIVES: Sports-related traumatic brain injury (TBI) is among the most common causes of long-term neurologic and psychiatric morbidity in children and young adults. Football, in particular, has been implicated as a leading source of TBI, yet large-scale comparative studies across sports and developmental stages are limited. The objective of this study was to quantify the burden of football-related TBI in youth compared with other sports and recreational activities, and to evaluate long-term neurologic and psychiatric outcomes across developmental stages. METHODS: This retrospective cohort study used the TriNetX Research Network, encompassing >150 million patients. Children and young adults (≤25 years) with a first TBI and activity cause of morbidity recorded on the day of injury were identified based on ICD-10 codes. Patients with TBI were compared with patients with lower leg fractures in the same activity with no recorded TBI on neurologic, psychiatric, and developmental outcomes. Attributable risks were calculated between TBI and lower leg fracture patients matched 1:1 on age category and sex. Prevalent cases were excluded. Multivariate Cox proportional hazard models adjusted for age category, sex, and activity compared the risk of each outcome across activities. RESULTS: Compared with other sports, football had the greatest quantity and severity of TBIs. Football accounted for 19.4% of 72,025 identified activity-related TBIs (mean age, 13.9 years; 32% female). Repeat TBI occurred in 37% of football injuries (32% overall). Attributable risks of football TBIs included neurologic outcomes (chronic headache, 23%; visual impairment and blindness, 5%; and neurodevelopmental disorders, 0.5%) and psychiatric outcomes (anxiety disorders, 5%; depressive disorders, 3%; substance use disorders, 1%; and violence and suicidality, 0.5%). TBIs at early ages were associated with mood and developmental disorders, while TBIs at later ages were associated with substance use disorders. DISCUSSION: Football is the single leading source of pediatric sports-related TBI, associated with high recurrence rates, substantial neurologic and psychiatric sequelae, and altered developmental trajectories. These findings highlight football as a critical public health priority and support stronger preventive measures, including delaying tackle football participation and regulating institutional promotion of youth football.
+
+## 8. 论文标题：Platelet-rich plasma as an adjuvant therapy for intrauterine adhesions: a narrative review of mechanisms, clinical efficacy and combination strategies.
+
+- 英文题目：Platelet-rich plasma as an adjuvant therapy for intrauterine adhesions: a narrative review of mechanisms, clinical efficacy and combination strategies.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Annals of medicine
+- 影响因子：4.3
+- 分区：JCR Q1 / CAS 2区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-12-01
+- 分数：55
+- PMID：42751776
+- DOI：10.1080/07853890.2026.2731715
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42751776/
+
+中文摘要：摘要要点：该内容涉及干细胞、间充质干细胞。原文：BACKGROUND: Intrauterine adhesions (IUA), particularly moderate to severe cases, is a leading cause of decreased menstrual flow and secondary infertility in women, affecting an estimated 2.8%∼46% of infertile women. Hysteroscopy remains the gold standard for diagnosis, with high sensitivity and specificity (both exceeding 90%), while three-dimensional ultrasonography offers a non-invasive alternative with a reported sensitivity of 86% and specificity of 90% for detecting intrauterine abnormalities. The success of surgical management via transcervical resection of adhesions (TCRA) is primarily gauged by the resumption of normal menstrual flow and the absence of significant adhesions on second-look hysteroscopy or ultrasonography. However, the high recurrence rate postoperatively, especially in severe cases (up to 60%), and the persistently thin endometrium significantly impair patients' reproductive outcomes. Existing adjuvant treatments such as high-dose oestrogen, uterine stents and hydrogels have failed to substantially improve patients' fertility outcomes. Platelet-rich plasma (PRP), as an autologous biological preparation rich in various growth factors, has demonstrated remarkable application prospects in recent years for the adjuvant and combined treatment of IUA due to its potent pro-angiogenic, anti-inflammatory and tissue repair/regeneration-promoting properties. OBJECTIVE: This review aims to summarize the mechanisms and clinical efficacy of PRP as an adjuvant therapy for IUA, providing new perspectives for the comprehensive management of this condition. DISCUSSION: We explore the mechanisms of action and clinical outcomes of PRP monotherapy following IUA surgery and evaluate the safety and application advantages of PRP and autologous PRP. The mechanisms of the synergistic effects of PRP combined with mesenchymal stem cells(MSCs), uterine scaffolds and hydrogels, as well as the efficacy of these combination therapies, were discussed. In most studies, favourable feedback was obtained, while a few studies suggested that PRP alone or in combination failed to improve the reproductive outcomes of IUA patients. CONCLUSION: Current evidence suggests that PRP,
+
+英文摘要：BACKGROUND: Intrauterine adhesions (IUA), particularly moderate to severe cases, is a leading cause of decreased menstrual flow and secondary infertility in women, affecting an estimated 2.8%∼46% of infertile women. Hysteroscopy remains the gold standard for diagnosis, with high sensitivity and specificity (both exceeding 90%), while three-dimensional ultrasonography offers a non-invasive alternative with a reported sensitivity of 86% and specificity of 90% for detecting intrauterine abnormalities. The success of surgical management via transcervical resection of adhesions (TCRA) is primarily gauged by the resumption of normal menstrual flow and the absence of significant adhesions on second-look hysteroscopy or ultrasonography. However, the high recurrence rate postoperatively, especially in severe cases (up to 60%), and the persistently thin endometrium significantly impair patients' reproductive outcomes. Existing adjuvant treatments such as high-dose oestrogen, uterine stents and hydrogels have failed to substantially improve patients' fertility outcomes. Platelet-rich plasma (PRP), as an autologous biological preparation rich in various growth factors, has demonstrated remarkable application prospects in recent years for the adjuvant and combined treatment of IUA due to its potent pro-angiogenic, anti-inflammatory and tissue repair/regeneration-promoting properties. OBJECTIVE: This review aims to summarize the mechanisms and clinical efficacy of PRP as an adjuvant therapy for IUA, providing new perspectives for the comprehensive management of this condition. DISCUSSION: We explore the mechanisms of action and clinical outcomes of PRP monotherapy following IUA surgery and evaluate the safety and application advantages of PRP and autologous PRP. The mechanisms of the synergistic effects of PRP combined with mesenchymal stem cells(MSCs), uterine scaffolds and hydrogels, as well as the efficacy of these combination therapies, were discussed. In most studies, favourable feedback was obtained, while a few studies suggested that PRP alone or in combination failed to improve the reproductive outcomes of IUA patients. CONCLUSION: Current evidence suggests that PRP, both as a standalone and adjunctive therapy, shows promise in promoting endometrial regeneration and improving certain clinical outcomes, such as endometrial thickness and menstrual flow, in patients with IUA. However, the clinical efficacy remains inconclusive due to significant heterogeneity in study designs, patient populations and PRP preparation protocols. High-quality, large-scale randomized controlled trials with standardized methodologies and long-term follow-up are urgently needed to definitively establish its impact on critical reproductive outcomes, such as live birth rates, before its widespread clinical adoption can be recommended.
 
 # 国内外医学与医药新闻
 
@@ -525,26 +525,45 @@
 
 英文摘要：Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, raising hopes that a similar approach could eventually help repair the human brain after stroke.
 
-## 2. 论文标题：Natural Peptide Counters Multiple Hallmarks of Alzheimer’s
+## 2. 论文标题：GLP-1 weight loss and diabetes drugs linked to nutritional deficiencies in nearly 1 in 6 children
 
-- 英文题目：Natural Peptide Counters Multiple Hallmarks of Alzheimer’s
+- 英文题目：GLP-1 weight loss and diabetes drugs linked to nutritional deficiencies in nearly 1 in 6 children
 - 主题：国内外医学与医药新闻
-- 来源：Neuroscience News
-- 期刊/平台：Neuroscience News
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
 - 影响因子：待核实
 - 分区：待核实
 - 指标来源：未匹配
-- 日期：Tue, 22 Se
-- 分数：44
+- 日期：Wed, 23 Se
+- 分数：40
 - PMID：N/A
 - DOI：N/A
-- PubMed/原文链接：https://neurosciencenews.com/peptide-catestatin-alzheimers-neurology-31239/
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/09/260923035926.htm
 
-中文摘要：摘要要点：该内容涉及神经炎症、炎症。原文：<a href="https://neurosciencenews.com/peptide-catestatin-alzheimers-neurology-31239/" rel="nofollow" title="Natural Peptide Counters Multiple Hallmarks of Alzheimer’s"><img alt="This shows neurons. Caption reads &quot;Can a natural peptide tackle multiple drivers of Alzheimer’s at once?&quot;" class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/09/Can-a-natural-peptide-tackle-multiple-drivers-of-Alzheimers-at-once-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Researchers discover catestatin, an endogenous peptide that reduces amyloid, tau, and neuroinflammation to restore brain function.
+中文摘要：摘要要点：Children taking GLP-1 medications (such as Victoza, Saxenda, Trulicity, and Ozempic) for weight loss, prediabetes, or type 2 diabetes may face an overlooked risk: nutritional deficiencies. A new study found that nearly 1 in 6 young patients developed a diagnosed deficiency within a year of starting treatment, with vitamin D deficiency affecting about 12%.
 
-英文摘要：<a href="https://neurosciencenews.com/peptide-catestatin-alzheimers-neurology-31239/" rel="nofollow" title="Natural Peptide Counters Multiple Hallmarks of Alzheimer’s"><img alt="This shows neurons. Caption reads &quot;Can a natural peptide tackle multiple drivers of Alzheimer’s at once?&quot;" class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/09/Can-a-natural-peptide-tackle-multiple-drivers-of-Alzheimers-at-once-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Researchers discover catestatin, an endogenous peptide that reduces amyloid, tau, and neuroinflammation to restore brain function.
+英文摘要：Children taking GLP-1 medications (such as Victoza, Saxenda, Trulicity, and Ozempic) for weight loss, prediabetes, or type 2 diabetes may face an overlooked risk: nutritional deficiencies. A new study found that nearly 1 in 6 young patients developed a diagnosed deficiency within a year of starting treatment, with vitamin D deficiency affecting about 12%.
 
-## 3. 论文标题：Hidden “immune organ” in the skull may help fight brain cancer
+## 3. 论文标题：Breakthrough drug reverses skin aging and dramatically speeds healing
+
+- 英文题目：Breakthrough drug reverses skin aging and dramatically speeds healing
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Wed, 23 Se
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/09/260922223008.htm
+
+中文摘要：摘要要点：该内容涉及炎症。原文：A topical drug that removes aging, damaged cells helped older mice heal skin wounds significantly faster. The treatment appeared to reactivate repair pathways involved in inflammation, collagen production, and new blood vessel growth.
+
+英文摘要：A topical drug that removes aging, damaged cells helped older mice heal skin wounds significantly faster. The treatment appeared to reactivate repair pathways involved in inflammation, collagen production, and new blood vessel growth.
+
+## 4. 论文标题：Hidden “immune organ” in the skull may help fight brain cancer
 
 - 英文题目：Hidden “immune organ” in the skull may help fight brain cancer
 - 主题：国内外医学与医药新闻
@@ -563,7 +582,7 @@
 
 英文摘要：Scientists discovered a hidden “immune organ” inside the skull that acts as a rapid first responder against brain cancer in mice. Strengthening this local immune defense improved tumor rejection and survival, raising the possibility of new treatments that target the skull directly.
 
-## 4. 论文标题：This new drug could break cancer’s resistance to treatment
+## 5. 论文标题：This new drug could break cancer’s resistance to treatment
 
 - 英文题目：This new drug could break cancer’s resistance to treatment
 - 主题：国内外医学与医药新闻
@@ -582,7 +601,45 @@
 
 英文摘要：A new experimental drug called CS18 may help break through cancer drug resistance by disabling several of the defenses tumors use to survive treatment. It strengthened existing therapies, restored drug sensitivity in resistant lung cancer cells, and slowed tumor growth in animal models.
 
-## 5. 论文标题：Stopping Ozempic may raise heart attack and stroke risk
+## 6. 论文标题：Scientists thought they knew how this 70-year-old leukemia drug worked
+
+- 英文题目：Scientists thought they knew how this 70-year-old leukemia drug worked
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Thu, 24 Se
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/09/260923035932.htm
+
+中文摘要：摘要要点：A 70-year-old leukemia drug is still revealing new secrets. Researchers found that removing a protein called NUDT5 protected cells from the drug, even though simply blocking the protein had little effect. The unexpected result points to a hidden cellular role that could help explain why people respond differently to certain leukemia treatments.
+
+英文摘要：A 70-year-old leukemia drug is still revealing new secrets. Researchers found that removing a protein called NUDT5 protected cells from the drug, even though simply blocking the protein had little effect. The unexpected result points to a hidden cellular role that could help explain why people respond differently to certain leukemia treatments.
+
+## 7. 论文标题：When what you see doesn’t make sense, your brain does something remarkable
+
+- 英文题目：When what you see doesn’t make sense, your brain does something remarkable
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Mind Brain
+- 期刊/平台：ScienceDaily Mind Brain
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
+- 日期：Thu, 24 Se
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/09/260923035929.htm
+
+中文摘要：摘要要点：The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while conflicting signals rapidly faded away. This “consensus building” mechanism could help explain how the brain turns many specialized inputs into one unified view of the world.
+
+英文摘要：The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while conflicting signals rapidly faded away. This “consensus building” mechanism could help explain how the brain turns many specialized inputs into one unified view of the world.
+
+## 8. 论文标题：Stopping Ozempic may raise heart attack and stroke risk
 
 - 英文题目：Stopping Ozempic may raise heart attack and stroke risk
 - 主题：国内外医学与医药新闻
@@ -601,7 +658,7 @@
 
 英文摘要：A large study suggests the cardiovascular benefits of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound can disappear surprisingly quickly when treatment stops. After two years off the medications, patients had a 22% higher risk of heart attack, stroke, and death compared with those who stayed on them.
 
-## 6. 论文标题：Brain scans reveal a possible cause of long COVID fatigue and brain fog
+## 9. 论文标题：Brain scans reveal a possible cause of long COVID fatigue and brain fog
 
 - 英文题目：Brain scans reveal a possible cause of long COVID fatigue and brain fog
 - 主题：国内外医学与医药新闻
@@ -620,15 +677,15 @@
 
 英文摘要：Researchers have found evidence that long COVID may damage dopamine releasing neurons in the brain, potentially explaining persistent fatigue, low motivation, slowed movement, and memory difficulties. The discovery could lead to new treatments that target the brain's dopamine system.
 
-## 7. 论文标题：These blood thinners may have an unexpected benefit for Alzheimer’s patients
+## 10. 论文标题：These blood thinners may have an unexpected benefit for Alzheimer’s patients
 
 - 英文题目：These blood thinners may have an unexpected benefit for Alzheimer’s patients
 - 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
+- 来源：ScienceDaily Mind Brain
+- 期刊/平台：ScienceDaily Mind Brain
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
 - 日期：Fri, 18 Se
 - 分数：40
 - PMID：N/A
@@ -639,65 +696,8 @@
 
 英文摘要：Newer blood thinners may do more than prevent strokes in people with Alzheimer’s disease and atrial fibrillation. Researchers found that patients taking NOACs experienced a slower decline in cognitive function than those using warfarin or no blood thinners. The effect was modest each year but could add up over time.
 
-## 8. 论文标题：Scientists discover cells that cheat death and rebuild damaged tissue
-
-- 英文题目：Scientists discover cells that cheat death and rebuild damaged tissue
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Fri, 18 Se
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/09/260917003722.htm
-
-中文摘要：摘要要点：Scientists discovered a population of cells that can start the process of programmed cell death, survive it, and then help rapidly rebuild damaged tissue. Their descendants become far more resistant to future damage, revealing a mechanism that could improve healing but may also help cancers return after treatment.
-
-英文摘要：Scientists discovered a population of cells that can start the process of programmed cell death, survive it, and then help rapidly rebuild damaged tissue. Their descendants become far more resistant to future damage, revealing a mechanism that could improve healing but may also help cancers return after treatment.
-
-## 9. 论文标题：Five Brain Profiles of Depression Identified
-
-- 英文题目：Five Brain Profiles of Depression Identified
-- 主题：国内外医学与医药新闻
-- 来源：Neuroscience News
-- 期刊/平台：Neuroscience News
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Wed, 23 Se
-- 分数：34
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://neurosciencenews.com/five-brain-profiles-depression-31246/
-
-中文摘要：摘要要点：<a href="https://neurosciencenews.com/five-brain-profiles-depression-31246/" rel="nofollow" title="Five Brain Profiles of Depression Identified"><img alt="This shows statue like heads. Caption reads &quot;tudy Uncovers 5 Distinct Brain Subtypes of Depression&quot;." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/09/Study-Uncovers-5-Distinct-Brain-Subtypes-of-Depression-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Researchers used MEG to uncover five distinct brain connectivity subtypes of depression, revealing contrasting neural activity under the same diagnosis.
-
-英文摘要：<a href="https://neurosciencenews.com/five-brain-profiles-depression-31246/" rel="nofollow" title="Five Brain Profiles of Depression Identified"><img alt="This shows statue like heads. Caption reads &quot;tudy Uncovers 5 Distinct Brain Subtypes of Depression&quot;." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/09/Study-Uncovers-5-Distinct-Brain-Subtypes-of-Depression-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Researchers used MEG to uncover five distinct brain connectivity subtypes of depression, revealing contrasting neural activity under the same diagnosis.
-
-## 10. 论文标题：Ancient Midbrain Circuit Decodes Social Escape Cues
-
-- 英文题目：Ancient Midbrain Circuit Decodes Social Escape Cues
-- 主题：国内外医学与医药新闻
-- 来源：Neuroscience News
-- 期刊/平台：Neuroscience News
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Wed, 23 Se
-- 分数：34
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://neurosciencenews.com/midbrain-social-neuroscience-escape-31245/
-
-中文摘要：摘要要点：<a href="https://neurosciencenews.com/midbrain-social-neuroscience-escape-31245/" rel="nofollow" title="Ancient Midbrain Circuit Decodes Social Escape Cues"><img alt="This shows the outline of a head. Caption reads &quot;Decoding the Neural Machinery Behind Collective Escape.&quot;" class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/09/Decoding-the-Neural-Machinery-Behind-Collective-Escape-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Scientists discover an ancient midbrain circuit in transparent glassfish that detects escaping or vanishing peers to coordinate collective defense.
-
-英文摘要：<a href="https://neurosciencenews.com/midbrain-social-neuroscience-escape-31245/" rel="nofollow" title="Ancient Midbrain Circuit Decodes Social Escape Cues"><img alt="This shows the outline of a head. Caption reads &quot;Decoding the Neural Machinery Behind Collective Escape.&quot;" class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/09/Decoding-the-Neural-Machinery-Behind-Collective-Escape-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Scientists discover an ancient midbrain circuit in transparent glassfish that detects escaping or vanishing peers to coordinate collective defense.
-
 ## 抓取提示
 
-- arXiv neurosurgery_general: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=15)
 - biorxiv: Expecting value: line 1 column 1 (char 0)
 - medrxiv: Expecting value: line 1 column 1 (char 0)
+- Medical news Neuroscience News: feed parse failed
