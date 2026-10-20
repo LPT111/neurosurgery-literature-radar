@@ -1,6 +1,6 @@
 # 神外文献日报 V2
 
-生成时间：2026-10-19 09:43:06
+生成时间：2026-10-20 10:06:13
 核心神外文献数量：10
 全部条目数量：36
 
@@ -9,7 +9,7 @@
 ## 1. 论文标题：该内容涉及神经炎症、炎症。原文：Neuroinflammation in Alzheimer's disease: From glial cell states and molecular networks to biomarkers and precision therapeutics.
 
 - 英文题目：Neuroinflammation in Alzheimer's disease: From glial cell states and molecular networks to biomarkers and precision therapeutics.
-- 主题：创伤性脑损伤
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
 - 期刊/平台：Molecular and cellular neurosciences
 - 影响因子：待核实
@@ -28,7 +28,7 @@
 ## 2. 论文标题：Melatonin ameliorates behavioral deficits in 5xFAD mice through modulation of neurogenesis, neuroimmune responses, neurotransmission, and metabolic pathways.
 
 - 英文题目：Melatonin ameliorates behavioral deficits in 5xFAD mice through modulation of neurogenesis, neuroimmune responses, neurotransmission, and metabolic pathways.
-- 主题：创伤性脑损伤
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
 - 期刊/平台：Brain, behavior, and immunity
 - 影响因子：7.6
@@ -44,7 +44,45 @@
 
 英文摘要：Alzheimer's disease (AD) is a neurodegenerative disorder with limited disease-modifying treatment options. Melatonin, an endogenous hormone, has been shown to have therapeutic effects on amyloid deposition, oxidative stress, and neuroinflammation in AD. However, the mechanisms of its neuroprotective effects in the hippocampus remain largely unknown. This study aimed to investigate the multi-mechanistic neuroprotective effects of melatonin in AD. Eight-month-old female 5xFAD transgenic mice were treated with melatonin (10 mg/kg) for 4 weeks. Temozolomide and bromodeoxyuridine were used to block neurogenesis and to label proliferating neurons, respectively. Our results showed that 5xFAD mice treated with melatonin exhibited improved exploratory behavior, enhanced memory performance, reduced depressive-like symptoms, and decreased levels of stress hormones. At the molecular level, melatonin reduced amyloid-beta (Aβ) plaque accumulation, elevated hippocampal neurogenesis markers (DCX and BrdU), increased Trem2 expression and anti-inflammatory microglial activation, restored serotonergic, dopaminergic, catecholaminergic, and GABAergic neurotransmission, and partially normalized broader hippocampal metabolic pathways. Notably, temozolomide treatment abrogated the beneficial effects of melatonin on memory performance and depressive-like behavior in 5xFAD mice, indicating a neurogenesis-dependent mechanism. Collectively, these findings suggest that melatonin ameliorates behavioral deficits in 5xFAD mice through both neurogenesis-independent (reduced Aβ plaque accumulation, Trem2-microglial activation, neurotransmission restoration, and metabolic remodeling) and hippocampal neurogenesis-dependent mechanisms. Overall, melatonin holds therapeutic potential for attenuating the neuropathology and behavioral deficits in AD.
 
-## 3. 论文标题：该内容涉及神经炎症、炎症。原文：Molecular Signatures of HIV-Induced Neuroinflammation and Neurodegeneration in Human Cerebral Organoids: Identification of Therapeutic Targets for NeuroHIV.
+## 3. 论文标题：该内容涉及小胶质细胞。原文：Chaihu-Jia-Longgu-Muli Tang ameliorates chronic restraint stress-induced depressive-like behaviors in association with modulation of the gut microbiota-NLRP3 inflammasome-microglia axis.
+
+- 英文题目：Chaihu-Jia-Longgu-Muli Tang ameliorates chronic restraint stress-induced depressive-like behaviors in association with modulation of the gut microbiota-NLRP3 inflammasome-microglia axis.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Metabolic brain disease
+- 影响因子：3.5
+- 分区：JCR Q2 / CAS 4区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-10-19
+- 分数：75
+- PMID：42895579
+- DOI：10.1007/s11011-026-01971-0
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42895579/
+
+中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、炎症。原文：Chronic stress-induced neuroinflammation and gut microbiota dysbiosis have been implicated in the pathogenesis of depression. The classic herbal formula Chaihu-Jia-Longgu-Muli Tang (CLM) has been reported to exert antidepressant effects, but the underlying mechanisms remain poorly understood. This study aimed to investigate whether CLM ameliorates depressive-like behavior in chronic restraint stress (CRS)-induced mice and to explore its association with the gut microbiota remodeling, NLRP3 inflammasome signaling, and microglia activation. A mouse model of depression was established through exposure to CRS. Depressive-like behaviors were assessed using the sucrose preference test (SPT), tail suspension test (TST), and open field test (OFT). Hippocampal neuronal damage was evaluated by HE and Nissl staining. Intestinal barrier integrity was examined by HE staining and immunofluorescence staining for ZO-1 and occludin. Colonic and hippocampal levels of pro-inflammatory cytokines were measured by ELISA. Gut microbiota composition was analyzed by 16 S rRNA gene sequencing. Hippocampal M1 microglial polarization and microglial NLRP3 localization were assessed by Iba-1/CD86 and Iba-1/NLRP3 double immunofluorescence staining, and NLRP3 inflammasome-related protein expression was further evaluated by Western blotting. CLM attenuated CRS-induced depressive-like behaviors and hippocampal neuronal damage, restored gut barrier integrity as indicated by increased ZO-1 and occludin expression and reduced colonic IL-6, TNF-α, and IL-1β levels, and reshaped the gut microbiota by increasing SCFA-producing Muribaculaceae, Alloprevotella, and Bacteroides and decreasing Dubosiella and Lactobacillus spp. Exploratory Spearman analyses identified several nominal associations between microbial taxa and behavioral or inflammatory variables; however, these associations did not remain significant after Benjamini-Hochberg FDR correction and should therefore be interpreted as hypothesis-generating. CLM-H also reduced hippocampal CD86⁺/Iba-1⁺ cells, decreased NLRP3+/Iba-1+ co-localization, and reduced NLRP3, caspase-1 p20, and pro-IL-1β expression. CLM-H ameliorates CRS-induced depressive-lik
+
+英文摘要：Chronic stress-induced neuroinflammation and gut microbiota dysbiosis have been implicated in the pathogenesis of depression. The classic herbal formula Chaihu-Jia-Longgu-Muli Tang (CLM) has been reported to exert antidepressant effects, but the underlying mechanisms remain poorly understood. This study aimed to investigate whether CLM ameliorates depressive-like behavior in chronic restraint stress (CRS)-induced mice and to explore its association with the gut microbiota remodeling, NLRP3 inflammasome signaling, and microglia activation. A mouse model of depression was established through exposure to CRS. Depressive-like behaviors were assessed using the sucrose preference test (SPT), tail suspension test (TST), and open field test (OFT). Hippocampal neuronal damage was evaluated by HE and Nissl staining. Intestinal barrier integrity was examined by HE staining and immunofluorescence staining for ZO-1 and occludin. Colonic and hippocampal levels of pro-inflammatory cytokines were measured by ELISA. Gut microbiota composition was analyzed by 16 S rRNA gene sequencing. Hippocampal M1 microglial polarization and microglial NLRP3 localization were assessed by Iba-1/CD86 and Iba-1/NLRP3 double immunofluorescence staining, and NLRP3 inflammasome-related protein expression was further evaluated by Western blotting. CLM attenuated CRS-induced depressive-like behaviors and hippocampal neuronal damage, restored gut barrier integrity as indicated by increased ZO-1 and occludin expression and reduced colonic IL-6, TNF-α, and IL-1β levels, and reshaped the gut microbiota by increasing SCFA-producing Muribaculaceae, Alloprevotella, and Bacteroides and decreasing Dubosiella and Lactobacillus spp. Exploratory Spearman analyses identified several nominal associations between microbial taxa and behavioral or inflammatory variables; however, these associations did not remain significant after Benjamini-Hochberg FDR correction and should therefore be interpreted as hypothesis-generating. CLM-H also reduced hippocampal CD86⁺/Iba-1⁺ cells, decreased NLRP3+/Iba-1+ co-localization, and reduced NLRP3, caspase-1 p20, and pro-IL-1β expression. CLM-H ameliorates CRS-induced depressive-like behavior and neuronal damage in association with modulation of the gut microbiota composition, NLRP3 inflammasome-related signaling, and microglial activation. These findings support the potential of CLM as a multi-target intervention for depression-related phenotypes, while further causal validation is still required.
+
+## 4. 论文标题：Apolipoprotein E4 and immune dysfunction in Alzheimer's disease: mechanisms and therapeutic implications.
+
+- 英文题目：Apolipoprotein E4 and immune dysfunction in Alzheimer's disease: mechanisms and therapeutic implications.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Trends in neurosciences
+- 影响因子：15.1
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-10-19
+- 分数：75
+- PMID：42893889
+- DOI：10.1016/j.tins.2026.09.009
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42893889/
+
+中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、炎症。原文：Emerging evidence suggests that apolipoprotein E4 (APOE4) functions as an organizer of brain-periphery immune crosstalk, coupling maladaptive microglial states with peripheral immune remodeling to establish a self-reinforcing neuroimmune loop that may accelerate the progression of Alzheimer's disease. In the central nervous system, APOE4 pushes microglia away from homeostatic surveillance toward metabolically stressed, inflammatory, and synaptotoxic phenotypes, thereby weakening pathological protein clearance and promoting neurodegeneration. In the periphery, APOE4 primes innate and adaptive immune cells toward a pro-inflammatory state, creating a reservoir that can communicate with the diseased brain and infiltrate it. In addition, APOE4 erodes the separation between central and peripheral immune compartments, enabling bidirectional immune crosstalk that amplifies neuroinflammation and neurodegeneration. In this review, we synthesize evidence for APOE4-driven central and peripheral immune dysregulation; discuss therapeutic opportunities for targeting the APOE4 immune axis; and highlight the need for human-derived, longitudinal, cross-tissue studies to identify causal, stage-specific, and targetable immune nodes for precision intervention.
+
+英文摘要：Emerging evidence suggests that apolipoprotein E4 (APOE4) functions as an organizer of brain-periphery immune crosstalk, coupling maladaptive microglial states with peripheral immune remodeling to establish a self-reinforcing neuroimmune loop that may accelerate the progression of Alzheimer's disease. In the central nervous system, APOE4 pushes microglia away from homeostatic surveillance toward metabolically stressed, inflammatory, and synaptotoxic phenotypes, thereby weakening pathological protein clearance and promoting neurodegeneration. In the periphery, APOE4 primes innate and adaptive immune cells toward a pro-inflammatory state, creating a reservoir that can communicate with the diseased brain and infiltrate it. In addition, APOE4 erodes the separation between central and peripheral immune compartments, enabling bidirectional immune crosstalk that amplifies neuroinflammation and neurodegeneration. In this review, we synthesize evidence for APOE4-driven central and peripheral immune dysregulation; discuss therapeutic opportunities for targeting the APOE4 immune axis; and highlight the need for human-derived, longitudinal, cross-tissue studies to identify causal, stage-specific, and targetable immune nodes for precision intervention.
+
+## 5. 论文标题：该内容涉及神经炎症、炎症。原文：Molecular Signatures of HIV-Induced Neuroinflammation and Neurodegeneration in Human Cerebral Organoids: Identification of Therapeutic Targets for NeuroHIV.
 
 - 英文题目：Molecular Signatures of HIV-Induced Neuroinflammation and Neurodegeneration in Human Cerebral Organoids: Identification of Therapeutic Targets for NeuroHIV.
 - 主题：创伤性脑损伤
@@ -63,7 +101,7 @@
 
 英文摘要：HIV-associated neurological complications remain a major concern in people living with HIV (PWH), even under effective viral suppression with combination antiretroviral therapy (cART), underscoring unresolved mechanisms driving HIV-related neurodegeneration. To address this gap, we used HIV-1-infected human cerebral organoids (hCOs) containing microglia as a physiologically relevant three-dimensional model of the central nervous system (CNS) and validated key findings in the brain region of simian immunodeficiency virus (SIV)-infected, cART-treated rhesus macaque model. Integrated single-nucleus RNA sequencing with ATAC-seq (multi-omics), identifies cell-type-specific alterations in dual innate immune-driven inflammatory signaling pathways across neural and glial populations in hCOs. Microglia were preferentially infected and activated, initiating IL-17A-mediated cascades involving IFN-γ/STAT1, CEBPB, and NF-κB signaling. These pathways converged with cGAS-STING and Notch-NEURL1 signaling, both associated with neuroinflammation and synaptic dysfunction. cART suppressed viral replication, reduced IL-17A-mediated neuroinflammation, improved mitochondrial function, and restored synaptic gene expression. Collectively, these findings identify dysregulation of IL-17A, STAT1, CEBPB, and cGAS-STING signaling as key molecular drivers of HIV-associated neuroinflammation. They also establish a potential mechanistic link between IL-17A signaling and microglial remodeling, providing a translational framework for the development of CNS-targeted therapies in PWH.
 
-## 4. 论文标题：An aging-sensitive secreted phospholipase confers neuroprotection and cognitive resilience.
+## 6. 论文标题：An aging-sensitive secreted phospholipase confers neuroprotection and cognitive resilience.
 
 - 英文题目：An aging-sensitive secreted phospholipase confers neuroprotection and cognitive resilience.
 - 主题：小胶质细胞与 TREM2
@@ -82,7 +120,7 @@
 
 英文摘要：Cognitive reserve theory posits that compensatory mechanisms during aging stave off cognitive decline and lower risk for Alzheimer's disease. Here, in a screen for hippocampal dentate granule cell (DGC) synapse loss-induced factors in mice, we identified a secreted phospholipase, Pla2g2f, whose expression increases in DGCs during aging and is associated with cognitive resilience in humans. Pla2g2f deletion in DGCs exacerbates aging-associated pathophysiological changes, including synapse loss, inflammatory microglia, reactive astrogliosis, impaired neurogenesis, lipid dysregulation, lipid droplet accumulation and hippocampal-dependent memory loss. Conversely, boosting Pla2g2f in DGCs during aging is sufficient to prevent these pathophysiological alterations in hippocampal-cortical circuits, protect memory and prophylactically modify trajectory of cognitive decline. Mutagenesis of the catalytic site of PLA2G2F prevented lipid droplet mobilization and reduction of reactive gliosis and inflammatory microglia. Neuronal PLA2G2F mediates intercellular signaling to decrease lipid droplet and cholesterol ester load in human induced pluripotent stem cell-derived microglia. Our findings implicate PLA2G2F as a compensatory neuroprotective broadcast signal that maintains lipid homeostasis to counteract aging-associated cognitive decline.
 
-## 5. 论文标题：Akkermansia muciniphila gavage alleviates depression-like behaviors in female A53T α-synuclein transgenic mice.
+## 7. 论文标题：Akkermansia muciniphila gavage alleviates depression-like behaviors in female A53T α-synuclein transgenic mice.
 
 - 英文题目：Akkermansia muciniphila gavage alleviates depression-like behaviors in female A53T α-synuclein transgenic mice.
 - 主题：创伤性脑损伤
@@ -101,7 +139,7 @@
 
 英文摘要：Parkinson's disease (PD) is characterized not only by progressive motor deficits but also by non-motor symptoms, such as depression, which often emerge during the prodromal stage and significantly impair quality of life. While Akkermansia muciniphila (AKK) has shown potential in modulating neuroinflammation, its specific role and underlying mechanisms in alleviating PD-associated non-motor symptoms remain unclear. In this study, we investigated the effects of AKK intervention in 16-month-old female A53T α-synuclein (α-syn) transgenic mice. Behavioral assessments revealed that oral administration of AKK significantly ameliorated depression-like behaviors, evidenced by reduced immobility in the forced swim test and increased sucrose preference, without affecting motor function, spatial memory, or gastrointestinal motility. Mechanistically, the intervention exhibited genotype-specific effects: AKK significantly increased plasma 5-HT levels in C57 mice. This increase was associated with an enrichment of Lactobacillus taiwanensis and metabolic pathways favoring peripheral tryptophan conversion. Conversely, in A53T mice, the treatment specifically elevated hippocampal 5-HT levels without altering plasma concentrations. This central effect correlated with distinct microbial remodeling, characterized by the enrichment of butyrate/propionate-producing Lachnospiraceae and the activation of purine degradation. Collectively, these findings provide novel mechanistic insights into the therapeutic potential of AKK for managing non-motor symptoms in PD. While limited to a female cohort, our results suggest that AKK ameliorates depression-like behaviors in PD through sex-specific remodeling of the gut microbiome and serotonergic signaling.
 
-## 6. 论文标题：该内容涉及创伤性脑损伤、脑损伤。原文：Creatine preserves mitochondrial integrity and ameliorates early epileptiform activity and cognitive impairment via regulation of Na⁺,K⁺-ATPase in adolescent rats with severe traumatic brain injury.
+## 8. 论文标题：该内容涉及创伤性脑损伤、脑损伤。原文：Creatine preserves mitochondrial integrity and ameliorates early epileptiform activity and cognitive impairment via regulation of Na⁺,K⁺-ATPase in adolescent rats with severe traumatic brain injury.
 
 - 英文题目：Creatine preserves mitochondrial integrity and ameliorates early epileptiform activity and cognitive impairment via regulation of Na⁺,K⁺-ATPase in adolescent rats with severe traumatic brain injury.
 - 主题：创伤性脑损伤
@@ -120,7 +158,7 @@
 
 英文摘要：In this study, we demonstrate for the first time that post-injury creatine supplementation (300 mg/kg, p.o.) administered for two weeks attenuates blood-brain barrier disruption, cortical lesion volume (by ∼60%), spatial memory deficits (reducing escape latency by ∼50% in the Barnes maze), hippocampal theta/delta rhythm alterations, and epileptiform activity in 35-day-old male rats subjected to severe fluid percussion injury (FPI). In the hippocampus, the FPI protocol did not cause overt neuronal loss-particularly of parvalbumin-positive neurons in the CA1 and CA2 regions-but it significantly reduced creatine levels and induced marked mitochondrial dysfunction. These alterations were evidenced by impaired MTT reduction, disrupted mitochondrial membrane potential (Δψ), decreased SDH activity, inhibition of respiratory chain complexes I-III, COX, citrate synthase (CS), and CKm activity, together with increased mitochondrial oxidative stress (enhanced DCFH-DA oxidation, elevated 4-hydroxynonenal levels, depletion of free -SH groups, and reduced GSH levels). We propose a mechanistic cascade wherein mitochondrial dysfunction and elevated oxidative stress drive the inhibition of Na⁺,K⁺-ATPase, which in turn contributes to neuronal hyperexcitability and cognitive deficits. Creatine's ability to maintain mitochondrial integrity directly interrupts this cascade, protecting against dysfunctions in these essential ion-gradient systems. In conclusion, post-injury creatine supplementation preserves mitochondrial function, maintains Na⁺,K⁺-ATPase activity, and prevents epileptiform activity and cognitive deficits, highlighting creatine as a promising strategy to mitigate secondary injury. However, these findings must be interpreted in light of certain limitations, including the use of a male-only cohort, a single time-point assessment, and the correlational nature of the proposed mechanistic pathways, warranting further investigation.
 
-## 7. 论文标题：该内容涉及干细胞。原文：Outcomes of Allogeneic Stem Cell Transplantation in a North American Adult T Cell Leukemia/Lymphoma Cohort.
+## 9. 论文标题：该内容涉及干细胞。原文：Outcomes of Allogeneic Stem Cell Transplantation in a North American Adult T Cell Leukemia/Lymphoma Cohort.
 
 - 英文题目：Outcomes of Allogeneic Stem Cell Transplantation in a North American Adult T Cell Leukemia/Lymphoma Cohort.
 - 主题：干细胞与外泌体
@@ -139,7 +177,7 @@
 
 英文摘要：BACKGROUND: Adult T-cell leukemia/lymphoma (ATLL) is an and aggressive mature T-cell neoplasm driven by human T-cell leukemia virus type 1 (HTLV-1) with dismal prognosis. North American ATLL (NA-ATLL) disproportionately impacts individuals of Afro-Caribbean and Latin American descent who face significant disparities in identifying conventional 8/8 HLA-matched donors in international registries. While allogeneic hematopoietic cell transplantation (HCT) is established in East Asian cohorts, outcomes data in Western populations remain limited. We aimed to evaluate post-HCT survival, toxicities, and prognostic risk factors in NA-ATLL. OBJECTIVE: The objective of this study was to evaluate HCT clinical outcomes. Our primary outcome was overall survival (OS), and secondary outcomes included progression-free survival (PFS), non-relapse mortality (NRM), and graft-versus-host disease (GVHD). We tested the hypotheses that alternative donor HCT yields comparable survival to matched donor HCT and assessed variables that may dictate post-transplant survival. STUDY DESIGN: This was a multicenter retrospective registry study evaluating 46 adult patients with NA-ATLL who underwent allogeneic HCT across participating North American centers. Myeloablative conditioning regimens were myeloablative in 21.7%, and alternative donor HCT (without a matched donor) were used in 54.3%. Survival endpoints (OS, PFS) were estimated using the Kaplan-Meier method and compared via log-rank tests. Cumulative incidences of relapse, NRM, acute GVHD, and chronic GVHD were calculated considering competing risks. Independent prognostic variables were evaluated using Cox multivariable proportional hazards regression analysis. RESULTS: There was no significant difference in OS or PFS between those who received matched versus alternative donor HCT (OS p = 0.601, PFS p = 0.376). Patients with acute disease subtype had worse OS compared to lymphomatous (logrank p = 0.043, 3-year OS 22.2% versus 52.3%, respectively). Acute GVHD yielded a 1-year cumulative incidence rate of 45.7% (95%CI; 30.7-59.5%) while that of chronic GVHD was 18.5% (95%CI; 8.5-31.5%). Twenty-seven patients were deceased at time of analysis, primarily due to relapse-related causes in 17 patients. In multivariable analysis, lymphomatous disease subtype (HR 0.3, 95%CI 0.1-0.88, p = 0.027) and Karnofsky performance score of ≥80 (HR 0.26, 95%CI 0.09-0.73, p = 0.01) were significant predictors of OS. CONCLUSION: This is the largest cohort evaluating HCT outcomes in a NA-ATLL population. Alternative donor HCT may expand access to HCT without an apparent increase in non-relapse mortality in this selected cohort. Clinical acute disease subtype shows inferior outcomes compared to lymphomatous subtype. Baseline performance status is a predictor of improved prognosis post-transplant. These data suggest that fit patients should proceed to HCT expeditiously with any donor option available.
 
-## 8. 论文标题：Immune biomarkers of response and resistance to ipilimumab and nivolumab in metastatic castration-resistant prostate cancer.
+## 10. 论文标题：Immune biomarkers of response and resistance to ipilimumab and nivolumab in metastatic castration-resistant prostate cancer.
 
 - 英文题目：Immune biomarkers of response and resistance to ipilimumab and nivolumab in metastatic castration-resistant prostate cancer.
 - 主题：小胶质细胞与 TREM2
@@ -157,44 +195,6 @@
 中文摘要：摘要要点：该内容涉及TREM2。原文：Immune checkpoint therapies have shown limited efficacy in metastatic castration-resistant prostate cancer (mCRPC). The AMADEUS prostate expansion cohort (NCT03651271) evaluated the efficacy, safety, and biomarkers of escalating ipilimumab doses combined with nivolumab. Patients received ipilimumab 1 milligram per kilogram (mg/kg) + nivolumab 360 mg (I1+N360), ipilimumab 3 mg/kg + nivolumab 1 mg/kg (I3+N1), or ipilimumab 5 mg/kg + nivolumab 1 mg/kg (I5+N1). Coprimary endpoints were 6-month disease control rate (DCR) and changes in tumoral CD8 percentage. Thirty-two patients were enrolled. DCRs were 33% (4 of 12) for I1+N360, 20% (1 of 5) for I3+N1, and 20% (3 of 15) for I5+N1. Across cohorts, tumoral CD8 percentage increased by a median of 5.0%. Although higher ipilimumab doses were tolerable, I1+N360 achieved similar disease control and immune activation with a more favorable safety profile. Early disease progression was associated with increased expression of a TREM2-associated myeloid gene signature, which was also significantly enriched in two independent prostate cancer datasets.
 
 英文摘要：Immune checkpoint therapies have shown limited efficacy in metastatic castration-resistant prostate cancer (mCRPC). The AMADEUS prostate expansion cohort (NCT03651271) evaluated the efficacy, safety, and biomarkers of escalating ipilimumab doses combined with nivolumab. Patients received ipilimumab 1 milligram per kilogram (mg/kg) + nivolumab 360 mg (I1+N360), ipilimumab 3 mg/kg + nivolumab 1 mg/kg (I3+N1), or ipilimumab 5 mg/kg + nivolumab 1 mg/kg (I5+N1). Coprimary endpoints were 6-month disease control rate (DCR) and changes in tumoral CD8 percentage. Thirty-two patients were enrolled. DCRs were 33% (4 of 12) for I1+N360, 20% (1 of 5) for I3+N1, and 20% (3 of 15) for I5+N1. Across cohorts, tumoral CD8 percentage increased by a median of 5.0%. Although higher ipilimumab doses were tolerable, I1+N360 achieved similar disease control and immune activation with a more favorable safety profile. Early disease progression was associated with increased expression of a TREM2-associated myeloid gene signature, which was also significantly enriched in two independent prostate cancer datasets.
-
-## 9. 论文标题：该内容涉及干细胞。原文：Microtubules and nuclear pores position centromeres and genes in neural stem cells.
-
-- 英文题目：Microtubules and nuclear pores position centromeres and genes in neural stem cells.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：The Journal of cell biology
-- 影响因子：6.4
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-12-07
-- 分数：65
-- PMID：42873928
-- DOI：10.1083/jcb.202512057
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42873928/
-
-中文摘要：摘要要点：该内容涉及干细胞。原文：Chromatin's spatial organization is important for cell division, epigenetic memory, and gene regulation. Chromatin architecture is often reflected in nonrandom centromere positioning, which changes during development and disease. However, the mechanisms and functions of centromere positioning remain largely unknown. Here, we report that Drosophila neural stem cells cluster centromeres near the nuclear envelope, adjacent to the apical centrosome. This asymmetric centromere positioning persists throughout interphase but is lost in differentiated progeny. Asymmetric centromere positioning is regulated by microtubules from the apical centrosome connected to nuclear pore complexes (NPCs), generating a pulling force mediated by the motor protein Dynein and its binding partner Mushroom body defect. Lamin facilitates centromere-NPC binding, necessary for centromere positioning and clustering. We also find that the developmentally regulated genes hunchback and pendulin occupy specific nuclear regions, correlating with polarized centromere localization. We propose that fly neural stem cells translate their inherent polarity into stereotypical chromatin organization, potentially influencing cell-fate decisions and stem cell behavior.
-
-英文摘要：Chromatin's spatial organization is important for cell division, epigenetic memory, and gene regulation. Chromatin architecture is often reflected in nonrandom centromere positioning, which changes during development and disease. However, the mechanisms and functions of centromere positioning remain largely unknown. Here, we report that Drosophila neural stem cells cluster centromeres near the nuclear envelope, adjacent to the apical centrosome. This asymmetric centromere positioning persists throughout interphase but is lost in differentiated progeny. Asymmetric centromere positioning is regulated by microtubules from the apical centrosome connected to nuclear pore complexes (NPCs), generating a pulling force mediated by the motor protein Dynein and its binding partner Mushroom body defect. Lamin facilitates centromere-NPC binding, necessary for centromere positioning and clustering. We also find that the developmentally regulated genes hunchback and pendulin occupy specific nuclear regions, correlating with polarized centromere localization. We propose that fly neural stem cells translate their inherent polarity into stereotypical chromatin organization, potentially influencing cell-fate decisions and stem cell behavior.
-
-## 10. 论文标题：P-body-mediated RNA decay controls neural crest EMT.
-
-- 英文题目：P-body-mediated RNA decay controls neural crest EMT.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Proceedings of the National Academy of Sciences of the United States of America
-- 影响因子：9.1
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-20
-- 分数：65
-- PMID：42863062
-- DOI：10.1073/pnas.2608103123
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42863062/
-
-中文摘要：摘要要点：该内容涉及干细胞。原文：Neural crest cells, a multipotent vertebrate stem cell population, undergo a tightly regulated epithelial-mesenchymal transition (EMT) to delaminate from the neural tube and initiate migration. Neural crest EMT is controlled by a transient pulse of Draxin, which acts as a molecular rheostat of canonical Wnt signaling, and is then rapidly downregulated by unknown mechanisms. To address this, here we use in vivo reporter assays and live RNA imaging to show that Draxin mRNA is rapidly degraded posttranscriptionally via its 3' untranslated region. We found that Draxin transcripts are targeted to cytoplasmic processing bodies (P-bodies), which are membrane-less sites of RNA processing and decay. Disruption of P-bodies by CRISPR/Cas9-mediated depletion of the RNA helicase DDX6 prevented posttranscriptional downregulation of Draxin and impaired neural crest EMT in vivo. These findings parallel observations in human patients carrying DDX6 mutations, who exhibit defects in P-body assembly and craniofacial abnormalities associated with neural crest dysfunction. Together, our results identify P-bodies as regulators of Draxin mRNA decay and reveal a spatially organized mechanism of RNA turnover that controls neural crest EMT during vertebrate development.
-
-英文摘要：Neural crest cells, a multipotent vertebrate stem cell population, undergo a tightly regulated epithelial-mesenchymal transition (EMT) to delaminate from the neural tube and initiate migration. Neural crest EMT is controlled by a transient pulse of Draxin, which acts as a molecular rheostat of canonical Wnt signaling, and is then rapidly downregulated by unknown mechanisms. To address this, here we use in vivo reporter assays and live RNA imaging to show that Draxin mRNA is rapidly degraded posttranscriptionally via its 3' untranslated region. We found that Draxin transcripts are targeted to cytoplasmic processing bodies (P-bodies), which are membrane-less sites of RNA processing and decay. Disruption of P-bodies by CRISPR/Cas9-mediated depletion of the RNA helicase DDX6 prevented posttranscriptional downregulation of Draxin and impaired neural crest EMT in vivo. These findings parallel observations in human patients carrying DDX6 mutations, who exhibit defects in P-body assembly and craniofacial abnormalities associated with neural crest dysfunction. Together, our results identify P-bodies as regulators of Draxin mRNA decay and reveal a spatially organized mechanism of RNA turnover that controls neural crest EMT during vertebrate development.
 
 # 顶刊神经科学
 
@@ -312,7 +312,26 @@
 
 英文摘要：Mutations in coiled-coil-helix-coiled-coil-helix domain containing 2 (CHCHD2), including the Parkinson's disease (PD)-linked CHCHD2T61I mutation, are associated with Lewy body disorders (LBDs) by unknown mechanisms. Here, we demonstrate that CHCHD2T61I exacerbates age-related brain pathologies, including axonal degeneration and cognitive deficits, by disrupting the mitochondria-lysosome axis. Specifically, CHCHD2T61I binds and reduces cathepsin B (CTSB) and cathepsin L (CTSL) levels, inducing lysosomal membrane permeability and impairing α-synuclein fibril clearance. We also demonstrate that human CHCHD2 declines in the brain with age, while expression of wild-type CHCHD2 safeguards against age-related neuroinflammation, dopaminergic neuron loss, insoluble protein aggregation, and structural deterioration of mitochondria and lysosomes. These findings, supported by observed reductions in CTSB and CHCHD2 in human LBD brains, establish CHCHD2 as a key regulator of neuronal resilience to aging and proteostatic collapse via the mitochondria-lysosome axis. Preventing age-associated CHCHD2 decline offers a therapeutic strategy to preserve brain health throughout aging.
 
-## 7. 论文标题：Spatiotemporal AI-based modeling of gene regulation and variant effects in the developing human brain using Seal.
+## 7. 论文标题：Vascular Risk Factors and Late-Onset Epilepsy.
+
+- 英文题目：Vascular Risk Factors and Late-Onset Epilepsy.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：JAMA neurology
+- 影响因子：21.3
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-10-19
+- 分数：79
+- PMID：42895730
+- DOI：10.1001/jamaneurol.2026.3708
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42895730/
+
+中文摘要：摘要要点：该内容涉及荟萃分析。原文：IMPORTANCE: Late-onset epilepsy (LOE; onset at age ≥65 years) is increasingly recognized in older adults and may be associated with vascular risk. OBJECTIVE: To identify vascular risk factors (VRFs) associated with incident LOE in older adults. DESIGN, SETTING, AND PARTICIPANTS: This study is an individual participant data meta-analysis of 6 US population-based prospective cohort studies (the Epilepsy-Cog Study). In 5 cohorts linked to Medicare for epilepsy case ascertainment, follow-up for LOE began when a participant had accrued 2 years of continuous fee-for-service enrollment and was 65 years of age or older and extended to the end of continuous enrollment. Claims linkage covered 1991-2018 in the Atherosclerosis Risk in Communities Study (ARIC), 1992-2019 in the Cardiovascular Health Study (CHS), 2000-2019 in the Multi-Ethnic Study of Atherosclerosis (MESA), 2000-2020 in the Reasons for Geographic and Racial Differences in Stroke Study (REGARDS), and 1999-2019 in the Washington Heights/Inwood Columbia Aging Project (WHICAP). In the Northern Manhattan Study (NOMAS), which was not Medicare linked and used cohort-based epilepsy case ascertainment, follow-up for LOE began at cohort entry in 1993-2008 and extended to 2024. Data analysis was completed in January 2026. EXPOSURES: Sociodemographic characteristics and VRFs assessed by self-report, examinations, laboratory measures, and medication use. MAIN OUTCOME AND MEASURES: The primary outcome was incident LOE. Associations between risk factors and incident LOE were evaluated using multivariable Cox proportional hazards models to estimate hazard ratios. RESULTS: From 43 753 participants in Epilepsy-Cog, 551 participants with prevalent epilepsy and 945 with no follow-up after Epilepsy-Cog baseline were excluded. Among 42 257 participants (mean [SD] age, 71.4 [6.9] years; 23 383 [56.0%] female) followed up for a mean (SD) of 9.3 (6.2) years, 1500 participants (3.5%) developed LOE (3.8 per 1000 person-years). In fully adjusted models, LOE risk was higher with current smoking (HR = 1.39; 95% CI, 1.18-1.64), hypertension (HR = 1.17; 95% CI, 1.04-1.31), diabetes (HR = 1.42; 95% CI, 1.25-1.62), chronic kidney disease (HR
+
+英文摘要：IMPORTANCE: Late-onset epilepsy (LOE; onset at age ≥65 years) is increasingly recognized in older adults and may be associated with vascular risk. OBJECTIVE: To identify vascular risk factors (VRFs) associated with incident LOE in older adults. DESIGN, SETTING, AND PARTICIPANTS: This study is an individual participant data meta-analysis of 6 US population-based prospective cohort studies (the Epilepsy-Cog Study). In 5 cohorts linked to Medicare for epilepsy case ascertainment, follow-up for LOE began when a participant had accrued 2 years of continuous fee-for-service enrollment and was 65 years of age or older and extended to the end of continuous enrollment. Claims linkage covered 1991-2018 in the Atherosclerosis Risk in Communities Study (ARIC), 1992-2019 in the Cardiovascular Health Study (CHS), 2000-2019 in the Multi-Ethnic Study of Atherosclerosis (MESA), 2000-2020 in the Reasons for Geographic and Racial Differences in Stroke Study (REGARDS), and 1999-2019 in the Washington Heights/Inwood Columbia Aging Project (WHICAP). In the Northern Manhattan Study (NOMAS), which was not Medicare linked and used cohort-based epilepsy case ascertainment, follow-up for LOE began at cohort entry in 1993-2008 and extended to 2024. Data analysis was completed in January 2026. EXPOSURES: Sociodemographic characteristics and VRFs assessed by self-report, examinations, laboratory measures, and medication use. MAIN OUTCOME AND MEASURES: The primary outcome was incident LOE. Associations between risk factors and incident LOE were evaluated using multivariable Cox proportional hazards models to estimate hazard ratios. RESULTS: From 43 753 participants in Epilepsy-Cog, 551 participants with prevalent epilepsy and 945 with no follow-up after Epilepsy-Cog baseline were excluded. Among 42 257 participants (mean [SD] age, 71.4 [6.9] years; 23 383 [56.0%] female) followed up for a mean (SD) of 9.3 (6.2) years, 1500 participants (3.5%) developed LOE (3.8 per 1000 person-years). In fully adjusted models, LOE risk was higher with current smoking (HR = 1.39; 95% CI, 1.18-1.64), hypertension (HR = 1.17; 95% CI, 1.04-1.31), diabetes (HR = 1.42; 95% CI, 1.25-1.62), chronic kidney disease (HR = 1.29; 95% CI, 1.13-1.48), history of stroke (HR = 1.99; 95% CI, 1.63-2.43), and apolipoprotein E ε4 allele (1 ε4 allele: HR = 1.22; 95% CI, 1.07-1.39; 2 ε4 alleles: HR = 1.84; 95% CI, 1.36-2.50). Associations of VRFs with LOE were similar across age, sex, and race and ethnicity subgroups. CONCLUSIONS AND RELEVANCE: In this pooled analysis of 6 US cohorts, multiple VRFs and a history of stroke were associated with incident LOE. These findings suggest that LOE may reflect the underlying burden of brain vascular disease.
+
+## 8. 论文标题：Spatiotemporal AI-based modeling of gene regulation and variant effects in the developing human brain using Seal.
 
 - 英文题目：Spatiotemporal AI-based modeling of gene regulation and variant effects in the developing human brain using Seal.
 - 主题：顶刊神经科学
@@ -330,25 +349,6 @@
 中文摘要：摘要要点：Understanding how genetic variation shapes gene regulation in the developing human brain remains a central challenge in neuroscience, particularly in transient cell types and developmental stages where data are limited. We present Seal, an interpretable artificial intelligence (AI) transfer learning framework for genome-based modeling of gene expression and variant effects with spatiotemporal resolution across 26 regions, 30 cell types and 7 developmental stages. Seal predictions provide mechanistic interpretation by linking variants to transcriptional regulators in a spatiotemporal context. Applying Seal to genome-wide association studies, we identify shared and distinct regulatory architectures across six neuropsychiatric conditions that align with clinical trajectories. In the Simons Simplex Collection autism cohort whole-genome data, Seal uncovers a significant burden of de novo regulatory variants in transient fetal excitatory neurons, revealing cell-type-specific and stage-specific effects. By connecting genetic variation to spatiotemporal regulatory programs, Seal offers a general framework for uncovering mechanisms of human brain development and disease.
 
 英文摘要：Understanding how genetic variation shapes gene regulation in the developing human brain remains a central challenge in neuroscience, particularly in transient cell types and developmental stages where data are limited. We present Seal, an interpretable artificial intelligence (AI) transfer learning framework for genome-based modeling of gene expression and variant effects with spatiotemporal resolution across 26 regions, 30 cell types and 7 developmental stages. Seal predictions provide mechanistic interpretation by linking variants to transcriptional regulators in a spatiotemporal context. Applying Seal to genome-wide association studies, we identify shared and distinct regulatory architectures across six neuropsychiatric conditions that align with clinical trajectories. In the Simons Simplex Collection autism cohort whole-genome data, Seal uncovers a significant burden of de novo regulatory variants in transient fetal excitatory neurons, revealing cell-type-specific and stage-specific effects. By connecting genetic variation to spatiotemporal regulatory programs, Seal offers a general framework for uncovering mechanisms of human brain development and disease.
-
-## 8. 论文标题：Personalized neoantigen-targeting cancer vaccines in ovarian cancer: a phase 1 trial.
-
-- 英文题目：Personalized neoantigen-targeting cancer vaccines in ovarian cancer: a phase 1 trial.
-- 主题：顶刊神经科学
-- 来源：PubMed
-- 期刊/平台：Nature medicine
-- 影响因子：50.0
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-14
-- 分数：79
-- PMID：42875558
-- DOI：10.1038/s41591-026-04717-8
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42875558/
-
-中文摘要：摘要要点：该内容涉及临床试验。原文：Personalized neoantigen-targeting cancer vaccines in the adjuvant setting are of increasing interest across malignancies. Here we report the results of a phase 1 clinical trial testing the feasibility and safety of personalized neoantigen-targeting cancer vaccines for high-grade epithelial ovarian cancer. 'NeoVax' consisted of pools of synthetic long peptides targeting patient-specific neoantigens admixed with the immunostimulant poly-ICLC, was combined with delayed administration of anti-PD-1 antibody, and was tested in ten patients (one newly diagnosed patient (Cohort A) and nine patients at first recurrence (Cohort B)) with platinum-sensitive ovarian cancer following standard-of-care platinum doublet chemotherapy. Nine of 12 evaluable Cohort B patients were vaccinated (75%, 90% CI 47-93%) and 1 of 9 Cohort A patients (11%, 90% CI 0.6-43%). No unexpected safety signals were encountered and no patients discontinued treatment due to toxicity. Across patients, >70% selected targets remained detectable by noninvasive cell-free DNA analysis despite a median of 6.5 months from the time of diagnostic biopsy to vaccine administration, during which, patients received standard-of-care chemotherapy. Biomarker analysis was suggestive of biologic activity of the vaccine in six of ten patients and this was associated with broader tumor and vaccine-specific immune responses in blood and tumor following vaccination. Resistant tumor clones reflected diverse mechanisms affecting antigen presentation, indicative of immune-selective pressure exerted by vaccination. Overall, the interplay between the repertoire of antigens presented by the tumor and the breadth of induced immunity seemed to dictate clinical efficacy following vaccination. ClinicalTrials.gov identifier: NCT04024878 .
-
-英文摘要：Personalized neoantigen-targeting cancer vaccines in the adjuvant setting are of increasing interest across malignancies. Here we report the results of a phase 1 clinical trial testing the feasibility and safety of personalized neoantigen-targeting cancer vaccines for high-grade epithelial ovarian cancer. 'NeoVax' consisted of pools of synthetic long peptides targeting patient-specific neoantigens admixed with the immunostimulant poly-ICLC, was combined with delayed administration of anti-PD-1 antibody, and was tested in ten patients (one newly diagnosed patient (Cohort A) and nine patients at first recurrence (Cohort B)) with platinum-sensitive ovarian cancer following standard-of-care platinum doublet chemotherapy. Nine of 12 evaluable Cohort B patients were vaccinated (75%, 90% CI 47-93%) and 1 of 9 Cohort A patients (11%, 90% CI 0.6-43%). No unexpected safety signals were encountered and no patients discontinued treatment due to toxicity. Across patients, >70% selected targets remained detectable by noninvasive cell-free DNA analysis despite a median of 6.5 months from the time of diagnostic biopsy to vaccine administration, during which, patients received standard-of-care chemotherapy. Biomarker analysis was suggestive of biologic activity of the vaccine in six of ten patients and this was associated with broader tumor and vaccine-specific immune responses in blood and tumor following vaccination. Resistant tumor clones reflected diverse mechanisms affecting antigen presentation, indicative of immune-selective pressure exerted by vaccination. Overall, the interplay between the repertoire of antigens presented by the tumor and the breadth of induced immunity seemed to dictate clinical efficacy following vaccination. ClinicalTrials.gov identifier: NCT04024878 .
 
 # 全球热点话题｜学术界值得关注
 
@@ -371,26 +371,7 @@
 
 英文摘要：BACKGROUND: Although treatment approaches have been explored in internet gaming disorder (IGD), however, little is known about the specific neural activity that is associated with treatment outcomes. This study aims to establish a treatment-sensitive network that reliably predicts treatment outcomes across different interventions for IGD. METHODS: Resting-state fMRI data were collected from 90 individuals with IGD who received one of three different intervention protocols (mindfulness meditation, approach bias modification, or retrieval-aversive conditioning training). Connectome-based predictive modelling (CPM) was used to build a treatment-sensitive network to predict individual symptom reduction, then validated them on the external dataset. RESULTS: The negative (r = 0.401, p <.001) and combined network (r = 0.480, p <.001) can significantly predict a reduction of addiction severity (baseline minus post-test). Specifically, the negative network was primarily centred on the motor, subcortical, and salience networks. The positive network primarily involved cerebellar-related connections. Incorporating these into a combined model significantly improved predictive accuracy, suggesting that cerebellar-related connectivity may contribute to the prediction of intervention-related clinical improvement. Finally, the treatment-sensitive network was validated in a separate data. CONCLUSIONS: This study established a treatment-sensitive network based on the whole-brain connectome. These findings provide valuable empirical evidence for identifying biomarkers for IGD treatment and advance personalised therapeutic strategies. CLINICAL TRIALS REGISTRATION: The trial protocol was pre-registered with the Chinese Clinical Trial Registry (www.chictr.org.cn; ChiCTR2300077831(MM), ChiCTR2300075869(ApBm), ChiCTR2500095444(R-AC), ChiCTR2400090834(SAE)).
 
-## 2. 论文标题：该内容涉及随机。原文：HoLEP Versus Mini-HoLEP: A Long-term Follow-up Prospective Randomized Controlled Trial.
-
-- 英文题目：HoLEP Versus Mini-HoLEP: A Long-term Follow-up Prospective Randomized Controlled Trial.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：European urology open science
-- 影响因子：4.5
-- 分区：JCR Q1 / CAS 2区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-12-01
-- 分数：65
-- PMID：42892994
-- DOI：10.1016/j.euros.2026.09.010
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42892994/
-
-中文摘要：摘要要点：该内容涉及随机。原文：BACKGROUND AND OBJECTIVE: Holmium laser enucleation of the prostate (HoLEP) is increasingly performed with miniaturized instruments, aiming to reduce postoperative urinary incontinence (UI). Evidence for mini-HoLEP (MiLEP) using a 22-Fr resectoscope remains largely retrospective or nonrandomized. We aimed to compare MiLEP with a standard 26 Fr HoLEP in a prospective randomized trial. METHODS: Ninety men were randomized to MiLEP (n = 45) or HoLEP (n = 45). All procedures were performed by one surgeon using a standardized technique. The prespecified primary end point was UI, defined as any reported loss of urine, at 1 mo. Key secondary end points included UI at 2 mo and at the end of follow-up. KEY FINDINGS AND LIMITATIONS: Median follow-up was 828 days. UI at 1 mo was lower after MiLEP than HoLEP (22.2% vs 51.1%; odds ratio [OR] 0.27; 95% confidence interval [CI] = 0.11-0.67; p = 0.004). UI at 2 mo was also lower (8.9% vs 24.4%; OR 0.30; 95% CI = 0.09-0.99; p = 0.048), whereas long-term UI did not differ significantly (2.2% vs 6.7%; p = 0.61). MiLEP also lowered the need for meatal dilation (15% vs 51%; p < 0.001), irrigation volume (16 vs 24 l; p < 0.001), and improved core temperature maintenance (+0.1 °C vs -0.1 °C; p < 0.001), with higher median enucleation efficiency (1.22 vs 1.0; p = 0.003) and not statistically different operative time, complications, and functional improvement. Limitations include the inability to blind the surgeon and limited power for uncommon events. CONCLUSIONS AND CLINICAL IMPLICATIONS: MiLEP seems to improve early continence recovery, supporting miniaturization as a strategy to enhance patient-centered outcomes after HoLEP.
-
-英文摘要：BACKGROUND AND OBJECTIVE: Holmium laser enucleation of the prostate (HoLEP) is increasingly performed with miniaturized instruments, aiming to reduce postoperative urinary incontinence (UI). Evidence for mini-HoLEP (MiLEP) using a 22-Fr resectoscope remains largely retrospective or nonrandomized. We aimed to compare MiLEP with a standard 26 Fr HoLEP in a prospective randomized trial. METHODS: Ninety men were randomized to MiLEP (n = 45) or HoLEP (n = 45). All procedures were performed by one surgeon using a standardized technique. The prespecified primary end point was UI, defined as any reported loss of urine, at 1 mo. Key secondary end points included UI at 2 mo and at the end of follow-up. KEY FINDINGS AND LIMITATIONS: Median follow-up was 828 days. UI at 1 mo was lower after MiLEP than HoLEP (22.2% vs 51.1%; odds ratio [OR] 0.27; 95% confidence interval [CI] = 0.11-0.67; p = 0.004). UI at 2 mo was also lower (8.9% vs 24.4%; OR 0.30; 95% CI = 0.09-0.99; p = 0.048), whereas long-term UI did not differ significantly (2.2% vs 6.7%; p = 0.61). MiLEP also lowered the need for meatal dilation (15% vs 51%; p < 0.001), irrigation volume (16 vs 24 l; p < 0.001), and improved core temperature maintenance (+0.1 °C vs -0.1 °C; p < 0.001), with higher median enucleation efficiency (1.22 vs 1.0; p = 0.003) and not statistically different operative time, complications, and functional improvement. Limitations include the inability to blind the surgeon and limited power for uncommon events. CONCLUSIONS AND CLINICAL IMPLICATIONS: MiLEP seems to improve early continence recovery, supporting miniaturization as a strategy to enhance patient-centered outcomes after HoLEP.
-
-## 3. 论文标题：该内容涉及系统综述。原文：Dose-dependent efficacy and safety of centanafadine in patients with attention-deficit/hyperactivity disorder: A systematic review of the latest evidence.
+## 2. 论文标题：该内容涉及系统综述。原文：Dose-dependent efficacy and safety of centanafadine in patients with attention-deficit/hyperactivity disorder: A systematic review of the latest evidence.
 
 - 英文题目：Dose-dependent efficacy and safety of centanafadine in patients with attention-deficit/hyperactivity disorder: A systematic review of the latest evidence.
 - 主题：全球学术热点
@@ -409,7 +390,7 @@
 
 英文摘要：Centanafadine is a multimodal norepinephrine-dopamine-serotonin reuptake inhibitor (NDSRI) that has been evaluated for the treatment of attention-deficit/hyperactivity disorder (ADHD) across pediatric, adolescent, and adult populations. This systematic review aimed to evaluate the efficacy, safety, and tolerability of centanafadine compared with placebo, with particular emphasis on dose-response patterns across different age groups. PubMed/MEDLINE, Embase, Scopus, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from database inception to July 2026. Randomized, double-blind, placebo-controlled trials evaluating centanafadine in patients with ADHD were eligible for inclusion. The Cochrane Risk of Bias 2 (RoB 2) tool was used to assess the risk of bias. Because of differences in populations, formulations, dosing regimens, outcome measures, and reported effect estimates, findings were synthesized narratively rather than quantitatively. Four randomized trials reported in three publications, including 1845 randomized participants, were included. In children, high-dose centanafadine significantly improved attention-deficit/hyperactivity disorder rating scale, version 5 (ADHD-RS-5) scores compared with placebo (-16.3 vs. -10.8; p < 0.001), whereas the low-dose group did not demonstrate a statistically significant difference (mean difference [MD] -2.7; 95% confidence interval [CI], -6.0 to 0.5; p = 0.10). In adolescents, 328.8 mg significantly improved ADHD-RS-5 scores compared with placebo (-18.5 vs. -14.2; p = 0.0006; Cohen's d = -0.40), whereas 164.4 mg did not (p = 0.3016). In adults, both 200 and 400 mg/day significantly improved Adult ADHD Investigator Symptom Rating Scale (AISRS) scores, with LSMDs ranging from -2.74 to -4.42 (p ≤ 0.039). Treatment-emergent adverse events occurred in 25%-39% of children, 23.8%-50.3% of adolescents, and 17.6%-31.8% of adults, with higher rates generally observed at higher doses in some populations. Centanafadine demonstrated improvement in core ADHD symptoms across pediatric, adolescent, and adult populations, with a more apparent dose-response pattern in children and adolescents and significant efficacy across the adult doses evaluated. Higher doses were associated with increased treatment-emergent adverse events in some populations. However, the evidence base remains limited to four randomized trials from three publications, with predominantly short-term follow-up, no active-comparator trials, and limited independently sponsored evidence. Therefore, the efficacy, safety, and dose-response findings should be interpreted cautiously. Longer term, independently sponsored, and head-to-head comparative trials are needed to further establish the optimal dosing, comparative effectiveness, and long-term safety of centanafadine.
 
-## 4. 论文标题：该内容涉及随机、系统综述、荟萃分析。原文：Intermittent theta-burst stimulation versus sham stimulation for suicidal ideation and psychiatric symptoms in depressive disorders: A systematic review and meta-analysis of randomized controlled trials.
+## 3. 论文标题：该内容涉及随机、系统综述、荟萃分析。原文：Intermittent theta-burst stimulation versus sham stimulation for suicidal ideation and psychiatric symptoms in depressive disorders: A systematic review and meta-analysis of randomized controlled trials.
 
 - 英文题目：Intermittent theta-burst stimulation versus sham stimulation for suicidal ideation and psychiatric symptoms in depressive disorders: A systematic review and meta-analysis of randomized controlled trials.
 - 主题：全球学术热点
@@ -428,26 +409,26 @@
 
 英文摘要：Suicidal ideation, depressive symptoms, anxiety, and sleep disturbance remain difficult to manage in psychiatric populations, and intermittent theta-burst stimulation (iTBS) has emerged as an accelerated, non-invasive neuromodulation strategy for these outcomes. This meta-analysis compares iTBS versus sham-iTBS across suicidal ideation, depression severity, anxiety severity, and sleep quality to guide clinical decision-making. We systematically searched relevant electronic databases in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Continuous outcomes were pooled as standardized mean differences (SMDs) with 95% confidence intervals using random-effects inverse-variance models in RevMan 5.4. Heterogeneity was assessed using I 2 and χ 2 statistics, and leave-one-out sensitivity analyses were performed. A p value < 0.05 was considered statistically significant. Six studies were included. iTBS significantly reduced suicidal ideation versus sham-iTBS (SMD = -0.51; 95% CI: -0.93 to -0.09; p = 0.02; I 2 = 70%; n = 181 vs. 157), and the effect remained significant with lower heterogeneity after exclusion of Qin et al. (p = 0.02; I 2 = 29%). Depression severity improved with iTBS (SMD = -1.06; 95% CI: -1.64 to -0.48; p = 0.0003; I 2 = 80%; n = 162 vs. 142), with heterogeneity decreasing to 24% after exclusion of Huang et al. Anxiety severity also improved (SMD = -0.68; 95% CI: -1.27 to -0.09; p = 0.02; I 2 = 79%; n = 139 vs. 120), and heterogeneity decreased to 38% after exclusion of Huang et al. Sleep quality did not differ significantly between groups (SMD = -0.32; 95% CI: -0.98 to 0.34; p = 0.35; I 2 = 67%; n = 75 vs. 49), based on two trials. iTBS was associated with a reduction in suicidal ideation compared with sham stimulation, but the small evidence base and between-study heterogeneity limit certainty. Secondary analyses suggested improvements in depression and anxiety severity, whereas sleep quality did not differ between groups. Larger, standardized randomized controlled trials with longer follow-up are needed to determine the magnitude and durability of any antisuicidal effect.
 
-## 5. 论文标题：Index-window C-reactive protein and carcinoembryonic antigen and five-year all-cause mortality in Hispanic/Latino and non-Hispanic White patients with colorectal cancer: a retrospective biomarker cohort study.
+## 4. 论文标题：A phase 3 trial of GB-K02 pegfilgrastim biosimilar for preventing chemotherapy-induced neutropenia in breast cancer.
 
-- 英文题目：Index-window C-reactive protein and carcinoembryonic antigen and five-year all-cause mortality in Hispanic/Latino and non-Hispanic White patients with colorectal cancer: a retrospective biomarker cohort study.
+- 英文题目：A phase 3 trial of GB-K02 pegfilgrastim biosimilar for preventing chemotherapy-induced neutropenia in breast cancer.
 - 主题：全球学术热点
 - 来源：PubMed
-- 期刊/平台：Future science OA
-- 影响因子：2.1
-- 分区：JCR Q3 / CAS 4区
+- 期刊/平台：iScience
+- 影响因子：4.1
+- 分区：JCR Q1 / CAS 2区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-12-01
+- 日期：2026-11-20
 - 分数：65
-- PMID：42848519
-- DOI：10.1080/20565623.2026.2743711
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42848519/
+- PMID：42894857
+- DOI：10.1016/j.isci.2026.117766
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42894857/
 
-中文摘要：摘要要点：该内容涉及炎症。原文：AIMS: To examine index-window carcinoembryonic antigen (CEA), C-reactive protein (CRP), and five-year recorded mortality by ethnicity in colorectal cancer. PATIENTS AND METHODS: This retrospective University of California Health Data Warehouse cohort included Hispanic/Latino and non-Hispanic White adults indexed during 2012-2020 with both biomarkers measured within ±30 days and complete covariates. Linear regression modeled log(CEA + 0.1); Cox regression modeled recorded all-cause mortality. RESULTS: Among 345 patients, 143 deaths were recorded. Hispanic/Latino ethnicity was associated with higher log(CEA + 0.1) (β = 0.743; robust 95% confidence interval [CI], 0.202-1.285; P = 0.007). The mortality association was nonsignificant (hazard ratio [HR], 0.723; 95% CI, 0.483-1.084; P = 0.117). Higher log(CEA + 0.1) (HR, 1.266; 95% CI, 1.174-1.366; P < 0.001) and log(CRP + 0.1) (HR, 1.134; 95% CI, 1.037-1.239; P = 0.006) were associated with mortality. CONCLUSIONS: In this biomarker-selected cohort, Hispanic/Latino patients had higher recorded CEA without a statistically significant ethnic-group mortality difference. Confirmation requires clinically characterized cohorts with stage, treatment, biomarker timing, verified assay comparability, and complete mortality ascertainment. We studied two blood tests recorded near a colorectal cancer diagnosis: carcinoembryonic antigen, which is used in cancer care, and C-reactive protein, which reflects inflammation. We examined records from 345 adults in the University of California Health system, including 95 Hispanic/Latino and 250 non-Hispanic White patients. All had both tests recorded within 30 days before or after their earliest recorded cancer diagnosis. Hispanic/Latino patients had higher recorded carcinoembryonic antigen after accounting for age, sex, and body mass index. Higher values of both tests were associated with more recorded deaths over five years. We did not detect a statistically significant difference in recorded mortality between the ethnic groups. The study included a selected group whose doctors had ordered both tests. Cancer stage, treatment, and timing of surgery were unavailable, test measurements could
+中文摘要：摘要要点：该内容涉及随机、双盲。原文：Chemotherapy-induced neutropenia (CIN) constitutes a substantial disease burden globally. Although pegfilgrastim (a long-acting granulocyte-colony stimulating factor) has demonstrated efficacy in preventing CIN, it is not yet available in China. This is the first clinical study to evaluate a pegfilgrastim biosimilar in China. This multicenter, randomized, double-blind, parallel-controlled, phase 3 equivalence study aims to evaluate the efficacy and safety of GB-K02 (a pegfilgrastim biosimilar) in preventing CIN among 250 patients with breast cancer. The primary efficacy endpoint was the duration of grade 4 neutropenia (DG4N) in cycle 1 of chemotherapy. The DG4N (LSMean ± SE) in cycle 1 was 0.58 ± 0.13 days versus 0.80 ± 0.13 days (p = 0.2139) for the GB-K02 group and the pegfilgrastim group, respectively. Other efficacy endpoints and safety were also similar between the two groups in 4 cycles of chemotherapy. Overall, GB-K02 demonstrated proper equivalence to pegfilgrastim and might offer an option in preventing CIN in China.
 
-英文摘要：AIMS: To examine index-window carcinoembryonic antigen (CEA), C-reactive protein (CRP), and five-year recorded mortality by ethnicity in colorectal cancer. PATIENTS AND METHODS: This retrospective University of California Health Data Warehouse cohort included Hispanic/Latino and non-Hispanic White adults indexed during 2012-2020 with both biomarkers measured within ±30 days and complete covariates. Linear regression modeled log(CEA + 0.1); Cox regression modeled recorded all-cause mortality. RESULTS: Among 345 patients, 143 deaths were recorded. Hispanic/Latino ethnicity was associated with higher log(CEA + 0.1) (β = 0.743; robust 95% confidence interval [CI], 0.202-1.285; P = 0.007). The mortality association was nonsignificant (hazard ratio [HR], 0.723; 95% CI, 0.483-1.084; P = 0.117). Higher log(CEA + 0.1) (HR, 1.266; 95% CI, 1.174-1.366; P < 0.001) and log(CRP + 0.1) (HR, 1.134; 95% CI, 1.037-1.239; P = 0.006) were associated with mortality. CONCLUSIONS: In this biomarker-selected cohort, Hispanic/Latino patients had higher recorded CEA without a statistically significant ethnic-group mortality difference. Confirmation requires clinically characterized cohorts with stage, treatment, biomarker timing, verified assay comparability, and complete mortality ascertainment. We studied two blood tests recorded near a colorectal cancer diagnosis: carcinoembryonic antigen, which is used in cancer care, and C-reactive protein, which reflects inflammation. We examined records from 345 adults in the University of California Health system, including 95 Hispanic/Latino and 250 non-Hispanic White patients. All had both tests recorded within 30 days before or after their earliest recorded cancer diagnosis. Hispanic/Latino patients had higher recorded carcinoembryonic antigen after accounting for age, sex, and body mass index. Higher values of both tests were associated with more recorded deaths over five years. We did not detect a statistically significant difference in recorded mortality between the ethnic groups. The study included a selected group whose doctors had ordered both tests. Cancer stage, treatment, and timing of surgery were unavailable, test measurements could not be independently checked for comparability across laboratories, and deaths outside the health system may have been missed. These limitations make the clinical meaning of the group differences uncertain. Further studies need more complete clinical information and follow-up to determine whether the findings apply more broadly.
+英文摘要：Chemotherapy-induced neutropenia (CIN) constitutes a substantial disease burden globally. Although pegfilgrastim (a long-acting granulocyte-colony stimulating factor) has demonstrated efficacy in preventing CIN, it is not yet available in China. This is the first clinical study to evaluate a pegfilgrastim biosimilar in China. This multicenter, randomized, double-blind, parallel-controlled, phase 3 equivalence study aims to evaluate the efficacy and safety of GB-K02 (a pegfilgrastim biosimilar) in preventing CIN among 250 patients with breast cancer. The primary efficacy endpoint was the duration of grade 4 neutropenia (DG4N) in cycle 1 of chemotherapy. The DG4N (LSMean ± SE) in cycle 1 was 0.58 ± 0.13 days versus 0.80 ± 0.13 days (p = 0.2139) for the GB-K02 group and the pegfilgrastim group, respectively. Other efficacy endpoints and safety were also similar between the two groups in 4 cycles of chemotherapy. Overall, GB-K02 demonstrated proper equivalence to pegfilgrastim and might offer an option in preventing CIN in China.
 
-## 6. 论文标题：Single-cell imaging reveals a key role of Bck2 in yeast cell size adaptation to nutrient challenges.
+## 5. 论文标题：Single-cell imaging reveals a key role of Bck2 in yeast cell size adaptation to nutrient challenges.
 
 - 英文题目：Single-cell imaging reveals a key role of Bck2 in yeast cell size adaptation to nutrient challenges.
 - 主题：全球学术热点
@@ -466,7 +447,7 @@
 
 英文摘要：Cell size is tightly controlled to optimize cell function. In Saccharomyces cerevisiae, multiple regulators of cell size in steady-state conditions have been identified, such as the G1/S activators Cln3 and Bck2 and the inhibitor Whi5. Individual deletions of these regulators alter the mean cell volumes. However, size homeostasis remains largely intact. Here, we show that although the roles of Bck2 and Cln3 for cell size regulation appear largely redundant in steady state, a switch from fermentable to nonfermentable growth media reveals a unique role for Bck2 in cell size adaptation. We use live-cell microscopy and machine learning-assisted image analysis to track single cells and their progeny through the nutrient switch. We find that after the switch, bck2Δ cells experience longer cell cycle arrests and more arrest-associated enlargement than wild-type, whi5Δ, or cln3Δ cells, indicating that Bck2 becomes the critical G1/S activator in changing nutrients. Our work demonstrates that studying size regulation during nutrient shifts can resolve apparent redundancies observed in steady state.
 
-## 7. 论文标题：TOMM5 is associated with oral cancer progression: a multi-omics analysis from single-cell atlas to in vitro validation.
+## 6. 论文标题：TOMM5 is associated with oral cancer progression: a multi-omics analysis from single-cell atlas to in vitro validation.
 
 - 英文题目：TOMM5 is associated with oral cancer progression: a multi-omics analysis from single-cell atlas to in vitro validation.
 - 主题：全球学术热点
@@ -485,24 +466,43 @@
 
 英文摘要：AIMS: Translocase of Outer Mitochondrial Membrane 5 (TOMM5), a mitochondrial outer membrane translocase subunit implicated in tumorigenesis, remains unexplored in oral cancer. Herein, we aimed to decipher the role of TOMM5 in oral cancer. METHODS: This study comprehensively explored the expression profile, clinical significance, and functional roles of TOMM5 in oral carcinogenesis with global RNA-seq and microarray datasets. In vitro experiments were performed for evaluating the impact of TOMM5 knockdown on the biological functions of oral cancer cells. Distribution heterogeneity of TOMM5 expression and related cellular trajectory was analyzed through scRNA-seq. The therapeutic implications of TOMM5 for oral cancer were analyzed through drug sensitivity prediction and tumor immune dysfunction and exclusion (TIDE) scoring. RESULTS: TOMM5 was significantly overexpressed in oral cancer tissues and demonstrated moderate diagnostic accuracy. TOMM5 knockdown significantly suppressed aggressive biological behaviors of oral cancer cells. ScRNA-seq data revealed predominant TOMM5 expression in B cells, decreasing with differentiation, and linked distinct pathway activities to specific cellular compartments. High TOMM5 expression was linked to reduced immune cell infiltration and sensitivity to Paclitaxel/Vincristine. CONCLUSIONS: Overexpressed TOMM5 shows potential as a biomarker in oral cancer, correlating with tumor progression and immune infiltration. Oral cancer remains a major health challenge with stagnant survival rates, highlighting the need for better biomarkers and therapeutic targets. We investigated TOMM5, a mitochondrial outer membrane protein, in oral cancer using transcriptomic data from over 300 tumors and normal tissues, along with functional experiments in cancer cells. Our results showed that TOMM5 is significantly overexpressed in oral cancer tissues and that high expression predicts poorer overall and disease‑free survival. Silencing TOMM5 in WSU‑HN30 oral cancer cells reduced their migratory and invasive abilities, without affecting proliferation. Single‑cell RNA sequencing revealed that TOMM5 is predominantly expressed in B cells within the tumor microenvironment and declines with cell differentiation. High TOMM5 expression correlated with reduced immune infiltration, particularly activated mast cells and neutrophils, and with increased myeloid‑derived suppressor cells, suggesting an immunosuppressive role. Furthermore, patients with elevated TOMM5 showed predicted sensitivity to paclitaxel and vincristine. In summary, TOMM5 overexpression is associated with tumor progression, immune modulation, and drug response in oral cancer, making it a promising biomarker and potential therapeutic guide. Additional experimental validation is warranted to confirm these findings.
 
-## 8. 论文标题：Impact of healthcare setting on survival in adults with acute lymphoblastic leukemia in Latin America: insights from a large multinational cohort.
+## 7. 论文标题：Polymerase iota coordinates adaptation to replication stress in BRCA2-deficient mammary epithelial cells.
 
-- 英文题目：Impact of healthcare setting on survival in adults with acute lymphoblastic leukemia in Latin America: insights from a large multinational cohort.
+- 英文题目：Polymerase iota coordinates adaptation to replication stress in BRCA2-deficient mammary epithelial cells.
 - 主题：全球学术热点
 - 来源：PubMed
-- 期刊/平台：Lancet regional health. Americas
-- 影响因子：7.6
+- 期刊/平台：iScience
+- 影响因子：4.1
 - 分区：JCR Q1 / CAS 2区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-11-20
+- 分数：57
+- PMID：42894850
+- DOI：10.1016/j.isci.2026.117830
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42894850/
+
+中文摘要：摘要要点：BRCA2 deficiency induces chronic replication stress, yet how human mammary epithelial cells adapt before malignant transformation remains poorly understood. Here, we identify polymerase iota (Pol ι) as a context-dependent regulator of replication stress responses in BRCA2-deficient mammary epithelium. Single-cell transcriptomic analysis of preneoplastic breast epithelium from BRCA2 mutation carriers revealed enrichment of POLI-positive hormone-sensing cells, while BRCA2 depletion increased nuclear Pol ι in mammary epithelial models. Functionally, Pol ι promoted post-S-phase DNA synthesis specifically in BRCA2-deficient cells. Unexpectedly, POLI depletion reduced chromosomal instability and replication stress markers, while enhancing replication fork progression under replication stress. POLI depletion was also associated with expansion of a luminal-like epithelial population, linking altered replication stress processing to epithelial cell state remodeling. These findings identify Pol ι as a regulator of replication stress adaptation and provide a framework for understanding early cellular changes preceding BRCA2-associated breast tumorigenesis.
+
+英文摘要：BRCA2 deficiency induces chronic replication stress, yet how human mammary epithelial cells adapt before malignant transformation remains poorly understood. Here, we identify polymerase iota (Pol ι) as a context-dependent regulator of replication stress responses in BRCA2-deficient mammary epithelium. Single-cell transcriptomic analysis of preneoplastic breast epithelium from BRCA2 mutation carriers revealed enrichment of POLI-positive hormone-sensing cells, while BRCA2 depletion increased nuclear Pol ι in mammary epithelial models. Functionally, Pol ι promoted post-S-phase DNA synthesis specifically in BRCA2-deficient cells. Unexpectedly, POLI depletion reduced chromosomal instability and replication stress markers, while enhancing replication fork progression under replication stress. POLI depletion was also associated with expansion of a luminal-like epithelial population, linking altered replication stress processing to epithelial cell state remodeling. These findings identify Pol ι as a regulator of replication stress adaptation and provide a framework for understanding early cellular changes preceding BRCA2-associated breast tumorigenesis.
+
+## 8. 论文标题：Longitudinal peripheral DNA methylation remodeling following ketamine-assisted psychotherapy in major depressive disorder.
+
+- 英文题目：Longitudinal peripheral DNA methylation remodeling following ketamine-assisted psychotherapy in major depressive disorder.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Epigenetics
+- 影响因子：3.2
+- 分区：JCR Q2 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-12-01
 - 分数：55
-- PMID：42893275
-- DOI：10.1016/j.lana.2026.101655
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42893275/
+- PMID：42879530
+- DOI：10.1080/15592294.2026.2731659
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42879530/
 
-中文摘要：摘要要点：该内容涉及干细胞。原文：BACKGROUND: Outcomes of adults with acute lymphoblastic leukemia (ALL) in Latin America remain poorly characterized, particularly across public and private healthcare systems. In this study, we evaluated overall survival (OS) and relapse rates in a multinational cohort, aiming to identify key factors associated with these outcomes. METHODS: We retrospectively analyzed patients aged ≥15 years with newly diagnosed ALL treated at 45 centers in Brazil, Argentina, and Chile between 2015 and 2023. Overall survival (OS) and event-free survival (EFS) were estimated using Kaplan-Meier methods. Cox models incorporating country as a shared frailty term evaluated factors associated with mortality. FINDINGS: Among 1121 patients, median age was 34 years, 56.1% were male, 81.4% had B-lineage ALL, and 24.7% had Philadelphia chromosome-positive (Ph-positive) ALL. Overall, 53% were treated in public centers. Induction mortality was higher in public than private settings (10.0% vs. 1.2%; p < 0.0001), whereas hematopoietic stem cell transplantation was less frequent (18.1% vs. 46.6%; p < 0.0001). At a median follow-up of 36.2 months, 3-year OS and EFS were 49.9% and 41.1%, respectively. Three-year OS was 42.9% in public and 57.6% in private centers (p < 0.0001). Private healthcare remained independently associated with lower mortality overall (HR 0.53, 95% CI 0.42-0.68) and across major subgroups. Three-year relapse incidence was 43.9%. Among Ph-negative adolescents and young adults, male sex and leukocytosis were independently associated with increased mortality. In Ph-positive ALL, upfront dasatinib was associated with improved OS, primarily through lower non-relapse mortality rather than reduced relapse incidence. INTERPRETATION: Survival of adults with ALL in Latin America has improved compared with historical reports, but substantial disparities persist between public and private settings. Our findings support prioritizing investment in public-sector supportive care, diagnostic and treatment infrastructure, timely access to transplantation, and equitable availability of effective therapies as key strategies to improve survival across the region. FUNDING: None.
+中文摘要：摘要要点：Ketamine produces rapid antidepressant effects, but the molecular processes associated with their persistence remain poorly defined in humans. We examined longitudinal DNA methylation changes in 10 adults with major depressive disorder undergoing ketamine-assisted psychotherapy using two pre-treatment assessments (T1, T2) and one post-treatment assessment (T3). Participants received three sessions of intranasal racemic ketamine within a structured psychotherapy protocol. Buccal DNA methylation was measured using the Illumina MethylationEPIC v2.0 BeadChip. Depressive symptoms improved markedly following treatment, with mean Beck Depression Inventory-II scores declining from the severe to the mild range (p < .001). Of 802,595 CpG loci evaluated, 20,770 met the nominal T3-versus-T2 screening criterion. Sequential filtering for methylation-change magnitude and movement relative to pre-treatment fluctuation identified 962 retained CpG loci, including 517 retained gene-annotated loci. A supplementary linear mixed-effects analysis modeled repeated measurements within participants across the 603 preselected gene-annotated magnitude-filtered loci; because these loci were selected using the same contrast and cohort, this analysis was not treated as independent confirmation. Exploratory enrichment analysis of this 603-locus set identified NOTCH1-related Reactome terms driven by NOTCH1, DLL1, and ADAM17. Within the retained signature, multiple core and adjacent Notch-related components formed a coherent signaling module spanning ligand, receptor processing, transcriptional regulation, and pathway cross-talk. These findings identify a structured peripheral methylation signature associated with ketamine-assisted psychotherapy. They do not establish brain-specific pathway activation or causality, but provide a longitudinal basis for investigating regulatory adaptations accompanying clinical improvement.
 
-英文摘要：BACKGROUND: Outcomes of adults with acute lymphoblastic leukemia (ALL) in Latin America remain poorly characterized, particularly across public and private healthcare systems. In this study, we evaluated overall survival (OS) and relapse rates in a multinational cohort, aiming to identify key factors associated with these outcomes. METHODS: We retrospectively analyzed patients aged ≥15 years with newly diagnosed ALL treated at 45 centers in Brazil, Argentina, and Chile between 2015 and 2023. Overall survival (OS) and event-free survival (EFS) were estimated using Kaplan-Meier methods. Cox models incorporating country as a shared frailty term evaluated factors associated with mortality. FINDINGS: Among 1121 patients, median age was 34 years, 56.1% were male, 81.4% had B-lineage ALL, and 24.7% had Philadelphia chromosome-positive (Ph-positive) ALL. Overall, 53% were treated in public centers. Induction mortality was higher in public than private settings (10.0% vs. 1.2%; p < 0.0001), whereas hematopoietic stem cell transplantation was less frequent (18.1% vs. 46.6%; p < 0.0001). At a median follow-up of 36.2 months, 3-year OS and EFS were 49.9% and 41.1%, respectively. Three-year OS was 42.9% in public and 57.6% in private centers (p < 0.0001). Private healthcare remained independently associated with lower mortality overall (HR 0.53, 95% CI 0.42-0.68) and across major subgroups. Three-year relapse incidence was 43.9%. Among Ph-negative adolescents and young adults, male sex and leukocytosis were independently associated with increased mortality. In Ph-positive ALL, upfront dasatinib was associated with improved OS, primarily through lower non-relapse mortality rather than reduced relapse incidence. INTERPRETATION: Survival of adults with ALL in Latin America has improved compared with historical reports, but substantial disparities persist between public and private settings. Our findings support prioritizing investment in public-sector supportive care, diagnostic and treatment infrastructure, timely access to transplantation, and equitable availability of effective therapies as key strategies to improve survival across the region. FUNDING: None.
+英文摘要：Ketamine produces rapid antidepressant effects, but the molecular processes associated with their persistence remain poorly defined in humans. We examined longitudinal DNA methylation changes in 10 adults with major depressive disorder undergoing ketamine-assisted psychotherapy using two pre-treatment assessments (T1, T2) and one post-treatment assessment (T3). Participants received three sessions of intranasal racemic ketamine within a structured psychotherapy protocol. Buccal DNA methylation was measured using the Illumina MethylationEPIC v2.0 BeadChip. Depressive symptoms improved markedly following treatment, with mean Beck Depression Inventory-II scores declining from the severe to the mild range (p < .001). Of 802,595 CpG loci evaluated, 20,770 met the nominal T3-versus-T2 screening criterion. Sequential filtering for methylation-change magnitude and movement relative to pre-treatment fluctuation identified 962 retained CpG loci, including 517 retained gene-annotated loci. A supplementary linear mixed-effects analysis modeled repeated measurements within participants across the 603 preselected gene-annotated magnitude-filtered loci; because these loci were selected using the same contrast and cohort, this analysis was not treated as independent confirmation. Exploratory enrichment analysis of this 603-locus set identified NOTCH1-related Reactome terms driven by NOTCH1, DLL1, and ADAM17. Within the retained signature, multiple core and adjacent Notch-related components formed a coherent signaling module spanning ligand, receptor processing, transcriptional regulation, and pathway cross-talk. These findings identify a structured peripheral methylation signature associated with ketamine-assisted psychotherapy. They do not establish brain-specific pathway activation or causality, but provide a longitudinal basis for investigating regulatory adaptations accompanying clinical improvement.
 
 # 国内外医学与医药新闻
 
@@ -525,7 +525,26 @@
 
 英文摘要：<a href="https://neurosciencenews.com/alcohol-microglia-neuroscience-31311/" rel="nofollow" title="Alcohol Tricks Brain Cells Into Destroying Themselves"><img alt="This shows a person holding a glass of scotch and microglia." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/10/Binge-Drinking-Turns-Brain-Defenders-Into-Attackers-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Researchers discover microglia tear down brain scaffolding during heavy drinking, driving alcohol sedation and frontal brain damage.
 
-## 2. 论文标题：Scientists may have overlooked a hidden Alzheimer's culprit for decades
+## 2. 论文标题：Cold Sore Virus Reprograms Brain Immune Cells
+
+- 英文题目：Cold Sore Virus Reprograms Brain Immune Cells
+- 主题：国内外医学与医药新闻
+- 来源：Neuroscience News
+- 期刊/平台：Neuroscience News
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Mon, 19 Oc
+- 分数：44
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://neurosciencenews.com/cold-sore-virus-brain-immune-cells-31322/
+
+中文摘要：摘要要点：该内容涉及小胶质细胞、炎症。原文：<a href="https://neurosciencenews.com/cold-sore-virus-brain-immune-cells-31322/" rel="nofollow" title="Cold Sore Virus Reprograms Brain Immune Cells"><img alt="This shows the HSV1 virus." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/10/hsv1-inflammation-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>A new study reveals HSV-1 cold sore virus reprograms microglial immune cells, shutting down brain maintenance and mirroring Alzheimer's inflammation.
+
+英文摘要：<a href="https://neurosciencenews.com/cold-sore-virus-brain-immune-cells-31322/" rel="nofollow" title="Cold Sore Virus Reprograms Brain Immune Cells"><img alt="This shows the HSV1 virus." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/10/hsv1-inflammation-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>A new study reveals HSV-1 cold sore virus reprograms microglial immune cells, shutting down brain maintenance and mirroring Alzheimer's inflammation.
+
+## 3. 论文标题：Scientists may have overlooked a hidden Alzheimer's culprit for decades
 
 - 英文题目：Scientists may have overlooked a hidden Alzheimer's culprit for decades
 - 主题：国内外医学与医药新闻
@@ -544,15 +563,15 @@
 
 英文摘要：For decades, scientists have focused on amyloid beta as a major culprit behind Alzheimer’s disease, spending billions of dollars developing treatments that have often delivered disappointing results. Now, researchers at UC Santa Cruz are drawing attention to a largely overlooked peptide called P3 that could also play a role in the disease. Previously believed to be harmless, P3 can form harmful-looking protein clumps even faster than amyloid beta and may also damage brain cells.
 
-## 3. 论文标题：Strokes have nearly doubled among younger adults, and scientists aren't sure why
+## 4. 论文标题：Strokes have nearly doubled among younger adults, and scientists aren't sure why
 
 - 英文题目：Strokes have nearly doubled among younger adults, and scientists aren't sure why
 - 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
+- 来源：ScienceDaily Mind Brain
+- 期刊/平台：ScienceDaily Mind Brain
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
 - 日期：Thu, 15 Oc
 - 分数：40
 - PMID：N/A
@@ -563,7 +582,7 @@
 
 英文摘要：Strokes are becoming alarmingly common among younger adults, with rates nearly doubling among people ages 20 to 54 over nearly three decades. Researchers found that blocked blood vessels in the brain accounted for much of the increase, while high blood pressure, diabetes, and substance use also became more common among younger stroke patients. Although survival rates have improved, more young adults may now face the lasting consequences of stroke.
 
-## 4. 论文标题：Rare study reveals a striking divide inside an Alzheimer’s patient’s brain
+## 5. 论文标题：Rare study reveals a striking divide inside an Alzheimer’s patient’s brain
 
 - 英文题目：Rare study reveals a striking divide inside an Alzheimer’s patient’s brain
 - 主题：国内外医学与医药新闻
@@ -582,7 +601,7 @@
 
 英文摘要：A rare examination of an Alzheimer’s patient’s brain revealed that regions cleared of amyloid plaques had remarkably little of the harmful tau buildup associated with memory loss, while neighboring areas showed extensive damage. The discovery suggests that removing amyloid may have lasting protective effects and could help slow Alzheimer’s progression, especially when treatment begins early.
 
-## 5. 论文标题：Scientists uncover 3 key brain pathways linked to lasting depression relief
+## 6. 论文标题：Scientists uncover 3 key brain pathways linked to lasting depression relief
 
 - 英文题目：Scientists uncover 3 key brain pathways linked to lasting depression relief
 - 主题：国内外医学与医药新闻
@@ -600,25 +619,6 @@
 中文摘要：摘要要点：Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to improve after two years shared a striking pattern: insufficient stimulation of a crucial brain connection. The findings suggest that millimeters in electrode placement could make a major difference in treatment outcomes.
 
 英文摘要：Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to improve after two years shared a striking pattern: insufficient stimulation of a crucial brain connection. The findings suggest that millimeters in electrode placement could make a major difference in treatment outcomes.
-
-## 6. 论文标题：The hidden math of Alzheimer's could point to new treatments
-
-- 英文题目：The hidden math of Alzheimer's could point to new treatments
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Mind Brain
-- 期刊/平台：ScienceDaily Mind Brain
-- 影响因子：10+
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：内置参考表
-- 日期：Sun, 11 Oc
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/10/261008102714.htm
-
-中文摘要：摘要要点：Mathematics may hold unexpected clues to understanding Alzheimer’s disease. Scientists have developed a model showing how common metals like copper and zinc may influence the buildup of proteins associated with the disease, while also exploring possible ways to stop the process. The findings could help researchers identify promising strategies for preventing harmful plaque formation.
-
-英文摘要：Mathematics may hold unexpected clues to understanding Alzheimer’s disease. Scientists have developed a model showing how common metals like copper and zinc may influence the buildup of proteins associated with the disease, while also exploring possible ways to stop the process. The findings could help researchers identify promising strategies for preventing harmful plaque formation.
 
 ## 7. 论文标题：Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain
 
@@ -677,21 +677,21 @@
 
 英文摘要：Scientists have discovered that a protein linked to youth helps protect the brain’s immune cells from age-related decline. Restoring the protein in older mice improved the cells’ ability to clear debris and reduced signs of inflammation, raising hopes for future treatments targeting brain aging and Alzheimer’s disease.
 
-## 10. 论文标题：LSD Microdosing Enhances Sustained Attention in Women
+## 10. 论文标题：Why some people escape Alzheimer’s despite carrying a high-risk gene
 
-- 英文题目：LSD Microdosing Enhances Sustained Attention in Women
+- 英文题目：Why some people escape Alzheimer’s despite carrying a high-risk gene
 - 主题：国内外医学与医药新闻
-- 来源：Neuroscience News
-- 期刊/平台：Neuroscience News
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
 - 影响因子：待核实
 - 分区：待核实
 - 指标来源：未匹配
-- 日期：Mon, 12 Oc
+- 日期：Mon, 19 Oc
 - 分数：40
 - PMID：N/A
 - DOI：N/A
-- PubMed/原文链接：https://neurosciencenews.com/lsd-microdosing-women-attention-31307/
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/10/261018205044.htm
 
-中文摘要：摘要要点：该内容涉及双盲。原文：<a href="https://neurosciencenews.com/lsd-microdosing-women-attention-31307/" rel="nofollow" title="LSD Microdosing Enhances Sustained Attention in Women"><img alt="This shows a woman&#039;s head and a psychedelic background." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/10/lsd-women-attention-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>A double-blind trial finds low-dose LSD microdosing significantly sharpens sustained attention and cuts attention lapses in women, but not in men.
+中文摘要：摘要要点：Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new way to prevent early brain damage and could pave the way for treatments that mimic this natural defense.
 
-英文摘要：<a href="https://neurosciencenews.com/lsd-microdosing-women-attention-31307/" rel="nofollow" title="LSD Microdosing Enhances Sustained Attention in Women"><img alt="This shows a woman&#039;s head and a psychedelic background." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/10/lsd-women-attention-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>A double-blind trial finds low-dose LSD microdosing significantly sharpens sustained attention and cuts attention lapses in women, but not in men.
+英文摘要：Scientists have discovered why some people with a high genetic risk of Alzheimer’s remain mentally sharp into their 80s, uncovering a rare mutation that protects the brain from harmful protein buildup. The findings reveal a potential new way to prevent early brain damage and could pave the way for treatments that mimic this natural defense.
