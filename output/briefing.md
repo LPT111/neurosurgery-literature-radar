@@ -1,6 +1,6 @@
 # 神外文献日报 V2
 
-生成时间：2026-10-24 09:59:30
+生成时间：2026-10-25 09:38:53
 核心神外文献数量：10
 全部条目数量：36
 
@@ -25,48 +25,10 @@
 
 英文摘要：Retrospective studies in patients with nonmuscle invasive bladder cancer have reported a significant reduction in Alzheimer's disease incidence (12 to 78%) among Bacille Calmette-Guérin (BCG) recipients versus controls. To investigate the underlying mechanisms, we evaluated BCG in the PS19 mouse model of tauopathy. We found that BCG administration reduced hippocampal phospho-tau and microgliosis while preserving neuronal markers. In vivo volumetric T2-magnetic resonance Imaging (MRI) demonstrated attenuation of brain atrophy accompanied by increased glutamate-weighted chemical exchange saturation transfer-MRI signals. Functionally, BCG-treated mice showed improved performance in the novel object recognition test, as well as improved body-weight maintenance and survival. Transcriptomic profiling of the hippocampus revealed near complete normalization of the PS19 disease-associated gene expression signature toward that of healthy controls. Flow cytometric profiling of brain myeloid populations demonstrated a reduction in activated resident microglia, but total microglia cells remain elevated. Moreover, an increase of trained immunity marker CD80 on the recruited peripheral myeloid cells ensues following BCG treatment. Consistent with this shift in myeloid state, primary brain myeloid cells from BCG-treated mice also exhibited enhanced phagocytosis of fluorescein isothiocyanate-labeled tau fibrils and increased lactate production. Together, these findings indicate that BCG induces systemic and central nervous system myeloid cell reprogramming that limits neuroinflammation, enhances tau clearance, and rescues cognitive and neurodegenerative phenotypes in a tauopathy model. BCG is a safe, readily available therapy that merits consideration as a preventive agent against dementia.
 
-## 2. TSPO-PET 体内结合反映了额颞叶痴呆患者死后吞噬小胶质细胞的增加。
-
-- 英文题目：TSPO-PET binding in vivo reflects increased phagocytic microglia at post mortem in people with frontotemporal dementia.
-- 主题：创伤性脑损伤
-- 来源：PubMed
-- 期刊/平台：Acta neuropathologica
-- 影响因子：9.3
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-22
-- 分数：83
-- PMID：42911238
-- DOI：10.1007/s00401-026-03103-5
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42911238/
-
-中文摘要：脑部炎症是额颞叶痴呆 (FTD) 的一个关键特征。 18 kDa 易位蛋白 (TSPO) 的正电子发射断层扫描 (PET) 被广泛用作体内神经炎症的替代指标，但升高的信号是否反映小胶质细胞、星形细胞或血管病理学仍存在争议，并且之前在使用匹配的死前成像和死后组织的 FTD 中尚未解决这一问题。我们将死前 [11C]PK11195 TSPO-PET 与定量死后神经病理学配对，对 10 名 FTD 个体（5 名 FTLD-tau、5 名 FTLD-TDP）和 5 名年龄和性别匹配的对照进行配对，结合 17 个脑区的 CD68 免疫组织化学，将 TSPO 与小胶质细胞/巨噬细胞（IBA1、CD68）配对的多重免疫荧光，三个额颞皮质区域的星形细胞（GFAP）和内皮细胞（CD31）标记物，以及单个小胶质细胞的三维单细胞重建。相对于对照组，FTD 中的 CD68 面积分数升高（主要在白质中），并且与整个队列中的区域 TSPO-PET 结合潜力呈正相关（β = 8.66，P < 0.001），FTLD-tau 和 FTLD-TDP 的斜率相当。 FTD 中的总组织 TSPO 面积分数同样增加，并在两个独立处理的载玻片组中跟踪区域 PET 结合。在四种细胞类型标记中，只有 CD68-TSPO 共定位部分与 PET 信号呈正相关（β = +0.0041，P = 0.015，PFDR = 0.062），与 IBA1、GFAP 和 CD31 呈零相关或负相关。在单细胞分辨率下，同时也是 CD68+ 的 IBA1+ 小胶质细胞携带更多的绝对 TSPO，并且比 CD68- 小胶质细胞更大，但细胞体积的 TSPO 分数没有增加。因此，FTD 中 TSPO-PET 信号升高可能反映了 CD68+ 吞噬小胶质细胞负担的增加，而不是其他细胞类型中 TSPO 表达的增加，这支持 TSPO-PET 作为 FTLD-tau 和 FTLD-TDP 中小胶质细胞负担的生物标志物。
-
-英文摘要：Brain inflammation is a key feature of frontotemporal dementia (FTD). Positron emission tomography (PET) of the 18 kDa translocator protein (TSPO) is widely used as an in vivo proxy for neuroinflammation, but whether the elevated signal reflects microglial, astrocytic or vascular pathology remains controversial, and this has not previously been resolved in FTD using matched ante mortem imaging and post-mortem tissue. We paired ante mortem [11C]PK11195 TSPO-PET with quantitative post-mortem neuropathology in 10 individuals with FTD (5 FTLD-tau, 5 FTLD-TDP) and 5 age- and sex-matched controls, combining CD68 immunohistochemistry across 17 brain regions, multiplex immunofluorescence pairing TSPO with microglial/macrophagic (IBA1, CD68), astrocytic (GFAP) and endothelial (CD31) markers in three frontotemporal cortical regions, and three-dimensional single-cell reconstruction of individual microglia. CD68 area fraction was elevated in FTD relative to controls, predominantly in white matter, and was positively associated with regional TSPO-PET-binding potential across the cohort (β = 8.66, P < 0.001), with comparable slopes in FTLD-tau and FTLD-TDP. Total tissue TSPO-area fraction was likewise increased in FTD and tracked regional PET binding in two independently processed slide sets. Of the four cell-type markers, only the CD68-TSPO co-localised fraction was positively associated with the PET signal (β = +0.0041, P = 0.015, PFDR = 0.062), with null or negative associations for IBA1, GFAP and CD31. At single-cell resolution, IBA1+ microglia that were also CD68+ carried more absolute TSPO and were larger than CD68- microglia, without an increase in the TSPO fraction of cell volume. The elevated TSPO-PET signal in FTD, therefore, likely reflects an increased burden of CD68+ phagocytic microglia rather than TSPO expression in other cell types, supporting TSPO-PET as a microglial-burden biomarker across both FTLD-tau and FTLD-TDP.
-
-## 3. 评估化疗引起的认知障碍中的 NLRP3 炎性体：雌性大鼠中甲氨蝶呤和 5-氟尿嘧啶的多时间点研究。
-
-- 英文题目：Evaluating the NLRP3 inflammasome in chemotherapy-induced cognitive impairment: A multi-timepoint study of methotrexate and 5-fluorouracil in female rats.
-- 主题：小胶质细胞与 TREM2
-- 来源：PubMed
-- 期刊/平台：Behavioural brain research
-- 影响因子：2.3
-- 分区：JCR Q2 / CAS 3区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-21
-- 分数：83
-- PMID：42906859
-- DOI：10.1016/j.bbr.2026.116542
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42906859/
-
-中文摘要：化疗引起的认知障碍（CICI）影响许多癌症幸存者，他们经常报告治疗期间和/或治疗后出现认知困难，从而降低了生活质量。虽然 CICI 的确切机制尚不清楚，但人们普遍认为神经炎症是其中的一个因素。一种候选介质是富含亮氨酸重复序列和含有吡啶结构域的受体蛋白 3 (NLRP3) 炎性体的核苷酸结合域，它会驱动小胶质细胞炎症，并与帕金森病和阿尔茨海默病有关。因此，本研究调查了 CICI 大鼠模型中 NLRP3 炎性体成分是否发生改变。雌性 Sprague Dawley 大鼠被随机分配接受甲氨蝶呤 (MTX)、5-氟尿嘧啶 (5-FU) 或生理盐水（n = 18/治疗），并在治疗后 96 小时、31 天或 93 天实施安乐死（n = 6/治疗/时间点）。此前该人群已被证明存在认知缺陷。在前额皮质和海马中，通过蛋白质印迹法测量 NLRP3 和 pro-caspase-1，通过 ELISA 测量白细胞介素-1β (IL-1β)。通过离子钙结合接头分子 1 (IBA1) 免疫组织化学评估小胶质细胞数量和活化（n = 4/治疗/时间点）。与生理盐水对照相比，化疗在任何时间点都没有改变任一脑区的 NLRP3 或 pro-caspase-1，并且治疗效果很小（ηp² ≤ 0.06）。仅在 96 小时才可检测到的 IL-1β 也没有变化。同样，小胶质细胞总数或活化小胶质细胞的百分比也没有差异。这些发现没有证据表明 NLRP3 炎性体成分在 CICI 雌性大鼠模型中在检查的时间点发生了改变。然而，由于没有直接评估炎性体的组装和激活，未来的工作应该测量 ASC 斑点的形成、裂解的 caspase-1 和成熟的 IL-1β，并包括更早的时间点，特别是化疗后的前两周内。
-
-英文摘要：Chemotherapy-induced cognitive impairment (CICI) affects many cancer survivors, who often report cognitive difficulties during and/or after treatment that reduce quality of life. While the exact mechanisms that underlie CICI are unclear, neuroinflammation is widely proposed to contribute. One candidate mediator is the nucleotide-binding domain leucine-rich repeat and pyrin domain containing receptor protein 3 (NLRP3) inflammasome, which drives microglial inflammation and is implicated in Parkinson's and Alzheimer's disease. This study therefore investigated whether NLRP3 inflammasome components are altered in a rat model of CICI. Female Sprague Dawley rats were randomly allocated to receive methotrexate (MTX), 5-fluorouracil (5-FU) or saline (n = 18/treatment) and were euthanised at 96-hours, 31-days or 93-days post-treatment (n = 6/treatment/timepoint). This cohort was previously shown to develop cognitive deficits. In the prefrontal cortex and hippocampus, NLRP3 and pro-caspase-1 were measured by western blot, and interleukin-1β (IL-1β) by ELISA. Microglial number and activation were assessed by ionized calcium-binding adaptor molecule 1 (IBA1) immunohistochemistry (n = 4/treatment/timepoint). Compared with saline controls, neither chemotherapy altered NLRP3 or pro-caspase-1 in either brain region at any timepoint, and treatment effect sizes were small (ηp² ≤ 0.06). IL-1β, detectable only at 96-hours, was also unchanged. Similarly, there were no differences in either total microglial number or the percentage of activated microglia. These findings provide no evidence that NLRP3 inflammasome components are altered in this female rat model of CICI at the timepoints examined. However, as inflammasome assembly and activation were not directly assessed, future work should measure ASC speck formation, cleaved caspase-1 and mature IL-1β, and include earlier timepoints, particularly within the first two weeks after chemotherapy.
-
-## 4. TIA1 是 tau 蛋白病中小胶质细胞激活所必需的。
+## 2. TIA1 是 tau 蛋白病中小胶质细胞激活所必需的。
 
 - 英文题目：TIA1 is required for microglial activation in tauopathy.
-- 主题：创伤性脑损伤
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
 - 期刊/平台：Cell reports
 - 影响因子：6.9
@@ -82,7 +44,7 @@
 
 英文摘要：The RNA-binding protein T cell intracellular antigen-1 (TIA1) regulates cellular stress responses and tau pathology, key contributors to the pathophysiology of tauopathies, including Alzheimer's disease (AD). TIA1 acts in peripheral monocytes to inhibit inflammation, but its function in central microglia, critical to neuroinflammation and disease progression, remains unknown. Here, we crossed TIA1 microglial conditional knockout (cKO) mice (using a Cx3cr1-driven Cre element) with the PS19 P301S MAPT mouse model of tauopathy and demonstrated that TIA1 promotes microglial activation, with a corresponding suppression of microglia activation upon TIA1cKO. We observe striking reductions in cytokine (Tnf-α and Il-1β) and sensome markers (Clec7a, Trem2, and Itgax); importantly, these reductions were accompanied by decreases in tau pathology. Proteomic analyses show TIA1 interaction with the microglial proteins C1Q, previously implicated in microglial activation. These results position TIA1 as a regulator of neuroinflammation and tauopathy in CX3CR1-expressing myeloid cells, including microglia, with potentially divergent functions in central versus peripheral immune compartments.
 
-## 5. eIF4E 结合蛋白对小胶质细胞代谢、炎症反应和存活的翻译控制。
+## 3. eIF4E 结合蛋白对小胶质细胞代谢、炎症反应和存活的翻译控制。
 
 - 英文题目：Translational control of microglial metabolism, inflammatory responses, and survival by the eIF4E-binding proteins.
 - 主题：脑积水与脑脊液循环
@@ -101,7 +63,7 @@
 
 英文摘要：In Alzheimer's disease (AD), activation of the mechanistic target of rapamycin (mTOR) pathway promotes microglial neuroprotective functions by engaging multiple cell receptors. However, the relevant downstream effectors are not fully understood. mTOR complex 1 (mTORC1) promotes mRNA translation by phosphorylating and inactivating eukaryotic translation initiation factor 4E-binding protein 1 and 2 (4E-BP1/2), which are expressed in microglia. 4E-BP1 levels in cerebrospinal fluid (CSF) are elevated in AD and correlate with markers of microglial reactivity and disease progression. Using linear regression analysis, we found that elevated CSF 4E-BP1 levels strengthen the association between soluble TREM2 levels and neurodegeneration in amyloid-positive individuals. To investigate the underlying mechanism, we performed in vitro experiments demonstrating that amyloid-β inactivated 4E-BP1 in murine microglia. The mTOR-mediated inactivation is highly dependent on Spleen Tyrosine Kinase (SYK) signaling and repeated exposure to amyloid-β impaired this process, whereas prolonged exposure increased 4E-BP1 levels in microglia. Deletion of 4E-BP1/2 resulted in increased mitochondrial mass and oxidative phosphorylation, reduced pro-inflammatory signaling, and protected microglia from amyloid-induced apoptosis. Thus, impaired 4E-BP1 inactivation-due to reduced mTOR signaling or excess 4E-BP1-disrupts immune resolution, leading to metabolic exhaustion and microglial cell death. We identify the SYK-mTORC1-4E-BP1 signaling axis as a key regulator of microglial mitochondrial biogenesis and immune resolution in AD.
 
-## 6. 代谢失调、神经炎症和类淋巴清除缺陷是阿尔茨海默病的共同驱动因素：基于暴露组的预防概念框架。
+## 4. 代谢失调、神经炎症和类淋巴清除缺陷是阿尔茨海默病的共同驱动因素：基于暴露组的预防概念框架。
 
 - 英文题目：Metabolic Dyshomeostasis, neuroinflammation, and glymphatic clearance deficits as convergent drivers of Alzheimer's disease: an exposome-based conceptual framework for prevention.
 - 主题：创伤性脑损伤
@@ -120,81 +82,119 @@
 
 英文摘要：The repeated failures of anti-amyloid therapies in Alzheimer's disease (AD) have exposed critical limitations of the linear amyloid cascade hypothesis and underscored the need for a broader etiological framework. The objective of this review is to synthesise mechanistic evidence for an exposome‑based model of sporadic AD that integrates metabolic, inflammatory, and sleep/circadian contributions to brain aging. Epidemiological evidence indicates that up to 40% of AD risk is attributable to modifiable environmental and lifestyle factors. These factors, collectively termed the aging exposome, represent the cumulative measure of external exposures and the body's biological responses across the lifespan. The central hypothesis is that sporadic AD emerges from the synergistic convergence of three interconnected exposome domains, metabolic dyshomeostasis, chronic neuroinflammation, and sleep/circadian disruption, which collectively lower the threshold for clinical dementia through shared molecular hubs like NF‑κB, mTOR, and ER stress. Central to this model is brain insulin resistance, which impairs cerebral glucose utilization, compromises mitochondrial oxidative phosphorylation, and disrupts lipid homeostasis via ceramide/sphingomyelin imbalance, collectively driving bioenergetic failure, oxidative stress, and enhanced amyloid-β production. Concurrently, peripherally derived and central inflammatory signals prime microglia, upregulate β-secretase (BACE1), and activate complement-mediated synaptic pruning, while emerging evidence suggests that sleep fragmentation and circadian misalignment are hypothesized to reduce glymphatic clearance and sustain BACE1 elevation, although direct causal evidence in humans remains limited. These ostensibly disparate pathways are integrated by shared molecular hubs, NF-κB, mTOR, and endoplasmic reticulum stress, which establish a self-reinforcing vicious cycle that selectively damages the hippocampus and default mode network. This cumulative aging exposome burden exerts its greatest impact during the midlife metabolic storm window (ages 40-60) and exhibits sex-specific vulnerability. Collectively, metabolic, inflammatory, and sleep deficits amplify each other via shared hubs; midlife is a critical, sex‑specific vulnerability window; and multi‑domain prevention is rational, though causal proof requires exposome‑wide and pragmatic trials. This reframes sporadic AD as an exposome‑driven syndrome, favoring simultaneous metabolic, immune, and sleep interventions over single‑target approaches.
 
-## 7. 硫化氢通过调节神经胶质极化来抑制脑缺血/再灌注损伤后的神经炎症。
+## 5. 创伤性神经损伤的精准纳米医学：功能范式和转化框架。
 
-- 英文题目：Hydrogen sulfide inhibits neuroinflammation following cerebral ischemia/reperfusion injury via regulating glial polarization.
-- 主题：小胶质细胞与 TREM2
-- 来源：PubMed
-- 期刊/平台：Metabolic brain disease
-- 影响因子：3.5
-- 分区：JCR Q2 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-21
-- 分数：75
-- PMID：42905341
-- DOI：10.1007/s11011-026-02010-8
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42905341/
-
-中文摘要：硫化氢 (H2S) 是一种内源性气体递质，具有有效的抗神经炎症作用。内源性和外源性 H2S 均可通过抑制神经炎症反应来减轻脑缺血/再灌注 (I/R) 损伤。小胶质细胞在缺血后神经炎症中发挥着关键作用。激活后，小胶质细胞会极化为促炎 M1 表型或抗炎 M2 表型。神经炎症的进展与M1极化密切相关，而H2S已被证明可以抑制M1极化并促进保护性M2表型。同样，星形胶质细胞在缺血性中风后经历表型转变，A1 反应性星形胶质细胞加剧神经元损伤，而 A2 反应性星形胶质细胞发挥神经保护作用。我们之前的研究表明，内源性和外源性 H2S 都会促进星形胶质细胞向神经保护性 A2 表型极化。本综述全面概述了缺血性中风以及 H2S 及其供体在脑 I/R 损伤中的抗神经炎症作用，特别强调了它们在调节小胶质细胞和星形细胞极化向神经保护表型方面的作用。此外，我们还讨论了 H2S 介导的神经炎症抑制中涉及的细胞内信号通路。总的来说，这篇综述强调了 H2S 供体作为治疗脑 I/R 损伤的新型药物的治疗潜力。我们认为，H2S 供体主要通过协调调节小胶质细胞和星形细胞极化以实现抗炎表型来发挥其神经保护作用，并且这种双细胞靶向策略代表了脑 I/R 损伤的可行治疗方法。
-
-英文摘要：Hydrogen sulfide (H2S), an endogenous gasotransmitter, exerts potent anti-neuroinflammatory effects. Both endogenous and exogenous H2S attenuate cerebral ischemia/reperfusion (I/R) injury by suppressing neuroinflammatory responses. Microglia play a pivotal role in post-ischemic neuroinflammation. Upon activation, microglia polarize toward either the pro-inflammatory M1 phenotype or the anti-inflammatory M2 phenotype. The progression of neuroinflammation is closely associated with M1 polarization, while H2S has been demonstrated to inhibit M1 polarization and promote the protective M2 phenotype. Similarly, astrocytes undergo phenotypic transformation following ischemic stroke, with A1 reactive astrocytes exacerbating neuronal injury and A2 reactive astrocytes exerting neuroprotective effects. Our previous studies have shown that both endogenous and exogenous H2S promote astrocytic polarization toward the neuroprotective A2 phenotype. This review provides a comprehensive overview of ischemic stroke and the anti-neuroinflammatory effects of H2S and its donors in cerebral I/R injury, with particular emphasis on their roles in regulating microglial and astrocytic polarization toward neuroprotective phenotypes. Additionally, we discuss the intracellular signaling pathways involved in H2S-mediated suppression of neuroinflammation. Collectively, this review highlights the therapeutic potential of H2S donors as novel agents for the treatment of cerebral I/R injury. We propose that H2S donors exert their neuroprotective effects primarily through coordinated regulation of microglial and astrocytic polarization toward anti-inflammatory phenotypes, and that this dual-cell targeting strategy represents a viable therapeutic approach for cerebral I/R injury.
-
-## 8. SARS-CoV-2 感染后嗅粘膜中 α-突触核蛋白播种活动的流行率：一项试点研究的结果。
-
-- 英文题目：Prevalence of alpha-synuclein seeding activity in the Olfactory Mucosa following SARS-CoV-2 infection: results from a pilot study.
+- 英文题目：Precision Nanomedicine for Traumatic Neural Injury: Functional Paradigms and Translational Frameworks.
 - 主题：创伤性脑损伤
 - 来源：PubMed
-- 期刊/平台：Acta neuropathologica
-- 影响因子：9.3
+- 期刊/平台：Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+- 影响因子：14.1
 - 分区：JCR Q1 / CAS 1区
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-10-22
-- 分数：73
-- PMID：42911254
-- DOI：10.1007/s00401-026-03104-4
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42911254/
+- 分数：75
+- PMID：42919461
+- DOI：10.1002/advs.78308
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42919461/
 
-中文摘要：嗅觉功能障碍 (OD) 是 SARS-CoV-2 感染的一个标志，据信它是由病毒通过嗅粘膜 (OM) 入侵引起的神经炎症引起的。嗅觉减退还影响大多数帕金森病 (PD) 患者，其由嗅觉系统中的 α-突触核蛋白 (aSyn) 病理引起，并且可以使用 aSyn 播种扩增测定 (aSyn-SAA) 在 OM 中检测 aSyn 播种活性。本初步研究旨在利用 aSyn-SAA 调查 SARS-CoV-2 感染是否会诱导 OM 样本中局部 aSyn 错误折叠和聚集。我们进行了一项观察性研究，包括 PD 患者 (n = 51)、有记录的有症状 SARS-CoV-2 感染史的个体 (新冠肺炎后；n = 95) 和健康对照 (HC；n = 42)。使用 Sniffin'-Sticks-Identification (SSI) 和 -Discrimination (SSD) 测试，根据持续 OD（COVID+OD；n = 42）或正常嗅觉（COVID-OD；n = 53）对新冠肺炎后参与者进行分层。 OM 样本由耳鼻喉科专家获取，并由维罗纳大学的 aSyn-SAA 进行分析。临床表型分析包括 MDS-UPDRS、MoCA 和 Innsbruck-RBD-Inventory。 PD 与 COVID 后参与者和 HC 之间的 OM-SAA 阳性率存在显着差异（80.4% vs 24.2% vs 11.9%；p < 0.001）。在新冠肺炎后组中，COVID+OD 与 COVID-OD 的阳性率较高（35.7% 比 15.1%；p = 0.030），并且 COVID+OD 与 HC 不同（p = 0.030），而 COVID-OD 则不然（p = 0.65）。在新冠肺炎后参与者中，aSyn-SAA 阳性与较低的 SSI (p = 0.007) 和 SSD (p < 0.001) 评分相关，但与 MDS-UPDRS、MoCA 或 RBD 测量无关。 OM-SAA 阳性在新冠肺炎后持续出现 OD 的个体中更为丰富，并且与嗅觉障碍相关。这些发现支持以下假设：SARS-COV-2 感染后的神经炎症可能促进局部 aSyn 聚集。 OM-SAA 阳性的生物学和预后相关性尚不清楚，需要进一步的前瞻性研究。
+中文摘要：创伤性神经损伤，包括创伤性脑损伤（TBI）、脊髓损伤（SCI）和周围神经损伤（PNI），给全球带来了巨大的负担。这些损伤集中在氧化应激、神经炎症、调节性细胞死亡、脱髓鞘和细胞外基质重塑上，但在时间、细胞效应器和再生能力上有所不同。目前的治疗方法仍然无法阻止继发性损伤或恢复功能性神经回路。纳米医学整合了靶向递送、微环境调节和再生支持，但现有的策略和评论仍然按损伤类型或材料类别进行划分。这种碎片化限制了共享机制与特定伤害要求的整合。为了解决这一差距，我们开发了基于纳米颗粒的干预的交叉损伤框架。对三个单细胞数据集的单独重新分析表明复发性骨髓受累和损伤特异性的数据集内模式。我们比较了脂质基、聚合物、无机、碳基、仿生和混合平台的理化特性和生物命运。根据病理需要组织了六种范式：支架构建和微环境重塑、地形引导、仿生靶向、内源性刺激响应释放、外部物理场激活和细胞内重编程。我们追踪从被动封装到多组学引导和人工智能 (AI) 辅助的精密设计的演变，并检查制造、生物分布、安全性、蛋白质电晕控制和监管评估的障碍。该框架将损伤机制、功能需求和材料选择联系起来以指导翻译。
 
-英文摘要：Olfactory dysfunction (OD) is a hallmark of SARS-CoV-2-infection where it is believed to result from neuroinflammation induced by viral invasion via the olfactory mucosa (OM). Hyposmia also affects the majority of patients with Parkinson's disease (PD) where it is caused by α-synuclein (aSyn) pathology in the olfactory system, and aSyn-seeding-activity can be detected in the OM using aSyn-seeding-amplification-assays (aSyn-SAA). The present pilot study aimed to investigate whether SARS-CoV-2-infection induces local aSyn-misfolding and -aggregation in OM samples using aSyn-SAA. We conducted an observational study including PD patients (n = 51), individuals with a history of documented symptomatic SARS-CoV-2-infection (post-COVID; n = 95), and healthy controls (HC; n = 42). Post-COVID-participants were stratified based on persistent OD (COVID+OD; n = 42) or normal olfaction (COVID-OD; n = 53) using Sniffin'-Sticks-Identification (SSI) and -Discrimination (SSD) tests. OM samples were obtained by ENT specialists and analyzed by aSyn-SAA at the University of Verona. Clinical phenotyping included MDS-UPDRS, MoCA, and the Innsbruck-RBD-Inventory. OM-SAA positivity rates were significantly different between PD and both post-COVID-participants and HCs (80.4% vs 24.2% vs 11.9%; p < 0.001). Within the post-COVID-group, positivity rates were higher in COVID+OD vs COVID-OD (35.7% vs 15.1%; p = 0.030), and COVID+OD differed from HC (p = 0.030), while COVID-OD did not (p = 0.65). Among post-COVID-participants, aSyn-SAA positivity was associated with lower SSI (p = 0.007) and SSD (p < 0.001) scores, but not with MDS-UPDRS, MoCA, or RBD measures. OM-SAA-positivity was enriched among individuals with persistent post-COVID-OD and correlated with olfactory impairment. These findings support the hypothesis that neuroinflammation following SARS-COV-2-infection might promote local aSyn-aggregation. The biological and prognostic relevance of OM-SAA positivity is unknown and needs further prospective investigation.
+英文摘要：Traumatic neural injuries, including traumatic brain injury (TBI), spinal cord injury (SCI), and peripheral nerve injury (PNI), impose a substantial global burden. These injuries converge on oxidative stress, neuroinflammation, regulated cell death, demyelination, and extracellular matrix remodeling, while diverging in timing, cellular effectors, and regenerative capacity. Current management still fails to arrest secondary injury or restore functional neural circuitry. Nanomedicine integrates targeted delivery, microenvironmental regulation, and regenerative support, yet existing strategies and reviews remain compartmentalized by injury type or material class. Such fragmentation constrains the integration of shared mechanisms with injury-specific requirements. To address this gap, we develop a cross-injury framework for nanoparticle-based intervention. Separate reanalysis of three single-cell datasets suggests recurrent myeloid involvement and injury-specific within-dataset patterns. We compare lipid-based, polymeric, inorganic, carbon-based, biomimetic, and hybrid platforms in relation to physicochemical properties and biological fate. Six paradigms are organized by pathological need: scaffold construction and microenvironment remodeling, topographical guidance, biomimetic targeting, endogenous stimulus-responsive release, external physical-field activation, and intracellular reprogramming. We trace evolution from passive encapsulation to multi-omics-guided and artificial intelligence (AI)-assisted precision design and examine barriers to manufacturing, biodistribution, safety, protein-corona control, and regulatory evaluation. This framework connects injury mechanisms, functional needs, and material selection to guide translation.
 
-## 9. 血清 CitH3 和 PTX3 水平可用于早期预测严重创伤性脑损伤后急性呼吸窘迫综合征。
+## 6. 静脉注射阿仑单抗的高暴露与接受同种异体 HCT 的非恶性疾病患者腺病毒再激活的风险增加相关。
 
-- 英文题目：Serum CitH3 and PTX3 levels for early prediction of acute respiratory distress syndrome following severe traumatic brain injury.
-- 主题：创伤性脑损伤
-- 来源：PubMed
-- 期刊/平台：The International journal of neuroscience
-- 影响因子：1.5
-- 分区：JCR Q4 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-22
-- 分数：73
-- PMID：42872732
-- DOI：10.1080/00207454.2026.2749801
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42872732/
-
-中文摘要：目的：评估血清瓜氨酸组蛋白 H3 (CitH3) 和五聚蛋白 3 (PTX3) 对严重创伤性脑损伤 (sTBI) 后急性呼吸窘迫综合征 (ARDS) 的预测价值。方法：这项前瞻性观察性研究纳入了 2025 年 4 月至 2026 年 2 月期间入院的 395 名连续 sTBI 患者。患者被分为 ARDS (n = 111) 组和非 ARDS (n = 284) 组。通过ELISA测定血清CitH3和PTX3。通过 LASSO 回归选择候选预测变量。进行了 Spearman 相关、多变量逻辑回归和受试者工作特征 (ROC) 分析。 DeLong 测试、无类别净重分类改进 (NRI) 和综合辨别改进 (IDI) 评估了相对于传统模型的增量预测价值。结果：ARDS 组的血清 CitH3 和 PTX3 显着升高（均 p < 0.001），并且彼此呈正相关，但与氧合指数和白蛋白呈负相关。多变量分析确定肺挫伤、休克、入院 12 小时内液体平衡、APACHE II 和 SOFA 评分以及 CitH3 和 PTX3 升高为独立危险因素（均 p < 0.05），而较高的 GCS 评分和升高的白蛋白具有保护作用。它们的组合产生的 AUC 为 0.841，优于单独使用任何一种。当添加到传统模型中时，生物标志物的 AUC 从 0.926 增加到 0.943 (p = 0.025)，无类别 NRI 为 0.554 (95% CI: 0.320-0.778，p < 0.001)，IDI 为 0.072 (95% CI: 0.040-0.105，p < 0.001)。 0.001）。结论：联合血清 CitH3 和 PTX3 证明了 sTBI 后 ARDS 的早期预测潜力，但需要外部验证。
-
-英文摘要：OBJECTIVE: To evaluate the predictive value of serum citrullinated histone H3 (CitH3) and pentraxin 3 (PTX3) for acute respiratory distress syndrome (ARDS) after severe traumatic brain injury (sTBI). METHODS: This prospective observational study enrolled 395 consecutive sTBI patients admitted between April 2025 and February 2026. Patients were categorized into ARDS (n = 111) and non-ARDS (n = 284) groups. Serum CitH3 and PTX3 were measured by ELISA. Candidate predictors were selected by LASSO regression. Spearman correlation, multivariable logistic regression, and receiver operating characteristic (ROC) analyses were performed. The DeLong test, category-free net reclassification improvement (NRI), and integrated discrimination improvement (IDI) assessed incremental predictive value over the conventional model. RESULTS: Serum CitH3 and PTX3 were significantly higher in the ARDS group (both p < 0.001) and were positively correlated with each other but negatively with oxygenation indices and albumin. Multivariable analysis identified pulmonary contusion, shock, fluid balance within 12 h of admission, APACHE II and SOFA scores, and elevated CitH3 and PTX3 as independent risk factors (all p < 0.05), whereas a higher GCS score and elevated albumin were protective. Their combination yielded an AUC of 0.841, superior to either alone. When added to the conventional model, biomarkers increased the AUC from 0.926 to 0.943 (p = 0.025), with category-free NRI of 0.554 (95% CI: 0.320-0.778, p < 0.001) and IDI of 0.072 (95% CI: 0.040-0.105, p < 0.001). CONCLUSION: Combined serum CitH3 and PTX3 demonstrate early predictive potential for ARDS after sTBI but require external validation.
-
-## 10. TMEM106B 风险集中在 C 端片段稳态：遗传学、机制和治疗。
-
-- 英文题目：TMEM106B risk converges on C-terminal fragment homeostasis: genetics, mechanisms and therapy.
+- 英文题目：High Exposure of Intravenous Alemtuzumab is Associated with Increased Risk of Adenovirus reactivation in Patients with Non-Malignant Disease Undergoing Allogeneic HCT.
 - 主题：干细胞与外泌体
 - 来源：PubMed
-- 期刊/平台：Brain : a journal of neurology
-- 影响因子：11.7
+- 期刊/平台：Transplantation and cellular therapy
+- 影响因子：4.4
+- 分区：JCR Q1 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-10-23
+- 分数：73
+- PMID：42918578
+- DOI：10.1016/j.jtct.2026.10.032
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42918578/
+
+中文摘要：简介：阿仑单抗是一种针对人 CD52 的重组人源化免疫球蛋白 G1 单克隆抗体，是一种广泛应用于儿科异基因造血干细胞移植 (HCT) 治疗非恶性疾病 (NMD) 的血清治疗策略，有助于降低移植物排斥 (GR) 和移植物抗宿主病 (GVHD) 的风险。过度接触阿仑单抗可能会延迟免疫重建并增加感染风险。方法：我们对同一机构的 95 名 NMD 儿科患者进行了回顾性分析，这些患者在 2012 年至 2024 年间接受了 HCT 并接受静脉注射阿仑单抗作为预处理方案的一部分。使用经过验证的群体药代动力学模型估算个体化阿仑单抗药代动力学参数，包括 HCT 前后曲线下面积 (AUC) 和第 0 天浓度。结果：接受者操作特征 (ROC) 分析确定了与 HCT 前 AUC 55 mcg/mL*天和 HCT 后 AUC 10 mcg/mL*天的腺病毒感染增加相关的阈值。基线绝对淋巴细胞计数 (ALC) 是 HCT 后阿仑单抗浓度的最强决定因素。 HCT 前或后较高的阿仑单抗暴露与更多的腺病毒再激活（HCT 前：32.6% 对比 8.2%，p=0.007；HCT 后：34.5% 对比 10.7%，p=0.008）和 2 次或更多病毒再激活（HCT 前：24% 对比 6%，p=0.023；HCT 前：24% 对比 6%，p=0.023）相关。 HCT 后：HCT 后前 180 天内为 28.2% vs. 6.8%，p=0.008）。 HCT 前暴露量较高也与 HHV-6 再激活增加相关（6.2% vs 23.7%，p=0.028）。阿仑单抗暴露与 GR、移植物丢失、混合嵌合、急性或慢性 GVHD、移植相关死亡率 (TRM)、无事件生存期 (EFS) 或总生存期 (OS) 无关。第 0 天较低的阿仑单抗浓度 (≤0.77 mcg/mL) 与更多患者在第 180 天达到 CD4 恢复相关（88.2% vs 56.9%，p<0.001）。结论：HCT 前或后较高的阿仑单抗水平与较高的腺病毒再激活风险相关。基于模型的个体化阿仑单抗剂量可以减少移植后过度暴露，同时保持良好的植入和……
+
+英文摘要：INTRODUCTION: Alemtuzumab, a recombinant humanized immunoglobulin G1 monoclonal antibody directed against human CD52, is a widely used serotherapy strategy in pediatric allogeneic hematopoietic stem cell transplantation (HCT) in non-malignant diseases (NMD) to help reduce the risk of graft rejection (GR) and graft versus host disease (GVHD). Excessive exposure to alemtuzumab potentially delays immune reconstitution and increases the risk of infections. METHOD: We conducted a retrospective analysis at a single institution of 95 pediatric patients with NMD who underwent HCT and received intravenous alemtuzumab as part of their conditioning regimen between 2012-2024. Individualized alemtuzumab pharmacokinetic parameters, including pre- and post-HCT area under the curve (AUC) and day 0 concentrations, were estimated using a validated population pharmacokinetic model. RESULTS: Receiver operating characteristic (ROC) analysis identified thresholds that associated with increased adenoviral infection of 55 mcg/mL*day for pre-HCT AUC and 10 mcg/mL*day for post-HCT AUC. Baseline absolute lymphocyte count (ALC) was the strongest determinant of post-HCT alemtuzumab concentrations. Higher pre- or post-HCT alemtuzumab exposure was associated with significantly more adenovirus reactivation (pre-HCT: 32.6% vs. 8.2%, p=0.007; post-HCT: 34.5% vs. 10.7%, p=0.008) and 2 or more viral reactivations (pre-HCT: 24% vs. 6%, p=0.023; post-HCT: 28.2% vs. 6.8%, p=0.008) during the first 180 days post-HCT. Higher pre-HCT exposure was also associated with increased HHV-6 reactivation (6.2% vs 23.7%, p=0.028). Alemtuzumab exposure was not associated with GR, graft loss, mixed chimerism, acute or chronic GVHD, transplant-related mortality (TRM), event-free survival (EFS), or overall survival (OS). Lower day 0 alemtuzumab concentrations (≤0.77 mcg/mL) were associated with more patients reaching CD4 recovery by day 180 (88.2% vs 56.9%, p<0.001). CONCLUSIONS: Higher pre- or post HCT alemtuzumab levels are associated with a higher risk of adenovirus reactivation. Individualized, model-based alemtuzumab dosing may reduce excessive post-transplant exposure while maintaining excellent engraftment and survival outcomes. Targeting lower post-HCT alemtuzumab exposure may decrease viral complications without compromising transplant success, supporting pharmacokinetic-guided dosing strategies in pediatric HSCT for nonmalignant diseases.
+
+## 7. 鉴定用于分离神经元特异性细胞外囊泡的候选标记。
+
+- 英文题目：Identification of candidate markers for the isolation of neuron-specific extracellular vesicles.
+- 主题：脑积水与脑脊液循环
+- 来源：PubMed
+- 期刊/平台：Nature neuroscience
+- 影响因子：20.0
 - 分区：JCR Q1 / CAS 1区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-22
-- 分数：73
-- PMID：42910644
-- DOI：10.1093/brain/awag367
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42910644/
+- 日期：2026-10-23
+- 分数：69
+- PMID：42919911
+- DOI：10.1038/s41593-026-02466-y
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42919911/
 
-中文摘要：TMEM106B 是一种基因修饰剂，影响多种神经退行性疾病的易感性，包括伴有 TDP-43 病理学的额颞叶变性 (FTLD-TDP)、阿尔茨海默病、帕金森病和边缘系统主导的年龄相关 TDP-43 脑病，并有助于健康的大脑衰老和神经元储备。该基因具有单核苷酸多态性和结构变异，定义了风险和保护性单倍型，尽管付出了大量努力来识别这些单倍型中的功能变异，但共识仍然难以捉摸。在这篇综述中，我们综合了人类队列和机制研究中关于 TMEM106B 遗传学的最新知识，强调了变异如何影响其调控网络和蛋白质水平，重点关注其易于聚集的 C 端结构域。我们进一步整合了有关 TMEM106B 在内溶酶体系统内外的作用的证据，包括对蛋白质结构、翻译后修饰、相互作用因子、蛋白水解加工和原纤维形成的见解。这些发现利用来自小鼠和诱导多能干细胞（iPSC）模型的数据进行了背景化，突出了现有模型中当前的差距以及研究其功能和裂解所需的进展。最后，我们探索针对 TMEM106B 的治疗策略，重点关注表达调节、特定功能途径和原纤维形成。
+中文摘要：细胞外囊泡 (EV) 存在于生物液中，可能是非侵入性监测脑细胞的有用生物标志物，但分离细胞类型特异性的 EV 仍然具有挑战性。在这里，我们介绍一种基于蛋白质表面标记从神经元和神经胶质细胞中免疫分离 EV 的方法。我们首先根据基因表达和 EV 蛋白质组数据选择适合作为细胞类型特异性 EV 标记的跨膜蛋白。我们开发了一种高纯度 EV 分离方法，并对人脑脊液和血浆中 EV 上存在的蛋白质进行了分类。然后，我们通过计算确定了细胞类型特异性候选标记，用于从神经元、星形胶质细胞、少突胶质细胞和小胶质细胞中分离 EV。使用针对几种预测的神经元特异性蛋白的超灵敏免疫测定，我们确认了一种标记物 NRXN3 存在于脑脊液和血浆中的 EV 上。最后，我们开发了高效的 EV 免疫分离方法，并将其应用于分离 NRXN3+ EV。我们的工作提供了分离细胞类型特异性 EV 的通用方法，推进了使用 EV 研究脑疾病的目标。
 
-英文摘要：TMEM106B is a genetic modifier influencing susceptibility to multiple neurodegenerative disorders, including frontotemporal lobar degeneration with TDP-43 pathology (FTLD-TDP), Alzheimer's disease, Parkinson's disease, and limbic-predominant age-related TDP-43 encephalopathy, as well as contributing to healthy brain aging and neuronal reserve. The gene harbours single nucleotide polymorphisms and structural variants that define risk and protective haplotypes, and despite extensive efforts to identify the functional variant within these haplotypes, consensus remains elusive. In this review, we synthesize current knowledge of TMEM106B genetics from human cohorts and mechanistic studies, highlighting how variants may influence its regulatory network and protein levels, with an emphasis on its aggregation-prone C-terminal domain. We further integrate evidence on the roles of TMEM106B within the endo-lysosomal system and beyond, including insights into protein structure, posttranslational modifications, interactors, proteolytic processing, and fibril formation. These findings are contextualized using data from mouse and induced pluripotent stem cell (iPSC) models, highlighting current gaps in the available models and the advances required to study its functions and cleavage. Finally, we explore therapeutic strategies targeting TMEM106B, focusing on modulation of expression, specific functional pathways, and fibril formation.
+英文摘要：Extracellular vesicles (EVs) are present in biofluids and may be useful biomarkers to non-invasively monitor brain cells, but isolating cell type-specific EVs remains challenging. Here we introduce an approach to immuno-isolate EVs from neurons and glia based on protein surface markers. We first selected transmembrane proteins suitable as cell type-specific EV markers based on gene expression and EV proteomic data. We developed a high-purity EV isolation method and cataloged the proteins present on EVs in human cerebrospinal fluid and plasma. We then computationally identified cell type-specific candidate markers for isolating EVs from neurons, astrocytes, oligodendrocytes and microglia. Using ultrasensitive immunoassays against several predicted neuron-specific proteins, we confirmed one marker, NRXN3, as present on EVs in cerebrospinal fluid and plasma. Finally, we developed efficient EV immuno-isolation methods and applied them to isolate NRXN3+ EVs. Our work provides a general methodology for the isolation of cell type-specific EVs, advancing the goal of using EVs to study brain diseases.
+
+## 8. α-连环蛋白磷酸化是张力敏感的，并通过 afadin 支持上皮屏障功能。
+
+- 英文题目：α-Catenin phosphorylation is tension-sensitive and supports epithelial barrier functions via afadin.
+- 主题：脑积水与脑脊液循环
+- 来源：PubMed
+- 期刊/平台：The Journal of cell biology
+- 影响因子：6.4
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-12-07
+- 分数：65
+- PMID：42900179
+- DOI：10.1083/jcb.202508188
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42900179/
+
+中文摘要：小带粘附连接 (zAJ) 在空间上邻近紧密连接 (TJ)，位于称为顶端连接复合体 (AJC) 的上层结构中。 AJC 的一个关键组成部分是 F-肌动蛋白的圆周环，但肌动球蛋白收缩性如何驱动 AJC 结构和上皮屏障功能尚不完全清楚。在这里，我们发现 zAJ 的中心机械敏感成分 α-catenin (α-cat) 在非结构化连接区域中经历力依赖性磷酸化。这种修饰反过来又为 α-cat 中部区域的效应器结合做好准备。我们将 TJ/AJ 支架蛋白 afadin 作为 α-cat 的机械化学结合配偶体，鉴定了 α-cat 中结合所需的残基。 α-Cat 磷酸化和 afadin 结合支持它们在 zAJ 和屏障功能上的共富集。阻止 α-cat 磷酸化的小鼠模型特别不利于出生后大脑发育，导致脑积水，其连接特征类似于 α-cat 的 afadin 结合突变形式。这些数据支持一个模型，其中 α-cat 整合机械和化学信号以逐步促进 zAJ 富集、效应器招募和屏障功能。
+
+英文摘要：Zonula adherens junctions (zAJs) are spatially proximal to tight junctions (TJs), in a superstructure known as the apical junctional complex (AJC). A key component of the AJC is a circumferential ring of F-actin, but how actomyosin contractility drives AJC structure and epithelial barrier function is incompletely understood. Here, we show that a central mechanosensitive component of zAJ, α-catenin (α-cat), undergoes force-dependent phosphorylation in an unstructured linker region. This modification in turn primes the α-cat middle region for effector binding. We credential afadin, a TJ/AJ scaffold protein, as a mechanochemical binding partner of α-cat, identifying residues in α-cat required for binding. α-Cat phosphorylation and afadin binding support their co-enrichment at zAJ and barrier function. A mouse model that prevents α-cat phosphorylation is particularly detrimental to postnatal brain development, leading to hydrocephalus with junctional features similar to an afadin-binding mutant form of α-cat. These data support a model where α-cat integrates mechanical and chemical signals to progressively promote zAJ enrichment, effector recruitment, and barrier function.
+
+## 9. 创伤性脑损伤模型中循环类固醇激素和皮质基因表达的性别依赖性差异反应。
+
+- 英文题目：Differential sex-dependent responses of circulating steroid hormones and cortical gene expression in a traumatic brain injury model.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Science advances
+- 影响因子：12.5
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-10-23
+- 分数：65
+- PMID：42905827
+- DOI：10.1126/sciadv.aei5171
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42905827/
+
+中文摘要：越来越多的证据支持创伤性脑损伤 (TBI) 结局中的性别差异。然而，导致性别差异的根本过程尚不清楚。 TBI 导致分子和细胞反应的启动，促进神经退行性病变的进展。关于循环激素谱如何因创伤性脑损伤而改变以及内分泌反应的性别差异是否可能形成继发性损伤病理，人们知之甚少。我们在临床前 TBI 模型中使用完整的雄性和雌性小鼠，评估了 TBI 后 24 小时和 72 小时血浆激素浓度和皮质基因表达的变化。我们证明，男性和女性在应对 TBI 时，睾酮、雄烯二酮、雌二醇和脱氢表雄酮 (DHEA) 的循环水平会出现性别特异性的变化。我们还发现了参与损伤后免疫反应和组织重塑的基因表达的性别差异。此外，我们报告了性别之间不同的循环激素和基因表达相关性。
+
+英文摘要：Accumulating evidence supports sex differences in traumatic brain injury (TBI) outcomes. However, the underlying processes that lead to sex differences are not well understood. TBI results in the initiation of molecular and cellular responses that facilitate the progression of neurodegeneration. Little is known about how the circulating hormone profile is altered in response to TBI and whether sex differences in endocrine responses might shape secondary injury pathologies. Using intact male and female mice in a preclinical TBI model, we assessed changes in plasma hormone concentrations and cortical gene expression at 24 and 72 hours after TBI. We demonstrate that males and females exhibit sex-specific alterations in circulating levels of testosterone, androstenedione, estradiol, and dehydroepiandrosterone (DHEA) in response to TBI. We also identified sex differences in the expression of genes that are involved in immune responses and tissue remodeling after injury. Moreover, we report divergent circulating hormone and gene expression correlations between sexes.
+
+## 10. Rho 激酶抑制剂 (Y27632) 对无精子小鼠模型精子发生的影响。
+
+- 英文题目：Effect of Rho Kinase Inhibitor (Y27632) on Spermatogenesis in Azoospermic Mice Model.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Reproductive sciences (Thousand Oaks, Calif.)
+- 影响因子：2.5
+- 分区：JCR Q2 / CAS 4区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-10-23
+- 分数：65
+- PMID：42920066
+- DOI：10.1007/s43032-026-02244-y
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42920066/
+
+中文摘要：癌症治疗的进步显着提高了患者的生存率，从而增加了对有效的生育力保存策略的需求。化疗药物通常会诱导快速增殖的细胞（包括精原细胞）凋亡，导致睾丸长期损伤。 Y-27632 是一种 Rho 相关卷曲螺旋蛋白激酶 (ROCK) 抑制剂，已被证明可以通过调节 Rho GTPase 依赖性信号通路来抑制各种干细胞群的凋亡。本研究旨在评估 Y-27632 在小鼠模型中对白消安诱导的睾丸损伤的保护作用。将 18 只 4 周大的雄性 C57BL/6 小鼠随机分为三组：对照组（未治疗）、白消安（40 mg/kg）和白消安加 Y-27632（40 mg/kg 白消安 + 5 mg/kg Y-27632）。治疗后 70 天，评估精子参数（计数、活力、活力和质膜完整性）和睾丸结果，包括生精小管直径、生发上皮厚度、肾小管分化指数、精子发生指数、Johnsen 评分、凋亡基因表达、丙二醛水平、总抗氧化能力和 TUNEL 阳性细胞。与白消安组相比，Y-27632给药显着改善了生精小管直径和生发上皮厚度，并增加了小管分化和精子发生指数以及Johnsen评分。此外，Y-27632 治疗与 ERK 基因表达减少和 TUNEL 阳性细胞数量减少有关。然而，与对照组相比，精子参数和睾丸重量仍然显着降低，并且各组之间的脂质过氧化、总抗氧化能力或精子 DNA 完整性没有观察到显着差异。总之，Y-27632 通过改善精子发生的组织学指数和减少细胞凋亡来部分减轻白消安诱导的睾丸损伤，表明 ROCK 抑制可能代表性腺毒性癌症治疗后保留生育力的潜在辅助策略。
+
+英文摘要：Advances in cancer therapy have markedly improved patient survival, thereby increasing the need for effective fertility preservation strategies. Chemotherapeutic agents commonly induce apoptosis in rapidly proliferating cells, including spermatogonia, resulting in long-term testicular damage. Y-27632, a Rho-associated coiled-coil-containing protein kinase (ROCK) inhibitor, has been shown to suppress apoptosis in various stem cell populations by modulating Rho GTPase-dependent signaling pathways. This study aimed to evaluate the protective effects of Y-27632 against busulfan-induced testicular injury in a murine model. Eighteen 4-week-old male C57BL/6 mice were randomly assigned to three groups: control (no treatment), busulfan (40 mg/kg), and busulfan plus Y-27632 (40 mg/kg busulfan + 5 mg/kg Y-27632). Seventy days after treatment, sperm parameters (count, motility, viability, and plasma membrane integrity) and testicular outcomes, including seminiferous tubule diameter, germinal epithelium thickness, tubular differentiation index, spermatogenesis index, Johnsen score, apoptotic gene expression, malondialdehyde levels, total antioxidant capacity, and TUNEL-positive cells, were assessed. Y-27632 administration significantly improved seminiferous tubule diameter and germinal epithelium thickness and increased tubular differentiation and spermatogenesis indices and Johnsen scores compared with the busulfan group. In addition, Y-27632 treatment was associated with reduced ERK gene expression and a lower number of TUNEL-positive cells. However, sperm parameters and testicular weight remained significantly reduced compared with controls, and no significant differences were observed in lipid peroxidation, total antioxidant capacity, or sperm DNA integrity among groups. In conclusion, Y-27632 partially attenuated busulfan-induced testicular damage by improving histological indices of spermatogenesis and reducing apoptosis, suggesting that ROCK inhibition may represent a potential adjunct strategy for fertility preservation following gonadotoxic cancer therapies.
 
 # 顶刊神经科学
 
@@ -274,7 +274,26 @@
 
 英文摘要：TMEM106B is a genetic modifier influencing susceptibility to multiple neurodegenerative disorders, including frontotemporal lobar degeneration with TDP-43 pathology (FTLD-TDP), Alzheimer's disease, Parkinson's disease, and limbic-predominant age-related TDP-43 encephalopathy, as well as contributing to healthy brain aging and neuronal reserve. The gene harbours single nucleotide polymorphisms and structural variants that define risk and protective haplotypes, and despite extensive efforts to identify the functional variant within these haplotypes, consensus remains elusive. In this review, we synthesize current knowledge of TMEM106B genetics from human cohorts and mechanistic studies, highlighting how variants may influence its regulatory network and protein levels, with an emphasis on its aggregation-prone C-terminal domain. We further integrate evidence on the roles of TMEM106B within the endo-lysosomal system and beyond, including insights into protein structure, posttranslational modifications, interactors, proteolytic processing, and fibril formation. These findings are contextualized using data from mouse and induced pluripotent stem cell (iPSC) models, highlighting current gaps in the available models and the advances required to study its functions and cleavage. Finally, we explore therapeutic strategies targeting TMEM106B, focusing on modulation of expression, specific functional pathways, and fibril formation.
 
-## 5. EGFR 靶向抗体-毒素缀合物治疗复发性神经胶质瘤：1 期试验。
+## 5. 鉴定用于分离神经元特异性细胞外囊泡的候选标记。
+
+- 英文题目：Identification of candidate markers for the isolation of neuron-specific extracellular vesicles.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Nature neuroscience
+- 影响因子：20.0
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-10-23
+- 分数：85
+- PMID：42919911
+- DOI：10.1038/s41593-026-02466-y
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42919911/
+
+中文摘要：细胞外囊泡 (EV) 存在于生物液中，可能是非侵入性监测脑细胞的有用生物标志物，但分离细胞类型特异性的 EV 仍然具有挑战性。在这里，我们介绍一种基于蛋白质表面标记从神经元和神经胶质细胞中免疫分离 EV 的方法。我们首先根据基因表达和 EV 蛋白质组数据选择适合作为细胞类型特异性 EV 标记的跨膜蛋白。我们开发了一种高纯度 EV 分离方法，并对人脑脊液和血浆中 EV 上存在的蛋白质进行了分类。然后，我们通过计算确定了细胞类型特异性候选标记，用于从神经元、星形胶质细胞、少突胶质细胞和小胶质细胞中分离 EV。使用针对几种预测的神经元特异性蛋白的超灵敏免疫测定，我们确认了一种标记物 NRXN3 存在于脑脊液和血浆中的 EV 上。最后，我们开发了高效的 EV 免疫分离方法，并将其应用于分离 NRXN3+ EV。我们的工作提供了分离细胞类型特异性 EV 的通用方法，推进了使用 EV 研究脑疾病的目标。
+
+英文摘要：Extracellular vesicles (EVs) are present in biofluids and may be useful biomarkers to non-invasively monitor brain cells, but isolating cell type-specific EVs remains challenging. Here we introduce an approach to immuno-isolate EVs from neurons and glia based on protein surface markers. We first selected transmembrane proteins suitable as cell type-specific EV markers based on gene expression and EV proteomic data. We developed a high-purity EV isolation method and cataloged the proteins present on EVs in human cerebrospinal fluid and plasma. We then computationally identified cell type-specific candidate markers for isolating EVs from neurons, astrocytes, oligodendrocytes and microglia. Using ultrasensitive immunoassays against several predicted neuron-specific proteins, we confirmed one marker, NRXN3, as present on EVs in cerebrospinal fluid and plasma. Finally, we developed efficient EV immuno-isolation methods and applied them to isolate NRXN3+ EVs. Our work provides a general methodology for the isolation of cell type-specific EVs, advancing the goal of using EVs to study brain diseases.
+
+## 6. EGFR 靶向抗体-毒素缀合物治疗复发性神经胶质瘤：1 期试验。
 
 - 英文题目：EGFR-targeted antibody-toxin conjugate in recurrent glioma: a phase 1 trial.
 - 主题：顶刊神经科学
@@ -293,26 +312,26 @@
 
 英文摘要：D2C7-ATC is a recombinant antibody-toxin conjugate (ATC) targeting wild-type epidermal growth factor receptor (EGFR) and mutant EGFR variant III (EGFRvIII). We conducted a single-arm, single-site, open-label phase 1 trial evaluating a single infusion of D2C7-ATC via convection-enhanced delivery in the enhancing disease of 81 patients with biopsy-confirmed recurrent malignant glioma. The primary objective was to determine toxicity and the recommended phase 2 dose (RP2D) of D2C7-ATC. Secondary objectives included describing overall survival (OS) and assessing the association between EGFR expression and OS. The median overall survival (mOS) was 7.9 months among 72 patients with isocitrate dehydrogenase wild-type recurrent glioblastoma (IDHwt rGBM), including 35 patients in the dose-escalation stage (40 to 35,032 ng ml-1) and 37 patients in the dose-expansion stage (RP2D of 6,920 ng ml-1). D2C7-ATC was generally well tolerated, with mainly grade 1-2 treatment-related adverse events (67%). The maximum tolerated dose was exceeded at 35,032 ng ml-1, where four patients experienced dose-limiting toxicities, including grade 4 (N = 2) and grade 3 (N = 2) events. Eight patients died on trial; all deaths were unrelated to D2C7-ATC. Univariate analyses identified survival-associated biomarkers, including tumor D2C7 antibody reactivity, circulating cytokines, a tumor inflammatory gene signature and neutrophils, monocytes and lymphocytes in blood. Notably, patients with IDHwt rGBM with a D2C7 antibody reactivity score of <1.5+ in pre-treatment tumor had an mOS of 17.38 months, whereas those with low IL-8 in post-treatment plasma had an mOS of 16.6 months. These findings indicate that EGFR-targeted D2C7-ATC therapy prolongs survival in a subset of patients with IDHwt rGBM via intratumoral and systemic immune activation. ClinicalTrials.gov identifier: NCT02303678 .
 
-## 6. Elp1 是骨髓分化和大脑再生所必需的。
+## 7. 对淋巴瘤患者进行多中心、多试验队列分析，了解 CAR T 细胞治疗反应的决定因素。
 
-- 英文题目：Elp1 is required for myeloid differentiation and brain repopulation.
+- 英文题目：Determinants of response to CAR T cell therapy in a multicenter, multi-trial cohort analysis of patients with lymphoma.
 - 主题：顶刊神经科学
 - 来源：PubMed
-- 期刊/平台：Nature
-- 影响因子：48.5
+- 期刊/平台：Nature medicine
+- 影响因子：50.0
 - 分区：JCR Q1 / CAS 1区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-14
-- 分数：81
-- PMID：42875495
-- DOI：10.1038/s41586-026-11112-3
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42875495/
+- 日期：2026-10-23
+- 分数：79
+- PMID：42919964
+- DOI：10.1038/s41591-026-04707-w
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42919964/
 
-中文摘要：造血干细胞和祖细胞 (HSPC) 移植介导的小胶质细胞替代（用供体来源的骨髓细胞重建中枢神经系统小胶质细胞生态位）代表了一种有前景的脑细胞治疗策略 1-7。然而，大脑中 HSPC 衍生的骨髓谱系定型的细胞内在分子调节因子在很大程度上仍然未知。部分原因是原代 HSPC 的稀缺使得大规模的基因询问变得棘手。在这里，我们探讨了原代培养的 HSPC (cHSPC) 的离体扩增是否能够对造血分化进行公正的遗传询问。我们确定 cHSPC 可以进行基因操纵，并且很容易分化为骨髓细胞，并在移植后重新填充大脑的小胶质细胞生态位。此外，原代新生儿星形胶质细胞含有强烈的信号，可在体外诱导 cHSPC 的骨髓特异性。为了鉴定调节神经胶质细胞诱导的骨髓分化的基因，我们成功筛选了大约 20,000 个个体遗传扰动，并表征了参与细胞信号传导、细胞周期、线粒体功能和蛋白质翻译调节的基因。这些基因中有延伸乙酰转移酶复合体亚基 1 (Elp1)，它在骨髓规范化过程中抑制未折叠蛋白反应，对于骨髓细胞的生成至关重要，但不是维持。我们的工作建立了一个研究脑髓细胞生物学分子机制的平台。
+中文摘要：在接受嵌合抗原受体 (CAR) T 细胞疗法治疗的非霍奇金淋巴瘤 (NHL) 患者中，与疗效相关的因素与预后生物标志物重叠。目前，对于最佳产品特性尚未达成共识。我们通过多项长期随访（中位时间为 41.9 个月）的临床试验，对 580 名 NHL 患者的抗 CD19 CAR T 疗法 axicabtagene ciloleucel (axi-cel) 的表型属性进行了分析。高比例的幼稚样 (CCR7+CD45RA+) T 细胞是与延长无进展生存期相关的最显着特征（PFS；风险比 = 0.46，95% 置信区间：0.31-0.68，P = 9.8 × 10-5，高幼稚样 T 细胞组与低幼稚样 T 细胞组），且不影响安全性。初始样 T 细胞与疗效之间的关系独立于肿瘤微环境特征（在 112 名患者中进行评估）。在多变量模型中，幼稚表型优于炎症标志物和肿瘤负荷等临床病理特征，在调整产品扩展后仍然显着。在先前的治疗方案与产品和匹配的单采样本中幼稚样 T 细胞的比例之间观察到负相关，这表明早期干预的好处。主要发现在一个由 203 名接受基于 axi-cel 的疗法或 brexucabtagene autoleucel 治疗的患者组成的独立队列中得到验证。通过对 116 名患者亚组的产品进行飞行时间分析的质谱流式细胞仪证实，缺乏 TIGIT、LAG-3 和 PD-1 等耗竭标志物表达的 CD8 初始样 T 细胞表型与 PFS 之间存在关联。这项研究产生的证据有可能推动更有效的细胞疗法的开发。
 
-英文摘要：Haematopoietic stem and progenitor cell (HSPC) transplantation-mediated replacement of microglia-the reconstitution of the central nervous system microglial niche with donor-derived myeloid cells-represents a promising strategy for brain cell therapies1-7. However, the cell-intrinsic molecular regulators of HSPC-derived myeloid lineage commitment in the brain have remained largely uncharacterized. This is partially because the scarcity of primary HSPCs has rendered large-scale genetic interrogation intractable. Here we explored whether ex vivo expansion of primary cultured HSPCs (cHSPCs) enables unbiased genetic interrogation of haematopoietic differentiation. We established that cHSPCs can be genetically manipulated and readily differentiate into myeloid cells and repopulate microglia niches of the brain after transplantation. Moreover, primary neonatal astrocytes contained strong signals to induce myeloid specification of cHSPCs in vitro. To identify genes that regulate glia-induced myeloid differentiation, we successfully screened around 20,000 individual genetic perturbations and characterized genes involved in the regulation of cell signalling, cell cycle, mitochondrial function and protein translation. Among these genes was elongator acetyltransferase complex subunit 1 (Elp1), which suppressed the unfolded protein response during myeloid specification and was essential for the generation but not maintenance of myeloid cells. Our work establishes a platform to investigate the molecular mechanisms of brain myeloid biology.
+英文摘要：In patients with non-Hodgkin lymphoma (NHL) treated with chimeric antigen receptor (CAR) T cell therapy, factors associated with efficacy overlap with prognostic biomarkers. Currently, there is no consensus on optimal product characteristics. We analyzed the phenotypic attributes of the anti-CD19 CAR T therapy axicabtagene ciloleucel (axi-cel) from 580 patients with NHL across multiple clinical trials with long-term follow-up (median, 41.9 months). A high proportion of naive-like (CCR7+CD45RA+) T cells was the most significant feature associated with prolonged progression-free survival (PFS; hazard ratio = 0.46, 95% confidence interval: 0.31-0.68, P = 9.8 × 10-5, high versus low naive-like T cell groups) without impacting safety. The relationship between naive-like T cells and efficacy was independent of tumor microenvironment characteristics (assessed in 112 patients). In multivariate models, the naive-like phenotype outperformed clinicopathologic features such as inflammatory markers and tumor burden, remaining significant after adjusting for product expansion. An inverse correlation was observed between prior lines of therapy and the proportion of naive-like T cells in both product and matched apheresis samples, suggesting a benefit of earlier intervention. The key findings were validated in an independent cohort of 203 patients treated with axi-cel-based therapy or brexucabtagene autoleucel. Mass cytometry by time-of-flight analysis of products from a subgroup of 116 patients confirmed an association between a CD8 naive-like T cell phenotype lacking expression of exhaustion markers, such as TIGIT, LAG-3 and PD-1, and PFS. The evidence generated by this study has the potential to advance the development of more effective cellular therapies.
 
-## 7. Tau A152T 风险变异驱动 AD 和 PSP 中不同的细胞类型转录特征。
+## 8. Tau A152T 风险变异驱动 AD 和 PSP 中不同的细胞类型转录特征。
 
 - 英文题目：Tau A152T risk variant drives distinct cell type transcriptional signatures in AD and PSP.
 - 主题：顶刊神经科学
@@ -330,25 +349,6 @@
 中文摘要：A152T 点突变是 tau 基因 (MAPT) 中的一种罕见遗传变异，与阿尔茨海默病 (AD) 和额颞叶痴呆谱系疾病（包括进行性核上性麻痹 (PSP) 和皮质基底节变性 (CBD)）的风险相关。为了揭示 A152T 变异导致 tau 蛋白病风险的机制，我们对从 A152T 携带者和病理匹配的 AD 或 PSP 非携带者以及年龄匹配的对照中收集的死后脑组织进行了单核 RNA 测序 (snRNA-seq)。这些努力表明，尽管各组细胞类型组成相似，但 A152T 携带者在 AD 和 PSP 中表现出不同的细胞类型特异性转录变化。差异表达分析确定兴奋性神经元、少突胶质细胞和星形胶质细胞是 AD 和 PSP 中受影响最大的细胞群，并且这些相同的细胞类型显示出最强的 A152T 特异性变化。这些发现确定了将散发性 AD 和散发性 PSP 与 AD-A152T 和 PSP-A152T 区分开来的转录改变，以及 PSP 和 AD 中 A152T 携带者特有的共享分子特征。供体水平的伪批量分析显示单核研究结果具有广泛的方向性支持，尽管供体支持的基因的比例因细胞类型和比较而异。重要的是，发现将散发病例和 A152T 病例合并为一个疾病组可以掩盖 AD 和 PSP 中几种细胞类型的转录差异，表明转录特征存在差异，并强调在人类队列的 snRNA-seq 数据中筛查 A152T 等遗传风险变异的重要性。
 
 英文摘要：The A152T point mutation is a rare genetic variant in the tau gene (MAPT) that is linked to risk of Alzheimer's disease (AD) and frontotemporal dementia spectrum disorders, including progressive supranuclear palsy (PSP) and corticobasal degeneration (CBD). To uncover mechanisms through which the A152T variant contributes to risk of tauopathy, we performed single-nucleus RNA sequencing (snRNA-seq) on postmortem brain tissue collected from A152T carriers and pathology-matched non-carriers with either AD or PSP, along with age-matched controls. These efforts revealed that despite similar cell type composition across groups, A152T carriers exhibited distinct cell type-specific transcriptional changes in both AD and PSP. Differential expression analysis identified excitatory neurons, oligodendrocytes, and astrocytes as the most affected cell populations in AD and PSP, and these same cell types showed the strongest A152T-specific changes. These findings identify transcriptional alterations that differentiate sporadic AD and sporadic PSP from AD-A152T and PSP-A152T, as well as shared molecular signatures unique to A152T carriers in both PSP and AD. Donor-level pseudo-bulk analyses showed broad directional support with the single-nucleus findings although the proportion of donor-supported genes varied across cell type and comparison. Importantly, merging sporadic and A152T cases into a single disease group was found to mask transcriptional differences in several cell types in both AD and PSP, indicating divergence in transcriptional signature and highlighting the importance of screening for genetic risk variants like A152T in snRNA-seq data from human cohorts.
-
-## 8. 临床反应迟钝的急性脑损伤患者会激活脑机接口。
-
-- 英文题目：Clinically unresponsive patients with acute brain injury activate a brain-computer interface.
-- 主题：顶刊神经科学
-- 来源：PubMed
-- 期刊/平台：Brain : a journal of neurology
-- 影响因子：11.7
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-22
-- 分数：79
-- PMID：42911846
-- DOI：10.1093/brain/awag210
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42911846/
-
-中文摘要：对于临床无反应的患者，可以通过脑电图检测到大脑对口头命令的激活。这些患有认知运动分离（CMD）的患者尽管意识保留，但无法与环境沟通。先进的脑机接口（BCI）有望支持运动神经元疾病或脊髓损伤患者的运动功能。我们的主要目标是确定临床无反应的患者是否可以在急性脑损伤后早期控制自定进度的单向 BCI。其次，我们评估了 BCI 控制与短期和长期结果的关联。我们对 41 名临床无反应的重症和急性脑损伤患者以及 8 名健康志愿者和 22 名意识清醒的重症患者进行了一项前瞻性单中心队列研究。自定进度的脑机接口实时分析脑电图，并调节患者通过尝试运动任务来控制的音调频率和音调：向患者提供指令“让嘟嘟声听起来更快，继续张开和合上你的右手”与“让嘟嘟声听起来更慢，停止张开和合上你的右手”交替进行。 CMD 是通过将机器学习应用于患者聆听运动命令时记录的脑电图来检测的。临床结果是出院时意识恢复，使用修订版昏迷恢复量表进行评估，并在 12 个月时恢复功能独立，定义为格拉斯哥结果量表扩展评分为 4 分或更高（表示独立活动 8 小时或更长时间的能力）。此外，我们邀请意识清醒的患者以及意识清醒和临床无反应患者的家庭成员完成一项关于与 BCI 相关的感知效用和挑战的调查。在这项研究中，13 名临床无反应患者 (32%) 实现了 BCI 控制，41 名患者中的 8 名 (20%) 为 CMD 阳性。所有健康志愿者和 9 名意识清醒的患者 (41%) 都能控制 BCI。对于临床无反应的患者，BCI 控制的中位信号延迟为 49.8 [四分位距 (IQR) 39.9-75.6] 秒，对于有意识的患者为 17.1 (IQR 7.8-19.9) 秒，对于有意识的患者为 15.5 (IQR 12.9-75.6) 秒。……
-
-英文摘要：Brain activation to verbal commands can be detected by EEG in clinically unresponsive patients. These patients with cognitive motor dissociation (CMD) are unable to communicate with the environment despite preserved consciousness. Advanced brain-computer interfaces (BCI) are promising to support motor function in patients with motor neuron disease or spinal cord injury. Our primary objective was to determine if clinically unresponsive patients can control a self-paced, one-way BCI early after acute brain injury. Secondarily, we assessed the association of BCI control with short- and long-term outcomes. We conducted a prospective single-centre cohort study in 41 clinically unresponsive, critically ill and acutely brain injured patients, as well as in a convenience sample of 8 healthy volunteers and 22 conscious critically ill patients. The self-paced BCI analysed EEG in real time and modulated frequency and pitch of a tone that patients controlled by attempting a motor task: patients were provided with instructions 'to make the beep sound faster, keep opening and closing your right hand' alternating with 'to make the beep sound slower, stop opening and closing your right hand'. CMD was detected by applying machine learning to EEG recorded while patients listened to motor commands. Clinical outcomes were recovery of consciousness by hospital discharge, assessed with the Coma Recovery Scale-Revised, and recovery of functional independence at 12 months, defined as a Glasgow Outcome Scale-Extended score of 4 or higher (denoting the ability to function independently for 8 h or more). Additionally, we invited conscious patients as well as family members of conscious and clinically unresponsive patients to complete a survey on perceived utility and challenges associated with the BCI. In this study, 13 clinically unresponsive patients (32%) achieved BCI control and 8 of 41 (20%) were CMD-positive. All healthy volunteers and nine conscious patients (41%) were able to control the BCI. Median signal delay for BCI control was 49.8 [interquartile range (IQR) 39.9-75.6] seconds for clinically unresponsive patients, 17.1 (IQR 7.8-19.9) for conscious patients and 15.5 (IQR 12.9-21.2) for healthy volunteers. In the group of 41 clinically unresponsive patients, 4 of 13 patients with (31%) and 1 of 28 without BCI control (4%) recovered clinical consciousness at hospital discharge [odds ratio (OR) 21.2; 95% confidence interval (CI) 2.3-930.7]. At 12 months, 6 of 13 patients with (46%) and 2 of 28 without BCI control (7%) recovered functional independence (OR 9.9; 95% CI 1.8-81.6). None of the patients that were unable to control the BCI and were CMD-negative recovered. Patients with BCI control had shorter times to recovery of functional independence by 12 months than those who did not (hazards ratio 6.0; 95% CI 1.2-30.6). All respondents of the BCI survey (n = 37) expressed strong support for the potential future use of BCI devices. These results suggest that BCI control is a strong predictor of outcomes following acute brain injury and provide initial evidence that a bedside, EEG-based BCI system might permit bidirectional communication in critically ill unresponsive patients.
 
 # 全球热点话题｜学术界值得关注
 
@@ -371,26 +371,7 @@
 
 英文摘要：Extracellular matrix (ECM) remodeling promotes prostate cancer progression, while the prognostic value and cellular context of ECM-related genes (ERGs) remain unclear. A 4-gene ERG signature for disease-free interval prediction was built using TCGA-PRAD data, and the hub gene Fibromodulin (FMOD) was validated in an external cohort via scRNA-seq, bulk deconvolution and siRNA knockdown. The signature stratified patient prognosis, and FMOD exerted the strongest protective effect. Despite higher bulk expression in tumor tissues, FMOD predicted better clinical outcomes. FMOD was enriched in a low-chromosomal-instability, low-proliferation epithelial subpopulation with enhanced stromal-immune crosstalk, and FMOD knockdown boosted cancer cell proliferation and colony formation. FMOD identifies a low-malignancy epithelial state linked to favorable prostate cancer prognosis, supporting cell state-resolved validation of ECM-related prognostic biomarkers.
 
-## 2. 中东和北非 (MENA) 的维生素 D 缺乏症和口腔健康：公共卫生视角。
-
-- 英文题目：Vitamin D deficiency and oral health in the Middle East and North Africa (MENA): A public health perspective.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：Journal of Taibah University Medical Sciences
-- 影响因子：1.9
-- 分区：JCR Q2 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-12-01
-- 分数：65
-- PMID：42903540
-- DOI：10.1016/j.jtumed.2026.09.014
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42903540/
-
-中文摘要：目的：研究有关中东和北非 (MENA) 人群维生素 D 缺乏与口腔健康之间关系的证据，其中维生素 D 缺乏和口腔疾病仍然是重要的公共卫生挑战，强调生物学机制、龋齿、牙周病、其他口腔结果和公共卫生影响。方法：这篇叙述性综述综合了电子数据库中并通过参考筛选确定的系统评价、荟萃分析、随机对照试验、观察性研究和区域公共卫生报告，重点关注与中东和北非人群相关的维生素 D 缺乏、口腔健康结果、生物学机制和预防策略。结果：证据表明，维生素 D 通过牙齿矿化、钙和磷酸盐稳态、免疫调节、抗菌防御、炎症控制和牙槽骨维护有助于口腔健康。维生素 D 水平低与龋齿、牙周病、牙釉质发育缺陷、牙槽骨流失、伤口愈合受损和口腔粘膜疾病有关。关于口腔癌的证据仍然不足以建立这种关系。牙周病与全身性疾病（尤其是糖尿病）共享炎症和代谢途径，新的证据表明牙周病可能与认知能力下降和痴呆有关。然而，证据仍然多种多样，并且主要是观察性的；因此，因果关系尚未成立。中东和北非地区维生素 D 缺乏症和高口腔疾病负担并存，支持基于共同风险因素和共同风险因素方法的综合公共卫生战略。结论：维生素 D 缺乏应被视为口腔健康促进的一个潜在可改变的组成部分，而不是口腔疾病的独立原因或治疗方法。将营养策略与既定的口腔疾病预防计划相结合可以加强整个中东和北非地区的公共卫生工作。需要纵向研究和随机对照试验来阐明因果关系并指导基于证据的政策和方案……
-
-英文摘要：OBJECTIVES: To examine evidence regarding the relationship between vitamin D deficiency and oral health in Middle East and North Africa (MENA) populations, where vitamin D deficiency and oral diseases remain important public health challenges, emphasizing biological mechanisms, dental caries, periodontal diseases, other oral outcomes, and public health implications. METHODS: This narrative review synthesizes systematic reviews, meta-analyses, randomized controlled trials, observational studies, and regional public health reports identified in electronic databases and through reference screening, focusing on vitamin D deficiency, oral health outcomes, biological mechanisms, and preventive strategies relevant to MENA populations. RESULTS: Evidence suggests that vitamin D contributes to oral health through tooth mineralization, calcium and phosphate homeostasis, immune regulation, antimicrobial defense, inflammation control, and alveolar bone maintenance. Low vitamin D status has been associated with dental caries, periodontal diseases, developmental enamel defects, alveolar bone loss, impaired wound healing, and oral mucosal conditions. Evidence regarding oral cancer remains insufficient to establish a relationship. Periodontal disease shares inflammatory and metabolic pathways with systemic conditions, particularly diabetes, and emerging evidence suggests a possible association with cognitive decline and dementia. However, evidence remains heterogeneous and predominantly observational; therefore, causality has not been established. The coexistence of vitamin D deficiency and a high oral disease burden in MENA supports integrated public health strategies based on shared risk factors and the Common Risk Factor Approach. CONCLUSION: Vitamin D deficiency should be considered a potentially modifiable component of oral health promotion rather than a standalone cause or treatment of oral diseases. Integrating nutritional strategies with established oral disease prevention programs may strengthen public health efforts throughout the MENA. Longitudinal studies and randomized controlled trials are needed to clarify causal relationships and guide evidence-based policy and clinical practice. دراسة الأدلة المتعلقة بالعلاقة بين نقص فيتامين (د) وصحة الفم لدى سكان منطقة الشرق الأوسط وشمال أفريقيا، حيث لا يزال كل من نقص فيتامين (د) وأمراض الفم يمثلان تحديين مهمين للصحة العامة، مع التركيز على الآليات الحيوية، وتسوس الأسنان، وأمراض دواعم السن، والنتائج الفموية الأخرى، وانعكاساتها على الصحة العامة. تستعرض هذه المراجعة السردية الأدلة المستخلصة من المراجعات المنهجية، والتحليلات التلوية، والتجارب العشوائية المحكمة، والدراسات الرصدية، والتقارير الإقليمية للصحة العامة، التي جرى التعرف عليها من خلال قواعد البيانات الإلكترونية ومراجعة قوائم المراجع. وتركز المراجعة على نقص فيتامين (د)، والنتائج المتعلقة بصحة الفم، والآليات الحيوية، والاستراتيجيات الوقائية ذات الصلة بسكان منطقة الشرق الأوسط وشمال أفريقيا. تشير الأدلة إلى أن فيتامين (د) يسهم في صحة الفم من خلال تمعدن الأسنان، والمحافظة على اتزان الكالسيوم والفوسفات، وتنظيم الاستجابة المناعية، والدفاع المضاد للميكروبات، وضبط الالتهاب، والمحافظة على العظم السنخي. وقد ارتبط انخفاض مستوى فيتامين (د) بتسوس الأسنان، وأمراض دواعم السن، وعيوب نمو مينا الأسنان، وفقدان العظم السنخي، وتأخر التئام الجروح، وبعض أمراض الغشاء المخاطي للفم. أما الأدلة المتعلقة بسرطان الفم فما تزال غير كافية لإثبات وجود علاقة واضحة. كما تشترك أمراض دواعم السن مع بعض الأمراض الجهازية في مسارات التهابية واستقلابية، ولا سيما داء السكري، وتشير أدلة حديثة إلى احتمال وجود ارتباط بينها وبين التراجع المعرفي والخرف. ومع ذلك، ما تزال الأدلة متباينة وتعتمد في معظمها على الدراسات الرصدية؛ ولذلك لم تُثبت العلاقة السببية حتى الآن. ويدعم التزامن بين الانتشار المرتفع لنقص فيتامين (د) والعبء الكبير لأمراض الفم في منطقة الشرق الأوسط وشمال أفريقيا تبني استراتيجيات متكاملة للصحة العامة قائمة على عوامل الخطر المشتركة ونهج عوامل الخطر المشتركة. ينبغي النظر إلى نقص فيتامين (د) بوصفه عاملًا قابلًا للتعديل قد يسهم في تعزيز صحة الفم، وليس سببًا مستقلًا أو علاجًا منفردًا لأمراض الفم. وقد يسهم دمج الاستراتيجيات التغذوية ضمن برامج الوقاية المعتمدة من أمراض الفم في تعزيز جهود الصحة العامة في دول الشرق الأوسط وشمال أفريقيا. كما تبرز الحاجة إلى إجراء دراسات طولية وتجارب عشوائية محكمة لتوضيح العلاقات السببية، ودعم السياسات والممارسات السريرية القائمة على الأدلة.
-
-## 3. Centanafadine 对注意力缺陷/多动障碍患者的剂量依赖性疗效和安全性：最新证据的系统评价。
+## 2. Centanafadine 对注意力缺陷/多动障碍患者的剂量依赖性疗效和安全性：最新证据的系统评价。
 
 - 英文题目：Dose-dependent efficacy and safety of centanafadine in patients with attention-deficit/hyperactivity disorder: A systematic review of the latest evidence.
 - 主题：全球学术热点
@@ -409,7 +390,7 @@
 
 英文摘要：Centanafadine is a multimodal norepinephrine-dopamine-serotonin reuptake inhibitor (NDSRI) that has been evaluated for the treatment of attention-deficit/hyperactivity disorder (ADHD) across pediatric, adolescent, and adult populations. This systematic review aimed to evaluate the efficacy, safety, and tolerability of centanafadine compared with placebo, with particular emphasis on dose-response patterns across different age groups. PubMed/MEDLINE, Embase, Scopus, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from database inception to July 2026. Randomized, double-blind, placebo-controlled trials evaluating centanafadine in patients with ADHD were eligible for inclusion. The Cochrane Risk of Bias 2 (RoB 2) tool was used to assess the risk of bias. Because of differences in populations, formulations, dosing regimens, outcome measures, and reported effect estimates, findings were synthesized narratively rather than quantitatively. Four randomized trials reported in three publications, including 1845 randomized participants, were included. In children, high-dose centanafadine significantly improved attention-deficit/hyperactivity disorder rating scale, version 5 (ADHD-RS-5) scores compared with placebo (-16.3 vs. -10.8; p < 0.001), whereas the low-dose group did not demonstrate a statistically significant difference (mean difference [MD] -2.7; 95% confidence interval [CI], -6.0 to 0.5; p = 0.10). In adolescents, 328.8 mg significantly improved ADHD-RS-5 scores compared with placebo (-18.5 vs. -14.2; p = 0.0006; Cohen's d = -0.40), whereas 164.4 mg did not (p = 0.3016). In adults, both 200 and 400 mg/day significantly improved Adult ADHD Investigator Symptom Rating Scale (AISRS) scores, with LSMDs ranging from -2.74 to -4.42 (p ≤ 0.039). Treatment-emergent adverse events occurred in 25%-39% of children, 23.8%-50.3% of adolescents, and 17.6%-31.8% of adults, with higher rates generally observed at higher doses in some populations. Centanafadine demonstrated improvement in core ADHD symptoms across pediatric, adolescent, and adult populations, with a more apparent dose-response pattern in children and adolescents and significant efficacy across the adult doses evaluated. Higher doses were associated with increased treatment-emergent adverse events in some populations. However, the evidence base remains limited to four randomized trials from three publications, with predominantly short-term follow-up, no active-comparator trials, and limited independently sponsored evidence. Therefore, the efficacy, safety, and dose-response findings should be interpreted cautiously. Longer term, independently sponsored, and head-to-head comparative trials are needed to further establish the optimal dosing, comparative effectiveness, and long-term safety of centanafadine.
 
-## 4. 重度抑郁症氯胺酮辅助心理治疗后的纵向外周 DNA 甲基化重塑。
+## 3. 重度抑郁症氯胺酮辅助心理治疗后的纵向外周 DNA 甲基化重塑。
 
 - 英文题目：Longitudinal peripheral DNA methylation remodeling following ketamine-assisted psychotherapy in major depressive disorder.
 - 主题：全球学术热点
@@ -428,7 +409,7 @@
 
 英文摘要：Ketamine produces rapid antidepressant effects, but the molecular processes associated with their persistence remain poorly defined in humans. We examined longitudinal DNA methylation changes in 10 adults with major depressive disorder undergoing ketamine-assisted psychotherapy using two pre-treatment assessments (T1, T2) and one post-treatment assessment (T3). Participants received three sessions of intranasal racemic ketamine within a structured psychotherapy protocol. Buccal DNA methylation was measured using the Illumina MethylationEPIC v2.0 BeadChip. Depressive symptoms improved markedly following treatment, with mean Beck Depression Inventory-II scores declining from the severe to the mild range (p < .001). Of 802,595 CpG loci evaluated, 20,770 met the nominal T3-versus-T2 screening criterion. Sequential filtering for methylation-change magnitude and movement relative to pre-treatment fluctuation identified 962 retained CpG loci, including 517 retained gene-annotated loci. A supplementary linear mixed-effects analysis modeled repeated measurements within participants across the 603 preselected gene-annotated magnitude-filtered loci; because these loci were selected using the same contrast and cohort, this analysis was not treated as independent confirmation. Exploratory enrichment analysis of this 603-locus set identified NOTCH1-related Reactome terms driven by NOTCH1, DLL1, and ADAM17. Within the retained signature, multiple core and adjacent Notch-related components formed a coherent signaling module spanning ligand, receptor processing, transcriptional regulation, and pathway cross-talk. These findings identify a structured peripheral methylation signature associated with ketamine-assisted psychotherapy. They do not establish brain-specific pathway activation or causality, but provide a longitudinal basis for investigating regulatory adaptations accompanying clinical improvement.
 
-## 5. CD70 靶向 CAR-T 细胞治疗后胶质母细胞瘤免疫景观重塑。
+## 4. CD70 靶向 CAR-T 细胞治疗后胶质母细胞瘤免疫景观重塑。
 
 - 英文题目：Glioblastoma immune landscape remodeling following treatment with CD70-targeted CAR-T cells.
 - 主题：全球学术热点
@@ -447,7 +428,7 @@
 
 英文摘要：Chimeric antigen receptor (CAR)-T cell therapy has shown limited efficacy in glioblastoma (GB), largely because of the immunosuppressive tumor microenvironment (TME). We have previously demonstrated that the ligand-based mCD70-directed construct mCAR27 specifically eliminates CD70⁺ GB cells in vitro, and induces durable tumor remission with prolonged survival in a syngeneic model of orthotopic GB. Despite the therapeutic promise of CD70 as a GB CAR-T cell target, the impact of CD70-directed CAR-T cells on the brain tumor immune landscape after target interception remains unexplored. Here, we independently confirmed a tumorigenic role for CD70 in murine GB by performing bulk RNA sequencing and in vivo experiments. Next, we applied single-cell RNA sequencing (scRNAseq) to decipher the transcriptome of GB-infiltrating immune cells in immunocompetent mice bearing CD70+ GB after intratumoral mCAR27 therapy. CAR-T cell treatment expanded adoptively transferred cells and was associated with increased endogenous Cd8⁺ T-cell infiltration, alongside a reduction in immunosuppressive populations, including Tregs and anti-inflammatory M2-like macrophages, but also subsets of dendritic and natural-killer cells. CD70 expression was detected on multiple GB-infiltrating immune subsets, notably Tregs and M2-like macrophages. Transcriptionally, mCAR27-mediated GB remission led to a coordinated downregulation of type-I interferon-stimulated genes and immunosuppressive mediators such as Arg1, Tgfbi, Cd274, Pdcd1lg2 and Lag3, coupled with upregulation of genes involved in inflammatory resolution, findings consistent with attenuation of GB-derived inflammatory stress and immunosuppression. Collectively, we showcase that CD70-directed CAR-T cell therapy remodels the post-treatment immune landscape towards resolution of inflammation and reduced immunosuppression, supporting sustained immune surveillance.
 
-## 6. 共病哮喘 - 慢性阻塞性肺病 (COPD) 患者相关结局的发生及其关联：一项队列研究。
+## 5. 共病哮喘 - 慢性阻塞性肺病 (COPD) 患者相关结局的发生及其关联：一项队列研究。
 
 - 英文题目：Comorbid asthma - occurrence and associations with patient-related outcomes in COPD: a cohort study.
 - 主题：全球学术热点
@@ -466,7 +447,7 @@
 
 英文摘要：PURPOSE: Clinical features of COPD and asthma overlap, complicating differential diagnosis. This study investigated the prevalence of comorbid asthma in COPD patients and its association with patient-related outcomes. MATERIALS AND METHODS: Patients with a doctor's diagnosis of COPD were randomly selected in two cohorts 2005 (n = 1060) and 2014 (n = 1671), from primary and secondary care in Sweden. Data were collected from medical records and patient questionnaires at baseline and at follow-up (2012 and 2022, respectively). Questionnaires included data on exacerbations. Symptoms were assessed using the clinical COPD questionnaire (CCQ). Comorbid asthma was identified through medical records. Ten-year mortality data were obtained from national registers. Logistic and linear regression assessed associations with patient-reported outcomes; Cox regression was applied for mortality analyses. RESULTS: Comorbid asthma was found in 22% of the 2005 cohort and 9% of the 2014 cohort (p < .001). In both cohorts, it was associated with an increased risk of exacerbations: OR (95% CI) 1.58 (1.07-2.32), p = .02, and 2.20 (1.38-3.52), p < .001, respectively. No associations were found between comorbid asthma and worsening of health status (CCQ). Mortality risk did not differ in the 2005 cohort, HR (95% CI) 0.92 (0.71-1.18), but was lower in the 2014 cohort, HR (95% CI) 0.67 (0.49-0.93), p = .02. CONCLUSION: Comorbid asthma in COPD has changed from 22 to 9%, potentially due to improved diagnostics. Comorbid asthma remains clinically relevant due to its association with an increased exacerbation risk.
 
-## 7. 除了中风：基于人群的 EpiHealth 研究中的心房颤动和更广泛的血栓栓塞事件负担。
+## 6. 除了中风：基于人群的 EpiHealth 研究中的心房颤动和更广泛的血栓栓塞事件负担。
 
 - 英文题目：Beyond stroke: atrial fibrillation and the broader burden of thromboembolic events in the population-based EpiHealth study.
 - 主题：全球学术热点
@@ -485,7 +466,7 @@
 
 英文摘要：OBJECTIVES: To investigate the distribution and risk of thromboembolic events (TEs) among adults with and without atrial fibrillation (AF), and to assess oral anticoagulant (OAC) use over time. DESIGN: This population-based longitudinal cohort study included EpiHealth participants recruited between April 2011 and December 2016 and followed through linkage to Swedish health data registers from baseline until the first TE, death, or December 31, 2016. RESULTS: At baseline, 873 of 22,616 participants (3.9%) had AF and 297 developed incident AF during follow-up. 484 participants experienced at least one TE during 70,587 person-years. Participants with AF had higher TE incidence (68 events, 5.9%; p < 0.001), predominantly arterial (73.5%), with 94% of arterial events involving the cerebral circulation. Approximately one quarter of TEs among participants with AF occurred outside the cerebral circulation and comprised both venous and non-cerebral arterial events. Although participants with incident AF represented less than one quarter of participants with AF, they accounted for 40% of TEs in the AF group. OAC use increased from 39.0% to 50.4%, with a shift from predominantly warfarin to direct oral anticoagulants. In time-dependent Cox regression adjusted for age, sex, and prior arterial thromboembolism, untreated AF was associated with increased thromboembolic risk compared with no AF (HR 2.53), whereas OAC use was associated with lower risk. CONCLUSIONS: AF was associated with substantially increased thromboembolic risk, predominantly arterial in nature. One in five TEs among participants with AF coincided with newly diagnosed AF, suggesting potential opportunities for earlier AF detection and timely initiation of anticoagulant treatment.
 
-## 8. 体外循环心脏手术后的术后感染——发生率、诊断程序的表现和预测因素。
+## 7. 体外循环心脏手术后的术后感染——发生率、诊断程序的表现和预测因素。
 
 - 英文题目：Postoperative infections after cardiac surgery with cardiopulmonary bypass - incidence, performance of diagnostic procedures, and predictive factors.
 - 主题：全球学术热点
@@ -504,26 +485,45 @@
 
 英文摘要：OBJECTIVES: Cardiac surgery using cardiopulmonary bypass (CPB) induces a systemic inflammatory response that affects common inflammatory markers, including C-reactive protein (CRP), white blood cell count (WBC), and body temperature, complicating postoperative diagnosis of infections. The objective of this study was to assess the incidence of postoperative infections and evaluate the performance of clinically used biomarkers. DESIGN: This was a bidirectional cohort study including patients undergoing cardiac surgery with CPB between 1st of February 2020 and 22nd of September 2021. Patients with postoperative infection were compared to patients without. Multivariable logistic regression was used to identify independent predictors of postoperative infections. Receiver operating characteristic (ROC) curves evaluated the diagnostic ability of current biomarkers to detect infection. RESULTS: A total of 1,222 patients were included. The incidence of postoperative infections (during hospitalisation and/or late infection) was 17.3%. Patients with postoperative infection had more comorbidities, underwent more complex procedures, and had higher mortality (90-day mortality 3.8% vs 1.5%, p = 0.045; 1-year mortality 5.7% vs 2.7%, p = 0.032). CRP, WBC, and temperature performed poorly in detecting postoperative infection, although peak CRP (OR 1.069, p < 0.001) and peak temperature (OR 2.408, p = 0.005) were independent predictors of postoperative infection. Peak temperature occurred on postoperative day 5 in infected patients versus day 2 in those without infection. CONCLUSION: Postoperative infections following cardiac surgery with CPB remain common and are associated with increased postoperative complications and mortality. Common inflammatory biomarkers perform poorly in detecting infection. Improved diagnostic tools are needed to facilitate early detection and treatment.
 
+## 8. 部分注射水下内镜粘膜切除术治疗浅表非壶腹十二指肠上皮肿瘤的临床结果（附视频）。
+
+- 英文题目：Clinical Outcomes of Partial Injection Underwater Endoscopic Mucosal Resection for Superficial Non-ampullary Duodenal Epithelial Tumors (With Video).
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：DEN open
+- 影响因子：1.5
+- 分区：JCR Q4 / CAS 4区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2027-04-01
+- 分数：45
+- PMID：42909863
+- DOI：10.1002/deo2.70453
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42909863/
+
+中文摘要：目的：虽然内镜切除术广泛用于浅表非壶腹十二指肠上皮肿瘤（SNADET），但传统内镜下粘膜切除术（CEMR）可能与次优完全切除率相关。部分注射水下 EMR (PI-UEMR) 已被提出来改善远端病变边缘的可视化并促进整块切除。我们的目的是使用 CEMR 作为历史机构比较器来评估 SNADET 的 PI-UEMR 的结果。方法：这项单中心观察性队列研究纳入了 2015 年 9 月至 2025 年 12 月期间接受内镜下粘膜切除术进行 SNADET 的患者。对接受 CEMR 或 PI-UEMR 治疗的病变进行了分析。主要结果是整块切除率和 R0 切除率。次要结局包括组织学诊断和手术相关不良事件，包括术中穿孔、迟发性穿孔和迟发性出血。结果：总共分析了 73 例患者的 77 个病灶，其中 39 例接受 CEMR 治疗，38 例接受 PI-UEMR 治疗。 CEMR组和PI-UEMR组的整块切除率分别为90.0%和97.4%。 PI-UEMR 组的 R0 切除率显着高于 CEMR 组（89.4% vs. 69.2%）。各组之间的组织学诊断相似。两组均未发生术中穿孔。 PI-UEMR 组未观察到与手术相关的不良事件，包括迟发性穿孔或出血。结论：在本研究中，在保持良好的安全性的同时，PI-UEMR 与比 CEMR 更高的 R0 切除率相关。它可能代表了 SNADET 的有效内镜治疗选择，特别是当需要精确观察远端病变边缘时。未标记：试验注册：大学医院医疗信息网络：UMIN000060637。
+
+英文摘要：OBJECTIVES: Although endoscopic resection is widely performed for superficial non-ampullary duodenal epithelial tumors (SNADETs), conventional endoscopic mucosal resection (CEMR) may be associated with suboptimal complete resection rates. Partial injection underwater EMR (PI-UEMR) has been proposed to improve the visualization of distal lesion margins and facilitate en bloc resection. We aimed to evaluate the outcomes of PI-UEMR for SNADETs, using CEMR as a historical institutional comparator. METHODS: This single-center observational cohort study included patients who underwent endoscopic mucosal resection for SNADETs between September 2015 and December 2025. Lesions treated with CEMR or PI-UEMR were analyzed. The primary outcomes were en bloc and R0 resection rates. The secondary outcomes included histological diagnosis and procedure-related adverse events, including intraoperative perforation, delayed perforation, and delayed bleeding. RESULTS: In total, 77 lesions in 73 patients were analyzed, including 39 treated with CEMR and 38 treated with PI-UEMR. The en bloc resection rates were 90.0% and 97.4% in the CEMR and PI-UEMR groups, respectively. The R0 resection rate was significantly higher in the PI-UEMR group than in the CEMR group (89.4% vs. 69.2%). Histological diagnoses were similar between the groups. No intraoperative perforation occurred in either group. No procedure-related adverse events, including delayed perforation or bleeding, were observed in the PI-UEMR group. CONCLUSIONS: While maintaining a favorable safety profile, PI-UEMR was associated with a higher R0 resection rate than CEMR in this study. It may represent an effective endoscopic treatment option for SNADETs, particularly when precise visualization of the distal lesion margins is required. UNLABELLED: Trial Registration: University Hospital Medical Information Network: UMIN000060637.
+
 # 国内外医学与医药新闻
 
-## 1. 脓毒症后巨噬细胞定居在大脑中，导致记忆丧失
+## 1. 胶质母细胞瘤的突破揭示了脑癌细胞如何变得更具攻击性
 
-- 英文题目：Macrophages Settle in the Brain After Sepsis, Driving Memory Loss
+- 英文题目：Glioblastoma breakthrough reveals how brain cancer cells become more aggressive
 - 主题：国内外医学与医药新闻
-- 来源：Neuroscience News
-- 期刊/平台：Neuroscience News
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
 - 影响因子：待核实
 - 分区：待核实
 - 指标来源：未匹配
-- 日期：Tue, 20 Oc
+- 日期：Fri, 23 Oc
 - 分数：50
 - PMID：N/A
 - DOI：N/A
-- PubMed/原文链接：https://neurosciencenews.com/macrophages-sepsis-memory-31327/
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/10/261022081300.htm
 
-中文摘要：<a href="https://neurosciencenews.com/macrophages-sepsis-memory-31327/" rel="nofollow" title="脓毒症后巨噬细胞在大脑中定居，导致记忆丧失"><img alt="这显示了巨噬细胞。" class =“webfeedsFeaturedVisual wp-post-image”height =“770”src =“https://neurosciencenews.com/files/2026/10/macrophages-memory-sepsis-neuroscience-1155x770.jpg”style =“浮动：左；边距右：5px；” width="1155" /></a>从败血症中幸存下来的患者通常会留下持久的记忆缺陷。研究人员发现，急性感染期间，外周巨噬细胞会浸润海马体，建立终生驻留，并向小胶质细胞发出信号，吞噬保护性髓磷脂。
+中文摘要：科学家发现，胶质母细胞瘤肿瘤周围的粘稠液体可以使脑癌细胞变得更小、更灵活，并且更善于侵入周围组织。更令人不安的是，其中一些变化在细胞离开粘稠液体后仍然存在，揭示了一种以前被忽视的机制，可能有助于这种致命的癌症扩散。
 
-英文摘要：<a href="https://neurosciencenews.com/macrophages-sepsis-memory-31327/" rel="nofollow" title="Macrophages Settle in the Brain After Sepsis, Driving Memory Loss"><img alt="This shows macrophages." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/10/macrophages-memory-sepsis-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Surviving sepsis often leaves patients with lasting memory deficits. Researchers discovered that peripheral macrophages infiltrate the hippocampus during acute infection, establish lifelong residency, and signal microglia to devour protective myelin.
+英文摘要：Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that could help this deadly cancer spread.
 
 ## 2. 简单的 15 分钟治疗可以帮助患者避免腕管手术
 
@@ -563,26 +563,7 @@
 
 英文摘要：Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates. The findings differ from clinical trial results and highlight how AI could help identify potential drug safety signals that warrant further investigation.
 
-## 4. 科学家发现维生素 C 与癌症生存之间存在令人惊讶的联系
-
-- 英文题目：Scientists discover a surprising link between vitamin C and cancer survival
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Tue, 20 Oc
-- 分数：48
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/10/261019093437.htm
-
-中文摘要：一项令人惊讶的临床试验表明，每天服用维生素 C 可以提高患有癌前血液疾病和早期血癌的患者的生存率。接受该补充剂的患者不良事件较少，并显示出有希望的生存优势，这让人们希望普通维生素可以帮助预防白血病相关并发症。
-
-英文摘要：A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse events and showed a promising survival advantage, raising hopes that a common vitamin could help protect against leukemia-related complications.
-
-## 5. 数百万人服用鱼油来维持大脑健康。一项为期两年的研究发现没有任何好处
+## 4. 数百万人服用鱼油来维持大脑健康。一项为期两年的研究发现没有任何好处
 
 - 英文题目：Millions take fish oil for brain health. A two-year study found no benefit
 - 主题：国内外医学与医药新闻
@@ -600,6 +581,25 @@
 中文摘要：一项令人惊讶的为期两年的临床试验发现，鱼油补充剂成功地将 omega-3 输送到大脑，但未能改善记忆力或防止阿尔茨海默氏症相关的大脑萎缩。研究人员怀疑，通过健康饮食获取这些营养素可能会带来单独补充剂无法提供的益处。
 
 英文摘要：A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect that getting these nutrients through a healthy diet may offer benefits that supplements alone cannot provide.
+
+## 5. 降低高血压就像刺激耳朵那么简单吗？
+
+- 英文题目：Could lowering high blood pressure be as simple as stimulating your ear?
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Sat, 24 Oc
+- 分数：48
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/10/261023023732.htm
+
+中文摘要：一种通过耳朵轻轻刺激神经的小型装置可以提供一种治疗顽固性高血压的新方法。在一项对 63 名已经服用药物的患者进行的临床试验中，该疗法被证明是安全的、易于在家使用且耐受性良好。尽管总体上它并没有显着优于安慰剂，但患有更严重高血压的患者显示出有希望的血压降低效果。
+
+英文摘要：A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and well tolerated. Although it did not significantly outperform a placebo overall, patients with more severe hypertension showed promising reductions in blood pressure.
 
 ## 6. 突破性 PTSD 治疗在临床试验中达到 68% 的缓解率
 
@@ -620,45 +620,7 @@
 
 英文摘要：A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for other mental health conditions.
 
-## 7. 返老还童突破：科学家逆转人体细胞60年衰老
-
-- 英文题目：Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Wed, 21 Oc
-- 分数：44
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/10/261020085013.htm
-
-中文摘要：科学家将80岁老人的血细胞转化为分子年龄不到20岁的神经干细胞，在实验室中有效逆转了60多年的细胞衰老。这一发现提供了一种研究细胞如何变得年轻的新方法，可以帮助研究人员更好地了解阿尔茨海默病等与年龄相关的疾病。
-
-英文摘要：Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new way to investigate how cells become younger and could help researchers better understand age-related diseases such as Alzheimer's.
-
-## 8. 癌症药物可阻止脆性脑出血
-
-- 英文题目：Cancer Drug Halts Fragile Brain Bleeds
-- 主题：国内外医学与医药新闻
-- 来源：Neuroscience News
-- 期刊/平台：Neuroscience News
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Wed, 21 Oc
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://neurosciencenews.com/dabrafenib-cerebral-cavernous-malformation-ccm-31333/
-
-中文摘要：<a href="https://neurosciencenews.com/dabrafenib-cerebral-cavernous-malformation-ccm-31333/" rel="nofollow" title="癌症药物阻止脆性脑出血"><img alt="这显示了脑血管。" class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/10/drug-sysbstance-blood-vessels-neuroscience-1155x770.jpg" style="float：左；margin-right：5px；" width="1155" /></a>脑海绵状血管畸形会导致大脑中脆弱、出血的血管病变，且没有非手术治疗选择。研究人员发现，达拉非尼（一种已批准的儿童癌症药物）可以在临床前模型中抑制血管渗漏并缩小病变。
-
-英文摘要：<a href="https://neurosciencenews.com/dabrafenib-cerebral-cavernous-malformation-ccm-31333/" rel="nofollow" title="Cancer Drug Halts Fragile Brain Bleeds"><img alt="This shows cerebral blood vessels." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/10/drug-sysbstance-blood-vessels-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Cerebral Cavernous Malformation causes fragile, bleeding vascular lesions in the brain with no non-surgical treatment options. Researchers discovered that dabrafenib, an approved childhood cancer drug, suppresses vessel leakage and shrinks lesions in preclinical models.
-
-## 9. 科学家找到了一种无需去除有毒 tau 蛋白即可对抗阿尔茨海默氏症脑损伤的方法
+## 7. 科学家找到了一种无需去除有毒 tau 蛋白即可对抗阿尔茨海默氏症脑损伤的方法
 
 - 英文题目：Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau
 - 主题：国内外医学与医药新闻
@@ -677,7 +639,7 @@
 
 英文摘要：Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons. In mice, the treatment preserved roughly 40% more tissue in memory centers and improved memory, even without removing harmful tau protein buildup.
 
-## 10. 牛津大学科学家发现病毒如何在没有蓝图的情况下自我构建
+## 8. 牛津大学科学家发现病毒如何在没有蓝图的情况下自我构建
 
 - 英文题目：Oxford scientists discover how viruses build themselves without a blueprint
 - 主题：国内外医学与医药新闻
@@ -695,3 +657,45 @@
 中文摘要：科学家们捕获了病毒样颗粒逐步组装的过程，揭示了如何通过极其简单的试错过程产生具有非凡精度的复杂结构。这一发现揭示了一个关键的分子转折点，可以加速组装，并可能带来破坏病毒和开发疫苗的新方法。
 
 英文摘要：Scientists have captured virus-like particles assembling themselves step by step, revealing how a surprisingly simple process of trial and error produces complex structures with remarkable precision. The discovery uncovers a crucial molecular turning point that speeds up assembly and could lead to new ways to disrupt viruses and develop vaccines.
+
+## 9. 科学家发现对抗致命肺癌的隐藏免疫武器
+
+- 英文题目：Scientists discover a hidden immune weapon against deadly lung cancer
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Thu, 22 Oc
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/10/261021231232.htm
+
+中文摘要：研究人员发现了一种能够攻击小细胞肺癌的隐藏免疫防御，小细胞肺癌是一种极具侵袭性的疾病，通常无法通过常规治疗。即使肿瘤已经伪装成免疫系统，特殊的免疫细胞也可以识别并摧毁癌细胞。
+
+英文摘要：Researchers have uncovered a hidden immune defense capable of attacking small cell lung cancer, an extremely aggressive disease that often escapes conventional treatments. The specialized immune cells can recognize and destroy cancer cells even when tumors have disguised themselves from the immune system.
+
+## 10. 科学家发现与持久缓解抑郁症相关的 3 个关键大脑通路
+
+- 英文题目：Scientists uncover 3 key brain pathways linked to lasting depression relief
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Mind Brain
+- 期刊/平台：ScienceDaily Mind Brain
+- 影响因子：10+
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：内置参考表
+- 日期：Sun, 18 Oc
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/10/261017230021.htm
+
+中文摘要：研究人员发现了三种大脑通路，这些通路与接受深部脑刺激治疗严重难治性抑郁症的人的持久改善有关。他们还发现，两年后未能改善的患者有一个惊人的模式：关键的大脑连接刺激不足。研究结果表明，电极放置的毫米数可能会对治疗结果产生重大影响。
+
+英文摘要：Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression. They also discovered that patients who failed to improve after two years shared a striking pattern: insufficient stimulation of a crucial brain connection. The findings suggest that millimeters in electrode placement could make a major difference in treatment outcomes.
+
+## 抓取提示
+
+- Medical news Neuroscience News: feed parse failed
