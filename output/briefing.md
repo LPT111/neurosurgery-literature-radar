@@ -1,12 +1,31 @@
 # 神外文献日报 V2
 
-生成时间：2026-10-31 10:43:25
+生成时间：2026-11-01 10:35:03
 核心神外文献数量：10
 全部条目数量：36
 
 > 医学科研文献雷达；正式引用前请核对原文。
 
-## 1. 细胞间线粒体转移作为中枢神经系统损伤的生物能救援机制：机制、治疗潜力和转化障碍。
+## 1. 小胶质细胞 TREM1 通过 NF-κB 通路促进脂滴积累和小胶质细胞 M1 极化，从而诱导慢性偏头痛中神经炎症介导的中枢敏化。
+
+- 英文题目：Microglia TREM1 promotes lipid droplet accumulation and microglia M1 polarization via NF-κB pathway to induce neuroinflammation-mediated central sensitization in chronic migraine.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Neuroscience letters
+- 影响因子：2.0
+- 分区：JCR Q4 / CAS 4区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-10-30
+- 分数：75
+- PMID：42962743
+- DOI：10.1016/j.neulet.2026.138779
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42962743/
+
+中文摘要：目的：慢性偏头痛（CM）与神经炎症和中枢敏化密切相关。骨髓细胞表达的触发受体 1 (TREM1) 调节神经胶质炎症激活，但其在 CM 发病机制中的确切作用仍不清楚。本研究旨在阐明TREM1在驱动CM进展中的具体功能和潜在机制。方法：建立硝酸甘油（NTG）诱导的小鼠CM模型和脂多糖（LPS）刺激的B​​V2小胶质细胞模型。然后，进行蛋白质印迹、免疫荧光和ELISA来评估TREM1表达、中枢敏化、小胶质细胞极化、脂质代谢和神经炎症。此外，用TREM1拮抗剂LP17或IKKβ过表达质粒刺激BV2细胞，以探讨TREM1和NF-κB通路在CM中小胶质细胞极化和脂质代谢中的作用。结果：NTG 刺激显着上调 CM 小鼠 TNC 小胶质细胞中 TREM1 的表达，引发异常小胶质细胞 M1/M2 极化，增加中枢敏化相关标记物（c-fos 和 CGRP）的表达，以及促炎细胞因子（TNF-α 和 IL-1β）的释放。在体外，LP17 治疗抑制 TREM1 显着减弱 LPS 诱导的 LD 积累和神经炎症，并将 BV2 细胞中的小胶质细胞极化从促炎 M1 表型转变为抗炎 M2 表型。然而，IKKβ 的过度表达有效逆转了 LP17 在 LPS 刺激的 BV2 细胞中的保护作用，恢复了 LD 的积累、小胶质细胞的极化和促炎细胞因子的释放。结论：TREM1 通过 NF-κB 通路促进小胶质细胞 LD 积累和 M1 极化，从而诱导 CM 中神经炎症介导的中枢敏化。
+
+英文摘要：OBJECTIVE: Chronic migraine (CM) is closely associated with neuroinflammation and central sensitization. Triggering receptor expressed on myeloid cells 1 (TREM1) regulates glial inflammatory activation, yet its precise role in CM pathogenesis remains unclear. This study aimed to elucidate the specific function and underlying mechanism of TREM1 in driving CM progression. METHODS: A nitroglycerin (NTG)-induced mouse CM model and lipopolysaccharide (LPS)-stimulated BV2 microglial model were established. Then, western blot, immunofluorescence, and ELISA were performed to evaluate TREM1 expression, central sensitization, microglial polarization, lipid metabolism, and neuroinflammation. Furthermore, BV2 cells were stimulated with TREM1 antagonists LP17 or IKKβ overexpression plasmids to explore the effect of TREM1 and NF-κB pathway involved in the microglial polarization and lipid metabolism in CM. RESULTS: NTG challenge significantly upregulated TREM1 expression in TNC microglia of CM mice, and triggered abnormal microglial M1/M2 polarization and increased the expression of central sensitization-associated markers (c-fos and CGRP), as well as the release of pro-inflammatory cytokines (TNF-α and IL-1β). In vitro, TREM1 inhibition by LP17 treatment significantly attenuated LPS-induced LDs accumulation, neuroinflammation and shifted microglial polarization from the pro-inflammatory M1 phenotype to the anti-inflammatory M2 phenotype in BV2 cells. However, overexpression of IKKβ effectively reversed the protective effects of LP17 in LPS-stimulated BV2 cells, restoring LDs accumulation, microglia polarization, and pro-inflammatory cytokine release. CONCLUSION: TREM1 promotes microglial LDs accumulation and M1 polarization via the NF-κB pathway to induce neuroinflammation-mediated central sensitization in CM.
+
+## 2. 细胞间线粒体转移作为中枢神经系统损伤的生物能救援机制：机制、治疗潜力和转化障碍。
 
 - 英文题目：Intercellular Mitochondria Transfer as a Bioenergetic Rescue Mechanism in CNS Injury: Mechanisms, Therapeutic Potential, and Translational Barriers.
 - 主题：创伤性脑损伤
@@ -25,10 +44,10 @@
 
 英文摘要：Acute central nervous system (CNS) injuries, including ischemic stroke, traumatic brain injury, and spinal cord injury, are characterized by profound mitochondrial dysfunction that drives secondary neuronal damage through ATP depletion, oxidative stress, and calcium dysregulation. Neuronal survival is critically dependent on mitochondrial integrity, making bioenergetic failure a central determinant of injury progression. In this context, intercellular mitochondria transfer has emerged as a potential adaptive mechanism through which functional mitochondria are delivered from donor cells-primarily astrocytes, microglia, and mesenchymal stem cells-to metabolically compromised neurons. Mitochondria transfer occurs via both contact-dependent pathways, such as tunneling nanotubes, and contact-independent mechanisms, including extracellular vesicles and free mitochondrial release. These processes are regulated by signaling pathways such as CD38/cADPR-mediated calcium flux and MIRO1-dependent mitochondrial trafficking, facilitating organelle mobilization and uptake. Functionally, transferred mitochondria have been associated with improved oxidative phosphorylation, reduced reactive oxygen species accumulation, altered calcium homeostasis, and modulation of survival pathways including PI3K/Akt and MAPK/ERK signaling in selected experimental models; however, the extent to which these effects are directly dependent on mitochondria transfer remains incompletely established. Preclinical evidence across multiple CNS injury models demonstrates improved neuronal viability, enhanced synaptic function, and attenuation of neurodegenerative processes following mitochondria transfer. However, whether mitochondria transfer represents a primary driver of neurorepair or a secondary compensatory response remains unresolved. In addition, inconsistencies in mechanistic pathways, variability in transfer efficiency, and limited reproducibility across experimental systems hinder translational interpretation. Therapeutic approaches including exogenous mitochondria transplantation, stem cell-mediated delivery, and bioengineered mitochondrial systems show promise but face substantial barriers related to targeting specificity, mitochondrial viability, immunogenicity, and lack of standardized protocols. This review critically evaluates the molecular mechanisms, functional consequences, and therapeutic potential of intercellular mitochondria transfer in CNS injury. It further highlights key limitations and knowledge gaps that must be addressed to determine whether mitochondria transfer can be effectively harnessed as a clinically viable strategy for neuro-restoration.
 
-## 2. 氧化核糖核苷酸 8-oxoGTP 会引发神经炎症并加速认知能力下降。
+## 3. 氧化核糖核苷酸 8-oxoGTP 会引发神经炎症并加速认知能力下降。
 
 - 英文题目：An oxidized ribonucleotide 8-oxoGTP drives neuroinflammation and accelerates cognitive decline.
-- 主题：创伤性脑损伤
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
 - 期刊/平台：Science advances
 - 影响因子：12.5
@@ -44,43 +63,24 @@
 
 英文摘要：Oxidative stress is a hallmark of aging and a key driver of neurodegenerative diseases. While much attention has been given to oxidative damage of macromolecules, the functional consequences of oxidizing the abundant nucleotide triphosphate (NTP) pool remain largely unknown. Here, we identify oxidized GTP (8-oxoGTP)-a major product of NTP oxidation-not as a mere marker of damage, but as an endogenous signaling molecule that drives microglial activation and neuroinflammation. 8-oxoGTP accumulated in the aging mouse brain, and its elevation was sufficient to induce synaptic dysfunction, tau hyperphosphorylation, neuronal loss, and cognitive decline. Mechanistically, 8-oxoGTP functioned as a potent activator of heterotrimeric G proteins, binding more strongly to Gα subunits than GTP itself, triggering Src kinase/MAPK/Akt/NF-κB signaling in microglia, leading to pro-inflammatory cytokine production, reactive oxygen species generation, and neurotoxicity. Pharmacological inhibition of Src family kinases rescued the neuroinflammatory and cognitive phenotypes induced by 8-oxoGTP. Our findings reveal a previously unrecognized mechanism linking nucleotide oxidation to age-associated neurodegenerative processes.
 
-## 3. 来自陈蒜的一种新型生物活性成分 Efoba 可靶向 CTSC，抑制 NET 驱动的神经炎症并改善脑出血后的继发性脑损伤。
+## 4. 通过同种异体造血干细胞移植中的调理方案和早期 D 指数作为辅助风险标记来分层口腔粘膜炎发病模式。
 
-- 英文题目：A Novel Bioactive Component, Efoba, From Aged Garlic Targets CTSC to Suppress NET-Driven Neuroinflammation and Ameliorate Secondary Brain Injury After Intracerebral Hemorrhage.
+- 英文题目：Oral Mucositis Incidence Patterns Stratified by Conditioning Regimens in Allogeneic Hematopoietic Stem Cell Transplantation and the Early D-index as an Adjunctive Risk Marker.
 - 主题：创伤性脑损伤
 - 来源：PubMed
-- 期刊/平台：Advanced science (Weinheim, Baden-Wurttemberg, Germany)
-- 影响因子：14.1
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-29
-- 分数：75
-- PMID：42958721
-- DOI：10.1002/advs.78538
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42958721/
-
-中文摘要：脑出血（ICH）是一种毁灭性的神经系统疾病，具有高死亡率和致残率，其中神经炎症驱动的继发性脑损伤是其关键的病理标志。中性粒细胞胞外陷阱（NET）是关键的致病介质，可放大神经炎症、破坏血脑屏障完整性并加剧脑出血后的脑损伤。本研究鉴定了陈蒜中的一种新型生物活性单体Efoba，并建立了可扩展的百克规模高纯度生产全合成路线，克服了天然产物研究的低产和供应限制瓶颈。体内和体外实验表明 Efoba 显着改善 ICH 引起的神经损伤并抑制 NET 形成。综合分析（Lip-MS、虚拟筛选、蛋白质组学、转录组学）确定组织蛋白酶 C (CTSC) 是 Efoba 的直接结合靶点。 Efoba 可稳定小胶质细胞溶酶体膜，抑制 CTSC 释放，阻止 NET 生成，并对 NET 驱动的神经炎症发挥神经保护作用。 CTSC 敲除和 CTSC 过表达测定进一步证实了 CTSC 在介导 Efoba 的神经保护和抗炎活性中不可或缺的作用。总的来说，这项工作首次证明 Efoba 以 CTSC 为靶点来抑制 NET 介导的神经炎症，突出了其治疗潜力和天然活性成分的转化价值。
-
-英文摘要：Intracerebral hemorrhage (ICH) is a devastating neurological disorder with high mortality and disability, where neuroinflammation-driven secondary brain injury is a key pathological hallmark. Neutrophil extracellular traps (NETs) serve as critical pathogenic mediators that amplify neuroinflammation, disrupt blood-brain barrier integrity, and exacerbate brain damage after ICH. This study identifies Efoba, a novel bioactive monomer from aged garlic, and establishes a scalable total‑synthesis route for hundred‑gram‑scale high‑purity production, overcoming low‑yield and supply‑limiting bottlenecks for natural product research. In vivo and in vitro experiments show Efoba markedly ameliorates ICH‑induced neurological impairments and inhibits NET formation. Integrative analyses (Lip-MS, virtual screening, proteomics, transcriptomics) identified cathepsin C (CTSC) as the direct binding target of Efoba. Efoba stabilizes microglial lysosomal membranes, inhibits CTSC release, blocks NET generation, and exerts neuroprotection against NETs-driven neuroinflammation. CTSC knockout and CTSC overexpression assays further confirm the indispensable role of CTSC in mediating Efoba's neuroprotective and anti‑inflammatory activities. Collectively, this work demonstrates for the first time that Efoba targets CTSC to suppress NET-mediated neuroinflammation, highlighting its therapeutic potential and the translational value of natural active components.
-
-## 4. 住院诊断代码和探索性算法的诊断准确性，以识别老年人的创伤性脑损伤：一项两中心研究。
-
-- 英文题目：Diagnostic accuracy of hospitalization diagnosis codes and exploratory algorithms to identify traumatic brain injury in older adults: a two-centre study.
-- 主题：创伤性脑损伤
-- 来源：PubMed
-- 期刊/平台：Brain injury
-- 影响因子：1.8
-- 分区：JCR Q2 / CAS 4区
+- 期刊/平台：Transplantation and cellular therapy
+- 影响因子：4.4
+- 分区：JCR Q1 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-10-30
 - 分数：73
-- PMID：42960538
-- DOI：10.1080/02699052.2026.2752517
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42960538/
+- PMID：42962923
+- DOI：10.1016/j.jtct.2026.10.044
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42962923/
 
-中文摘要：背景：缺乏使用安大略省卫生管理数据来识别老年人创伤性脑损伤（TBI）的有效方法。方法：我们使用来自两个一级创伤中心的链接电子患者记录 (EPR) 和安大略省行政数据进行了一项回顾性验证研究。使用诊断或伤害机制代码来识别年龄≥65 岁且可能发生 TBI 相关事件的成年人（2017-2020 年）。我们独立裁决了 657 个随机选择的 EPR，一式两份，并评估了 ICD-10 诊断性能。结合 ICD-10 和医生计费代码的机器学习 (ML) 模型为算法开发提供了信息。结果：任何与 TBI 相关的 ICD-10 代码的敏感性为 95%（95% 置信区间 [CI] 90% 至 97%），特异性为 76%（95% CI 72% 至 80%），阳性预测值 (PPV) 为 61%（95% CI 55% 至 66%）。 ML 模型的 F1 分数在 0.77 到 0.84 之间。算法 1（高特异性 ICD-10 代码）实现了 71% 的灵敏度（95% CI 64 至 77%）和 90% PPV（95% CI 84 至 94%），而算法 8（包括 ML）实现了 99% 的灵敏度（95% CI 96 至 100%），但 PPV 为 42%（95% CI 37 至 47%）。结论：算法 1 可能适合优先考虑诊断精度的研究，而更高灵敏度的算法可能更适合需要更完整病例确定的监测和应用。需要外部验证来通知更广泛的应用。协议注册：https://osf.io/q4s3e/。
+中文摘要：背景：同种异体造血干细胞移植（allo-HSCT）相关的口腔粘膜炎（OM）会引起营养障碍并导致全身感染。不同的移植前调理方案之间 OM 发病的动态存在显着差异，但没有标准工具可以识别移植后早期发生严重 OM 的高风险患者。目的：我们比较了四种预处理方案（CY/TBI、BU/CY、FLU/BU 和 FLU/MEL）的 OM 发生率，并评估早期 D 指数是否与严重 OM 相关。研究设计：这项回顾性研究包括 185 名接受异基因造血干细胞移植的患者。使用 NCI-CTCAE v3.0 在移植后第 0、7、14、21 和 28 天评估 OM 严重程度。多变量分析确定了与 OM 发病相关的独立因素。使用受试者工作特征曲线和多变量逻辑回归分析评估早期 D 指数（第 7 天和第 10 天）与 ≥2 级 OM 的关联。结果：71.9% 的患者发生 OM。预处理方案 (p = 0.038) 和基础疾病 (p = 0.031) 均构成与 OM 严重程度显着相关的独立因素。 FLU/BU (78.4%) 和 FLU/MEL (80%) 组中 OM 发生率较高；特别是，FLU/MEL 组中有 40% 的患者患有严重的 3 级 OM。在整个队列中，D 指数与 OM 严重程度无关。然而，在 FLU/BU 组中，第 7 天 D 指数≥1310 与 OM ≥2 级独立相关（比值比 3.82，p = 0.003），尽管区分度有限（曲线下面积 [AUC] 0.639，95% CI 0.529-0.749）。第 10 天 D 指数≥2258 显示出类似的关联（比值比 4.07，p = 0.003；AUC 0.633，95% CI 0.521-0.744）。结论： OM 的发生率和严重程度因移植前方案的不同而有显着差异，建议对每位患者进行个体化口腔护理。此外，在 FLU/BU 组中，移植后早期测量的 D 指数与严重 OM 相关。然而，其预测准确性有限，并且截止值是探索性的，需要在独立队列中进行验证。
 
-英文摘要：BACKGROUND: Validated approaches for identifying traumatic brain injury (TBI) in older adults using Ontario health administrative data are lacking. METHODS: We conducted a retrospective validation study using linked electronic patient records (EPRs) from two Level I trauma centres and Ontario administrative data. Adults aged ≥65 years with potential TBI-related encounters (2017-2020) were identified using diagnostic or mechanism-of-injury codes. We independently adjudicated 657 randomly selected EPRs in duplicate and assessed ICD-10 diagnostic performance. Machine learning (ML) models incorporating ICD-10 and physician billing codes informed algorithm development. RESULTS: Any TBI-related ICD-10 code had 95% sensitivity (95% confidence interval [CI] 90 to 97%) but 76% specificity (95% CI 72 to 80%), and 61% positive predictive value (PPV) (95% CI 55 to 66%). ML models had F1-scores between 0.77 and 0.84. Algorithm 1 (high-specificity ICD-10 codes) achieved 71% sensitivity (95% CI 64 to 77%) and 90% PPV (95% CI 84 to 94%), whereas Algorithm 8 (ML-inclusive) achieved99% sensitivity (95% CI 96 to 100%) but a 42% PPV (95% CI 37 to 47%). CONCLUSIONS: Algorithm 1 may be appropriate for studies prioritizing diagnostic precision, whereas higher-sensitivity algorithms may be preferred for surveillance and applications requiring more complete case ascertainment. External validation is needed to inform broader application.Protocol Registration: https://osf.io/q4s3e/.
+英文摘要：BACKGROUND: Allogeneic hematopoietic stem cell transplantation (allo-HSCT)-associated oral mucositis (OM) induces nutritional impairment and enables systemic infections. The dynamics of OM onset differ markedly among the different pretransplant conditioning regimens, yet no standard tool identifies patients at high risk of severe OM early after transplantation. OBJECTIVE: We compared OM incidence among four conditioning regimens (CY/TBI, BU/CY, FLU/BU, and FLU/MEL) and assessed whether the early D-index is associated with severe OM. STUDY DESIGN: This retrospective study included 185 patients of allo-HSCT. OM severity was assessed on posttransplantation days 0, 7, 14, 21, and 28 using the NCI-CTCAE v3.0. Multivariate analysis identified independent factors associated with OM onset. The association of the early D-index (days 7 and 10) with Grade ≥2 OM was evaluated using receiver operating characteristic curve and multivariate logistic regression analyses. RESULTS: OM occurred in 71.9% of patients. Both conditioning regimen (p = 0.038) and underlying disease (p = 0.031) constituted independent factors that were significantly associated with OM severity. OM incidence was high in the FLU/BU (78.4%) and FLU/MEL (80%) groups; in particular, 40% of the patients in the FLU/MEL group had severe grade 3 OM. In the whole cohort, the D-index was not associated with OM severity. In the FLU/BU group, however, a day 7 D-index ≥1310 was independently associated with Grade ≥2 OM (odds ratio 3.82, p = 0.003), although discrimination was limited (area under the curve [AUC] 0.639, 95% CI 0.529-0.749). A day 10 D-index ≥2258 showed a similar association (odds ratio 4.07, p = 0.003; AUC 0.633, 95% CI 0.521-0.744). CONCLUSION: The incidence and severity of OM differ markedly depending on the pretransplant regimen, and individualized oral care for each patient is recommended. Furthermore, in the FLU/BU group, the D-index measured early after transplantation was associated with severe OM. However, its predictive accuracy is limited, and the cutoff values are exploratory and require validation in independent cohorts.
 
 ## 5. 围产期干细胞疗法的临床转化：对脐带血和脐带组织来源的间充质基质细胞研究长达十年的分析，2015-2025。
 
@@ -101,29 +101,10 @@
 
 英文摘要：Umbilical cord blood (UCB) stem cells and mesenchymal stromal cells from cord tissue (UC-MSCs) have served as the foundation for regenerative and cellular therapy research for over 30 years and are also the scientific basis for the global private cord blood banking industry; however, it is uncertain whether clinical evidence has kept pace with the therapeutic claims made. This structured narrative review characterizes how clinical translation for both UCB and UC-MSC evolved between 2015 and 2025, using clinical trial registers, regulatory decisions and systematic reviews/meta-analyses, and asks whether this pathway is consistent with value propositions used in private cord blood banking marketing. Although plateauing following the results of the Blood and Marrow Transplant Clinical Trials Network (BMT CTN) 1101 trial, UCB transplantation remains clinically relevant through ex-vivo expansion (Omidubicel/Omisirge, approved by the U.S. Food and Drug Administration [FDA] in 2023 and 2025) and other cord-blood-derived products such as chimeric antigen receptor natural killer (CAR-NK) cells. Infusion of autologous UCB for neurological indications shows an acceptable safety profile but variable efficacy; a phase II autism study found no benefit on its primary endpoint. UC-MSC research has expanded significantly, with meta-analytic support now available for knee osteoarthritis and, from mixed-source MSC studies, autoimmune disease, and early-phase evidence for liver failure and diabetic nephropathy. The center of gravity of perinatal stem cell innovation has shifted from autologous transplantation toward manufactured, largely allogeneic therapeutics, which may alter the underlying assumptions regarding informed consent that guide private CBB practice, a claim this review does not itself test empirically.
 
-## 6. 创伤性脑损伤史缓和老年退伍军人与年龄相关的情景记忆变化：国防部-ADNI 纵向队列研究。
-
-- 英文题目：Traumatic brain injury history moderates age-related episodic memory change in older veterans: the DOD-ADNI longitudinal cohort study.
-- 主题：创伤性脑损伤
-- 来源：PubMed
-- 期刊/平台：Brain injury
-- 影响因子：1.8
-- 分区：JCR Q2 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-29
-- 分数：73
-- PMID：42958736
-- DOI：10.1080/02699052.2026.2752523
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42958736/
-
-中文摘要：背景：创伤性脑损伤（TBI）与痴呆和认知能力下降的风险增加有关，但其与年龄相关认知轨迹的关系仍不清楚。这项研究探讨了老年退伍军人的 TBI 病史与认知功能与年龄相关的变化之间的关联。方法：使用来自国防部阿尔茨海默病神经影像计划 (DOD-ADNI) 存储库的数据来评估 TBI 病史是否调节年龄与特定领域认知能力纵向变化之间的关系。为了调查这些关系，本研究利用了在基线和 12 个月时间点收集的神经心理学评估数据，样本包括 203 名越战退伍军人，其中 99% 是男性，年龄在 60-84 岁之间，有不同的 TBI 病史。结果：结果显示，TBI 病史调节了年龄与情景记忆变化之间的关联。 TBI 患者的记忆力衰退程度与年龄较大有关。没有观察到执行功能或语言的交互作用。结论：这些研究结果表明，TBI 病史与年龄相关的情景记忆变化的差异相关，并强调了在认知衰老研究中考虑 TBI 病史的重要性。考虑到交互作用和同质退伍军人样本所解释的方差比例不大，有必要进行额外的研究。
-
-英文摘要：BACKGROUND: Traumatic brain injury (TBI) has been associated with increased risk of dementia and cognitive decline, but its relationship with age-related cognitive trajectories remains unclear. This study examined associations between TBI history and age-related changes in cognitive function in aging military veterans. METHODS: Data from the Department of Defense-Alzheimer's Disease Neuroimaging Initiative (DOD-ADNI) repository were used to evaluate whether TBI history moderates the relationship between age and longitudinal change in domain-specific cognitive performance. To investigate these relationships, this study utilized data from neuropsychological assessments collected at baseline and 12-month timepoints from a sample consisting of 203 Vietnam War veterans, 99% of whom were male, aged 60-84 years, with varying TBI histories. RESULTS: Results revealed that TBI history moderated the association between age and change in episodic memory. Older age was associated with greater memory decline among individuals with TBI. No interaction effects were observed for executive functions or language. CONCLUSIONS: These findings suggest that TBI history is associated with differences in age-related episodic memory change and highlight the importance of considering TBI history in studies of cognitive aging. Considering the modest proportion of variance explained by the interaction and homogeneous veteran sample, additional research is warranted.
-
-## 7. 单细胞和空间转录组学揭示了缺血性中风后与间充质干细胞相关的神经免疫和神经元信号传导模式。
+## 6. 单细胞和空间转录组学揭示了缺血性中风后与间充质干细胞相关的神经免疫和神经元信号传导模式。
 
 - 英文题目：Single-cell and spatial transcriptomics reveal mesenchymal stem cell-associated neuroimmune and neuronal signaling patterns after ischemic stroke.
-- 主题：干细胞与外泌体
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
 - 期刊/平台：Neural regeneration research
 - 影响因子：6.7
@@ -139,10 +120,10 @@
 
 英文摘要：Ischemic stroke induces coordinated yet spatially heterogeneous neuroimmune and neuronal responses that shape secondary injury and tissue remodeling. However, how intranasal mesenchymal stem cell administration is associated with these cell type-specific responses remains incompletely understood. Here, we integrated single-cell RNA sequencing of the ipsilateral cerebrum on days 1, 7, and 14 after middle cerebral artery occlusion/reperfusion with spatial transcriptomic profiling on day 7. A total of 55,520 high-quality single-cell transcriptomes were obtained from control, middle cerebral artery occlusion/reperfusion, and mesenchymal stem cell-treated samples. In this exploratory dataset, the middle cerebral artery occlusion/reperfusion samples showed relatively greater representation of inflammatory and antigen-presenting microglial states and elevated expression of selected microglial state-associated genes, including Slfn4, Apoe, and Gpnmb. In the corresponding exploratory comparison, the mesenchymal stem cell-treated sample showed relatively greater representation of homeostatic-associated and Lgals3/Spp1-enriched microglial states and lower expression of several inflammatory-associated genes. Spatial mapping further revealed regionally restricted expression of microglial and neuronal markers within the injured tissue. Excitatory neurons displayed preliminary mesenchymal stem cell-associated transcriptional patterns involving mitochondrial transcripts, oxidative phosphorylation, synaptic signaling, calcium-related functions, and apoptosis/autophagy-associated pathways. CellChat analysis computationally predicted relatively high levels of tumor necrosis factor, C-X-C motif chemokine ligand, and complement signaling in the middle cerebral artery occlusion/reperfusion sample, whereas the mesenchymal stem cell-treated sample had relatively high levels of predicted activity of neuregulin, pleiotrophin and selected semaphorin. Together, these integrated datasets provide a hypothesis-generating framework linking microglial state remodeling, neuronal metabolic and synaptic programs, and predicted neuroimmune communication patterns after ischemic stroke. Because each omics condition or time point was represented by one biological sample, all the transcriptomic findings should be considered preliminary and exploratory and should be validated in independently replicated cohorts.
 
-## 8. 缺乏组织蛋白酶 B 会增加 C1 型尼曼匹克病小鼠的严重程度。
+## 7. 缺乏组织蛋白酶 B 会增加 C1 型尼曼匹克病小鼠的严重程度。
 
 - 英文题目：Lack of cathepsin B increases severity in Niemann-Pick disease, type C1 mice.
-- 主题：创伤性脑损伤
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
 - 期刊/平台：Neuroscience letters
 - 影响因子：2.0
@@ -158,26 +139,7 @@
 
 英文摘要：Neurodegeneration is a hallmark of Niemann-Pick disease type C1 (NPC1). One component in the pathology of neurodegeneration is increased lysosomal membrane permeability, especially in microglia. Leakage of lysosomal proteases, such as cathepsin B, into the cytoplasm and ultimately into the interstitial space can lead to activation of apoptosis and neuroinflammation. In line with previous reports showing the involvement of cathepsin B in neurodegeneration and the benefit of inhibiting cathepsin B to prevent neurodegeneration, we tested whether disease severity would be reduced in NPC1 mutant mice devoid of cathepsin B. Contrary to our expectation, the double mutant mice exhibited a more severe disease phenotype as measured by disease severity phenotypic scoring, beam walk latency test and a reduction in life expectancy. This highlights the importance of cathepsin B during postnatal development in the context of NPC1.
 
-## 9. 早期传代的人脐带 MSC 衍生的外泌体表现出神经元细胞中神经功能活性的增强。
-
-- 英文题目：Early-passage human umbilical cord MSC-derived exosomes exhibit enhanced neurofunctional activity in neuronal cells.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Neuroscience letters
-- 影响因子：2.0
-- 分区：JCR Q4 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-10-30
-- 分数：69
-- PMID：42697504
-- DOI：10.1016/j.neulet.2026.138726
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42697504/
-
-中文摘要：间充质干细胞（MSC）衍生的外泌体是有希望的神经再生介质，但其功能异质性仍不完全清楚。我们研究了亲代细胞传代和囊泡完整性是否影响源自人脐带源性 MSC (hUC-MSC) 的外泌体的特征和生物活性。通过纺锤形形态和流式细胞术分析证实了 hUC-MSC 身份，表明 CD73、CD90 和 CD105 高表达，CD34 和 CD45 表达最低。通过纳米颗粒追踪分析 (NTA)、荧光 NTA、扫描电子显微镜和蛋白质印迹对从第 1 代 (P1)、第 3 代 (P3) 和第 5 代 (P5) 分离的外泌体进行了表征。通过 βIII-微管蛋白、MAP2 和 NeuN 的免疫荧光分析以及 CCK-8 测定，在 Neuro-2a (N2A) 细胞中评估它们的生物学效应。 P1 衍生的外泌体与神经元相关标志物表达、神经突样形态和 CCK-8 代谢活性的增加相关，而热处理的外泌体则表现出减弱的生物活性。这些发现表明亲本细胞传代和囊泡完整性影响 hUC-MSC 衍生的外泌体的生物活性，并强调标准化 MSC 表征、传代控制和外泌体质量评估对于开发可重复的神经再生产品的重要性。
-
-英文摘要：Mesenchymal stem cell (MSC)-derived exosomes are promising mediators of neuroregeneration, but their functional heterogeneity remains incompletely understood. We investigated whether parental-cell passage and vesicle integrity influence the characteristics and biological activity of exosomes derived from human umbilical cord-derived MSCs (hUC-MSCs). hUC-MSC identity was confirmed by spindle-shaped morphology and flow cytometric analysis demonstrating high expression of CD73, CD90, and CD105 together with minimal expression of CD34 and CD45. Exosomes isolated from passages 1 (P1), 3 (P3), and 5 (P5) were characterized by nanoparticle tracking analysis (NTA), fluorescence NTA, scanning electron microscopy, and Western blotting. Their biological effects were evaluated in Neuro-2a (N2A) cells by immunofluorescence analysis of βIII-tubulin, MAP2, and NeuN together with the CCK-8 assay. P1-derived exosomes were associated with increases in neuronal-associated marker expression, neurite-like morphology, and CCK-8 metabolic activity, whereas heat-treated exosomes exhibited attenuated biological activity. These findings indicate that parental-cell passage and vesicle integrity influence the biological activity of hUC-MSC-derived exosomes and highlight the importance of standardized MSC characterization, passage control, and exosome quality assessment for the development of reproducible neuroregenerative products.
-
-## 10. 脑室内注射克林霉素可增强脑外伤后间质脑液引流和血脑屏障。
+## 8. 脑室内注射克林霉素可增强脑外伤后间质脑液引流和血脑屏障。
 
 - 英文题目：Intraventricular clindamycin enhances interstitial brain fluid drainage and the blood-brain barrier after a traumatic brain injury.
 - 主题：创伤性脑损伤
@@ -195,6 +157,44 @@
 中文摘要：尽管严重创伤性脑损伤（TBIs）的急性临床治疗取得了进展，但治疗损伤引起的继发性发病机制仍然具有挑战性。我们证明，在局灶性和弥漫性脑损伤小鼠模型中，脑室内 (I.C.V.) 给予克林霉素可减轻 TBI 继发性发病机制。 I.C.V.给予克林霉素可使脑室和椎管内的室管膜纤毛的运动性增加 30% 至 60%，这与通过皮质的间质脑液引流相关（r > 0.9 Pearson，n = 4 种测试化合物）。 I.C.V. TBI 后的克林霉素治疗还可以恢复血脑屏障 (BBB)、缩小病变大小并将神经胶质纤维酸性蛋白的血清水平降低 2.8 倍。与这些数据一致，一项新颖的客观识别测试显示，接受克林霉素治疗的脑损伤小鼠的识别记忆有所改善。这些集体发现揭示了一个违反直觉的发现：I.C.V.克林霉素可增强大脑中毒素的排出，同时恢复血脑屏障，这可能为减轻脑损伤患者的继发性发病机制提供新的解决方案。
 
 英文摘要：Despite advances in the acute clinical management of severe traumatic brain injuries (TBIs), treating injury-derived secondary pathogenesis remains challenging. We demonstrate intracerebroventricular (I.C.V.) administration of clindamycin alleviates TBI secondary pathogenesis in both focal and diffuse murine models of brain injury. I.C.V. administration of clindamycin increased the motility of ependymal cilia, which line the ventricles and spinal canal, by 30 to 60%, which correlated with interstitial brain fluid drainage through the cortex (r > 0.9 Pearson, n = 4 compounds tested). I.C.V. clindamycin treatment post-TBI also restored the blood-brain barrier (BBB), decreased lesion size, and lowered serum levels of glial fibrillary acidic protein by 2.8-fold. Consistent with these data, a novel objective recognition test revealed an improvement in recognition memory in brain-injured mice treated with clindamycin. These collective findings reveal a counterintuitive finding that I.C.V. clindamycin enhances drainage of toxins from the brain while simultaneously restoring the BBB, potentially providing a new solution for alleviating secondary pathogenesis in brain-injured patients.
+
+## 9. 重度抑郁症的氧化应激：从实验模型到临床治疗观点。
+
+- 英文题目：Oxidative stress in major depressive disorder: from experimental models to clinical therapeutic perspectives.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Brain, behavior, and immunity
+- 影响因子：7.6
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-10-30
+- 分数：65
+- PMID：42963008
+- DOI：10.1016/j.bbi.2026.107064
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42963008/
+
+中文摘要：重度抑郁症（MDD）是一种非常普遍的精神疾病，具有复杂和多因素的病理生理学。越来越多的证据表明，氧化应激（定义为活性氧 (ROS) 产生和抗氧化防御系统之间的不平衡）在 MDD 的发病和进展中发挥着核心作用。这篇叙述性综述整合了临床前动物模型、临床研究和治疗干预的发现，以全面概述 MDD 中的氧化应激。与健康对照者相比，MDD 患者始终表现出脂质过氧化产物、蛋白质和 DNA 氧化标记物增加，以及抗氧化防御能力改变，包括谷胱甘肽和超氧化物歧化酶。包括慢性不可预测的轻度应激、慢性社交失败应激和脂多糖给药在内的动物模型一致证明，氧化应激通过影响树突棘密度、谷氨酸能功能和海马神经发生的机制驱动抑郁样行为。此外，氧化应激与炎症信号和氧化还原调节信号通路（例如 NF-κB 和 Nrf2/Keap1）密切相关，突出了其作为 MDD 神经元功能障碍的主要调节剂的功能。针对氧化应激的治疗策略，从传统的抗抑郁药到抗氧化化合物、干细胞疗法、天然产品和体育锻炼，都显示出在恢复氧化还原平衡和改善抑郁症状方面的巨大潜力，尽管各研究之间存在高度异质性。总的来说，这些发现支持氧化应激作为 MDD 病理生理学的统一机制，也是新型诊断和治疗方法的有希望的目标。
+
+英文摘要：Major depressive disorder (MDD) is a highly prevalent psychiatric condition with complex and multifactorial pathophysiology. Increasing evidence suggests that oxidative stress, defined as an imbalance between reactive oxygen species (ROS) production and antioxidant defense systems, plays a central role in the onset and progression of MDD. This narrative review integrates findings from preclinical animal models, clinical studies and therapeutic interventions to provide a comprehensive overview of oxidative stress in MDD. Compared with healthy controls, patients with MDD consistently exhibit increased lipid peroxidation products, protein and DNA oxidation markers, and altered antioxidant defenses, including glutathione and superoxide dismutase. Animal models including chronic unpredictable mild stress, chronic social defeat stress, and lipopolysaccharide administration consistently demonstrate that oxidative stress drives depressive-like behaviors through mechanisms affecting dendritic spine density, glutamatergic function, and hippocampal neurogenesis. Additionally, oxidative stress is closely linked to inflammatory signaling and redox-regulatory signaling pathways, such as NF-κB and Nrf2/Keap1, highlighting its function as a major modulator of neuronal dysfunction in MDD. Therapeutic strategies targeting oxidative stress and spanning from conventional antidepressants to antioxidant compounds, stem cell therapies, natural products, and physical exercise demonstrate promising potential in restoring redox balance and improving depressive symptoms, although high heterogeneity across studies has been reported. Collectively, these findings support oxidative stress as a unifying mechanism in MDD pathophysiology and a promising target for novel diagnostic and therapeutic approaches.
+
+## 10. 大脑和海马中顺铂神经毒性的神经炎症和突触机制：氧化应激和 BDNF、NMDAR2B、p-Tau 和 Akt/GSK3β 信号传导的作用。
+
+- 英文题目：Neuroinflammatory and synaptic mechanisms underlying cisplatin neurotoxicity in the cerebrum and hippocampus: roles of oxidative stress and BDNF, NMDAR2B, p-Tau, and Akt/GSK3β signaling.
+- 主题：创伤性脑损伤
+- 来源：PubMed
+- 期刊/平台：Experimental brain research
+- 影响因子：1.6
+- 分区：JCR Q4 / CAS 4区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-10-30
+- 分数：65
+- PMID：42961474
+- DOI：10.1007/s00221-026-07427-2
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42961474/
+
+中文摘要：本研究调查了顺铂对大鼠大脑和海马组织的神经毒性作用，重点关注神经炎症、氧化应激、突触可塑性和神经变性。 Wistar白化大鼠分为三组：对照组、7.5mg/kg顺铂组和12mg/kg顺铂组。对照组接受等渗盐水，而治疗组接受单次腹腔注射顺铂。实验结束时，收集大脑和海马组织。氧化应激标记物（丙二醛 [MDA]、超氧化物歧化酶 [SOD]）、炎症细胞因子（肿瘤坏死因子-α [TNF-α]、白细胞介素 1β [IL-1β]、白细胞介素 6 [IL-6]、白细胞介素 10 [IL-10]）和神经退行性标记物（磷酸化 tau [p-Tau]、脑源性神经营养因子 [BDNF]、通过酶联免疫吸附测定 (ELISA) 测量皮质醇、α-氨基-3-羟基-5-甲基-4-异恶唑丙酸受体 1 [AMPA1]），而通过蛋白质印迹分析蛋白激酶 B (Akt1)/糖原合酶激酶 3 beta (GSK3β) 和 N-甲基-D-天冬氨酸受体亚基 2B (NMDAR2B) 蛋白表达水平。顺铂给药引起两种组织中促炎细胞因子（TNF-α和IL-1β；p < 0.001）的显着、剂量依赖性增加以及IL-10水平的代偿性升高（p < 0.001）。氧化应激标志物，特别是 MDA 和 SOD，在较高剂量下显着升高 (p < 0.05)。相反，对于神经元存活和突触可塑性至关重要的 BDNF 水平 (p < 0.001) 和 NMDAR2B 表达 (p < 0.05) 显着降低。此外，12 mg/kg 组的 p-Tau 水平（大脑中 p < 0.005，海马体 p < 0.002）和皮质醇水平显着增加，表明神经退行性过程增强。海马体对顺铂毒性比大脑更敏感，即使在较低的 7.5 mg/kg 剂量下，IL-6 和 SOD 水平也显着升高 (p < 0.05)。总体而言，研究结果表明顺铂会诱导神经炎症、氧化损伤和突触功能障碍，从而导致神经退行性通路的激活。这个高度……
+
+英文摘要：This study investigated the neurotoxic effects of cisplatin on rat cerebrum and hippocampus tissues, focusing on neuroinflammation, oxidative stress, synaptic plasticity, and neurodegeneration. Wistar albino rats were divided into three groups: a control group, a 7.5 mg/kg cisplatin group, and a 12 mg/kg cisplatin group. The control group received isotonic saline, while the treatment groups received a single intraperitoneal dose of cisplatin. At the end of the experiment, cerebrum and hippocampus tissues were collected. Oxidative stress markers (malondialdehyde [MDA], superoxide dismutase [SOD]), inflammatory cytokines (tumor necrosis factor-alpha [TNF-α], interleukin-1beta [IL-1β], interleukin-6 [IL-6], interleukin-10 [IL-10]), and neurodegenerative markers (phosphorylated-tau [p-Tau], brain-derived neurotrophic factor [BDNF], cortisol, α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor 1 [AMPA1]) were measured by enzyme-linked immunosorbent assay (ELISA), whereas protein kinase B (Akt1)/glycogen synthase kinase-3 beta (GSK3β) and N-methyl-D-aspartate receptor subunit 2B (NMDAR2B) protein expression levels were analyzed by Western blot. Cisplatin administration caused a significant, dose-dependent increase in pro-inflammatory cytokines (TNF-α and IL-1β; p < 0.001) and a compensatory rise in IL-10 levels (p < 0.001) in both tissues. Oxidative stress markers, particularly MDA and SOD, were significantly elevated at the higher dose (p < 0.05). In contrast, BDNF levels (p < 0.001) and NMDAR2B expression (p < 0.05), which are essential for neuronal survival and synaptic plasticity, were markedly reduced. Additionally, p-Tau levels (p < 0.005 in the cerebrum, p < 0.002 in the hippocampus) and cortisol levels significantly increased in the 12 mg/kg group, indicating enhanced neurodegenerative processes. The hippocampus was more sensitive to cisplatin toxicity than the cerebrum, exhibiting significantly elevated IL-6 and SOD levels (p < 0.05) even at the lower 7.5 mg/kg dose. Overall, the findings demonstrate that cisplatin induces neuroinflammation, oxidative damage, and synaptic dysfunction, leading to activation of neurodegenerative pathways. This heightened vulnerability of the hippocampus may contribute to chemotherapy-associated cognitive impairment.
 
 # 顶刊神经科学
 
@@ -308,7 +308,7 @@
 - DOI：10.1038/s41586-026-11206-y
 - PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42951976/
 
-中文摘要：阿尔茨海默氏病 (AD) 是痴呆症最常见的病因，预计到 20501 年，全球病例数将达到 1.53 亿。AD 具有高度遗传性，基于双胞胎的遗传率估计为 60-80%2。尽管预计 AD3 存在 1,200 个因果位点，但最近的两项研究中约有 80 个位点与 AD 相关4,5。基于单核苷酸多态性 (SNP) 的低遗传力估计表明，尚未发现更多常见变异风险6。在这里，我们分析了来自不同血统的 109,479 个病例、74,141 个代理病例、2,131,799 个对照和 499,708 个代理对照的数据，确定了多血统分析中的 118 个基因座和血统特异性分析中的 9 个额外基因座，其中 48 个是新的。我们确定了新的 AD 风险基因，优先考虑了潜在的药物靶标，并发现与对照组相比，病例中小胶质细胞中上调和神经元中下调的基因丰富了 AD 相关遗传风险。此外，我们改进了多基因预测，估计 SNP 遗传力为 16%，比之前的估计高出近三倍。总之，我们的研究结果表明，常见变异对 AD 的贡献被大大低估了，并揭示了新的分子和细胞机制以及未来药物开发研究的具体目标。
+中文摘要：阿尔茨海默氏病 (AD) 是痴呆症最常见的病因，预计到 20501 年，全球病例数将达到 1.53 亿。AD 具有高度遗传性，基于双胞胎的遗传率估计为 60-80%2。尽管 AD3 预计存在 1,200 个因果位点，但最近的两项研究发现大约 80 个位点与 AD 相关4,5。基于单核苷酸多态性 (SNP) 的低遗传力估计表明，尚未发现更多常见变异风险6。在这里，我们分析了来自不同血统的 109,479 个病例、74,141 个代理病例、2,131,799 个对照和 499,708 个代理对照的数据，确定了多血统分析中的 118 个基因座和血统特异性分析中的 9 个额外基因座，其中 48 个是新的。我们确定了新的 AD 风险基因，优先考虑了潜在的药物靶标，并发现与对照组相比，病例中小胶质细胞中上调和神经元中下调的基因丰富了 AD 相关遗传风险。此外，我们改进了多基因预测，估计 SNP 遗传力为 16%，比之前的估计高出近三倍。总之，我们的研究结果表明，常见变异对 AD 的贡献被大大低估了，并揭示了新的分子和细胞机制以及未来药物开发研究的具体目标。
 
 英文摘要：Alzheimer's disease (AD) is the most common cause of dementia, with global case numbers projected to reach 153 million in 20501. AD is highly heritable, with twin-based heritability estimates of 60-80%2. Although 1,200 causal loci are predicted to exist for AD3, approximately 80 loci have been associated with AD in two recent studies4,5. Low single-nucleotide polymorphism (SNP)-based heritability estimates have prompted the suggestion that little further common-variant risk remains to be found6. Here we analysed data from 109,479 cases, 74,141 proxy cases, 2,131,799 controls and 499,708 proxy controls from diverse ancestries, identifying 118 loci in a multi-ancestry analysis and 9 additional loci in ancestry-specific analyses, 48 of which are new. We identified new AD risk genes, prioritized potential drug targets, and found that genes upregulated in microglia and downregulated in neurons in cases compared with controls were enriched for AD-associated genetic risk. Moreover, we improved polygenic prediction and estimated a SNP heritability of 16%, nearly threefold higher than previous estimates. Together, our findings show that the common-variant contribution to AD has been substantially underestimated, and reveal new molecular and cellular mechanisms as well as specific targets for future drug development research.
 
@@ -563,26 +563,7 @@
 
 英文摘要：A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage. Researchers suspect that getting these nutrients through a healthy diet may offer benefits that supplements alone cannot provide.
 
-## 4. 主要研究证实，一种简单的液体无需钻孔即可阻止蛀牙
-
-- 英文题目：A simple liquid can stop cavities without drilling, major study confirms
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Sun, 25 Oc
-- 分数：48
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/10/261025222339.htm
-
-中文摘要：根据一项涉及幼儿的大型临床试验，在几秒钟内涂在牙齿上的简单液体可以阻止蛀牙，无需钻孔、注射或麻醉。这种廉价的治疗方法可以使数千名儿童免去痛苦的牙科手术和手术，同时为 FDA 批准更广泛的用途铺平道路。
-
-英文摘要：A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands of children painful dental procedures and surgery while paving the way for broader FDA-approved use.
-
-## 5. 突破性 PTSD 治疗在临床试验中达到 68% 的缓解率
+## 4. 突破性 PTSD 治疗在临床试验中达到 68% 的缓解率
 
 - 英文题目：Breakthrough PTSD treatment achieves 68% remission rate in clinical trial
 - 主题：国内外医学与医药新闻
@@ -601,7 +582,7 @@
 
 英文摘要：A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission. Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for other mental health conditions.
 
-## 6. 即使您的数字看起来正常，您的血压也可能很危险
+## 5. 即使您的数字看起来正常，您的血压也可能很危险
 
 - 英文题目：Your blood pressure could be dangerous even when your numbers look normal
 - 主题：国内外医学与医药新闻
@@ -620,7 +601,7 @@
 
 英文摘要：Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain.
 
-## 7. 近一半的苦恼成年人使用人工智能进行治疗
+## 6. 近一半的苦恼成年人使用人工智能进行治疗
 
 - 英文题目：Nearly Half of Distressed Adults Use AI for Therapy
 - 主题：国内外医学与医药新闻
@@ -639,7 +620,7 @@
 
 英文摘要：<a href="https://neurosciencenews.com/ai-llm-psychology-therapy-32355/" rel="nofollow" title="Nearly Half of Distressed Adults Use AI for Therapy"><img alt="This shows the outline of a robotic head." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/10/ai-therapy-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Are chatbots becoming informal therapists? A new study reveals that nearly half of adults experiencing severe psychological distress turn to generative AI tools for emotional support, raising urgent questions about clinical safety.
 
-## 8. 呼吸“稀薄空气”可预防帕金森病
+## 7. 呼吸“稀薄空气”可预防帕金森病
 
 - 英文题目：Breathing “Thin Air” May Protect Against Parkinson’s
 - 主题：国内外医学与医药新闻
@@ -658,7 +639,7 @@
 
 英文摘要：<a href="https://neurosciencenews.com/hypoxia-parkinsons-neurology-32353/" rel="nofollow" title="Breathing &#8220;Thin Air&#8221; May Protect Against Parkinson&#8217;s"><img alt="This shows a head surrounded by smoke-like air" class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/10/hypoxia-parkinsons-inflammation-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Can breathing thin mountain air help Parkinson's patients? Researchers demonstrated that 39 minutes of controlled intermittent hypoxia safely lowers stress hormones, raises anti-inflammatory adiponectin, and protects BDNF levels without disturbing sleep.
 
-## 9. 常见药物可能有助于危险病毒在体内传播
+## 8. 常见药物可能有助于危险病毒在体内传播
 
 - 英文题目：Common drugs may help dangerous viruses spread through the body
 - 主题：国内外医学与医药新闻
@@ -677,21 +658,40 @@
 
 英文摘要：A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and other inflammatory diseases, can weaken a crucial immune defense against influenza, COVID-19, and other infections. By suppressing genes that normally fight viruses, these medications may leave patients more vulnerable to infection.
 
-## 10. 科学家找到了一种无需去除有毒 tau 蛋白即可对抗阿尔茨海默氏症脑损伤的方法
+## 9. 单一的大脑信号可以解释精神分裂症最令人费解的症状
 
-- 英文题目：Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau
+- 英文题目：A single brain signal may explain schizophrenia's most puzzling symptoms
 - 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Mind Brain
-- 期刊/平台：ScienceDaily Mind Brain
-- 影响因子：10+
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：内置参考表
-- 日期：Tue, 20 Oc
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Thu, 29 Oc
 - 分数：40
 - PMID：N/A
 - DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/10/261019093355.htm
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/10/261028232659.htm
 
-中文摘要：科学家们发现了一种有希望的方法，通过阻断导致神经元破坏的免疫细胞来保护大脑免受阿尔茨海默病相关的损伤。在小鼠中，即使没有消除有害的 tau 蛋白堆积，该治疗仍保留了大约 40% 的记忆中心组织并改善了记忆力。
+中文摘要：科学家们发现，大脑信号减弱可能与精神分裂症的几种看似无关的症状有关，包括感觉处理困难、言语混乱和症状严重程度增加。这一令人惊讶的发现可能有助于解释这种疾病的潜在机制，并有可能导致早期发现和新的治疗方法。
 
-英文摘要：Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons. In mice, the treatment preserved roughly 40% more tissue in memory centers and improved memory, even without removing harmful tau protein buildup.
+英文摘要：Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity. The surprising discovery could help explain the disorder's underlying mechanisms and potentially lead to earlier detection and new treatments.
+
+## 10. 居住在工业水污染源附近会增加 PSP 风险
+
+- 英文题目：Living Near Industrial Water Polluters Linked to Higher Risk of PSP
+- 主题：国内外医学与医药新闻
+- 来源：Neuroscience News
+- 期刊/平台：Neuroscience News
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Thu, 29 Oc
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://neurosciencenews.com/industrial-water-polluters-psp-32359/
+
+中文摘要：<a href="https://neurosciencenews.com/industrial-water-polluters-psp-32359/" rel="nofollow" title="居住在工业水污染者附近与 PSP 风险较高"><img alt="这显示了一个湖泊、烟囱和一个头部的轮廓。" class =“webfeedsFeaturedVisual wp-post-image”height =“770”src =“https://neurosciencenews.com/files/2026/10/psp-water-pollution-neuroscience-1155x770.jpg”style =“浮动：左；边距右：5px；” width="1155" /></a>工业水径流会引发非典型帕金森病吗？ 《Neurology》发表的一项针对 500,000 名成年人的为期 25 年的研究表明，居住在排放农药、重金属和有机污染物的设施附近与进行性核上性麻痹的较高风险有关。
+
+英文摘要：<a href="https://neurosciencenews.com/industrial-water-polluters-psp-32359/" rel="nofollow" title="Living Near Industrial Water Polluters Linked to Higher Risk of PSP"><img alt="This shows a lake, smoke stacks, and the outline of a head." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/10/psp-water-pollution-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Can industrial water runoff trigger atypical parkinsonism? A 25-year study of 500,000 adults published in Neurology shows that living near facilities emitting pesticides, heavy metals, and organic pollutants is linked to a higher risk of progressive supranuclear palsy.
