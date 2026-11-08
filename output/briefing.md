@@ -1,6 +1,6 @@
 # 神外文献日报 V2
 
-生成时间：2026-11-07 11:13:19
+生成时间：2026-11-08 10:43:01
 核心神外文献数量：10
 全部条目数量：36
 
@@ -82,24 +82,24 @@
 
 英文摘要：Neuroinflammation is a key contributor to brain injury and poor functional recovery after ischemic stroke, yet no clinically approved therapy targets the neutrophil extracellular trap (NET)-cGAS-STING axis that drives it. This study investigates the effects of the clinically used K-ATP channel opener nicorandil on neutrophil extracellular trap (NET) formation and evaluates its potential to attenuate NET-cGAS-STING-associated neuroinflammation. A mouse model of middle cerebral artery occlusion and reperfusion (MCAO/R) and BV-2 microglial cell oxygen-glucose deprivation/reoxygenation (OGD/R) were used to assess NET formation, cGAS-STING pathway activation, inflammatory responses, and neurological injury. Significant increases in NET markers, such as MPO-DNA and CitH3, were found in plasma and brain tissue after MCAO/R. This was accompanied by elevated TNF-α, IL-6、IL-1β, brain edema, neuronal apoptosis, and neurological deficits. Both DNase I-mediated NET degradation and Nicorandil treatment reduced NET formation, suppressed microglial activation, lowered phosphorylation of STING and TBK1, and alleviated brain infarction, neuronal death, and impairment. In vitro, exogenous NETs enhanced OGD/R-induced cGAS-STING activation and IL-1β release, effects reversed by DNase I and Nicorandil. In summary, extracellular DNA associated with NETs promotes microglial cGAS-STING activation and contributes to neuroinflammatory injury after stroke. Nicorandil exerts neuroprotective effects by inhibiting the upstream formation of NETs and attenuating this signaling axis, suggesting a promising and readily translatable therapeutic strategy for ischemic stroke.
 
-## 5. 在 LPS 诱导的脓毒症相关脑病中，环丙酚比丙泊酚更广泛地抑制选定的炎症标志物。
+## 5. 跨移植源同种异体造血细胞移植后的输注时机和结果。
 
-- 英文题目：Ciprofol more broadly suppresses selected inflammatory markers than propofol in LPS-induced sepsis-associated encephalopathy.
-- 主题：小胶质细胞与 TREM2
+- 英文题目：Infusion timing and outcomes after allogeneic hematopoietic cell transplantation across graft sources.
+- 主题：干细胞与外泌体
 - 来源：PubMed
-- 期刊/平台：Molecular and cellular biochemistry
-- 影响因子：3.7
-- 分区：JCR Q2 / CAS 3区
+- 期刊/平台：Transplantation and cellular therapy
+- 影响因子：4.4
+- 分区：JCR Q1 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-11-05
-- 分数：75
-- PMID：42986375
-- DOI：10.1007/s11010-026-05795-5
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42986375/
+- 日期：2026-11-06
+- 分数：73
+- PMID：42994756
+- DOI：10.1016/j.jtct.2026.11.007
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42994756/
 
-中文摘要：探讨并比较环丙酚和丙泊酚在脂多糖（LPS）诱导的脓毒症相关脑病（SAE）中的抗炎和神经保护作用。用丙泊酚 (LP) 或环丙酚 (LC) 治疗患有 LPS 诱导的 SAE 的 C57BL/6 N 小鼠。通过莫里斯水迷宫（MWM）和新物体识别（NOR）测试评估认知功能。通过组织学、免疫组织化学 (IHC)、免疫荧光 (IF) 和 RT-qPCR 评估海马神经炎症和胶质细胞活化。通过 ELISA 测量全身和细胞炎症反应。在体外，用 LPS、LP 或 LC 处理 BV2 小胶质细胞，并在共培养系统中评估它们对神经元活力的影响。通过蛋白质印迹和 RT-qPCR 探索了潜在机制。在体内，环丙酚和丙泊酚都对认知结果产生了相当的改善，并且代表性的 H&E 和尼氏染色切片显示出相似的组织学模式。在测试剂量下，环丙酚更广泛地抑制选定的炎症标志物。全身性地，环丙酚显着降低所有三种测试的细胞因子（TNF-α、IL-1β和IL-6），而异丙酚仅显着降低TNF-α。在海马体中，环丙酚使齿状回中的 Il-1β 转录和 Iba-1 阳性细胞产生更大的减少。在体外，环丙酚还可以更大程度地减少 BV2 细胞中选定的促炎介质。从机制上讲，环丙酚与 Nlrp3 mRNA 的更大抑制相关，而相应的药物间蛋白质水平差异并不显着。在小鼠 LPS 诱导的 SAE 中，环丙酚和丙泊酚在认知结果和相似的组织学观察方面产生了相当的改善，而环丙酚更广泛地抑制了选定的全身和海马炎症标志物，并且在测试剂量或浓度下与 BV2 细胞中更大的 Nlrp3 转录抑制相关。这些临床前研究结果需要在临床相关脓毒症模型和人体研究中得到确认，然后才能为脓毒症患者的麻醉选择提供信息。
+中文摘要：背景：昼夜节律调节可以影响免疫激活，并与免疫治疗和细胞治疗后的结果相关。在同种异体造血细胞移植（allo-HCT）中，移植物输注时间是否影响移植物抗宿主病（GVHD）、非复发死亡率（NRM）或造血恢复仍不确定，之前的临床研究主要集中在单一移植物来源。目的：确定移植物输注的时钟时间是否与异基因 HCT 后的移植结果相关，以及这些关联在骨髓移植 (BMT)、外周血干细胞移植 (PBSCT) 和脐带血移植 (CBT) 之间是否存在差异。研究设计：我们回顾性分析了 2004 年至 2025 年在我们机构接受首次同种异体 HCT 的 1,714 名连续患者，年龄为 16 岁或以上。患者按移植物来源进行分层。输注时间定义为记录的移植物从输血服务到移植病房的释放时间。根据机构输液时间分布，16:00之前输液为早输液，16:00及之后输液为晚输液。在每个移植源内分别进行倾向评分匹配，并使用治疗加权逆概率（IPTW）作为补充分析。主要终点是 5 年 NRM。次要终点包括总生存期、无进展生存期、复发、中性粒细胞和血小板植入以及急性 GVHD。结果：该队列包括 1,008 名 BMT 接受者、478 名 PBSCT 接受者和 228 名 CBT 接受者。倾向得分匹配分别生成 242、172 和 63 个早期-晚期对。 BMT 后早期输注与晚期输注的五年 NRM 分别为 18.3%（95% 置信区间 [CI]，13.1-23.1）与 19.4%（95% CI，14.2-24.4）（P = 0.78）、20.7%（95% CI，13.6-27.1）与 26.4%（95% CI，14.2-24.4） PBSCT 后为 18.5-33.5）（P = 0.23），CBT 后为 16.4%（95% CI，5.6-26.1）与 17.8%（95% CI，6.8-27.5）（P = 0.88）。 BMT 后 50 天的中性粒细胞植入相似（95.5% [95% CI, 92.6-97.2] vs. 94.8% [95% CI, 91.8-96.8]；P = 0.62）、PBSCT（97.1% [95% CI, 94.1-98.6] vs. 96.2% [95% CI, 92.8-98.0]；P = 0.47) 和 CBT (81.6% [95%……
 
-英文摘要：To investigate and compare the anti-inflammatory and neuroprotective effects of ciprofol and propofol in lipopolysaccharide (LPS)-induced sepsis-associated encephalopathy(SAE). C57BL/6 N mice with LPS-induced SAE were treated with propofol(LP) or ciprofol(LC). Cognitive function was assessed by the Morris water maze (MWM) and novel object recognition (NOR) tests. Neuroinflammation and glial activation in the hippocampus were evaluated by histology, immunohistochemistry (IHC), immunofluorescence (IF), and RT-qPCR. Systemic and cellular inflammatory responses were measured by ELISA. In vitro, BV2 microglial cells were treated with LPS, LP, or LC, and their effects on neuronal viability were assessed in a co-culture system. Underlying mechanisms were explored by Western Blot and RT-qPCR. In vivo, both ciprofol and propofol produced comparable improvements in cognitive outcomes, and representative H&E- and Nissl-stained sections showed similar histological patterns. At the tested doses, ciprofol more broadly suppressed selected inflammatory markers. Systemically, ciprofol significantly reduced all three tested cytokines (TNF-α, IL-1β, and IL-6), whereas propofol significantly reduced TNF-α only. In the hippocampus, ciprofol produced greater reductions in Il-1β transcription and Iba-1-positive cells in the dentate gyrus. In vitro, ciprofol also produced greater reductions in selected proinflammatory mediators in BV2 cells. Mechanistically, ciprofol was associated with greater suppression of Nlrp3 mRNA, whereas the corresponding between-drug protein-level difference was not significant. In murine LPS-induced SAE, ciprofol and propofol produced comparable improvements in cognitive outcomes and similar histological observations, whereas ciprofol more broadly suppressed selected systemic and hippocampal inflammatory markers and was associated with greater Nlrp3 transcriptional suppression in BV2 cells at the tested doses or concentrations. These preclinical findings require confirmation in clinically relevant sepsis models and human studies before they can inform anesthetic selection in patients with sepsis.
+英文摘要：BACKGROUND: Circadian regulation can shape immune activation and has been linked to outcomes after immunotherapy and cellular therapies. In allogeneic hematopoietic cell transplantation (allo-HCT), whether graft infusion time influences graft-versus-host disease (GVHD), non-relapse mortality (NRM), or hematopoietic recovery remains uncertain, and prior clinical studies have largely focused on single graft sources. OBJECTIVE(S): To determine whether clock time of graft infusion is associated with transplant outcomes after allo-HCT and whether these associations differ among bone marrow transplantation (BMT), peripheral blood stem cell transplantation (PBSCT), and cord blood transplantation (CBT). STUDY DESIGN: We retrospectively analyzed 1,714 consecutive patients aged 16 years or older who underwent first allo-HCT at our institution from 2004 through 2025. Patients were stratified by graft source. Infusion time was defined as the recorded graft-product release time from the transfusion service to the transplant ward. Based on the institutional infusion-time distribution, infusions before 16:00 were classified as Early and those at or after 16:00 as Late. Propensity score matching was performed separately within each graft source, and inverse probability of treatment weighting (IPTW) was used as a complementary analysis. The primary endpoint was 5-year NRM. Secondary endpoints included overall survival, progression-free survival, relapse, neutrophil and platelet engraftment, and acute GVHD. RESULTS: The cohort included 1,008 BMT, 478 PBSCT, and 228 CBT recipients. Propensity score matching generated 242, 172, and 63 Early-Late pairs, respectively. Five-year NRM for Early vs. Late infusion was 18.3% (95% confidence interval [CI], 13.1-23.1) vs. 19.4% (95% CI, 14.2-24.4) after BMT (P = 0.78), 20.7% (95% CI, 13.6-27.1) vs. 26.4% (95% CI, 18.5-33.5) after PBSCT (P = 0.23), and 16.4% (95% CI, 5.6-26.1) vs. 17.8% (95% CI, 6.8-27.5) after CBT (P = 0.88). Fifty-day neutrophil engraftment was similar after BMT (95.5% [95% CI, 92.6-97.2] vs. 94.8% [95% CI, 91.8-96.8]; P = 0.62), PBSCT (97.1% [95% CI, 94.1-98.6] vs. 96.2% [95% CI, 92.8-98.0]; P = 0.47), and CBT (81.6% [95% CI, 70.0-88.7] vs. 79.7% [95% CI, 67.6-87.2]; P = 0.75). The 100-day cumulative incidence of grade II-IV acute GVHD also did not differ significantly after BMT (37.6% [95% CI, 31.2-43.4] vs. 43.3% [95% CI, 36.8-49.2]; P = 0.20), PBSCT (32.5% [95% CI, 25.2-39.1] vs. 30.2% [95% CI, 23.0-36.7]; P = 0.65), or CBT (35.9% [95% CI, 23.1-46.6] vs. 33.7% [95% CI, 20.9-44.3]; P = 0.79). IPTW analyses showed no significant association between Late infusion and NRM, survival, relapse, engraftment, or acute GVHD across the three graft sources. CONCLUSION(S): In this graft source-stratified cohort, earlier infusion across the 16:00 threshold was not associated with improved outcomes. These findings do not support routinely changing graft handling or infusion workflows solely to achieve earlier infusion within the afternoon range. The potential benefit of morning infusion remains to be determined.
 
 ## 6. 骨髓细胞在受伤的大脑中疯狂运转。
 
@@ -139,7 +139,26 @@
 
 英文摘要：BACKGROUND: Perioperative neurocognitive disorders (PND) are common postoperative complications driven by neuroinflammation and an imbalance in microglial M1/M2 polarization. Complement component 3 (C3) is elevated in PND, while CD55 inhibits C3 activation. Whether CD55 regulates PND via C3 remains unclear. METHODS: A PND mouse model and an lipopolysaccharide (LPS)-induced BV2 model were established. Lentivirus-mediated CD55/C3 overexpression was performed. Cognitive function, neuronal injury, inflammation, microglial polarization, and CD55/C3 expression were assessed using behavioral tests, HE staining, ELISA, immunofluorescence, RT-qPCR, and WB. RESULTS: PND mice exhibited cognitive impairment, hippocampal neuronal damage, elevated levels of pro-inflammatory cytokines and C3, and reduced CD55 expression. Overexpression of CD55 improved cognitive function, alleviated damage and inflammation, and suppressed C3. It also restored the balance of M1/M2 markers in BV2 cells. Overexpression of C3 reversed the protective effects of CD55 both in vitro and in vivo. CONCLUSION: CD55 alleviates PND by regulating complement C3, which may be related to promoting the polarization of microglia toward the M2 phenotype. We have preliminarily identified a potential regulatory target for PND.
 
-## 8. 神经干细胞和神经胶质瘤干细胞对静止状态的共同分子调控揭示了治疗的弱点。
+## 8. “前庭神经鞘瘤相关正常压力脑积水：与特发性 NPH 相比的临床特征和分流反应性”的勘误 [J.临床。神经科学。 153（2026）112253]。
+
+- 英文题目：Corrigendum to "Vestibular schwannoma associated normal pressure hydrocephalus: clinical features and shunt responsiveness compared with idiopathic NPH" [J. Clin. Neurosci. 153 (2026) 112253].
+- 主题：脑积水与脑脊液循环
+- 来源：PubMed
+- 期刊/平台：Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia
+- 影响因子：1.8
+- 分区：JCR Q3 / CAS 4区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-11-06
+- 分数：67
+- PMID：42994161
+- DOI：10.1016/j.jocn.2026.112351
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42994161/
+
+中文摘要：暂无中文摘要
+
+英文摘要：暂无摘要
+
+## 9. 神经干细胞和神经胶质瘤干细胞对静止状态的共同分子调控揭示了治疗的弱点。
 
 - 英文题目：Shared molecular regulation of quiescence in neural and glioma stem cells reveals therapeutic vulnerabilities.
 - 主题：胶质瘤与脊髓肿瘤
@@ -158,43 +177,24 @@
 
 英文摘要：Quiescent glioma cells evade chemoradiation and drive glioblastoma recurrence by reactivating to repopulate the tumor, but are hard to study due to their rarity and difficulty maintaining quiescence in vitro. We hypothesized that quiescence programs conserved between neural stem cells and glioma cells could be exploited to lock glioma cells in quiescence and prevent reactivation. Using single-cell RNA sequencing and patient-derived glioma stem cell lines, we found that although glioma cells resist entering deep quiescence, they share conserved activation trajectories with neural stem cells. Because this conservation lets a tractable neural progenitor line act as a surrogate for rare quiescent glioma cells, we queried LINCS L1000 signatures across >3,000 compounds and validated the top classes (mTOR, ATPase, and histone lysine methyltransferase inhibitors) as quiescence promoters in glioma stem cell lines. By establishing conserved activation programs and enabling cross-cell-type screening, our work provides a strategy for driving therapy-resistant glioma cells into quiescence.
 
-## 9. (酰胺-)N-甲基烟酰胺是一种微生物衍生的 NAD
+## 10. 急性髓系白血病患者的风险适应捐献者选择。
 
-- 英文题目：The (amide-)N-methylnicotinamide is a microbe-derived NAD
+- 英文题目：Risk-Adapted Donor Selection in Patients with Acute Myeloid Leukemia.
 - 主题：干细胞与外泌体
 - 来源：PubMed
-- 期刊/平台：Science advances
-- 影响因子：12.5
-- 分区：JCR Q1 / CAS 1区
+- 期刊/平台：Transplantation and cellular therapy
+- 影响因子：4.4
+- 分区：JCR Q1 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-11-06
 - 分数：65
-- PMID：42993840
-- DOI：10.1126/sciadv.aef2882
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42993840/
+- PMID：42994757
+- DOI：10.1016/j.jtct.2026.11.009
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42994757/
 
-中文摘要：烟酰胺腺嘌呤二核苷酸 (NAD) 是一种重要的细胞辅酶，其衰退与各种慢性和炎症性疾病有关。改善 NAD 恢复可以降低疾病风险并延长健康寿命。我们在此报告，包括特定益生菌物种在内的某些共生细菌产生（酰胺-）N-甲基烟酰胺（N-MNA），它是甲基烟酰胺（一种烟酰胺降解代谢物）的结构异构体。患有肠道菌群失调和炎症的患者粪便 N-MNA 减少。稳定同位素示踪表明，N-MNA 可以被果蝇、小鼠和人类的肠上皮细胞 (IEC) 和非 IEC 快速吸收并掺入 NAD 氧化还原反应中。遗传和药理学分析表明，N-MNA 通过 Preiss-Handler 途径转化为 NAD+，与挽救途径无关。果蝇中 SIRT1（一种 NAD 消耗酶）的细胞类型特异性消融或过度表达以及小鼠肠干细胞 (ISC) 谱系追踪表明，全身性 N-MNA 补充可促进 ISC 再生和肠上皮修复。与已知的 NAD 前体相比，N-MNA 将甲基带入宿主细胞，代表一类微生物衍生的 NAD 前体，可刺激组织再生能力。
+中文摘要：背景：在亚洲实践中，缺乏匹配的兄弟姐妹供体（MSD）的急性髓系白血病（AML）成人的最佳供体仍然不确定，基于抗胸腺细胞球蛋白（ATG）的移植物抗宿主病（GvHD）预​​防很常见。目的：比较 MSD、匹配的无关供体 (MUD)、不匹配的无关供体 (MMUD) 和半相合供体 (HID) 移植后的结果，并测试疾病风险是否会改变供体效应。研究设计：我们分析了 2009 年至 2025 年间在台湾血液和骨髓移植登记处首次接受同种异体造血干细胞移植 (HSCT) 的 1,963 名 AML 成人患者。我们采用了双重稳健策略，将多项倾向评分逆概率治疗加权 (IPTW) 与多变量 Cox 和 Fine-Gray 回归相结合。通过里程碑和因果中介分析将 GvHD 作为中介进行评估。结果：使用 MUD 作为参考，所有其他三种供体类型的总生存期 (OS) 均较差，对于 HID（风险比 [HR] 1.34，p=0.022）和 MMUD（HR 1.31，p=0.026）达到显着性，但对于 MSD（HR 1.18，p=0.131）则不显着。 HID 后非复发死亡率 (NRM) 较高（HR 1.61，p=0.011），MMUD 后有趋势（HR 1.38，p=0.079），而 MSD（HR 1.40，p<0.001）和 HID 后（HR 1.31，p=0.008）无 GvHD、无复发生存率（GRFS）较差。不同供体类型的复发情况没有差异，这表明 MUD 的生存优势是通过较低的 NRM 发挥作用的。因果中介分析并未将 MUD-HID 生存差异归因于 GvHD。疾病风险改变了供体对 OS 的影响（交互作用 p=0.028）。在高风险/极高风险疾病中，MUD 优于 MSD、MMUD 和 HID（HR 分别为 1.44、1.78 和 1.74），MUD 后的 3 年 OS 为 42.7%，其他供体后的 3 年 OS 为 28.5%。在低/中风险疾病中，OS 不因供体类型而异。结论：与替代供体（MMUD 和 HID）相比，MUD 通过较低的 NRM 与更好的 OS 相关，并且其生存获益在高风险疾病中最大。 AML 中的捐献者选择可以根据风险进行调整：高风险疾病中可以优先考虑 MUD，而 GRFS 应指导低风险疾病中的捐献者选择。……
 
-英文摘要：Nicotinamide Adenine Dinucleotide (NAD) is a critical cellular coenzyme whose decline associates with various chronic and inflammatory diseases. Improved NAD restoration may reduce disease risks and extend healthy lifespan. We report here that certain commensal bacteria including specific probiotic species produce (amide-)N-methylnicotinamide (N-MNA), which is a structural isomer of methylnicotinamide, a nicotinamide degradative metabolite. Patients with gut dysbiosis and inflammation show reduced stool N-MNA. Stable isotope tracing revealed that N-MNA can be rapidly taken up and incorporated into NAD redox reactions by intestinal epithelial cells (IECs) and non-IECs of fruit fly, mouse, and human. Genetic and pharmacological analyses suggest that N-MNA is converted to NAD+ via the Preiss-Handler pathway, independent of the salvage pathway. Cell-type-specific ablation or overexpression of SIRT1, an NAD-consuming enzyme, in Drosophila, along with intestinal stem cell (ISC) lineage tracing in mice revealed that systemic N-MNA supplementation promotes ISC regeneration and gut epithelial repair. Compared to known NAD precursors, N-MNA brings a methyl group into host cells, representing a class of microbe-derived NAD precursor that stimulates the tissue regenerative power.
-
-## 10. 心脏再生：内源性和外源性机制及其对紫绀型先天性心脏病的意义。
-
-- 英文题目：Heart Regeneration: Endogenous and Exogenous Mechanisms and Their Significance for Cyanotic Congenital Heart Disease.
-- 主题：干细胞与外泌体
-- 来源：PubMed
-- 期刊/平台：Current medical science
-- 影响因子：1.5
-- 分区：JCR Q3 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-11-06
-- 分数：65
-- PMID：42993422
-- DOI：10.1007/s11596-026-00247-z
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42993422/
-
-中文摘要：哺乳动物心肌细胞的心肌重塑和有限的再生能力构成了心力衰竭治疗的主要障碍。目前的疗法无法可靠地恢复丢失的心肌细胞，晚期心力衰竭最终可能需要机械循环支持或移植。这篇综述综合了内源性心脏再生机制的最新进展，重点关注三个关键的调控途径：细胞内信号传导、细胞外基质（ECM）相互作用和外源性细胞疗法。我们利用斑马鱼和新生小鼠等具有再生能力的动物模型的见解，研究增强非心肌细胞重编程为功能性心肌细胞的策略。此外，我们还探讨了缺氧作为促再生信号的新作用，特别是在紫绀型先天性心脏病（CCHD）的背景下，例如法洛四联症（TOF）和室间隔完整或室间隔缺损的肺动脉闭锁（PA）。尽管干细胞技术和内在心肌细胞增殖机制已显示出临床前前景，但临床转化仍然充满挑战。本综述旨在就内源性再生途径及其改变心力衰竭治疗的治疗潜力提供全面、综合的视角。我们进一步强调了这些再生机制在 CCHD 中的独特治疗价值：慢性缺氧触发缺氧诱导因子 1α (HIF-1α) 介导的代谢重编程和细胞周期调节，矛盾地激活促再生信号并建立短暂的心肌再生窗口。可以通过早期新生儿手术干预来利用这个窗口来促进心肌修复。
-
-英文摘要：Myocardial remodeling and the limited regenerative capacity of mammalian cardiomyocytes constitute major barriers to heart failure therapy. Current therapies cannot reliably restore lost cardiomyocytes, and advanced heart failure may ultimately require mechanical circulatory support or transplatation. This review synthesizes recent advances in endogenous cardiac regeneration mechanisms, focusing on three key regulatory pathways: intracellular signaling, extracellular matrix (ECM) interactions, and exogenous cell-based therapies. We examine strategies to enhance the reprogramming of non-cardiomyocytes into functional cardiomyocytes, leveraging insights from regeneration-competent animal models including zebrafish and neonatal mice. Additionally, we explore the emerging role of hypoxia as a pro-regenerative signal, particularly in the context of cyanotic congenital heart disease (CCHD) such as tetralogy of Fallot (TOF) and pulmonary atresia (PA) with intact ventricular septum or ventricular septal defects. While stem cell technologies and intrinsic cardiomyocyte proliferative mechanisms have shown preclinical promise, clinical translation remains fraught with challenges. This review aims to provide a comprehensive, integrated perspective on endogenous regeneration pathways and their therapeutic potential to transform heart failure management. We further emphasize the unique therapeutic value of these regenerative mechanisms in CCHD: chronic hypoxia triggers hypoxia-inducible factor 1α (HIF-1α)-mediated metabolic reprogramming and cell-cycle regulation, which paradoxically activates pro-regenerative signaling and establishes a transient myocardial regenerative window. This window can be harnessed via early neonatal surgical intervention to facilitate myocardial repair.
+英文摘要：BACKGROUND: The optimal donor for adults with acute myeloid leukemia (AML) who lack a matched sibling donor (MSD) remains uncertain in Asian practice, where antithymocyte globulin (ATG)-based graft-versus-host disease (GvHD) prophylaxis is common. OBJECTIVES: To compare outcomes after MSD, matched unrelated donor (MUD), mismatched unrelated donor (MMUD), and haploidentical donor (HID) transplantation, and to test whether disease risk modifies the donor effect. STUDY DESIGN: We analyzed 1,963 adults with AML who underwent first allogeneic hematopoietic stem cell transplantation (HSCT) in the Taiwan Blood and Marrow Transplantation Registry between 2009 and 2025. We applied a doubly robust strategy combining multinomial propensity-score inverse probability of treatment weighting (IPTW) with multivariable Cox and Fine-Gray regression. GvHD was evaluated as a mediator by landmark and causal mediation analyses. RESULTS: Using MUD as reference, all three other donor types had inferior overall survival (OS), reaching significance for HID (hazard ratio [HR] 1.34, p=0.022) and MMUD (HR 1.31, p=0.026) but not for MSD (HR 1.18, p=0.131). Non-relapse mortality (NRM) was higher after HID (HR 1.61, p=0.011), with a trend after MMUD (HR 1.38, p=0.079), and GvHD-free, relapse-free survival (GRFS) was inferior after MSD (HR 1.40, p<0.001) and HID (HR 1.31, p=0.008). Relapse did not differ by donor type, indicating that the survival advantage of MUD operates through lower NRM. Causal mediation analysis did not attribute the MUD-HID survival difference to GvHD. Disease risk modified the donor effect on OS (interaction p=0.028). In high/very-high-risk disease, MUD was superior to MSD, MMUD, and HID (HR 1.44, 1.78, and 1.74, respectively), with 3-year OS of 42.7% after MUD and 28.5% after other donors. In low/intermediate-risk disease, OS did not differ by donor type. CONCLUSIONS: MUD was associated with better OS than alternative donors (MMUD and HID) through lower NRM, and its survival benefit was largest in high-risk disease. Donor selection in AML can be risk-adapted: MUD could be prioritized in high-risk disease, whereas GRFS should guide donor choice in lower-risk disease, where OS is similar across donor types.
 
 # 顶刊神经科学
 
@@ -293,7 +293,26 @@
 
 英文摘要：Familial forms of amyotrophic lateral sclerosis (ALS) are potential candidates for gene-directed therapies, but many recently identified genes remain poorly characterized. Here, we provide a comprehensive clinical, neuropathological and biochemical description of familial ALS (fALS) caused by the heterozygous p.R15L missense mutation in the gene CHCHD10. Using a cross-sectional study design, we evaluated five affected and nine unaffected individuals from a large seven-generation pedigree with at least 68 affected members. The pedigree suggests a high (68%-81%) but incomplete disease penetrance. Through cloning of the disease allele from distant members of the family, we establish the disease haplotype in the family. Notably, the haplotype was distinct from that of a previously reported p.R15L mutation carrier with ALS, demonstrating that the variant is in a mutational hotspot. The clinical presentation was notable for being highly stereotyped; all affected individuals presented with the rare ALS variant flail arm syndrome (FAS; also known as brachial amyotrophic diplegia or Vulpian-Bernhardt syndrome), suggesting greater involvement of the cervical spinal cord. Consistently, neuropathology from one family member demonstrated substantially increased CHCHD10 protein aggregation and neuronal loss (though absent TDP-43 pathology) in the cervical versus lumbar spinal cord. This FAS phenotype could be captured by a simple timed finger-tapping task, suggesting potential utility for this task as a clinical biomarker. Additionally, through analysis of fibroblast lines from 12 mutation carriers, isogenic induced pluripotent stem cells and a knock-in mouse model, we determined that CHCHD10 with the R15L variant is stably expressed and retains substantial function both in cultured cells and in vivo, in contrast to prior reports. Conversely, we find loss-of-function (LoF) variants are more common in the population but are not associated with a highly penetrant form of ALS in the UK Biobank (31 in controls; 0 in cases). Together, this argues against LoF and in favour of toxic gain-of-function as the mechanism of disease pathogenesis, similar to the myopathy-causing variants in CHCHD10 (p.G58R and p.S59L). Finally, through proteomic analysis of CSF of variant carriers, we identify that CHCHD10 protein levels are elevated approximately 4-fold in mutation carriers, and that affected and unaffected individuals are differentiated by elevation of two neurofilaments: neurofilament light chain (NfL) and peripherin (PRPH). Collectively, our findings help set the stage for gene-directed therapy for a devasting form of fALS, by establishing the likely disease mechanism and identifying clinical and fluid biomarkers for target engagement and treatment response.
 
-## 6. 中风后抑郁症状的网络中断：贝叶斯多队列研究。
+## 6. ANGPTL3 的体内 CRISPR 碱基编辑可实现持久降脂。
+
+- 英文题目：In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Nature
+- 影响因子：48.5
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-11-06
+- 分数：79
+- PMID：42994815
+- DOI：10.1038/s41586-026-11233-9
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42994815/
+
+中文摘要：低密度脂蛋白胆固醇 (LDL-C) 和富含甘油三酯的脂蛋白的循环浓度是动脉粥样硬化性心血管疾病的主要危险因素1。尽管有几种已获批准的降脂药物，但大多数患者在慢性护理治疗模式下未能达到目标血脂水平2,3。在这里，我们描述了一种潜在的单疗程治疗，其中输注指导RNA和编码CRISPR腺嘌呤碱基编辑器的mRNA（封装在GalNAc脂质纳米颗粒内）导致血管生成素样3（ANGPTL3）的持久、肝脏选择性失活，血管生成素样3（ANGPTL3）是增加LDL-C和甘油三酯浓度的已知驱动因素。对人类肝细胞的体外分析证实，碱基编辑器在目标 ANGPTL3 基因座处引入了 DNA 碱基对变化，在大约 3000 个候选位点或治疗相关的结构变异中没有检测到脱靶编辑。非人类灵长类动物中的靶向 ANGPTL3 失活具有良好的耐受性，导致循环 ANGPTL3 蛋白平均减少 > 90%，单次给药后的持久性被证实可达 3 年。在小鼠和非人灵长类高脂血症模型中，基因失活与 LDL-C 降低约 40% 至 50% 以及甘油三酯降低约 50% 至 70% 相关。这些结果为启动针对难治性高脂血症综合征患者的首次人体临床试验提供了科学基础。
+
+英文摘要：Circulating concentrations of low-density lipoprotein cholesterol (LDL-C) and triglyceride-rich lipoproteins are leading risk factors for atherosclerotic cardiovascular disease1. Despite several approved lipid-lowering medications, most patients fail to achieve target lipid levels under the chronic care treatment model2,3. Here, we describe a potential single-course treatment in which an infusion of guide RNA and mRNA encoding a CRISPR adenine base editor-encapsulated within a GalNAc-lipid nanoparticle-leads to durable, liver-selective inactivation of angiopoietin-like 3 (ANGPTL3), a known driver of increased LDL-C and triglyceride concentrations. Analyses in human liver cells in vitro confirmed that the base editor introduces a DNA base-pair change at the target ANGPTL3 locus with no detectable off-target editing at any of approximately 3000 candidate sites or treatment-related structural variants. Targeted ANGPTL3 inactivation in nonhuman primates was well-tolerated and led to a > 90% mean reduction in circulating ANGPTL3 protein, with durability confirmed out to 3 years following a single dose. In mouse and nonhuman primate models of hyperlipidemia, gene inactivation was associated with reductions of approximately 40 to 50% in LDL-C and 50 to 70% in triglycerides. These results provided the scientific foundation for initiation of an ongoing first-in-human clinical trial in patients with refractory hyperlipidemia syndromes.
+
+## 7. 中风后抑郁症状的网络中断：贝叶斯多队列研究。
 
 - 英文题目：Network disruption in post-stroke depressive symptoms: a Bayesian multicohort study.
 - 主题：顶刊神经科学
@@ -312,7 +331,7 @@
 
 英文摘要：Post-stroke depressive symptoms are common, but studies on the contributions of lesion locations to depression symptoms remain inconsistent. Bayesian statistics offer the possibility to clarify these inconsistencies by providing evidence in favor and against observed associations. We reanalyzed four previously published observational cohorts with 1,864 patients with stroke characterized for depressive symptoms from France, Korea, Germany and the USA. We performed voxel-wise Bayes factor mapping using general linear models. Lesion maps were used to test for associations of post-stroke depressive symptoms with lesion location. Network level associations were tested based on structural disconnection and functional lesion network maps estimated by reference to normative connectome data. Due to a sample size with broad lesion coverage, Bayesian inference was informative in large parts of the brain. Lesion associations were found in clusters in the right hemisphere including cortical (frontal, insular, parietal) and subcortical regions (striatum, amygdala, hippocampus) and adjacent white matter. Evidence of no contribution to post-stroke depressive symptoms was observed in large parts of the left hemisphere. Structural disconnection was linked to depressive symptoms in the bilateral frontal white matter prominently involving the corpus callosum and anterior thalamic radiation. Lesion network mapping revealed evidence of an association of post-stroke depressive symptoms with network connectivity in the left posterior cingulate cortex and precuneus, and less consistently, the bilateral anterior insula, along with widespread absence of associations in other regions. Depressive symptoms were most strongly associated with right frontal lesions and right-dominant structural disconnection in frontal cortico-subcortical circuits.
 
-## 7. 相反的微生物介导的轴将可改变的生活方式与健康和慢性疾病联系起来。
+## 8. 相反的微生物介导的轴将可改变的生活方式与健康和慢性疾病联系起来。
 
 - 英文题目：Opposing microbiome-mediated axes link modifiable lifestyles to health and chronic diseases.
 - 主题：顶刊神经科学
@@ -330,25 +349,6 @@
 中文摘要：阐明肠道微生物组在将生活方式因素与健康结果联系起来方面的作用的分析仍然有限。在这里，我们利用日本 4D 队列中 6,803 名成年人的粪便鸟枪宏基因组学，确定了两个相反的微生物介导的轴，将生活方式与健康和 15 种疾病联系起来。富含膳食成分微生物代谢的健康相关轴与植物性、大豆和乳制品的摄入量有关。相比之下，与疾病相关的轴富含口腔源性细菌和致病生物，与精制碳水化合物和久坐行为有关。用于发酵食品的发酵剂微生物并未显示出对观察到的健康影响具有统计显着性的调节作用。酒精与涉及微生物宿主聚糖利用的健康和疾病导向的调节模式相关。微生物组定义的健康和疾病导向的介质轴得到超过 1,700 名个体的粪便短链脂肪酸和血浆细胞因子的支持，分别揭示了丁酸盐相关的抗炎和促炎宿主特征。基于微生物组的预测 (MADE) 分数捕捉了生活方式-微生物组-疾病的中介模式，并区分了来自美国、中国、瑞典、俄罗斯和澳大利亚的 13 个独立外部队列中的个体疾病。我们认为肠道微生物组是连接生活方式与健康和疾病的关键介质，为基于微生物组的评估提供了框架，以指导生活方式干预以促进健康和疾病预防。
 
 英文摘要：Analyses disentangling the role of the gut microbiome in linking lifestyle factors to health outcomes remain limited. Here, using fecal shotgun metagenomics from 6,803 adults in the Japanese 4D cohort, we identified two opposing microbiome-mediated axes linking lifestyle to health and 15 diseases. A health-associated axis enriched in microbial metabolism of dietary components was linked to plant-based, soy and dairy intake. In contrast, a disease-associated axis, enriched in oral-derived bacteria and pathobionts, was linked to refined carbohydrates and sedentary behavior. Starter culture microorganisms used to ferment foods did not show statistically significant mediation of the observed health effects. Alcohol was associated with both health- and disease-oriented mediation patterns involving microbial host-glycan utilization. Microbiome-defined health- and disease-oriented mediator axes were supported by fecal short-chain fatty acids and plasma cytokines from >1,700 individuals, revealing butyrate-associated anti-inflammatory and pro-inflammatory host profiles, respectively. Microbiome-based prediction (MADE) scores captured lifestyle-microbiome-disease mediation patterns and distinguished individual diseases across 13 independent external cohorts from the United States, China, Sweden, Russia and Australia. We identify the gut microbiome as a key mediator linking lifestyle to health and disease, providing a framework for microbiome-based assessment to guide lifestyle interventions for health promotion and disease prevention.
-
-## 8. 肥胖药物疗法和认知。
-
-- 英文题目：Obesity pharmacotherapies and cognition.
-- 主题：顶刊神经科学
-- 来源：PubMed
-- 期刊/平台：Science (New York, N.Y.)
-- 影响因子：45.8
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-11-05
-- 分数：79
-- PMID：42986976
-- DOI：10.1126/science.aek9987
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42986976/
-
-中文摘要：人们越来越多地评估治疗肥胖和 2 型糖尿病的药物疗法对认知和大脑健康的影响。来自临床前模型、观察队列和临床试验的证据引起了人们的兴趣，但结果仍然好坏参半。一个核心挑战是确定潜在的认知影响是否来自对神经回路的直接作用、改善心脏代谢健康的间接后果，或两者兼而有之。本综述审查了心脏代谢疾病、衰老和阿尔茨海默氏病的证据，重点关注基于胰高血糖素样肽 1 (GLP-1) 的疗法以及涉及葡萄糖依赖性促胰岛素多肽、胰高血糖素和胰岛淀粉样多肽途径的组合方法。我们评估受体药理学、大脑暴露、代谢背景和疾病阶段如何影响认知结果，并讨论机制清晰度如何指导旨在保持或改善认知的治疗。
-
-英文摘要：Pharmacotherapies for obesity and type 2 diabetes are increasingly being evaluated for their effects on cognition and brain health. Evidence from preclinical models, observational cohorts, and clinical trials has intensified interest, but findings remain mixed. A central challenge is to determine whether potential cognitive effects arise from direct actions on neural circuits, indirect consequences of improved cardiometabolic health, or both. This Review examines the evidence across cardiometabolic disease, aging, and Alzheimer's disease, focusing on glucagon-like peptide-1 (GLP-1)-based therapies and combination approaches that engage glucose-dependent insulinotropic polypeptide, glucagon, and amylin pathways. We assess how receptor pharmacology, brain exposure, metabolic context, and disease stage shape cognitive outcomes and discuss how mechanistic clarity could guide therapies aimed at preserving or improving cognition.
 
 # 全球热点话题｜学术界值得关注
 
@@ -371,7 +371,26 @@
 
 英文摘要：Aims: To evaluate postoperative C-reactive protein (CRP) for ruling out anastomotic leakage (AL) after digestive resection in a cohort including several anastomotic sites.Patients & methods: Prospective single-centre diagnostic accuracy study (STARD 2015) of 82 consecutive patients with an unprotected digestive anastomosis (January 2024-August 2025). CRP was measured on postoperative days (POD) 1, 3 and 5. No analysis was formally prespecified. The primary analysis excluded leaks diagnosed on or before POD 5; a strict analysis also excluded four leaks with an undated diagnosis.Results: AL occurred in 12 patients (14.6%). CRP discriminated on POD 3 (area under the curve [AUC] 0.83; 95% CI: 0.71-0.95) and POD 5 (AUC 0.88; 0.78-0.98) but not on POD 1 in the 71 patients with an available value (AUC 0.59). In the primary pre-diagnosis analysis (79 patients, 9 leaks), an exploratory, data-derived POD 5 cutoff of 127 mg/L had a sensitivity of 77.8% (40.0-97.2) and a negative predictive value of 96.4% (87.7-99.6); in the strict analysis (75 patients, 5 leaks), sensitivity was 80.0% and NPV 98.2%. In the full cohort, sensitivity was 83.3% (apparent) and 76.5% (optimism-corrected). Both false negatives followed gastric resection.Conclusion: A low POD 5 CRP makes AL unlikely, particularly after non-gastric resection, but these data-derived thresholds are exploratory, do not support any change in discharge practice and require external validation. After an operation in which part of the digestive tract is removed and the two ends are joined, the join can leak. A leak is dangerous, but in its first days it is hard to tell apart from normal recovery. We studied a simple blood test, C-reactive protein (CRP), which rises with inflammation, by following 82 patients operated on in one Tunisian hospital between January 2024 and August 2025; 12 developed a leak. On the day after surgery, CRP was high in everyone. By the fifth day, it had fallen in most patients who healed well but stayed high in most of those who leaked. A low value on day 5 made a leak unlikely, especially after bowel surgery, but was less reliable after stomach surgery. Because the study was small and the cutoff values were calculated from the same patients, they must be confirmed in larger studies; on their own, these results do not support any change in when patients go home or whether a scan is performed. The test should always be combined with the doctor’s examination.
 
-## 2. 延长的 DNA 损伤诱导的 G2/M 期停滞会通过 securin 的积累导致异常的有丝分裂。
+## 2. PIKfyve 抑制通过磷脂酰肌醇 3-磷酸和 CASM 诱导 LRRK2 激活。
+
+- 英文题目：PIKfyve inhibition induces LRRK2 activation through phosphatidylinositol 3-phosphate and CASM.
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Life science alliance
+- 影响因子：2.9
+- 分区：JCR Q2 / CAS 3区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2027-01-01
+- 分数：57
+- PMID：42994990
+- DOI：10.26508/lsa.202603939
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42994990/
+
+中文摘要：LRRK2 是一种帕金森病相关激酶，可磷酸化 Rab GTP 酶。 LRRK2 的过度激活（被认为会导致帕金森病）通过 ATG8 与单膜 (CASM) 和 Rab 的结合而发生在受压的内溶酶体膜上，而特定膜脂的参与仍不清楚。在这里，我们发现抑制代谢磷脂酰肌醇 3-磷酸 (PI3P) 的 PIKfyve 会诱导 LRRK2 过度激活，而额外抑制产生 PI3P 的 III 类磷酸肌醇 3-激酶会抑制 LRRK2 过度激活。当 LRRK2 被激活时，细胞 PI3P 水平确实升高。磷酸肌醇 3-激酶抑制剂抑制 CASM 诱导的 LRRK2 激活，但不抑制 CASM 本身，而抑制 CASM 或 Rab12/Rab29 则抑制 PIKfyve 抑制剂诱导的 LRRK2 激活。 LRRK2 和磷酸化 Rab10 与 PI3P 共定位于 LAMP1 阳性扩大的液泡上，并且 LRRK2 在体外通过其 N 端带正电荷的氨基酸直接结合 PI3P。我们共同提出了 LRRK2 过度激活的更新机制，该机制同时需要 CASM、Rab 和富含 PI3P 的膜。
+
+英文摘要：LRRK2 is a Parkinson's disease-associated kinase that phosphorylates Rab GTPases. Hyperactivation of LRRK2, which is thought to cause Parkinson's disease, occurs on stressed endolysosomal membranes via conjugation of ATG8 to single membranes (CASM) and Rab, whereas the involvement of specific membrane lipids remained unclear. Here, we found that the inhibition of PIKfyve that metabolizes phosphatidylinositol 3-phosphate (PI3P) induces hyperactivation of LRRK2 and that additional inhibition of the class III phosphoinositide 3-kinase that generates PI3P suppressed LRRK2 hyperactivation. Cellular PI3P levels were indeed elevated when LRRK2 was activated. CASM-induced activation of LRRK2, but not CASM itself, was suppressed by phosphoinositide 3-kinase inhibitors, whereas inhibition of CASM or Rab12/Rab29 suppressed LRRK2 activation induced by PIKfyve inhibitors. LRRK2 and phospho-Rab10 were colocalized with PI3P on LAMP1-positive enlarged vacuoles, and LRRK2 directly bound PI3P in vitro via its N-terminal positively charged amino acids. Together, we propose an updated mechanism of LRRK2 hyperactivation that simultaneously requires CASM, Rab, and PI3P-rich membranes.
+
+## 3. 延长的 DNA 损伤诱导的 G2/M 期停滞会通过 securin 的积累导致异常的有丝分裂。
 
 - 英文题目：Extended DNA damage-induced G2/M arrests lead to aberrant mitoses through accumulation of securin.
 - 主题：全球学术热点
@@ -390,7 +409,7 @@
 
 英文摘要：The stochastic nature of DNA damage dictates various scenarios of stress survival among different cells. We used time-lapse microscopy to perform single-cell level analyses of yeast populations with double-stranded DNA breaks and nonfunctional telomeres. Activation of the DNA damage signalling resulted in a broad distribution in the duration of G2/M arrests. Strikingly, the longer arrests correlated with aberrant mitoses caused by miscoordination of nuclear division and cytokinesis, leading to cell death. Chk1-dependent phosphorylation of Pds1 (securin), an inhibitor of sister chromatid separation in mitosis, was responsible for this phenomenon. Securin progressively accumulated during G2/M arrests, leading to grossly delayed or missed nuclear divisions. This phenotype could be suppressed by slowing down the progression of mitotic exit via LTE1 deletion or by lowering securin levels. Our results demonstrate that in cells taking too long to complete DNA repair, the DNA damage checkpoint promotes aberrant mitoses and cell death, thereby eliminating cells with a higher chance of genomic instability.
 
-## 3. 致编辑的信，“灾后门诊诊所的治疗中止：日本福岛创伤后应激障碍和复杂创伤后应激障碍的回顾性队列研究”。
+## 4. 致编辑的信，“灾后门诊诊所的治疗中止：日本福岛创伤后应激障碍和复杂创伤后应激障碍的回顾性队列研究”。
 
 - 英文题目：Letter to the Editor, "Treatment discontinuation in a post-disaster outpatient clinic: A retrospective cohort study of post-traumatic stress disorder and complex post-traumatic stress disorder in Fukushima, Japan".
 - 主题：全球学术热点
@@ -409,7 +428,7 @@
 
 英文摘要：暂无摘要
 
-## 4. 癫痫基因治疗：来自
+## 5. 癫痫基因治疗：来自
 
 - 英文题目：Gene therapy for epilepsy: From
 - 主题：全球学术热点
@@ -428,7 +447,7 @@
 
 英文摘要：Genetic epilepsy, for which the molecular mechanisms are relatively well defined in numerous monogenic forms, represents an attractive model for the transition from symptomatic seizure control to mechanism‑driven correction. However, gene therapy strategies differ in their mechanisms of action, adaptability to specific mutations and translational maturity, making rational selection of interventions based on variant‑specific functional consequences an important clinical challenge. The present review examined five nucleic acid‑based therapeutic strategies, namely gene supplementation, enhancement of endogenous gene expression, gene silencing, DNA editing and RNA editing, for major causative genes, using mutation‑specific functional consequences [loss‑of‑function (LOF) vs. gain‑of‑function] as the primary framework for therapeutic decision‑making. The mechanisms and suitability of each approach are analysed, and their performance in terms of cell‑type specificity, delivery vectors and safety is evaluated by integrating evidence from animal models, induced pluripotent stem cell‑derived neurons and organoids and clinical trials. The present review also summarised key translational barriers, including vector cargo constraints, blood‑brain barrier penetration, off‑target and immune‑associated risks, therapeutic dosing windows and the timing of developmental intervention. Antisense oligonucleotides and regulatory adeno‑associated viral approaches, supported by mature delivery platforms and manageable safety profiles, have progressed furthest towards clinical validation. Endogenous gene activation strategies, such as CRISPR activation, offer a gene replacement‑free approach for LOF disorders but remain preclinical. DNA and RNA editing, while potentially capable of durable disease modification, require further evidence on delivery efficiency and long‑term homeostatic safety. Gene therapy for genetic epilepsy is undergoing a key transition from proof‑of‑concept studies to individualised clinical application. Future progress will depend on integrating personalised intervention design, multi‑target therapeutic combinations, artificial intelligence‑assisted sequence optimisation and standardised translational models, with the potential to drive a paradigm shift from seizure suppression to mechanistic correction.
 
-## 5. 血液系统疾病中疾病特异性肠道微生物群-代谢物-免疫网络：机制、因果支持和转化策略。
+## 6. 血液系统疾病中疾病特异性肠道微生物群-代谢物-免疫网络：机制、因果支持和转化策略。
 
 - 英文题目：Disease-specific gut microbiota-metabolite-immune networks in hematologic disorders: mechanisms, causal support, and translational strategies.
 - 主题：全球学术热点
@@ -447,7 +466,7 @@
 
 英文摘要：The gut microbiota is increasingly recognized as a systemic regulator of host immunity, host metabolism, epithelial barrier integrity, and distal tissue homeostasis. Hematologic disorders provide an important setting in which these host-microbe interactions converge on immune remodeling, marrow-niche function, hematopoietic recovery, treatment response, and transplant-related complications. This narrative review synthesizes mechanistic, clinical, and translational evidence linking gut microbial dysbiosis to benign and malignant hematologic diseases, clonal and premalignant states, and hematopoietic stem cell transplantation (HSCT)-related outcomes. Rather than treating microbiome associations as a single evidence category, we distinguish five complementary evidence strata: Mendelian randomization, experimental models, prospective human cohorts, randomized human interventions, and cross-sectional studies. These study designs address different causal questions and are interpreted as complementary rather than as a single linear hierarchy. We also separate microbial composition from microbial function: taxon-level enrichment or depletion is treated primarily as context-dependent and hypothesis-generating, whereas conserved functional pathways-including short-chain fatty acids, bile-acid transformation, tryptophan metabolism, microbial translocation and barrier dysfunction, and innate immune activation-provide the principal cross-disease mechanistic framework. We integrate disease-specific microbial features, functional mediators, immune and marrow consequences, and clinical outcomes into an author-constructed evidence map, while explicitly addressing bidirectionality, reverse causality, and translational readiness. Emerging applications include microbiota-based biomarkers, treatment-response prediction, fecal microbiota transplantation, probiotics and postbiotics, antibiotic stewardship, and microbiota-dependent modulation of drug metabolism.
 
-## 6. 进行阻力训练的男性在阻力训练期间与同时训练期间对高蛋白饮食的探索性血清肾脏生物标志物和 eGFR 反应。
+## 7. 进行阻力训练的男性在阻力训练期间与同时训练期间对高蛋白饮食的探索性血清肾脏生物标志物和 eGFR 反应。
 
 - 英文题目：Exploratory serum renal biomarker and eGFR responses to high-protein diets during resistance versus concurrent training in resistance-trained men.
 - 主题：全球学术热点
@@ -466,7 +485,7 @@
 
 英文摘要：BACKGROUND: High protein intake is common among resistance-trained athletes, but its association with renal biomarkers across different exercise modalities remains uncertain. This study investigated whether consuming a high-protein diet (3.2 g·kg⁻¹·d⁻¹) during 16 weeks of resistance training (RT) or concurrent training (CT) affects renal biomarkers and estimated glomerular filtration rate (eGFR) in resistance-trained men. METHODS: Forty-eight resistance-trained men (26 ± 6 years; BMI 25.6 ± 2.9 kg·m⁻²) were randomized to 16 weeks of RT or CT (4 sessions·wk⁻¹) while consuming either 1.6 or 3.2 g·kg⁻¹·d⁻¹ of protein in a 2 × 2 factorial design. Forty-four participants with complete pre- and post-intervention data were analyzed. Fasting blood samples were assessed for blood urea nitrogen (BUN), BUN/creatinine ratio, cystatin C, and eGFR calculated using the CKD-EPI creatinine (2021), cystatin C (2012), and creatinine-cystatin C (2021) equations. Within-group changes were evaluated using paired t-tests, and factorial effects were assessed using linear mixed-effects models (Time × Training × Protein). RESULTS: No statistically significant Time × Protein or Time × Training × Protein interactions were detected for any renal biomarker or eGFR estimate (all p ≥ 0.182). No significant within-group changes occurred in the 1.6 g·kg⁻¹·d⁻¹ groups (all p > 0.05). In both 3.2 g·kg⁻¹·d⁻¹ groups, BUN and cystatin C increased (all p ≤ 0.017), while eGFR estimates decreased (all p ≤ 0.009). The BUN/creatinine ratio remained unchanged (p ≥ 0.614). However, these within-group findings were descriptive because the corresponding interaction effects were not statistically significant. CONCLUSIONS: In resistance-trained men, 16 weeks of high protein intake did not produce statistically detectable differences in renal biomarker or eGFR changes compared with moderate protein intake, irrespective of training modality. Although modest increases in BUN and cystatin C and small decreases in eGFR estimates were observed within the high-protein groups, these findings were not supported by significant factorial interactions. The limited sample size precludes excluding clinically meaningful differences, warranting further investigation in larger studies.
 
-## 7. 适应性激酶信号传导能够逃避胶质母细胞瘤中的小分子抑制。
+## 8. 适应性激酶信号传导能够逃避胶质母细胞瘤中的小分子抑制。
 
 - 英文题目：Adaptive kinase signaling enables escape from small molecule inhibition in glioblastoma.
 - 主题：全球学术热点
@@ -485,28 +504,28 @@
 
 英文摘要：OBJECTIVE: Patients with glioblastoma (GB) have a median survival of 15 months, despite intensive treatment with surgical resection, radiotherapy, and chemotherapy. A major challenge in overcoming treatment resistance is intratumoral heterogeneity, characterized by molecular, phenotypic, and clinical diversity. Small-molecule inhibitors (SMIs) target specific oncogenic signaling pathways and have become successful therapies in several molecularly defined cancers. In GB, however, SMIs have thus far failed to substantially improve patient outcomes. Here, we used a primary patient-derived glioblastoma organoid (PGO) platform to investigate adaptive bypass signaling mechanisms that drive resistance to targeted therapy. METHODS: Six primary PGOs were treated with nine FDA-approved SMIs selected for their blood-brain barrier permeability and ability to target key GB driver genes. Drug sensitivity was assessed by cell viability measurements and IC₅₀ determination. To identify compensatory signaling mechanisms, kinase activity profiling was performed following monotherapy treatment. RESULTS: Although inhibition of downstream effector proteins reduced cell viability more effectively (IC₅₀: 70 nM-1 μM) than inhibition of upstream receptor tyrosine kinases (IC₅₀: 1-15 μM), residual proliferation persisted in all PGOs. Kinase profiling revealed compensatory pathway activation following monotherapy, enabling the identification of effective SMI combinations. The most prominent combination targeted glycogen synthase kinase-3 (GSK-3) and mitogen-activated protein kinase kinase (MEK) using CHIR99021 and trametinib, respectively. CONCLUSION: These findings demonstrate that adaptive bypass signaling limits single-agent SMI efficacy in GB. PGO-based kinase profiling enables the identification of resistance mechanisms and rational combination therapies, supporting its application in personalized treatment development.
 
-## 8. 经桡动脉冠状动脉手术后压力引导气动径向压缩和桡动脉闭塞：一项回顾性历史队列研究。
-
-- 英文题目：Pressure-guided pneumatic radial compression and radial artery occlusion after transradial coronary procedures: a retrospective historical cohort study.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：Scandinavian cardiovascular journal : SCJ
-- 影响因子：1.0
-- 分区：JCR Q4 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2027-12-01
-- 分数：45
-- PMID：42924917
-- DOI：10.1080/14017431.2026.2753379
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/42924917/
-
-中文摘要：目的：评估压力测量气动径向压缩方案及其与经桡动脉冠状动脉手术后桡动脉闭塞（RAO）的关系。设计：这个单中心回顾性历史队列包括 2025 年 2 月至 12 月期间接受治疗的 514 名连续患者。对照组接受常规螺钉式加压和临床指导分阶段调整（n = 260），而观察组接受气动加压并进行定量压力测量和个体化分阶段调整（n = 254）。主要结局为 24 小时 RAO； 7 天时的 RAO 和其他临床结果是次要结果。结果：观察组在24小时[2.8%（7/254）比7.7%（20/260），p=0.012]和7天[2.0%（5/254）比5.4%（14/260），p=0.040]观察到的RAO率低于对照组。 Firth 惩罚逻辑回归后，该方案仍然与 24 小时时 RAO 的较低几率相关（调整后 OR = 0.358，95% CI：0.143-0.809；p = 0.013）。观察组在 6 小时和 24 小时时的疼痛评分较低（均 p < 0.001），在 2、4 和 24 小时时的数字 SpO2 值较高（均 p < 0.001），初次止血成功率较高 [97.2% vs. 93.5%，p = 0.042]，并且穿刺部位渗液的患者较少 [2.8% vs. 6.9%，p = 0.028] 或至少一种局部并发症 [11.4% vs. 28.1%，p < 0.001]。结论：与传统螺钉式加压相比，压力引导气动加压可观察到较低的 RAO 发生率以及更有利的止血和局部结果。研究登记：本研究为回顾性队列研究，不涉及前瞻性干预；因此，不需要进行临床试验注册。
-
-英文摘要：OBJECTIVES: To evaluate a pressure-measured pneumatic radial compression protocol and its association with radial artery occlusion (RAO) after transradial coronary procedures. DESIGN: This single-center retrospective historical cohort included 514 consecutive patients treated between February and December 2025. The control group received conventional screw-type compression with clinically guided staged adjustment (n = 260), whereas the observation group received pneumatic compression with quantitative pressure measurement and individualized staged adjustment (n = 254). The primary outcome was RAO at 24 h; RAO at 7 days and other clinical outcomes were secondary outcomes. RESULTS: The observation group had lower observed RAO rates than the control group at 24 h [2.8% (7/254) vs. 7.7% (20/260), p = 0.012] and 7 days [2.0% (5/254) vs. 5.4% (14/260), p = 0.040]. After Firth penalized logistic regression, the protocol remained associated with lower odds of RAO at 24 h (adjusted OR = 0.358, 95% CI: 0.143-0.809; p = 0.013). The observation group also had lower pain scores at 6 and 24 h (both p < 0.001), higher digital SpO2 values at 2, 4, and 24 h (all p < 0.001), higher primary hemostatic success [97.2% vs. 93.5%, p = 0.042], and fewer patients with puncture-site oozing [2.8% vs. 6.9%, p = 0.028] or at least one local complication [11.4% vs. 28.1%, p < 0.001]. CONCLUSIONS: Pressure-guided pneumatic compression was associated with lower observed RAO rates and more favorable hemostatic and local outcomes than conventional screw-type compression. STUDY REGISTRATION: This study was a retrospective cohort study and did not involve a prospective intervention; therefore, clinical trial registration was not required.
-
 # 国内外医学与医药新闻
 
-## 1. 胶质母细胞瘤的混乱遵循可预测的规则
+## 1. 西兰花中隐藏的化合物可以帮助对抗毁灭性的遗传病
+
+- 英文题目：A compound hidden in broccoli could help fight a devastating genetic disease
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Fri, 06 No
+- 分数：48
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/11/261104012259.htm
+
+中文摘要：西兰花中天然存在的一种化合物可以通过增强一种重要的蛋白质并保护神经细胞来帮助对抗弗里德赖希共济失调，这是一种破坏性的遗传性疾病，会逐渐损害神经系统。科学家们希望这一发现能够带来一种负担得起的治疗方法，尽管仍需要临床试验来确定其对患者的有效性。
+
+英文摘要：A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists hope the discovery could lead to an affordable treatment, although clinical trials are still needed to establish its effectiveness in patients.
+
+## 2. 胶质母细胞瘤的混乱遵循可预测的规则
 
 - 英文题目：Glioblastoma’s Chaos Follows Predictable Rules
 - 主题：国内外医学与医药新闻
@@ -525,7 +544,7 @@
 
 英文摘要：<a href="https://neurosciencenews.com/glioblastomas-cellular-plasticity-cancer-32383/" rel="nofollow" title="Glioblastoma’s Chaos Follows Predictable Rules"><img alt="This shows a brain." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/11/glioblastoma-cancer-cell-movement-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Is glioblastoma's deadly chaos actually predictable? Researchers analyzed over one million tumor cells to uncover the hidden rules governing brain cancer plasticity, using AI to identify molecular switches that reprogram malignant cells into harmless states.
 
-## 2. 科学家利用声波对致命脑癌进行新的攻击
+## 3. 科学家利用声波对致命脑癌进行新的攻击
 
 - 英文题目：Scientists use sound waves to deliver a new attack on deadly brain cancer
 - 主题：国内外医学与医药新闻
@@ -543,25 +562,6 @@
 中文摘要：弗吉尼亚大学的科学家们开发出了一种有前景的新策略来对抗胶质母细胞瘤，胶质母细胞瘤是最致命、最难治疗的脑癌之一。他们的实验方法结合了聚焦超声波、微小纳米粒子和称为 microRNA 的遗传分子，同时攻击多个癌症驱动基因。
 
 英文摘要：Scientists at the University of Virginia have developed a promising new strategy to fight glioblastoma, one of the deadliest and most difficult-to-treat forms of brain cancer. Their experimental approach combines focused ultrasound, tiny nanoparticles, and genetic molecules called microRNAs to attack multiple cancer-driving genes simultaneously.
-
-## 3. 即使您的数字看起来正常，您的血压也可能很危险
-
-- 英文题目：Your blood pressure could be dangerous even when your numbers look normal
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Mind Brain
-- 期刊/平台：ScienceDaily Mind Brain
-- 影响因子：10+
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：内置参考表
-- 日期：Wed, 28 Oc
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/10/261027063814.htm
-
-中文摘要：研究人员发现，即使平均读数正常，一小群脑细胞也能防止危险的血压波动。这一发现揭示了心血管风险的隐藏来源，并可能为保护心脏和大脑的新疗法打开大门。
-
-英文摘要：Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal. The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain.
 
 ## 4. 人工智能帮助斯坦福大学科学家发现具有惊人优势的“天然臭氧”
 
