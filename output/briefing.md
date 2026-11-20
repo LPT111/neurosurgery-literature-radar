@@ -1,6 +1,6 @@
 # 神外文献日报 V2
 
-生成时间：2026-11-19 12:31:43
+生成时间：2026-11-20 12:18:24
 核心神外文献数量：10
 全部条目数量：36
 
@@ -44,29 +44,29 @@
 
 英文摘要：Chronic neuroinflammation and oxidative stress are important contributors to Alzheimer's disease (AD). Myeloperoxidase (MPO), a key driver of oxidative inflammation released mainly by activated microglia in the neurodegenerative brain, is a potential therapeutic target to inhibit the neuroinflammatory cascade and oxidative damage in AD, but the underlying mechanisms remain unexplored, and achieving targeted brain delivery of an MPO inhibitor and minimizing systemic effects remain significant challenges. We addressed these limitations by first establishing that genetic deletion of MPO in the 5XFAD mouse model improved memory performance and reduced amyloid deposition, validating MPO as a therapeutic target. We then developed a liposome-encapsulated reactive oxygen species (ROS)-activatable MPO inhibitor (LERAMI). LERAMI uniquely combines targeted delivery with on-demand drug release, utilizing a ROS-sensitive linker to selectively release MPO inhibitors in ROS-rich regions within the AD microenvironment, minimizing off-target effects and systemic toxicity. In the 5XFAD mouse model. By reducing MPO expression and activity, LERAMI significantly improved cognitive performance, accompanied by decreased microglial activation, attenuated oxidative DNA damage, improved synaptic and neuronal density, and reduced amyloid burden. RNA sequencing revealed a robust hippocampal transcriptomic reprogramming, with upregulation of pathways critical for synaptic plasticity, calcium signaling, axon guidance, and neuroprotection, along with downregulation of inflammatory and immune response pathways. These findings demonstrate that targeted ROS-activatable MPO inhibition with LERAMI represents a promising therapeutic strategy for AD and potentially other neuroinflammatory diseases, offering a unique approach to mitigate neuroinflammation, preserve synaptic integrity, and restore cognitive function.
 
-## 3. 论文标题：Investigating the Therapeutic Potential of MSC-EVs in Neonatal HIE.
+## 3. 论文标题：该内容涉及干细胞。原文：A study on olfactory mucosa-derived stem cells for ischemic stroke is registered in Hainan.
 
-- 英文题目：Investigating the Therapeutic Potential of MSC-EVs in Neonatal HIE.
+- 英文题目：A study on olfactory mucosa-derived stem cells for ischemic stroke is registered in Hainan.
 - 主题：创伤性脑损伤
 - 来源：PubMed
-- 期刊/平台：Current stem cell research & therapy
-- 影响因子：2.2
-- 分区：JCR Q4 / CAS 4区
+- 期刊/平台：Bioscience trends
+- 影响因子：5.0
+- 分区：JCR Q1 / CAS 3区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-11-17
+- 日期：2026-11-18
 - 分数：85
-- PMID：43048820
-- DOI：10.2174/011574888X498122261113115058
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43048820/
+- PMID：43051882
+- DOI：10.5582/bst.2026.01294
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43051882/
 
-中文摘要：摘要要点：该内容涉及脑损伤、神经炎症、细胞外囊泡、干细胞、间充质干细胞、炎症。原文：Perinatal hypoxic-ischemic encephalopathy (HIE) is a severe brain injury in newborns and could cause long-term neurological developmental disorders. Mesenchymal stem cell-derived extracellular vesicles (MSC-EVs) are increasingly regarded as an effective cell-free therapeutic approach due to their low immunogenicity, natural ability to cross the blood-brain barrier, and engineerable properties. This review indicates that MSC-EVs can achieve better therapeutic effects by specifically regulating the immune response and promoting repair at different stages of neuroinflammation. It systematically summarizes engineering optimization strategies to enhance the therapeutic effect of MSC-EVs, including reprogramming EV components via hypoxia or drug pretreatment and improving EV biological activity and tissue bioavailability through 3D culture combined with biomaterial delivery systems. Additionally, it analyzes the efficacy, advantages, and limitations of different administration routes for the treatment of cerebral ischemia-hypoxia diseases. Finally, it discusses the limitations of MSC-EVs in the treatment of HIE and future research directions, providing a comprehensive theoretical basis for the clinical translation of MSC-EVs as a targeted treatment for neonatal HIE.
+中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、干细胞、间充质干细胞、铁死亡、炎症。原文：On November 4, 2026, China announced that a study on autologous olfactory mucosa-derived mesenchymal stem cells for ischemic stroke was registered in Hainan. Initiated by Hainan Susheng Biotechnology Co., Ltd., the project lists Haikou People's Hospital as its clinical research institution. Olfactory mucosa-derived cells provide a distinct source for investigating immunomodulation and neural repair. A 2025 study of hypoxia-preconditioned cells reported reduced microglial ferroptosis and neuroinflammation and improved neurological outcomes in experimental stroke models. These findings provide a preclinical rationale; the registered product's preparation and its effects in humans need to be clinically evaluated. For Hainan, the project links local scientific work with collaboration between a biotechnology enterprise and a hospital. Its contribution will depend on appropriate patient selection, credible study design, meaningful functional outcomes, reproducible cell manufacture, and long-term safety monitoring. Transparent reporting can make this experience informative for future stroke research and the development of regulated regenerative medicine.
 
-英文摘要：Perinatal hypoxic-ischemic encephalopathy (HIE) is a severe brain injury in newborns and could cause long-term neurological developmental disorders. Mesenchymal stem cell-derived extracellular vesicles (MSC-EVs) are increasingly regarded as an effective cell-free therapeutic approach due to their low immunogenicity, natural ability to cross the blood-brain barrier, and engineerable properties. This review indicates that MSC-EVs can achieve better therapeutic effects by specifically regulating the immune response and promoting repair at different stages of neuroinflammation. It systematically summarizes engineering optimization strategies to enhance the therapeutic effect of MSC-EVs, including reprogramming EV components via hypoxia or drug pretreatment and improving EV biological activity and tissue bioavailability through 3D culture combined with biomaterial delivery systems. Additionally, it analyzes the efficacy, advantages, and limitations of different administration routes for the treatment of cerebral ischemia-hypoxia diseases. Finally, it discusses the limitations of MSC-EVs in the treatment of HIE and future research directions, providing a comprehensive theoretical basis for the clinical translation of MSC-EVs as a targeted treatment for neonatal HIE.
+英文摘要：On November 4, 2026, China announced that a study on autologous olfactory mucosa-derived mesenchymal stem cells for ischemic stroke was registered in Hainan. Initiated by Hainan Susheng Biotechnology Co., Ltd., the project lists Haikou People's Hospital as its clinical research institution. Olfactory mucosa-derived cells provide a distinct source for investigating immunomodulation and neural repair. A 2025 study of hypoxia-preconditioned cells reported reduced microglial ferroptosis and neuroinflammation and improved neurological outcomes in experimental stroke models. These findings provide a preclinical rationale; the registered product's preparation and its effects in humans need to be clinically evaluated. For Hainan, the project links local scientific work with collaboration between a biotechnology enterprise and a hospital. Its contribution will depend on appropriate patient selection, credible study design, meaningful functional outcomes, reproducible cell manufacture, and long-term safety monitoring. Transparent reporting can make this experience informative for future stroke research and the development of regulated regenerative medicine.
 
 ## 4. 论文标题：该内容涉及小胶质细胞。原文：Integrated QTL mapping and CRISPR screening in pooled iPSC-derived microglia reveals genetic drivers of neurodegenerative risk.
 
 - 英文题目：Integrated QTL mapping and CRISPR screening in pooled iPSC-derived microglia reveals genetic drivers of neurodegenerative risk.
-- 主题：干细胞与外泌体
+- 主题：小胶质细胞与 TREM2
 - 来源：PubMed
 - 期刊/平台：Nature genetics
 - 影响因子：29.0
@@ -101,100 +101,100 @@
 
 英文摘要：Brain ischemia induces robust neuroinflammation driven by microglial activation, yet whether ischemic neurons actively reprogram microglial phenotypes to limit inflammation remains elusive. Here, we identify neuronal interleukin-34 (IL-34) as a critical immunomodulatory signal that maintains microglial homeostasis after cerebral ischemia. We demonstrate that ischemic injury augments IL-34-CSF1R signaling between neurons and microglia. Neuron-specific overexpression of Il34 (Syn1-Il34tg mice) attenuated infarct volume and neurodeficits after middle cerebral artery occlusion, whereas neuronal Il34 knockdown exacerbated brain injury. Microglial depletion abolished IL-34-mediated neuroprotection, suggesting microglia as essential effectors. Single-cell RNA sequencing revealed that neuronal IL-34 preserved homeostatic microglial signatures (P2ry12, Cx3cr1, Tgfbr1), while suppressing inflammatory activities (Il1b, Tnf, Cxcl2) through upregulation of the transcription factor MEF2C. Mechanistically, IL-34 activated TGF-β signaling in microglia and inhibition of TGF-β signaling abolished the protective effects of IL-34, whereas microglia-specific Mef2c overexpression rescued neuroprotection despite TGF-β blockade. Thus, ischemic neurons deploy IL-34 to orchestrate the immunoregulatory activity of microglia via the TGF-β-MEF2C axis, representing a previously unrecognized endogenous mechanism counteracting neuroinflammation. Our study reveals neuronal IL-34 as a potential therapeutic target for ischemic stroke.
 
-## 6. 论文标题：Satellite Cells as Regulators of the Skeletal Muscle Microenvironment: Evidence Beyond Fusion.
+## 6. 论文标题：该内容涉及细胞外囊泡、干细胞。原文：Pluripotent stem cell-derived extracellular vesicles for systemic immune modulation in diabetes therapy.
 
-- 英文题目：Satellite Cells as Regulators of the Skeletal Muscle Microenvironment: Evidence Beyond Fusion.
+- 英文题目：Pluripotent stem cell-derived extracellular vesicles for systemic immune modulation in diabetes therapy.
 - 主题：干细胞与外泌体
 - 来源：PubMed
-- 期刊/平台：American journal of physiology. Cell physiology
-- 影响因子：4.7
-- 分区：JCR Q1 / CAS 3区
+- 期刊/平台：Nature nanotechnology
+- 影响因子：34.9
+- 分区：JCR Q1 / CAS 1区
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-11-18
 - 分数：75
-- PMID：43049669
-- DOI：10.1152/ajpcell.90104.2026
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43049669/
+- PMID：43052467
+- DOI：10.1038/s41565-026-02320-z
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43052467/
 
-中文摘要：摘要要点：该内容涉及细胞外囊泡、干细胞。原文：Wedged between the sarcolemma and basal lamina, satellite cells (SCs) are resident skeletal muscle stem cells responsible for regeneration following injury. SCs share this microenvironment with fibrogenic, immune, vascular, and neural cell populations. Accumulating evidence indicate that SCs do more from this position than regenerate muscle. Activated SCs participate directly in extracellular matrix (ECM) remodeling and signal to fibroblasts and fibro-adipogenic progenitors (FAPs) through miRNA-containing extracellular vesicles (EVs). SCs also reside near capillaries, where reciprocal signaling with endothelial cells stimulates angiogenesis and in return influences myofiber adaptation. SCs are also localized at the neuromuscular junction (NMJ), where they secrete proteins implicated in synaptic remodeling. During regeneration, SCs share their environment with infiltrating immune cells, and while the influence of macrophages on SCs is well established, the reciprocal direction remains comparatively unexplored. EV transport has emerged as one candidate mechanism for part of this influence, operating independently of SC-myofiber fusion. However, supporting evidence is stronger for fibroblasts and FAPs than for endothelial cells and is currently absent for NMJ, immune cells, and non-myogenic fate transitions. The consequences of losing SCs are evident in SC depletion models, where muscle develops excess collagen, blunted capillary expansion, and NMJs that regenerate poorly and degenerate prematurely with age. Whether SCs also transition to fibrogenic or adipogenic fates in aged and dystrophic muscle remains less clear. This review highlights non-canonical roles of SCs and evaluates fusion-independent communication, including SC-derived EVs, as a candidate mechanism linking SCs to the fibrogenic, immune, vascular, and neural compartments of muscle.
+中文摘要：摘要要点：该内容涉及细胞外囊泡、干细胞、间充质干细胞。原文：Embryonic development is characterized by remarkable immune tolerance, yet whether this property extends to pluripotent stem cell-derived extracellular vesicles (EVs) has remained unclear. Here we show that EVs from pluripotent stem cells (PSCs), including embryonic stem cells and induced pluripotent stem cells, outperform mesenchymal stem cell-derived EVs in suppressing proinflammatory cytokine secretion, reducing T cell activation and inducing regulatory T cells. PSC EVs display distinct molecular signatures, containing unique proteins and microRNAs absent from mesenchymal stem cell-derived EVs, including the pluripotency-associated proteins ROR1 and CD133 and members of the miR-302 family. Dynamic suspension culture of PSC aggregates enhances the EV yield, providing a scalable and reproducible source. Delivered via a biomaterial scaffold, two local injections of induced PSC EVs significantly improved diabetes-free survival in an antigen-specific type 1 diabetes model, increasing regulatory T cell populations in draining lymph nodes, as well as inducing systemic immune modulation and preserving β-cell mass. These findings establish PSC EVs as a scalable immunomodulatory platform for autoimmune disease and for immune tolerance in cell therapy.
 
-英文摘要：Wedged between the sarcolemma and basal lamina, satellite cells (SCs) are resident skeletal muscle stem cells responsible for regeneration following injury. SCs share this microenvironment with fibrogenic, immune, vascular, and neural cell populations. Accumulating evidence indicate that SCs do more from this position than regenerate muscle. Activated SCs participate directly in extracellular matrix (ECM) remodeling and signal to fibroblasts and fibro-adipogenic progenitors (FAPs) through miRNA-containing extracellular vesicles (EVs). SCs also reside near capillaries, where reciprocal signaling with endothelial cells stimulates angiogenesis and in return influences myofiber adaptation. SCs are also localized at the neuromuscular junction (NMJ), where they secrete proteins implicated in synaptic remodeling. During regeneration, SCs share their environment with infiltrating immune cells, and while the influence of macrophages on SCs is well established, the reciprocal direction remains comparatively unexplored. EV transport has emerged as one candidate mechanism for part of this influence, operating independently of SC-myofiber fusion. However, supporting evidence is stronger for fibroblasts and FAPs than for endothelial cells and is currently absent for NMJ, immune cells, and non-myogenic fate transitions. The consequences of losing SCs are evident in SC depletion models, where muscle develops excess collagen, blunted capillary expansion, and NMJs that regenerate poorly and degenerate prematurely with age. Whether SCs also transition to fibrogenic or adipogenic fates in aged and dystrophic muscle remains less clear. This review highlights non-canonical roles of SCs and evaluates fusion-independent communication, including SC-derived EVs, as a candidate mechanism linking SCs to the fibrogenic, immune, vascular, and neural compartments of muscle.
+英文摘要：Embryonic development is characterized by remarkable immune tolerance, yet whether this property extends to pluripotent stem cell-derived extracellular vesicles (EVs) has remained unclear. Here we show that EVs from pluripotent stem cells (PSCs), including embryonic stem cells and induced pluripotent stem cells, outperform mesenchymal stem cell-derived EVs in suppressing proinflammatory cytokine secretion, reducing T cell activation and inducing regulatory T cells. PSC EVs display distinct molecular signatures, containing unique proteins and microRNAs absent from mesenchymal stem cell-derived EVs, including the pluripotency-associated proteins ROR1 and CD133 and members of the miR-302 family. Dynamic suspension culture of PSC aggregates enhances the EV yield, providing a scalable and reproducible source. Delivered via a biomaterial scaffold, two local injections of induced PSC EVs significantly improved diabetes-free survival in an antigen-specific type 1 diabetes model, increasing regulatory T cell populations in draining lymph nodes, as well as inducing systemic immune modulation and preserving β-cell mass. These findings establish PSC EVs as a scalable immunomodulatory platform for autoimmune disease and for immune tolerance in cell therapy.
 
-## 7. 论文标题：Molecular basis of behavioral and cognitive changes induced by neurotropic viruses.
+## 7. 论文标题：该内容涉及神经炎症、炎症。原文：miR-665 ameliorates neuroinflammation after intracerebral hemorrhage by modulating myeloid cell polarization via targeting STAT3.
 
-- 英文题目：Molecular basis of behavioral and cognitive changes induced by neurotropic viruses.
-- 主题：小胶质细胞与 TREM2
-- 来源：PubMed
-- 期刊/平台：Brain, behavior, and immunity
-- 影响因子：7.6
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-11-17
-- 分数：75
-- PMID：43044888
-- DOI：10.1016/j.bbi.2026.107273
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43044888/
-
-中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、炎症。原文：Neurotropic viruses induce behavioral and cognitive alterations through diverse molecular and cellular mechanisms that extend beyond simple neuronal damage. Comparative analysis of rabies virus (RABV), pseudorabies virus (PRV), Borna disease virus (BoDV-1), SARS-CoV-2, Nipah virus (NiV), West Nile virus (WNV) and Herpes Simplex virus 1 (HSV-1) reveals distinct pathogenic strategies targeting specific neural circuits. While neuroinflammation characterized by microglial activation, astrocytic responses, and pro-inflammatory cytokine production contributes significantly to synaptic and network dysfunction in WNV and NiV infections, other mechanisms predominate in different pathogens. RABV selectively disrupts cholinergic, serotonergic, and glutamate/GABAergic pathways while preserving neuronal integrity to facilitate transmission, whereas BoDV-1 and SARS-CoV-2 induce dopaminergic and serotonergic dysfunctions through persistent immune activation and endothelial damage. Additionally, systemic factors such as the gut-brain axis and microbiome alterations, particularly evident in SARS-CoV-2 infection, modulate neurotransmitter metabolism and neuroimmune responses. Considering the lack of even diffuse neuronal loss observed during infection, behavioral changes may arise more from selective, circuit-dependent vulnerabilities, involving specific disruptions to emotion, cognition, and motor control networks. To provide a clear review of the knowledge regarding how targeted neuronal population alterations translate into behavioral phenotypes, we here integrate molecular, cellular, and systems-level insights across these seven neurotropic viruses used as models, with the aim of identifying common pathways linking infection to behavioral changes and cognitive dysfunction. Understanding these discrete mechanisms ranging from acute synaptic manipulation to long-lasting neuroimmune dysregulation is essential for developing therapeutic strategies that address both the infectious agent and the specific neural networks mediating acute disturbances and long-term neurological sequelae.
-
-英文摘要：Neurotropic viruses induce behavioral and cognitive alterations through diverse molecular and cellular mechanisms that extend beyond simple neuronal damage. Comparative analysis of rabies virus (RABV), pseudorabies virus (PRV), Borna disease virus (BoDV-1), SARS-CoV-2, Nipah virus (NiV), West Nile virus (WNV) and Herpes Simplex virus 1 (HSV-1) reveals distinct pathogenic strategies targeting specific neural circuits. While neuroinflammation characterized by microglial activation, astrocytic responses, and pro-inflammatory cytokine production contributes significantly to synaptic and network dysfunction in WNV and NiV infections, other mechanisms predominate in different pathogens. RABV selectively disrupts cholinergic, serotonergic, and glutamate/GABAergic pathways while preserving neuronal integrity to facilitate transmission, whereas BoDV-1 and SARS-CoV-2 induce dopaminergic and serotonergic dysfunctions through persistent immune activation and endothelial damage. Additionally, systemic factors such as the gut-brain axis and microbiome alterations, particularly evident in SARS-CoV-2 infection, modulate neurotransmitter metabolism and neuroimmune responses. Considering the lack of even diffuse neuronal loss observed during infection, behavioral changes may arise more from selective, circuit-dependent vulnerabilities, involving specific disruptions to emotion, cognition, and motor control networks. To provide a clear review of the knowledge regarding how targeted neuronal population alterations translate into behavioral phenotypes, we here integrate molecular, cellular, and systems-level insights across these seven neurotropic viruses used as models, with the aim of identifying common pathways linking infection to behavioral changes and cognitive dysfunction. Understanding these discrete mechanisms ranging from acute synaptic manipulation to long-lasting neuroimmune dysregulation is essential for developing therapeutic strategies that address both the infectious agent and the specific neural networks mediating acute disturbances and long-term neurological sequelae.
-
-## 8. 论文标题：Dual augmentation of STMN2 and GRN delays disease progression through coordinated axonal and neuroimmune support in ALS models.
-
-- 英文题目：Dual augmentation of STMN2 and GRN delays disease progression through coordinated axonal and neuroimmune support in ALS models.
-- 主题：小胶质细胞与 TREM2
-- 来源：PubMed
-- 期刊/平台：Cell reports
-- 影响因子：6.9
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-11-17
-- 分数：75
-- PMID：43043758
-- DOI：10.1016/j.celrep.2026.118305
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43043758/
-
-中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、炎症。原文：Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder primarily driven by TAR DNA-binding protein 43 (TDP-43) proteinopathy, which triggers early axonal disintegration and disrupts central nervous system homeostasis. Current therapeutic options remain limited. To address these core pathologies, we developed a dual-gene therapeutic strategy that simultaneously restores two pivotal factors: progranulin (GRN), a multifunctional effector critical for lysosomal function and neuroinflammation regulation, and stathmin-2 (STMN2), an essential regulator of axonal integrity and regeneration whose loss is directly linked to TDP-43 pathology. In TDP-43A315T transgenic mice, this combined therapy significantly extended survival, preserved motor performance, and maintained neuromuscular integrity. In human iPSC-derived motor neurons, the dual therapy promoted axonal regeneration following injury. Mechanistically, treatment coordinately restored axonal and synaptic gene programs in motor neurons while upregulating lysosomal pathways in microglia and neuronal support genes in astrocytes, collectively rebalancing neuronal and glial function. These findings establish that dual augmentation of GRN and STMN2 represents a potential therapeutic strategy for ALS.
-
-英文摘要：Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder primarily driven by TAR DNA-binding protein 43 (TDP-43) proteinopathy, which triggers early axonal disintegration and disrupts central nervous system homeostasis. Current therapeutic options remain limited. To address these core pathologies, we developed a dual-gene therapeutic strategy that simultaneously restores two pivotal factors: progranulin (GRN), a multifunctional effector critical for lysosomal function and neuroinflammation regulation, and stathmin-2 (STMN2), an essential regulator of axonal integrity and regeneration whose loss is directly linked to TDP-43 pathology. In TDP-43A315T transgenic mice, this combined therapy significantly extended survival, preserved motor performance, and maintained neuromuscular integrity. In human iPSC-derived motor neurons, the dual therapy promoted axonal regeneration following injury. Mechanistically, treatment coordinately restored axonal and synaptic gene programs in motor neurons while upregulating lysosomal pathways in microglia and neuronal support genes in astrocytes, collectively rebalancing neuronal and glial function. These findings establish that dual augmentation of GRN and STMN2 represents a potential therapeutic strategy for ALS.
-
-## 9. 论文标题：该内容涉及创伤性脑损伤、脑损伤。原文：Metabolomics Profiling of Serum Small Extracellular Vesicle-Enriched Fractions Across Early Post-Injury Intervals Following Severe Traumatic Brain Injury.
-
-- 英文题目：Metabolomics Profiling of Serum Small Extracellular Vesicle-Enriched Fractions Across Early Post-Injury Intervals Following Severe Traumatic Brain Injury.
+- 英文题目：miR-665 ameliorates neuroinflammation after intracerebral hemorrhage by modulating myeloid cell polarization via targeting STAT3.
 - 主题：创伤性脑损伤
 - 来源：PubMed
-- 期刊/平台：ACS chemical neuroscience
-- 影响因子：3.9
-- 分区：JCR Q2 / CAS 3区
+- 期刊/平台：The International journal of neuroscience
+- 影响因子：1.5
+- 分区：JCR Q4 / CAS 4区
 - 指标来源：2025 CAS/JCR user table
-- 日期：2026-11-18
-- 分数：73
-- PMID：43046857
-- DOI：10.1021/acschemneuro.6c00634
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43046857/
+- 日期：2026-11-19
+- 分数：69
+- PMID：43023471
+- DOI：10.1080/00207454.2026.2763154
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43023471/
 
-中文摘要：摘要要点：该内容涉及创伤性脑损伤、脑损伤。原文：Severe traumatic brain injury (sTBI) induces metabolic disturbances that remain difficult to assess non-invasively. This exploratory study compared metabolomics profiles of serum small extracellular vesicle-enriched fractions from healthy controls and patients with sTBI sampled at days 1, 3, and 5 post-injury. Using high-resolution liquid chromatography-mass spectrometry (LC-MS), we identified metabolite differences associated with each sampled post-injury interval. Principal component analysis showed group-level separation between controls and the individual post-injury interval groups, with the largest separation observed in the day 1 comparison. N-Acetyl-l-aspartic acid, a canonical marker of neuronal integrity, showed lower abundance in the day 1 group relative to controls, whereas PGF2α ethanolamide showed lower abundance relative to controls in all three interval-specific comparisons. Glu-ser and tryptophan also met the differential-abundance criteria in more than one interval vs. control comparison. Ingenuity pathway analysis (IPA) linked the day 1 metabolite alterations to literature-curated neurological functions, including demyelination and neurodegeneration; however, these associations are presented as hypothesis-generating. Collectively, these findings identify serum small extracellular vesicle-enriched fraction metabolite alterations associated with sTBI for further investigation in fully longitudinal sTBI cohorts.
+中文摘要：摘要要点：该内容涉及小胶质细胞、神经炎症、炎症。原文：BACKGROUND: Microglia-mediated neuroinflammation contributes to secondary injury after intracerebral hemorrhage (ICH), but the role of miR-665 remains unclear. METHODS: An ICH rat model was established. A combination of techniques, including Neurological scoring, brain water content measurement, histology and molecular assays were employed to assess miR-665, the STAT3/NF-κB pathway, myeloid polarization and inflammation. Stereotaxic miR-665 agomir/antagomir delivery verified its function. The targeting relationship between miR-665 and STAT3 was confirmed by a dual-luciferase reporter assay. In vitro experiments were performed in Hemin-stimulated BV2 cells with miR-665 mimics/inhibitor, followed by flow cytometry detection of cell polarization and inflammatory factor analysis. Rescue experiments with STAT3 overexpression were conducted both in vivo and in vitro. RESULTS: After ICH, miR-665 was downregulated andinduced excessive activation of the STAT3/NF-κB signaling axis in peri-hematomal tissue, accompanied by M1-like/pro-inflammatory myeloid cell polarization and elevated pro-inflammatory cytokines. Upregulation of miR-665 ameliorated neurological function, reduced brain edema, promoted M2-like/repair-associated polarization, and suppressed inflammation, whereas miR-665 downregulation aggravated injury. Dual-luciferase assay confirmed that miR-665 directly targets STAT3. In vitro, miR-665 overexpression inhibited STAT3 phosphorylation and further suppressed the downstream NF-κB signaling, reversing the Hemin-induced M1-like/pro-inflammatory polarization. STAT3 overexpression counteracted the protective effects of miR-665. CONCLUSION: Downregulated miR-665 after ICH exacerbates neuroinflammation by promoting M1-like/pro-inflammatory myeloid cell polarization via disinhibition of STAT3 and subsequent activation of NF-κB signaling. Upregulating miR-665 exerts neuroprotection by inhibiting STAT3 phosphorylation and facilitating M2-like/repair-associated myeloid cell polarization, highlighting the miR-665/STAT3 regulatory cascade as a promising therapeutic target for post-ICH neuroinflammation.
 
-英文摘要：Severe traumatic brain injury (sTBI) induces metabolic disturbances that remain difficult to assess non-invasively. This exploratory study compared metabolomics profiles of serum small extracellular vesicle-enriched fractions from healthy controls and patients with sTBI sampled at days 1, 3, and 5 post-injury. Using high-resolution liquid chromatography-mass spectrometry (LC-MS), we identified metabolite differences associated with each sampled post-injury interval. Principal component analysis showed group-level separation between controls and the individual post-injury interval groups, with the largest separation observed in the day 1 comparison. N-Acetyl-l-aspartic acid, a canonical marker of neuronal integrity, showed lower abundance in the day 1 group relative to controls, whereas PGF2α ethanolamide showed lower abundance relative to controls in all three interval-specific comparisons. Glu-ser and tryptophan also met the differential-abundance criteria in more than one interval vs. control comparison. Ingenuity pathway analysis (IPA) linked the day 1 metabolite alterations to literature-curated neurological functions, including demyelination and neurodegeneration; however, these associations are presented as hypothesis-generating. Collectively, these findings identify serum small extracellular vesicle-enriched fraction metabolite alterations associated with sTBI for further investigation in fully longitudinal sTBI cohorts.
+英文摘要：BACKGROUND: Microglia-mediated neuroinflammation contributes to secondary injury after intracerebral hemorrhage (ICH), but the role of miR-665 remains unclear. METHODS: An ICH rat model was established. A combination of techniques, including Neurological scoring, brain water content measurement, histology and molecular assays were employed to assess miR-665, the STAT3/NF-κB pathway, myeloid polarization and inflammation. Stereotaxic miR-665 agomir/antagomir delivery verified its function. The targeting relationship between miR-665 and STAT3 was confirmed by a dual-luciferase reporter assay. In vitro experiments were performed in Hemin-stimulated BV2 cells with miR-665 mimics/inhibitor, followed by flow cytometry detection of cell polarization and inflammatory factor analysis. Rescue experiments with STAT3 overexpression were conducted both in vivo and in vitro. RESULTS: After ICH, miR-665 was downregulated andinduced excessive activation of the STAT3/NF-κB signaling axis in peri-hematomal tissue, accompanied by M1-like/pro-inflammatory myeloid cell polarization and elevated pro-inflammatory cytokines. Upregulation of miR-665 ameliorated neurological function, reduced brain edema, promoted M2-like/repair-associated polarization, and suppressed inflammation, whereas miR-665 downregulation aggravated injury. Dual-luciferase assay confirmed that miR-665 directly targets STAT3. In vitro, miR-665 overexpression inhibited STAT3 phosphorylation and further suppressed the downstream NF-κB signaling, reversing the Hemin-induced M1-like/pro-inflammatory polarization. STAT3 overexpression counteracted the protective effects of miR-665. CONCLUSION: Downregulated miR-665 after ICH exacerbates neuroinflammation by promoting M1-like/pro-inflammatory myeloid cell polarization via disinhibition of STAT3 and subsequent activation of NF-κB signaling. Upregulating miR-665 exerts neuroprotection by inhibiting STAT3 phosphorylation and facilitating M2-like/repair-associated myeloid cell polarization, highlighting the miR-665/STAT3 regulatory cascade as a promising therapeutic target for post-ICH neuroinflammation.
 
-## 10. 论文标题：Genomic Correlates of Chemoradiation Response in Locally Advanced Cervical Cancer: Implications for Precision Oncology.
+## 8. CaSiO
 
-- 英文题目：Genomic Correlates of Chemoradiation Response in Locally Advanced Cervical Cancer: Implications for Precision Oncology.
+- 英文题目：CaSiO
 - 主题：干细胞与外泌体
 - 来源：PubMed
-- 期刊/平台：Cancer science
-- 影响因子：4.3
-- 分区：JCR Q2 / CAS 2区
+- 期刊/平台：Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+- 影响因子：14.1
+- 分区：JCR Q1 / CAS 1区
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-11-18
-- 分数：73
-- PMID：43049573
-- DOI：10.1111/cas.70601
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43049573/
+- 分数：69
+- PMID：43052223
+- DOI：10.1002/advs.78837
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43052223/
 
-中文摘要：摘要要点：该内容涉及干细胞。原文：Locally advanced cervical cancer (LACC) accounts for a major healthcare burden in low- and middle-income countries, where five-year overall survival remains below 75% despite concurrent chemoradiation therapy (CCRT) as the curative standard. Treatment response is highly variable, yet clinical management is largely uniform. This review synthesizes current evidence on the genomic correlates of CCRT in LACC, spanning alterations in PIK3CA, PTEN, TP53, KRAS, ARID1A, and APOBEC-driven mutational signatures. These pathways offer biologically coherent explanations for radioresistance, but the strength and maturity of supporting evidence vary considerably, and evidence for most markers remains prognostic rather than treatment-predictive. No single genomic marker yet supports routine clinical use, and genome-only models omit complementary contributions from the tumor microenvironment, hypoxia, cancer stem cell biology, and clinicopathological or imaging-derived parameters. We further discuss the translational gap between genomic discovery and clinical implementation, with particular attention to population representation and resource constraints in high-burden settings. Prospective, population-inclusive genomic trials are urgently needed to translate these findings into equitable precision radiotherapy for patients with LACC worldwide.
+中文摘要：摘要要点：该内容涉及细胞外囊泡、干细胞、间充质干细胞。原文：Diabetes impairs fracture healing. In diabetic mice, we found that PGC-1α expression is downregulated in bone marrow mesenchymal stem cell (BMSC). PGC-1α levels positively correlate with osteogenic capacity. Physiologically, reduced PGC-1α suppresses miR-363-3p expression; mechanistically, this further inhibits DKK3, thereby promoting β-catenin phosphorylation and degradation, which in turn inhibits osteogenesis in BMSCs. To target this pathway, we treated BMSC with calcium silicate (CaSiO3). CaSiO3 inhibited the ubiquitination-mediated degradation of PGC-1α, restoring miR-363-3p expression. It also upregulated AGO2, which facilitated the assembly of miR-363-3p into mi-RISC complexes and their loading into extracellular vesicles. We then engineered a ROS-responsive hydrogel (GelROS) to deliver these CaSiO3-engineered extracellular vesicles (EVs). In diabetic mice with femoral fractures, the hydrogel enabled sustained, on-demand release of EVs specifically at sites with high ROS levels. The released EVs, enriched with miRISC complexes, suppressed the DKK3-β-catenin axis in recipient BMSC, enhanced osteogenesis, and accelerated fracture healing. This study identifies the PGC-1α-miR-363-3p-DKK3-β-catenin axis as a key pathway in diabetic fracture healing. It also presents a novel EVs-based strategy that avoids direct CaSiO3 toxicity, offering a new translational approach for treating diabetic bone defects.
 
-英文摘要：Locally advanced cervical cancer (LACC) accounts for a major healthcare burden in low- and middle-income countries, where five-year overall survival remains below 75% despite concurrent chemoradiation therapy (CCRT) as the curative standard. Treatment response is highly variable, yet clinical management is largely uniform. This review synthesizes current evidence on the genomic correlates of CCRT in LACC, spanning alterations in PIK3CA, PTEN, TP53, KRAS, ARID1A, and APOBEC-driven mutational signatures. These pathways offer biologically coherent explanations for radioresistance, but the strength and maturity of supporting evidence vary considerably, and evidence for most markers remains prognostic rather than treatment-predictive. No single genomic marker yet supports routine clinical use, and genome-only models omit complementary contributions from the tumor microenvironment, hypoxia, cancer stem cell biology, and clinicopathological or imaging-derived parameters. We further discuss the translational gap between genomic discovery and clinical implementation, with particular attention to population representation and resource constraints in high-burden settings. Prospective, population-inclusive genomic trials are urgently needed to translate these findings into equitable precision radiotherapy for patients with LACC worldwide.
+英文摘要：Diabetes impairs fracture healing. In diabetic mice, we found that PGC-1α expression is downregulated in bone marrow mesenchymal stem cell (BMSC). PGC-1α levels positively correlate with osteogenic capacity. Physiologically, reduced PGC-1α suppresses miR-363-3p expression; mechanistically, this further inhibits DKK3, thereby promoting β-catenin phosphorylation and degradation, which in turn inhibits osteogenesis in BMSCs. To target this pathway, we treated BMSC with calcium silicate (CaSiO3). CaSiO3 inhibited the ubiquitination-mediated degradation of PGC-1α, restoring miR-363-3p expression. It also upregulated AGO2, which facilitated the assembly of miR-363-3p into mi-RISC complexes and their loading into extracellular vesicles. We then engineered a ROS-responsive hydrogel (GelROS) to deliver these CaSiO3-engineered extracellular vesicles (EVs). In diabetic mice with femoral fractures, the hydrogel enabled sustained, on-demand release of EVs specifically at sites with high ROS levels. The released EVs, enriched with miRISC complexes, suppressed the DKK3-β-catenin axis in recipient BMSC, enhanced osteogenesis, and accelerated fracture healing. This study identifies the PGC-1α-miR-363-3p-DKK3-β-catenin axis as a key pathway in diabetic fracture healing. It also presents a novel EVs-based strategy that avoids direct CaSiO3 toxicity, offering a new translational approach for treating diabetic bone defects.
+
+## 9. 论文标题：Fast-scan cyclic voltammetry for real-time serotonin dynamics in human iPSC-derived neural spheroids.
+
+- 英文题目：Fast-scan cyclic voltammetry for real-time serotonin dynamics in human iPSC-derived neural spheroids.
+- 主题：小胶质细胞与 TREM2
+- 来源：PubMed
+- 期刊/平台：Cell stem cell
+- 影响因子：20.4
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-11-18
+- 分数：69
+- PMID：43051154
+- DOI：10.1016/j.stem.2026.10.019
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43051154/
+
+中文摘要：摘要要点：该内容涉及小胶质细胞、干细胞。原文：Measuring neurotransmission in the human brain could advance our understanding of disorders, including depression. Although fast-scan cyclic voltammetry (FSCV) has provided valuable insights into neurotransmission in animal models, its application to human systems remains challenging. Here, we present an FSCV-based framework for real-time serotonin measurements in human induced pluripotent stem cell (iPSC)-derived three-dimensional (3D) neuronal cultures. We demonstrate reproducible detection of spontaneous and evoked serotonin release from 3D serotonergic spheroids and show that serotonin dynamics differ between serotonin reuptake inhibitors. We investigate how a molecular stress mediator influences serotonin signaling and antidepressant effectiveness. Finally, we extend the platform to co-cultures containing microglia-like cells to examine serotonin dynamics under inflammatory conditions. We present a translational, label-free technology to measure serotonin dynamics in real-time in human stem cell-derived models. This method studies serotonin regulation, with potential applications to drug development and the mechanistic dissection of psychiatric disorders, such as depression.
+
+英文摘要：Measuring neurotransmission in the human brain could advance our understanding of disorders, including depression. Although fast-scan cyclic voltammetry (FSCV) has provided valuable insights into neurotransmission in animal models, its application to human systems remains challenging. Here, we present an FSCV-based framework for real-time serotonin measurements in human induced pluripotent stem cell (iPSC)-derived three-dimensional (3D) neuronal cultures. We demonstrate reproducible detection of spontaneous and evoked serotonin release from 3D serotonergic spheroids and show that serotonin dynamics differ between serotonin reuptake inhibitors. We investigate how a molecular stress mediator influences serotonin signaling and antidepressant effectiveness. Finally, we extend the platform to co-cultures containing microglia-like cells to examine serotonin dynamics under inflammatory conditions. We present a translational, label-free technology to measure serotonin dynamics in real-time in human stem cell-derived models. This method studies serotonin regulation, with potential applications to drug development and the mechanistic dissection of psychiatric disorders, such as depression.
+
+## 10. 论文标题：Spheroid-laden hydrogels with dual biomimetic intra- and perispheroidal niches for enhanced bone healing.
+
+- 英文题目：Spheroid-laden hydrogels with dual biomimetic intra- and perispheroidal niches for enhanced bone healing.
+- 主题：干细胞与外泌体
+- 来源：PubMed
+- 期刊/平台：Science advances
+- 影响因子：12.5
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-11-20
+- 分数：65
+- PMID：43050547
+- DOI：10.1126/sciadv.aeh6253
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43050547/
+
+中文摘要：摘要要点：该内容涉及干细胞。原文：Stem cell spheroid-hydrogel platforms offer promise for bone defect repair, but implantation-associated oxidative stress, poor vascular ingrowth, and insufficient osteogenic cues limit their clinical translation. Here, we developed dual-NICHE (dual niche-instructive construct for bone healing and engraftment), a gelatin methacryloyl hydrogel containing human adipose-derived stem cell spheroids with spatially distinct intra-/perispheroidal niches. Within a single construct, these two niches provide complementary functions to simultaneously address the key bottlenecks in bone regeneration. The intraspheroidal niche incorporated bone morphogenetic protein-2-immobilized fibers to promote osteogenic differentiation, whereas the perispheroidal matrix contained Sr2+-tannic acid nanoparticles (NPs). Upon implantation, the NPs mitigated oxidative stress and supported vascular infiltration. Concurrently, the osteogenic cue promoted differentiation, while the NPs facilitated mineral nucleation and growth, as further supported by molecular dynamics simulations. Together, this spatial integration enhanced vascularized bone formation with a bone volume fraction of ∼13.5% using only 5208 cells per defect in a mouse calvarial model, providing a potentially translatable framework for bone regeneration.
+
+英文摘要：Stem cell spheroid-hydrogel platforms offer promise for bone defect repair, but implantation-associated oxidative stress, poor vascular ingrowth, and insufficient osteogenic cues limit their clinical translation. Here, we developed dual-NICHE (dual niche-instructive construct for bone healing and engraftment), a gelatin methacryloyl hydrogel containing human adipose-derived stem cell spheroids with spatially distinct intra-/perispheroidal niches. Within a single construct, these two niches provide complementary functions to simultaneously address the key bottlenecks in bone regeneration. The intraspheroidal niche incorporated bone morphogenetic protein-2-immobilized fibers to promote osteogenic differentiation, whereas the perispheroidal matrix contained Sr2+-tannic acid nanoparticles (NPs). Upon implantation, the NPs mitigated oxidative stress and supported vascular infiltration. Concurrently, the osteogenic cue promoted differentiation, while the NPs facilitated mineral nucleation and growth, as further supported by molecular dynamics simulations. Together, this spatial integration enhanced vascularized bone formation with a bone volume fraction of ∼13.5% using only 5208 cells per defect in a mouse calvarial model, providing a potentially translatable framework for bone regeneration.
 
 # 顶刊神经科学
 
@@ -236,7 +236,26 @@
 
 英文摘要：Adrenomedullin (ADM), a vasoactive member of the calcitonin peptide family with receptor-signalling overlap with calcitonin gene-related peptide (CGRP), has emerged as a candidate therapeutic target in migraine. Given the striking clinical parallels between migraine and persistent post-traumatic headache (PTH), we investigated whether ADM-responsive signalling contributes to migraine-like headache in adults with persistent PTH attributed to mild traumatic brain injury. We conducted a single-centre, randomised, double-blind, placebo-controlled, two-way crossover study in adults with persistent PTH and no pre-trauma history of migraine. On two experimental days separated by at least 7 days, participants received 20-minute intravenous infusions of ADM (19.9 pmol kg⁻¹ min⁻¹) and isotonic saline as the matched inactive comparator (placebo) in randomised sequence. Headache outcomes were recorded for 12 hours. The primary outcome was the within-participant incidence of experimentally induced migraine-like headache. The secondary outcome was the within-participant difference in baseline-corrected area under the curve (AUC) for headache intensity from 0 to 12 hours. Of 158 individuals assessed for eligibility, 21 were randomised, completed both periods and were analysed. Participants had a mean age of 34.3 years, 19 (90%) were female, and 18 (86%) reported a migraine-like phenotype. Migraine-like headache occurred in 17 of 21 participants (81%) after ADM and four of 21 (19%) following placebo. Fourteen participants developed migraine-like only after ADM and one only following placebo, yielding a paired absolute risk difference of 61.9 percentage points (95% CI 29.7-80.6; one-sided P < 0.001; two-sided P = 0.001). Baseline-corrected headache-intensity AUC was higher after ADM than placebo (median 1,110 [IQR 315-2205] versus 420 [-160 to 565]; P = 0.006). Median time to onset of migraine-like headache was 30 minutes after ADM and 390 minutes following placebo. Fifteen participants reported that the ADM-induced headache resembled their usual migraine-like headache episodes, and rescue medication was used by 10 participants after ADM and two after placebo. These findings identify pronounced responsiveness to ADM-linked signalling in persistent PTH and support the ADM pathway as a candidate target for mechanism-based therapeutic development, pending confirmation in independent cohorts and complementary preclinical studies.
 
-## 3. 论文标题：该内容涉及小胶质细胞。原文：Microglia mediate motor memory decay through activity-dependent phagocytosis of myelin sheaths.
+## 3. 论文标题：Hypothalamic volume and cell-type changes in ageing and Alzheimer's disease.
+
+- 英文题目：Hypothalamic volume and cell-type changes in ageing and Alzheimer's disease.
+- 主题：顶刊神经科学
+- 来源：PubMed
+- 期刊/平台：Nature
+- 影响因子：48.5
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-11-18
+- 分数：81
+- PMID：43052445
+- DOI：10.1038/s41586-026-11305-w
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43052445/
+
+中文摘要：摘要要点：该内容涉及小胶质细胞。原文：Alterations in metabolism, stress response, sleep, circadian rhythms and neuroendocrine processes are key features of ageing and neurodegeneration1,2. These fundamental processes are regulated by the hypothalamus, yet how its functionally distinct subregions and cell types change during human ageing and Alzheimer's disease (AD) remains largely unexplored. Here we present HypoAD, an atlas of the human hypothalamus in ageing and AD, including high-resolution magnetic resonance imaging from 458 individuals and single-nucleus RNA sequencing of 614,403 nuclei from young participants, patients with AD and age-matched non-dementia control participants. We show that hypothalamic subregions governing metabolism, stress and circadian rhythms are particularly vulnerable, showing notable changes in both volumes and gene expression during ageing and AD. At the molecular level, machine learning models identified the inflammatory response and regulators of circadian rhythms as key cellular predictors of AD. These signatures were reflected in specific cell types: microglia transitioned to a pro-inflammatory state, whereas inhibitory neurons within sleep-regulating and circadian-regulating hypothalamic subregions showed the most profound transcriptional alterations, including disruptions in ligand-receptor interactions and G-protein-coupled receptor signalling. HypoAD provides a high-resolution volumetric map and a transcriptomic atlas of the human hypothalamus in ageing and AD, relating lifestyle and behavioural changes to the relevant volumetric and molecular pathways. In addition, HypoAD provides a framework to investigate hypothalamic dysfunction and establishes a roadmap for targeted interventions aimed at mitigating physiological disruptions to potentially slow disease progression.
+
+英文摘要：Alterations in metabolism, stress response, sleep, circadian rhythms and neuroendocrine processes are key features of ageing and neurodegeneration1,2. These fundamental processes are regulated by the hypothalamus, yet how its functionally distinct subregions and cell types change during human ageing and Alzheimer's disease (AD) remains largely unexplored. Here we present HypoAD, an atlas of the human hypothalamus in ageing and AD, including high-resolution magnetic resonance imaging from 458 individuals and single-nucleus RNA sequencing of 614,403 nuclei from young participants, patients with AD and age-matched non-dementia control participants. We show that hypothalamic subregions governing metabolism, stress and circadian rhythms are particularly vulnerable, showing notable changes in both volumes and gene expression during ageing and AD. At the molecular level, machine learning models identified the inflammatory response and regulators of circadian rhythms as key cellular predictors of AD. These signatures were reflected in specific cell types: microglia transitioned to a pro-inflammatory state, whereas inhibitory neurons within sleep-regulating and circadian-regulating hypothalamic subregions showed the most profound transcriptional alterations, including disruptions in ligand-receptor interactions and G-protein-coupled receptor signalling. HypoAD provides a high-resolution volumetric map and a transcriptomic atlas of the human hypothalamus in ageing and AD, relating lifestyle and behavioural changes to the relevant volumetric and molecular pathways. In addition, HypoAD provides a framework to investigate hypothalamic dysfunction and establishes a roadmap for targeted interventions aimed at mitigating physiological disruptions to potentially slow disease progression.
+
+## 4. 论文标题：该内容涉及小胶质细胞。原文：Microglia mediate motor memory decay through activity-dependent phagocytosis of myelin sheaths.
 
 - 英文题目：Microglia mediate motor memory decay through activity-dependent phagocytosis of myelin sheaths.
 - 主题：顶刊神经科学
@@ -255,7 +274,7 @@
 
 英文摘要：Experience-dependent changes in myelination are important for motor learning, with newly generated oligodendrocytes contributing to the formation of new myelin. However, motor memories decay over time and the underlying mechanisms remain largely unexplored. Here we show that motor memory decay is linked to changes in memory-associated myelin sheaths resulting from microglial phagocytosis in mouse brain. Mechanistically, reduced activity of motor memory engram cells lowers oligodendrocyte expression of the 'don't eat me' signal from Cluster of differentiation 47 (CD47), facilitating microglial phagocytosis and driving myelin loss. Knockout of CD47 from motor memory-associated oligodendrocytes increased microglial phagocytosis of myelin sheaths and accelerated the decay of motor memory, whereas overexpression of CD47 showed opposite results. Moreover, microglia phagocytose myelin sheaths and synapses independently. Our findings reveal that microglial phagocytosis of motor memory-associated myelin sheaths leads to the decay of motor memory. Since various types of memory require myelination in the brain, this mechanism may contribute to the decay of other memory types.
 
-## 4. 论文标题：A cell-type-resolved proteomic atlas reveals intra- and intercellular signaling in Alzheimer's disease.
+## 5. 论文标题：A cell-type-resolved proteomic atlas reveals intra- and intercellular signaling in Alzheimer's disease.
 
 - 英文题目：A cell-type-resolved proteomic atlas reveals intra- and intercellular signaling in Alzheimer's disease.
 - 主题：顶刊神经科学
@@ -274,7 +293,7 @@
 
 英文摘要：Alzheimer's disease (AD) arises from pathological interactions among diverse brain cell types, but cell-type-specific proteomic changes remain underexplored. Here, we present deep proteomic profiling of sorted or proximity-labeled brain cells from AD mouse models (5xFAD and AppNL-G-F) at multiple ages, quantifying 13,411 proteins in microglia, astrocytes, oligodendrocyte precursor cells, and neurons, with additional spatial information. We identified 3,028 differentially abundant proteins, most of which were absent in a bulk proteomic dataset, and constructed cell-type-specific networks to define functional modules and hub proteins. Comparison with transcriptomic data revealed that ∼30% of proteomic changes are RNA discordant. Further analyses uncovered cross-cell-type signaling proteins conserved in human AD brains, such as pleiotrophin (Ptn), which is transcriptionally enriched in astrocytes but accumulates in microglia. Importantly, recombinant PTN activates human induced microglia (iMG) cells. Thus, these findings provide a comprehensive cell-type-resolved proteomic atlas of AD models, highlighting novel intra- and intercellular signaling events.
 
-## 5. 论文标题：Sex-dependent spatial organization of microgliosis tracks synaptic pathology in the demyelinated superior colliculus.
+## 6. 论文标题：Sex-dependent spatial organization of microgliosis tracks synaptic pathology in the demyelinated superior colliculus.
 
 - 英文题目：Sex-dependent spatial organization of microgliosis tracks synaptic pathology in the demyelinated superior colliculus.
 - 主题：顶刊神经科学
@@ -293,7 +312,7 @@
 
 英文摘要：Visual impairment is a common and clinically salient manifestation of Multiple Sclerosis (MS), yet pathology across visual system structures remains incompletely defined. Although the optic nerve, lateral geniculate nucleus, and visual cortex have been extensively studied, involvement of the superior colliculus (SC), a key visual processing hub, remains unclear. Here, we combined human postmortem tissue analysis with functional assessment and spatial mapping in the MS-relevant cuprizone (CPZ) mouse model to define how demyelination and secondary injury are organized within the SC. Postmortem SC tissue from donors with MS revealed myelin loss, including focal demyelinated lesions. In mice, CPZ impaired visual function and induced widespread SC demyelination without detectable neuronal loss or axonal degeneration. In male mice, although diffuse demyelination was accompanied by widespread microgliosis, atlas-based mapping uncovered a previously unrecognized spatial organization: a discrete high-microgliosis compartment with a stereotyped location and shape in every CPZ-treated mouse. This compartment did not correspond to canonical SC maps and was not explained by baseline microglial or myelin differences or by variability in local demyelination severity. Instead, high-microgliosis regions showed increased synaptic elimination, suggesting that secondary synaptic pathology may contribute to spatial organization of microgliosis beyond diffuse myelin loss alone. Prolonged CPZ exposure expanded the high-microgliosis compartment stereotypically, whereas withdrawal produced spatially ordered partial resolution with persistence of a high-microgliosis core and partial visual recovery. Former high-microgliosis territories showed partial restoration of synaptic density despite myelin recovery comparable to persistent high-microgliosis regions. In contrast, female CPZ-treated mice developed widespread SC demyelination and microgliosis without comparable compartmentalization, demonstrating sex-differential organization of microglial reactivity. Together, these findings identify the human SC as a site of demyelinating injury in MS and establish the CPZ-treated mouse SC as a sex-sensitive in vivo framework for investigating spatially patterned microglial reactivity, synaptic pathology, and incomplete resolution of microgliosis after demyelination.
 
-## 6. 论文标题：Neuroimmune transcriptional signatures across repeat expansion ataxias in the human brain.
+## 7. 论文标题：Neuroimmune transcriptional signatures across repeat expansion ataxias in the human brain.
 
 - 英文题目：Neuroimmune transcriptional signatures across repeat expansion ataxias in the human brain.
 - 主题：顶刊神经科学
@@ -312,7 +331,7 @@
 
 英文摘要：Hereditary ataxias are neurodegenerative disorders characterised by progressive cerebellar dysfunction, most commonly caused by pathogenic repeat expansions of short tandem DNA repeats. Despite shared genetic mechanisms, the downstream molecular processes leading to neurodegeneration remain incompletely understood. RNA dysregulation has been proposed as a key contributor, but transcriptome-wide changes in human brain tissue across multiple ataxia subtypes have been poorly characterised. This study aims to identify shared and disease-specific transcriptional signatures across repeat expansion ataxias. We used bulk and single nucleus RNA-sequencing (snRNAseq) to analyse post-mortem brain tissue from individuals with repeat expansion ataxias in order to gain further mechanistic insight into disease biology. We analysed paired cerebellar and frontal cortex RNA-sequencing data from post-mortem brain tissue obtained from 23 donors with ataxia and 22 age- and sex-matched controls across two brain banks (including spinocerebellar ataxia (SCA)1, SCA2, SCA6, Friedreich's ataxia (FRDA), and cases with unknown molecular diagnoses). Bulk and snRNAseq analyses were used to examine transcript usage, differential gene expression, and cell-type-specific transcriptional changes and biological pathways across disease groups. These analyses revealed extensive transcriptional alterations in ataxia cases, affecting not only the cerebellum but also the frontal cortex. Across genetic subtypes, immune and inflammatory pathways were consistently activated and were associated with transcriptional changes in non-neuronal cell populations, alongside downregulation of neuronal and synaptic processes in the cerebellum. These findings were supported by snRNAseq, which demonstrated that immune-related transcriptional changes were most prominent in non-neuronal cell populations, including microglia and astrocytes. This process was accompanied by neuronal loss and relative expansion of glial populations in the cerebellum. Shared transcriptional signatures were evident across both molecularly diagnosed and undiagnosed cases. Hereditary ataxias are associated with common activation of immune and inflammatory pathways across brain regions and genetic subtypes, with prominent involvement of non-neuronal cell types. These findings highlight immune signalling as a shared feature of disease biology and suggest that inflammatory pathways may represent potential targets for therapeutic intervention. This study provides a comprehensive transcriptomic framework for understanding mechanisms underlying repeat expansion ataxias in the human brain.
 
-## 7. 论文标题：Identification of Type 1 and Type 2 α-Synuclein-Seeds by CSF Seed Amplification Assay in Patients With Movement Disorders.
+## 8. 论文标题：Identification of Type 1 and Type 2 α-Synuclein-Seeds by CSF Seed Amplification Assay in Patients With Movement Disorders.
 
 - 英文题目：Identification of Type 1 and Type 2 α-Synuclein-Seeds by CSF Seed Amplification Assay in Patients With Movement Disorders.
 - 主题：顶刊神经科学
@@ -330,25 +349,6 @@
 中文摘要：摘要要点：该内容涉及脑积水、正常压力脑积水。原文：BACKGROUND AND OBJECTIVES: A novel α-synuclein (syn) seed amplification assay (synSAA) differentiates 2 types of syn-seeds in CSF: type1, associated with Lewy bodies (LBs), and type2, associated with glial-cytoplasmic inclusions, the hallmark of multiple system atrophy (MSA). However, syn-copathology extends beyond synucleinopathies, and copathologies are increasingly relevant. Different syn-seeds have been assessed in highly characterized research cohorts, but data assessing type and frequency in patients from routine clinical encounters are lacking. Hence, our objective was to determine frequency, type, and clinical association of different syn-seeds in CSF in a large cohort from a movement disorders (MDs) clinic. METHODS: This cross-sectional study included consecutive patients from a MD clinic between 2009 and 2025. CSF was tested with synSAA and clinical data derived from medical records. RESULTS: We recruited 1,059 patients (mean age 70.5 ± 10.5 years; 38.4% female; mean disease duration 4.0 ± 4.6 years). Syn-seeds were detected in 54.2% of patients, with type1-seeds predominating (88.5%). High synSAA positivity was observed in Parkinson disease (PD) (84.7%), dementia with LB (93.4%), MSA (84.5%), isolated REM-sleep behavior disorder (iRBD) (80.0%), and normal pressure hydrocephalus (NPH) with PD (87.0%). Undetermined hypokinetic MD showed 53.7% positivity. Moderate proportions (∼25-33%) were detected in Alzheimer disease, progressive supranuclear palsy (PSP), corticobasal syndrome, and idiopathic NPH without PD, while other neurologic disorders showed 20.9% positivity. Type2-seeds were the major seed type in MSA (79.6% of syn-seeds) and minor type in PD (6.2%), PSP (9.1%), and undetermined hypokinetic MD (13.8%). Overall, type2-seeds were present in only 2.6% of non-MSA patients. Patients with type1-seeds had worse olfaction and more hallucinations. Multivariable regression identified impaired olfaction (OR = 0.67 per point increase of identified smells out of 12, higher scores indicating better olfaction) significantly associated with type1-seeds. DISCUSSION: Our results provide reference data on syn-seed frequency in routine clinical patients, demonstra
 
 英文摘要：BACKGROUND AND OBJECTIVES: A novel α-synuclein (syn) seed amplification assay (synSAA) differentiates 2 types of syn-seeds in CSF: type1, associated with Lewy bodies (LBs), and type2, associated with glial-cytoplasmic inclusions, the hallmark of multiple system atrophy (MSA). However, syn-copathology extends beyond synucleinopathies, and copathologies are increasingly relevant. Different syn-seeds have been assessed in highly characterized research cohorts, but data assessing type and frequency in patients from routine clinical encounters are lacking. Hence, our objective was to determine frequency, type, and clinical association of different syn-seeds in CSF in a large cohort from a movement disorders (MDs) clinic. METHODS: This cross-sectional study included consecutive patients from a MD clinic between 2009 and 2025. CSF was tested with synSAA and clinical data derived from medical records. RESULTS: We recruited 1,059 patients (mean age 70.5 ± 10.5 years; 38.4% female; mean disease duration 4.0 ± 4.6 years). Syn-seeds were detected in 54.2% of patients, with type1-seeds predominating (88.5%). High synSAA positivity was observed in Parkinson disease (PD) (84.7%), dementia with LB (93.4%), MSA (84.5%), isolated REM-sleep behavior disorder (iRBD) (80.0%), and normal pressure hydrocephalus (NPH) with PD (87.0%). Undetermined hypokinetic MD showed 53.7% positivity. Moderate proportions (∼25-33%) were detected in Alzheimer disease, progressive supranuclear palsy (PSP), corticobasal syndrome, and idiopathic NPH without PD, while other neurologic disorders showed 20.9% positivity. Type2-seeds were the major seed type in MSA (79.6% of syn-seeds) and minor type in PD (6.2%), PSP (9.1%), and undetermined hypokinetic MD (13.8%). Overall, type2-seeds were present in only 2.6% of non-MSA patients. Patients with type1-seeds had worse olfaction and more hallucinations. Multivariable regression identified impaired olfaction (OR = 0.67 per point increase of identified smells out of 12, higher scores indicating better olfaction) significantly associated with type1-seeds. DISCUSSION: Our results provide reference data on syn-seed frequency in routine clinical patients, demonstrating that type1-seeds indicate common underlying syn-pathology or copathology associated with hyposmia and hallucinations. Type2-seeds are specific to MSA and detection of type2-seeds outside the clinical MSA spectrum can improve diagnosis of patients with atypical presentations because our results match neuropathologic MSA studies. In vivo identification of different seed types will improve diagnosis, clinical trial stratification, and development of targeted therapies.
-
-## 8. 论文标题：Temporal interference stimulation targeting the ventromedial prefrontal cortex enhances reward learning and improves depression scores.
-
-- 英文题目：Temporal interference stimulation targeting the ventromedial prefrontal cortex enhances reward learning and improves depression scores.
-- 主题：顶刊神经科学
-- 来源：PubMed
-- 期刊/平台：Science translational medicine
-- 影响因子：14.6
-- 分区：JCR Q1 / CAS 1区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-11-18
-- 分数：79
-- PMID：43050503
-- DOI：10.1126/scitranslmed.adz9823
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43050503/
-
-中文摘要：摘要要点：该内容涉及随机。原文：Reward learning depends on dynamic interactions within frontostriatal circuits that encode reward prediction errors (RPEs). Disruptions in these interactions contribute to neuropsychiatric disorders, yet noninvasive modulation of deep reward circuits remains challenging. Here, we identify frontostriatal neural dynamics underlying reward learning and develop a circuit-targeted neuromodulation approach based on transcranial temporal interference stimulation (tTIS). Neuroimaging and computational modeling in healthy adults revealed a bidirectional excitatory-inhibitory loop between the ventromedial prefrontal cortex (vmPFC) and ventral striatum (VS), encoding RPEs and scaling with individual learning rates. Oscillatory signatures suggested that vmPFC alpha and theta frequencies tracked RPEs, with no corresponding pattern identified for punishment processing. Alpha-frequency tTIS (10 hertz) over the vmPFC enhanced reward learning and reshaped frontostriatal connectivity, whereas theta-frequency tTIS (5 hertz) showed no effect. In a randomized trial in a cohort of 69 individuals with subclinical depression, three daily sessions of alpha-frequency tTIS alleviated subclinical depressive symptoms, with delayed benefits at 7-day follow-up. These findings provide a potential noninvasive circuit-targeted intervention for reward dysfunction and related disorders.
-
-英文摘要：Reward learning depends on dynamic interactions within frontostriatal circuits that encode reward prediction errors (RPEs). Disruptions in these interactions contribute to neuropsychiatric disorders, yet noninvasive modulation of deep reward circuits remains challenging. Here, we identify frontostriatal neural dynamics underlying reward learning and develop a circuit-targeted neuromodulation approach based on transcranial temporal interference stimulation (tTIS). Neuroimaging and computational modeling in healthy adults revealed a bidirectional excitatory-inhibitory loop between the ventromedial prefrontal cortex (vmPFC) and ventral striatum (VS), encoding RPEs and scaling with individual learning rates. Oscillatory signatures suggested that vmPFC alpha and theta frequencies tracked RPEs, with no corresponding pattern identified for punishment processing. Alpha-frequency tTIS (10 hertz) over the vmPFC enhanced reward learning and reshaped frontostriatal connectivity, whereas theta-frequency tTIS (5 hertz) showed no effect. In a randomized trial in a cohort of 69 individuals with subclinical depression, three daily sessions of alpha-frequency tTIS alleviated subclinical depressive symptoms, with delayed benefits at 7-day follow-up. These findings provide a potential noninvasive circuit-targeted intervention for reward dysfunction and related disorders.
 
 # 全球热点话题｜学术界值得关注
 
@@ -390,9 +390,9 @@
 
 英文摘要：BACKGROUND AND OBJECTIVES: A novel α-synuclein (syn) seed amplification assay (synSAA) differentiates 2 types of syn-seeds in CSF: type1, associated with Lewy bodies (LBs), and type2, associated with glial-cytoplasmic inclusions, the hallmark of multiple system atrophy (MSA). However, syn-copathology extends beyond synucleinopathies, and copathologies are increasingly relevant. Different syn-seeds have been assessed in highly characterized research cohorts, but data assessing type and frequency in patients from routine clinical encounters are lacking. Hence, our objective was to determine frequency, type, and clinical association of different syn-seeds in CSF in a large cohort from a movement disorders (MDs) clinic. METHODS: This cross-sectional study included consecutive patients from a MD clinic between 2009 and 2025. CSF was tested with synSAA and clinical data derived from medical records. RESULTS: We recruited 1,059 patients (mean age 70.5 ± 10.5 years; 38.4% female; mean disease duration 4.0 ± 4.6 years). Syn-seeds were detected in 54.2% of patients, with type1-seeds predominating (88.5%). High synSAA positivity was observed in Parkinson disease (PD) (84.7%), dementia with LB (93.4%), MSA (84.5%), isolated REM-sleep behavior disorder (iRBD) (80.0%), and normal pressure hydrocephalus (NPH) with PD (87.0%). Undetermined hypokinetic MD showed 53.7% positivity. Moderate proportions (∼25-33%) were detected in Alzheimer disease, progressive supranuclear palsy (PSP), corticobasal syndrome, and idiopathic NPH without PD, while other neurologic disorders showed 20.9% positivity. Type2-seeds were the major seed type in MSA (79.6% of syn-seeds) and minor type in PD (6.2%), PSP (9.1%), and undetermined hypokinetic MD (13.8%). Overall, type2-seeds were present in only 2.6% of non-MSA patients. Patients with type1-seeds had worse olfaction and more hallucinations. Multivariable regression identified impaired olfaction (OR = 0.67 per point increase of identified smells out of 12, higher scores indicating better olfaction) significantly associated with type1-seeds. DISCUSSION: Our results provide reference data on syn-seed frequency in routine clinical patients, demonstrating that type1-seeds indicate common underlying syn-pathology or copathology associated with hyposmia and hallucinations. Type2-seeds are specific to MSA and detection of type2-seeds outside the clinical MSA spectrum can improve diagnosis of patients with atypical presentations because our results match neuropathologic MSA studies. In vivo identification of different seed types will improve diagnosis, clinical trial stratification, and development of targeted therapies.
 
-## 3. 论文标题：Ocular Safety of GLP-1 Receptor Agonists: A Comprehensive Review.
+## 3. 论文标题：Associations Between Weight Loss and Actigraphy-Assessed Sleep Health Indicators in Adults Following Metabolic and Bariatric Surgery.
 
-- 英文题目：Ocular Safety of GLP-1 Receptor Agonists: A Comprehensive Review.
+- 英文题目：Associations Between Weight Loss and Actigraphy-Assessed Sleep Health Indicators in Adults Following Metabolic and Bariatric Surgery.
 - 主题：全球学术热点
 - 来源：PubMed
 - 期刊/平台：Obesity science & practice
@@ -401,13 +401,13 @@
 - 指标来源：2025 CAS/JCR user table
 - 日期：2026-12-01
 - 分数：65
-- PMID：43041449
-- DOI：10.1002/osp4.70205
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43041449/
+- PMID：43054354
+- DOI：10.1002/osp4.70195
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43054354/
 
-中文摘要：摘要要点：该内容涉及随机。原文：BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) provide substantial glycemic and cardiometabolic benefits, but concerns regarding diabetic retinopathy (DR) progression and nonarteritic anterior ischemic optic neuropathy (NAION) have raised questions about their ocular safety. This review critically evaluates current evidence and its clinical implications. METHODS: A structured literature search of PubMed/MEDLINE, Embase, and Scopus was conducted from inception through July 2026. Evidence from randomized trials, observational studies, meta-analyses, pharmacovigilance investigations, clinical guidelines, and regulatory documents was narratively synthesized. RESULTS: In SUSTAIN-6, semaglutide increased DR complications compared with placebo (3.0% vs. 1.8%; hazard ratio 1.76, 95% confidence interval 1.11-2.78), predominantly among patients with pre-existing retinopathy and substantial early glycemic improvement. However, subsequent trials and meta-analyses did not establish a consistent class-wide increase in retinopathy risk. Early worsening appears more closely associated with rapid glycemic reduction than with established direct retinal toxicity. Observational and pharmacovigilance studies have identified a potential association between GLP-1 RAs and NAION, although conflicting findings, limited event numbers, and residual confounding preclude definitive causal inference. CONCLUSIONS: Current evidence favors individualized ocular risk assessment and targeted ophthalmologic surveillance rather than routine avoidance of GLP-1 RAs. Patients with established retinopathy warrant particular attention during treatment initiation. Prospective studies incorporating standardized ophthalmologic outcomes are essential to clarify unresolved safety signals and optimize clinical monitoring.
+中文摘要：摘要要点：BACKGROUND: While metabolic and bariatric surgery (MBS) leads to substantial weight loss, objective multidimensional assessments of sleep health in free-living adults after surgery are limited. This study examined associations between weight loss and actigraphy-assessed sleep health indicators among adults undergoing MBS. METHODS: Data were pooled from two prospective cohort studies including 100 adults scheduled for sleeve gastrectomy or Roux-en-Y gastric bypass. Participants wore wrist-worn accelerometers for 7-10 days at baseline, 6 months, and 12 months post-surgery. Five sleep health indicators, including sleep regularity, wake-up time variability, sleep duration, sleep efficiency, and sleep timing, were derived using GGIR. Percent total weight loss (%TWL) was calculated at each follow-up. Linear mixed models assessed changes over time and associations between sleep changes and %TWL, adjusting for wear time and relevant covariates. RESULTS: Mean %TWL was 22.1 ± 6.2% at 6 months and 24.8 ± 8.8% at 12 months. No significant group-level changes in sleep indicators were observed (all p ≥ 0.20). However, greater %TWL was associated with better sleep regularity, reflected by higher Sleep Regularity Index scores (B = 0.349, p = 0.02) and lower wake-up time variability (B = -0.044, p = 0.04). Sleep duration, efficiency, and timing were not significantly associated with %TWL. At baseline, sleep duration (8.2 h/day), efficiency (86.8%), and midpoint (2:53 a.m.) were within recommended ranges, whereas Sleep Regularity Index scores were low (33.5), indicating substantial day-to-day variability in sleep timing. CONCLUSIONS: MBS did not improve overall sleep health, but greater postoperative weight loss was linked to better sleep regularity.
 
-英文摘要：BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) provide substantial glycemic and cardiometabolic benefits, but concerns regarding diabetic retinopathy (DR) progression and nonarteritic anterior ischemic optic neuropathy (NAION) have raised questions about their ocular safety. This review critically evaluates current evidence and its clinical implications. METHODS: A structured literature search of PubMed/MEDLINE, Embase, and Scopus was conducted from inception through July 2026. Evidence from randomized trials, observational studies, meta-analyses, pharmacovigilance investigations, clinical guidelines, and regulatory documents was narratively synthesized. RESULTS: In SUSTAIN-6, semaglutide increased DR complications compared with placebo (3.0% vs. 1.8%; hazard ratio 1.76, 95% confidence interval 1.11-2.78), predominantly among patients with pre-existing retinopathy and substantial early glycemic improvement. However, subsequent trials and meta-analyses did not establish a consistent class-wide increase in retinopathy risk. Early worsening appears more closely associated with rapid glycemic reduction than with established direct retinal toxicity. Observational and pharmacovigilance studies have identified a potential association between GLP-1 RAs and NAION, although conflicting findings, limited event numbers, and residual confounding preclude definitive causal inference. CONCLUSIONS: Current evidence favors individualized ocular risk assessment and targeted ophthalmologic surveillance rather than routine avoidance of GLP-1 RAs. Patients with established retinopathy warrant particular attention during treatment initiation. Prospective studies incorporating standardized ophthalmologic outcomes are essential to clarify unresolved safety signals and optimize clinical monitoring.
+英文摘要：BACKGROUND: While metabolic and bariatric surgery (MBS) leads to substantial weight loss, objective multidimensional assessments of sleep health in free-living adults after surgery are limited. This study examined associations between weight loss and actigraphy-assessed sleep health indicators among adults undergoing MBS. METHODS: Data were pooled from two prospective cohort studies including 100 adults scheduled for sleeve gastrectomy or Roux-en-Y gastric bypass. Participants wore wrist-worn accelerometers for 7-10 days at baseline, 6 months, and 12 months post-surgery. Five sleep health indicators, including sleep regularity, wake-up time variability, sleep duration, sleep efficiency, and sleep timing, were derived using GGIR. Percent total weight loss (%TWL) was calculated at each follow-up. Linear mixed models assessed changes over time and associations between sleep changes and %TWL, adjusting for wear time and relevant covariates. RESULTS: Mean %TWL was 22.1 ± 6.2% at 6 months and 24.8 ± 8.8% at 12 months. No significant group-level changes in sleep indicators were observed (all p ≥ 0.20). However, greater %TWL was associated with better sleep regularity, reflected by higher Sleep Regularity Index scores (B = 0.349, p = 0.02) and lower wake-up time variability (B = -0.044, p = 0.04). Sleep duration, efficiency, and timing were not significantly associated with %TWL. At baseline, sleep duration (8.2 h/day), efficiency (86.8%), and midpoint (2:53 a.m.) were within recommended ranges, whereas Sleep Regularity Index scores were low (33.5), indicating substantial day-to-day variability in sleep timing. CONCLUSIONS: MBS did not improve overall sleep health, but greater postoperative weight loss was linked to better sleep regularity.
 
 ## 4. 论文标题：Label-free multi-metric pipeline for reproducible clustering of single-cell RNA-seq cell types.
 
@@ -447,26 +447,7 @@
 
 英文摘要：BACKGROUND AND OBJECTIVES: Early prognostication after acute brain injury (ABI) is challenging because behavioral responsiveness may not accurately reflect preserved cognitive function. Neural responses to semantic incongruity can identify language processing despite the absence of overt behavior. We investigated whether bedside EEG could detect semantic processing in unresponsive patients with ABI and whether its presence was associated with long-term outcomes. METHODS: In this prospective 2-center cohort study, unresponsive adults with ABI admitted to neurologic intensive care units between 2022 and 2025 underwent bedside EEG during a language paradigm comparing congruent and incongruent sentence endings (e.g., "my favorite color is green/soon"). Semantic processing was defined by differential event-related responses within centroparietal channels (300-500 milliseconds) using cluster-based permutation testing with false discovery rate correction. Outcomes were assessed for recovery of consciousness and functional recovery (Glasgow Outcome Scale-Extended score ≥4) at 12 months by blinded interviewers. Diagnostic performance was evaluated using sensitivity, specificity, predictive values, accuracy, and likelihood ratios. RESULTS: Among 105 patients (mean age 58 ± 19 years; 21% women; 53% Hispanic/Latino), the most common etiologies were intracerebral hemorrhage (45%), traumatic brain injury (43%), and subarachnoid hemorrhage (10%). Withdrawal of life-sustaining therapy occurred in 31%. Semantic processing was detected in 13 patients (12%). Recovery of consciousness occurred in 77% of patients with semantic processing compared with 49% without semantic processing (odds ratio [OR] 3.5; 95% CI 0.9-13.5, p = 0.08). Functional recovery occurred in 42% with semantic processing compared with 14% without semantic processing (OR 4.5; 95% CI 1.2-16.6, p = 0.03). Semantic processing was highly specific but insensitive for predicting both recovery of consciousness (specificity 94%, sensitivity 18%) and functional recovery (specificity 92%, sensitivity 29%). After excluding patients who underwent withdrawal of life-sustaining therapy or died of non-neurologic medical complications, specificity increased to 100% for recovery of consciousness and 95% for functional recovery. DISCUSSION: EEG evidence of semantic processing can be detected in a subset of unresponsive patients with ABI during the acute phase of injury and is associated with favorable long-term outcomes. Semantic processing was a specific but insensitive biomarker of recovery, suggesting potential utility as a rule-in marker of preserved cognitive function. These findings are hypothesis-generating and require validation in larger multicenter cohorts before clinical implementation.
 
-## 6. 论文标题：该内容涉及干细胞。原文：Histopathological Subtype and Cancer Stem Cell Marker Expression in Advanced Epithelial Ovarian Cancer: A Two-Year Progression-Free Survival Study.
-
-- 英文题目：Histopathological Subtype and Cancer Stem Cell Marker Expression in Advanced Epithelial Ovarian Cancer: A Two-Year Progression-Free Survival Study.
-- 主题：全球学术热点
-- 来源：PubMed
-- 期刊/平台：World journal of oncology
-- 影响因子：2.2
-- 分区：JCR Q3 / CAS 4区
-- 指标来源：2025 CAS/JCR user table
-- 日期：2026-12-01
-- 分数：55
-- PMID：43042213
-- DOI：10.14740/wjon2802
-- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43042213/
-
-中文摘要：摘要要点：该内容涉及干细胞。原文：BACKGROUND: Late detection and significant recurrence rates make epithelial ovarian cancer (EOC) one of the deadliest gynecologic cancers. Cancer stem cells (CSCs) have been associated with chemoresistance and relapse. However, their prognostic significance remains uncertain. This study examined CSC marker expression in advanced EOC with 2-year progression-free survival (PFS) and the predictive significance of type I/type II classification in histological subtypes. METHODS: We performed an ambispective cohort study of 114 women with advanced EOC who had undergone optimal cytoreductive surgery and standard platinum-based chemotherapy. Expression of CD24, CD44, CD117, CD133, and aldehyde dehydrogenase (ALDH) was studied by immunohistochemistry. PFS was evaluated using Kaplan-Meier methods and correlations were assessed using chi-square or Fisher's exact test. The predictive value was assessed using receiver operating characteristic (ROC) analysis. Independent predictors of PFS were identified by multivariate Cox regression analysis. RESULTS: Most patients had stage III disease (60.5%) and were 40-59 years old (65.8%) significantly associated with poor survival (P < 0.001). Type II cancers had significantly worse 2-year PFS compared to type I tumors (21.3% vs. 44.8%, P = 0.008). None of the single CSC markers were significantly associated with PFS in univariate analysis (all P > 0.05) and had poor discrimination in ROC analysis. The combined assessment of CSC markers and histological classification further improved the prognostic stratification and was significantly associated with PFS (P < 0.05). In multivariate analysis, age, tumor stage, and histology type were independent predictors of PFS. CONCLUSION: Expression of CSC markers alone is not an independent predictor of 2-year PFS in advanced EOC. Its prognostic relevance is modulated by tumor histology as type I/type II provides a stronger and more consistent prognostic stratification.
-
-英文摘要：BACKGROUND: Late detection and significant recurrence rates make epithelial ovarian cancer (EOC) one of the deadliest gynecologic cancers. Cancer stem cells (CSCs) have been associated with chemoresistance and relapse. However, their prognostic significance remains uncertain. This study examined CSC marker expression in advanced EOC with 2-year progression-free survival (PFS) and the predictive significance of type I/type II classification in histological subtypes. METHODS: We performed an ambispective cohort study of 114 women with advanced EOC who had undergone optimal cytoreductive surgery and standard platinum-based chemotherapy. Expression of CD24, CD44, CD117, CD133, and aldehyde dehydrogenase (ALDH) was studied by immunohistochemistry. PFS was evaluated using Kaplan-Meier methods and correlations were assessed using chi-square or Fisher's exact test. The predictive value was assessed using receiver operating characteristic (ROC) analysis. Independent predictors of PFS were identified by multivariate Cox regression analysis. RESULTS: Most patients had stage III disease (60.5%) and were 40-59 years old (65.8%) significantly associated with poor survival (P < 0.001). Type II cancers had significantly worse 2-year PFS compared to type I tumors (21.3% vs. 44.8%, P = 0.008). None of the single CSC markers were significantly associated with PFS in univariate analysis (all P > 0.05) and had poor discrimination in ROC analysis. The combined assessment of CSC markers and histological classification further improved the prognostic stratification and was significantly associated with PFS (P < 0.05). In multivariate analysis, age, tumor stage, and histology type were independent predictors of PFS. CONCLUSION: Expression of CSC markers alone is not an independent predictor of 2-year PFS in advanced EOC. Its prognostic relevance is modulated by tumor histology as type I/type II provides a stronger and more consistent prognostic stratification.
-
-## 7. 论文标题：Glia and CED-1/MEGF10 independently drive dopamine neurodegeneration in Parkinson's disease models.
+## 6. 论文标题：Glia and CED-1/MEGF10 independently drive dopamine neurodegeneration in Parkinson's disease models.
 
 - 英文题目：Glia and CED-1/MEGF10 independently drive dopamine neurodegeneration in Parkinson's disease models.
 - 主题：全球学术热点
@@ -485,7 +466,7 @@
 
 英文摘要：Parkinson's disease (PD) is marked by progressive dopamine neuron degeneration, but the phagocytic receptors and cells that clear neuronal corpses remain ill-defined. Moreover, while other cell types like glia, epithelia, and muscle are also impacted in PD, their roles in disease progression are unclear. We report that multiple nonneuronal cell types modulate dopamine neurodegeneration in Caenorhabditis elegans. Astrocyte-like CEPsh glia respond to neuronal stress and regulate dopamine biosynthesis enzyme CAT-2/TH and transporter DAT-1/SLC6A3. They are neurotoxic by downregulating neuroprotective dopamine levels. Degenerating dopamine neurons expose phosphatidylserine (PS) via the necrotic phospholipid scramblase ANOH-1/TMEM16F and ABC transporter CED-7/ABCA1. Epithelia and muscle cells then phagocytose dopamine neuron corpses and drive neuron death and clearance via the conserved PS receptor CED-1/Draper/MEGF10. Depleting ced-1 protects against loss of dopamine neurons and associated animal behaviors in a PD model. Evolutionary conservation of the underlying components and their effects across PD models suggests that multi-organ engagement may be a shared feature of dopamine neurodegeneration in PD.
 
-## 8. 论文标题：Metabolic syndrome and Alzheimer's disease: Mechanistic links and precision prevention (Review).
+## 7. 论文标题：Metabolic syndrome and Alzheimer's disease: Mechanistic links and precision prevention (Review).
 
 - 英文题目：Metabolic syndrome and Alzheimer's disease: Mechanistic links and precision prevention (Review).
 - 主题：全球学术热点
@@ -503,6 +484,25 @@
 中文摘要：摘要要点：该内容涉及神经炎症、炎症。原文：Metabolic syndrome (MetS) is associated with increased risk of Alzheimer's disease (AD), however, the majority of previous studies regard MetS as an isolated risk factor and focus on single pathways, lacking systematic understanding of combined effects among multiple metabolic components. The present review systematically summarizes the multifaceted mechanisms by which MetS promotes AD pathology, including insulin resistance and cerebral energy dysregulation, oxidative stress and mitochondrial dysfunction, neuroinflammation and glial cell activation, vascular dysfunction and dysregulation of the renin‑angiotensin system, as well as the central convergent signaling pathway involving glycogen synthase kinase‑3β. The present review further highlights emerging regulatory mechanisms involving the gut‑brain axis, epigenetic reprogramming, sex differences and hormonal effects and senescent microenvironment. By emphasizing the peripheral‑central crosstalk and interactive amplification of MetS components, the present review aimed to position AD as a central manifestation of systemic metabolic disorders in the brain and propose a multi‑domain precision strategy integrating lifestyle intervention, metabolic drug repurposing, gut microbiota regulation, anti‑aging therapy and biomarker‑guided subtype classification for intervention against MetS‑associated AD.
 
 英文摘要：Metabolic syndrome (MetS) is associated with increased risk of Alzheimer's disease (AD), however, the majority of previous studies regard MetS as an isolated risk factor and focus on single pathways, lacking systematic understanding of combined effects among multiple metabolic components. The present review systematically summarizes the multifaceted mechanisms by which MetS promotes AD pathology, including insulin resistance and cerebral energy dysregulation, oxidative stress and mitochondrial dysfunction, neuroinflammation and glial cell activation, vascular dysfunction and dysregulation of the renin‑angiotensin system, as well as the central convergent signaling pathway involving glycogen synthase kinase‑3β. The present review further highlights emerging regulatory mechanisms involving the gut‑brain axis, epigenetic reprogramming, sex differences and hormonal effects and senescent microenvironment. By emphasizing the peripheral‑central crosstalk and interactive amplification of MetS components, the present review aimed to position AD as a central manifestation of systemic metabolic disorders in the brain and propose a multi‑domain precision strategy integrating lifestyle intervention, metabolic drug repurposing, gut microbiota regulation, anti‑aging therapy and biomarker‑guided subtype classification for intervention against MetS‑associated AD.
+
+## 8. 论文标题：Pearls & Oy-sters: Anti-GABA
+
+- 英文题目：Pearls & Oy-sters: Anti-GABA
+- 主题：全球学术热点
+- 来源：PubMed
+- 期刊/平台：Neurology
+- 影响因子：8.5
+- 分区：JCR Q1 / CAS 1区
+- 指标来源：2025 CAS/JCR user table
+- 日期：2026-12-08
+- 分数：47
+- PMID：43002719
+- DOI：10.1212/WNL.0000000000218778
+- PubMed/原文链接：https://pubmed.ncbi.nlm.nih.gov/43002719/
+
+中文摘要：摘要要点：该内容涉及神经炎症、炎症。原文：A previously healthy 5-year-old girl presented with several days of fever/malaise followed by acute neurologic decline. Head CT demonstrated fulminant right cerebellitis with edema and fourth-ventricle effacement concerning for impending herniation. She underwent emergent posterior fossa decompression. CSF showed mild pleocytosis, and MRI revealed right cerebellar nonenhancing T2/fluid-attenuated inversion recovery hyperintense lesions with evolving supratentorial cortical involvement. Despite empiric antimicrobials and initial immunotherapy (high-dose IV methylprednisolone and tocilizumab followed by IV immunoglobulin/plasma exchange), she developed progressive neuroinflammation with new seizures and markedly elevated CSF IL-6, prompting escalation to additional IL-6-directed therapy with tocilizumab and rescue intrathecal dexamethasone. She subsequently stabilized with radiographic improvement and meaningful neurologic recovery. Expanded antibody testing later confirmed anti-GABAA receptor (anti-GABAAR) encephalitis. This case highlights fulminant cerebellitis as a life-threatening presentation of anti-GABAAR encephalitis and underscores the importance of early posterior fossa decompression, parallel diagnostic evaluation (including expanded antibody panels), and coordinated, time-sensitive immunotherapy escalation in select critically ill presentations.
+
+英文摘要：A previously healthy 5-year-old girl presented with several days of fever/malaise followed by acute neurologic decline. Head CT demonstrated fulminant right cerebellitis with edema and fourth-ventricle effacement concerning for impending herniation. She underwent emergent posterior fossa decompression. CSF showed mild pleocytosis, and MRI revealed right cerebellar nonenhancing T2/fluid-attenuated inversion recovery hyperintense lesions with evolving supratentorial cortical involvement. Despite empiric antimicrobials and initial immunotherapy (high-dose IV methylprednisolone and tocilizumab followed by IV immunoglobulin/plasma exchange), she developed progressive neuroinflammation with new seizures and markedly elevated CSF IL-6, prompting escalation to additional IL-6-directed therapy with tocilizumab and rescue intrathecal dexamethasone. She subsequently stabilized with radiographic improvement and meaningful neurologic recovery. Expanded antibody testing later confirmed anti-GABAA receptor (anti-GABAAR) encephalitis. This case highlights fulminant cerebellitis as a life-threatening presentation of anti-GABAAR encephalitis and underscores the importance of early posterior fossa decompression, parallel diagnostic evaluation (including expanded antibody panels), and coordinated, time-sensitive immunotherapy escalation in select critically ill presentations.
 
 # 国内外医学与医药新闻
 
@@ -525,26 +525,7 @@
 
 英文摘要：<a href="https://neurosciencenews.com/losing-a-single-molecular-brake-gene-triggers-brain-overgrowth/" rel="nofollow" title="Losing a Single &#8220;Molecular Brake&#8221; Gene Triggers Brain Overgrowth"><img alt="This shows a brain scan." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/11/pten-brain-growth-cancer-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>What happens when developing brain stem cells lose a key genetic brake? Using single-cell lineage tracing, researchers found missing Pten drives stem cells to produce 25% more neurons and excess enlarged astrocytes, rerouting signaling through the MAPK pathway.
 
-## 2. 论文标题：Genetic Switch Helped Evolve the Large Primate Brain
-
-- 英文题目：Genetic Switch Helped Evolve the Large Primate Brain
-- 主题：国内外医学与医药新闻
-- 来源：Neuroscience News
-- 期刊/平台：Neuroscience News
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Fri, 13 No
-- 分数：44
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://neurosciencenews.com/genetics-primate-brain-evolution-32416/
-
-中文摘要：摘要要点：该内容涉及干细胞。原文：<a href="https://neurosciencenews.com/genetics-primate-brain-evolution-32416/" rel="nofollow" title="Genetic Switch Helped Evolve the Large Primate Brain"><img alt="This shows cell populations." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/11/evolution-primate-brain-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>How did the human brain evolve to be so large and complex? Researchers discovered a primate-specific DNA regulatory switch controlling the shared DACH1 gene, boosting specialized basal radial glia stem cells that build the cerebral cortex without needing new genes.
-
-英文摘要：<a href="https://neurosciencenews.com/genetics-primate-brain-evolution-32416/" rel="nofollow" title="Genetic Switch Helped Evolve the Large Primate Brain"><img alt="This shows cell populations." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/11/evolution-primate-brain-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>How did the human brain evolve to be so large and complex? Researchers discovered a primate-specific DNA regulatory switch controlling the shared DACH1 gene, boosting specialized basal radial glia stem cells that build the cerebral cortex without needing new genes.
-
-## 3. 论文标题：A little-known protein could be a powerful weapon against Alzheimer’s
+## 2. 论文标题：A little-known protein could be a powerful weapon against Alzheimer’s
 
 - 英文题目：A little-known protein could be a powerful weapon against Alzheimer’s
 - 主题：国内外医学与医药新闻
@@ -563,7 +544,7 @@
 
 英文摘要：Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments. By boosting a protein called SORLA, researchers significantly reduced toxic tau tangles, protected connections between brain cells, and prevented some of the brain shrinkage associated with neurodegeneration in mice. Removing the protein made the damage worse, highlighting its critical protective role.
 
-## 4. 论文标题：Ultraprocessed Foods Alter Food-Reward Brain Activity
+## 3. 论文标题：Ultraprocessed Foods Alter Food-Reward Brain Activity
 
 - 英文题目：Ultraprocessed Foods Alter Food-Reward Brain Activity
 - 主题：国内外医学与医药新闻
@@ -582,7 +563,7 @@
 
 英文摘要：<a href="https://neurosciencenews.com/ultraprocessed-foods-reward-brain-32427/" rel="nofollow" title="Ultraprocessed Foods Alter Food-Reward Brain Activity"><img alt="This show a brain and fast food." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/11/ultraprocessed-food-brain-reward-neurosciencenews-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>Even when calories, sugar, and fat are identical, industrial food processing changes how the young brain responds to food. A new study reveals that two weeks on an ultraprocessed diet blunts orbitofrontal cortex reward activity in adults ages 18 to 21.
 
-## 5. 论文标题：Ozempic and Mounjaro may have a surprising effect on your brain
+## 4. 论文标题：Ozempic and Mounjaro may have a surprising effect on your brain
 
 - 英文题目：Ozempic and Mounjaro may have a surprising effect on your brain
 - 主题：国内外医学与医药新闻
@@ -601,7 +582,7 @@
 
 英文摘要：Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzheimer's disease. Scientists suspect these drugs may be more effective at preserving memory and thinking abilities in people with obesity or diabetes, especially before cognitive problems appear.
 
-## 6. 论文标题：Tiny magnets deep inside the brain could transform Parkinson’s treatment
+## 5. 论文标题：Tiny magnets deep inside the brain could transform Parkinson’s treatment
 
 - 英文题目：Tiny magnets deep inside the brain could transform Parkinson’s treatment
 - 主题：国内外医学与医药新闻
@@ -620,7 +601,45 @@
 
 英文摘要：Scientists have developed a new technique that uses magnetic nanoparticles to stimulate deep brain regions, dramatically improving Parkinson’s-like movement problems in mice without permanently implanted electrodes. The breakthrough could pave the way for less invasive treatments using injectable particles and wearable magnetic headbands.
 
-## 7. 论文标题：MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system
+## 6. 论文标题：Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?
+
+- 英文题目：Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?
+- 主题：国内外医学与医药新闻
+- 来源：ScienceDaily Health Medicine
+- 期刊/平台：ScienceDaily Health Medicine
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Thu, 19 No
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/11/261118065518.htm
+
+中文摘要：摘要要点：Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body's hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.
+
+英文摘要：Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body's hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.
+
+## 7. 论文标题：Brain’s Insula Shapes Pain, Emotion, and the Placebo Effect
+
+- 英文题目：Brain’s Insula Shapes Pain, Emotion, and the Placebo Effect
+- 主题：国内外医学与医药新闻
+- 来源：Neuroscience News
+- 期刊/平台：Neuroscience News
+- 影响因子：待核实
+- 分区：待核实
+- 指标来源：未匹配
+- 日期：Thu, 19 No
+- 分数：40
+- PMID：N/A
+- DOI：N/A
+- PubMed/原文链接：https://neurosciencenews.com/insula-pain-emotion-placebo-32429/
+
+中文摘要：摘要要点：<a href="https://neurosciencenews.com/insula-pain-emotion-placebo-32429/" rel="nofollow" title="Brain’s Insula Shapes Pain, Emotion, and the Placebo Effect"><img alt="This shows a brain scan." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/11/insular-pain-emotion-anxiety-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>How do emotions and expectations change the way you feel physical pain? Drawing on 15 years of intracranial brain recordings across 87 patients, neuroscientists mapped four distinct regions of the human insula, uncovering a top-down circuit behind the placebo effect.
+
+英文摘要：<a href="https://neurosciencenews.com/insula-pain-emotion-placebo-32429/" rel="nofollow" title="Brain’s Insula Shapes Pain, Emotion, and the Placebo Effect"><img alt="This shows a brain scan." class="webfeedsFeaturedVisual wp-post-image" height="770" src="https://neurosciencenews.com/files/2026/11/insular-pain-emotion-anxiety-neuroscience-1155x770.jpg" style="float: left; margin-right: 5px;" width="1155" /></a>How do emotions and expectations change the way you feel physical pain? Drawing on 15 years of intracranial brain recordings across 87 patients, neuroscientists mapped four distinct regions of the human insula, uncovering a top-down circuit behind the placebo effect.
+
+## 8. 论文标题：MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system
 
 - 英文题目：MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system
 - 主题：国内外医学与医药新闻
@@ -638,25 +657,6 @@
 中文摘要：摘要要点：MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the way for new treatments aimed at improving sleep and memory while potentially reducing the buildup of proteins linked to Alzheimer’s disease.
 
 英文摘要：MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the way for new treatments aimed at improving sleep and memory while potentially reducing the buildup of proteins linked to Alzheimer’s disease.
-
-## 8. 论文标题：A common osteoporosis drug blocked spinal damage in a surprising new study
-
-- 英文题目：A common osteoporosis drug blocked spinal damage in a surprising new study
-- 主题：国内外医学与医药新闻
-- 来源：ScienceDaily Health Medicine
-- 期刊/平台：ScienceDaily Health Medicine
-- 影响因子：待核实
-- 分区：待核实
-- 指标来源：未匹配
-- 日期：Sun, 15 No
-- 分数：40
-- PMID：N/A
-- DOI：N/A
-- PubMed/原文链接：https://www.sciencedaily.com/releases/2026/11/261113232105.htm
-
-中文摘要：摘要要点：Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.
-
-英文摘要：Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.
 
 ## 9. 论文标题：Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms
 
